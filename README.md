@@ -5,7 +5,7 @@ A repository for organizing contributions to the creation of an Odia Dictionary 
 This repository is for the purposes of building a parser that is able to read the Odia.Dictionary.pdf file and parse the definitions into a Dataset. The issues tab contains aspects of the current solution that need to be worked upon and refined, or added in the future.
 
 ## Dependencies / setup
-**To be added** until then, simply go through all the files in `scripts` and figure out the different packages to install and other native installations.
+**To be added** until then, simply go through all the scripts in `src` and figure out the different packages to install.
 
 ## How to run
 Note: do not run the optional steps unless the `pages` directory is empty.
@@ -24,7 +24,7 @@ To parse the Odia Dictionary pdf:
 - `parsed_dicts` - stores the final output csv
 - `parsed_pdfs` - stores the intermediate pdfs generated using Tesseract OCR for each processed image
 - `parsed_texts` - stores the intermediate texts generated from the intermediate pdfs
-- `scripts` - stores the scripts necessary for parsing the dictionary.
+- `src` - stores the scripts necessary for parsing the dictionary.
 
 **Files**
 - `.env` - stores the OPENAPI_SECRET_KEY variable

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# python src/b-cropping_page_images/cropper.py
+# python src/b-cropping_page_images/cropper.py     
 python src/c-images_to_pdfs_with_text/pdfmaker.py
 python src/d-read_pdfs_with_text/reader.py
 rm GPT_outputs/*
