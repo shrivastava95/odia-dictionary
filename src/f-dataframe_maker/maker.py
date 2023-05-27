@@ -5,6 +5,7 @@ import os
 dataframes = []
 source_dir = f'GPT_outputs'
 output_dir = f'parsed_dicts'
+output_name = f'parsed_dict_very_unclean.csv'
 
 for df_link in os.listdir(source_dir):
     df_full_source = os.path.join(source_dir, df_link)
@@ -29,5 +30,5 @@ rows_to_remove = data[(data[data.columns[0]].str.contains('-')) & (data[data.col
 data = data.drop(rows_to_remove)
 
 # save the dataframe
-full_output_location = os.path.join(source_dir, 'parsed_dict_very_unclean.csv', index=None)
+full_output_location = os.path.join(source_dir, output_name, index=None)
 data.to_csv(full_output_location, index=None)
