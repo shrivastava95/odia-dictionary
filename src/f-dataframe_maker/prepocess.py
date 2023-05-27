@@ -1,8 +1,12 @@
 import os
 import html
 
-for filepath in os.listdir('GPT_outputs'):
-    filepath = 'GPT_outputs/' + filepath
+source_dir = f'GPT_outputs'
+
+for filepath in os.listdir(source_dir):
+    filepath = os.path.join(source_dir, filepath)
+
+    # edit each GPT output text file to remove the unnecessary text before the table begins.
     with open(filepath, 'r+b') as f:
         first = '|'
         file_string = f.read().decode('utf8')
@@ -13,5 +17,3 @@ for filepath in os.listdir('GPT_outputs'):
         f.write(file_string[first_index:].encode())
         f.truncate()
         # break
-
-        
