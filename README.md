@@ -5,7 +5,7 @@ A repository for organizing contributions to the creation of an Odia Dictionary 
 This repository is for the purposes of building a parser that is able to read the Odia.Dictionary.pdf file and parse the definitions into a Dataset. The issues tab contains aspects of the current solution that need to be worked upon and refined, or added in the future.
 
 ## Dependencies / setup
-**To be added**
+**To be added** until then, simply go through all the files in `scripts` and figure out the different packages to install and other native installations.
 
 ## How to run
 To parse the Odia Dictionary pdf:
