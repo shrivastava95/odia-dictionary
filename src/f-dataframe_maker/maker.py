@@ -4,16 +4,18 @@ import os
 
 dataframes = []
 source_dir = f'GPT_outputs'
+output_dir = f'parsed_dicts'
 
 for df_link in os.listdir(source_dir):
-    df_full_source = f'{source_dir}/{df_link}'
+    df_full_source = os.path.join(source_dir, df_link)
     print(df_link)
-    df = pd.read_csv(f'{df_full_source}', sep='|', on_bad_lines='skip')
-    if df.shape[1] != 3:
+    df = pd.read_csv(df_full_source, 
+                     sep='|', 
+                     on_bad_lines='skip') # only around 20 bad rows, can be ignored
+    if df.shape[1] != 3:   # Enforce every row has three columns
         continue
-    df = df.iloc[:, 1:-1]
+    df = df.iloc[:, 1:-1]  # remove blank unused columns
     df.columns = ['English Word', 'Part of Speech', 'Odia Translation']
-
     dataframes.append(df)
     print(df.shape)
     
@@ -21,7 +23,11 @@ for df_link in os.listdir(source_dir):
 data = pd.concat(dataframes, axis=0).reset_index(drop=True)
 print(data.shape)
 print(data.head())
+
+# Remove the | --- | --- | --- |  garbage rows   
 rows_to_remove = data[(data[data.columns[0]].str.contains('-')) & (data[data.columns[1]].str.contains('-')) & (data[data.columns[2]].str.contains('-'))].index
 data = data.drop(rows_to_remove)
 
-data.to_csv('parsed_dicts/parsed_dict_very_unclean.csv', index=None)
+# save the dataframe
+full_output_location = os.path.join(source_dir, 'parsed_dict_very_unclean.csv', index=None)
+data.to_csv(full_output_location, index=None)
