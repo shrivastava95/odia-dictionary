@@ -7,7 +7,7 @@ import os
 
 pytesseract.pytesseract.tesseract_cmd = f"C:/Program Files/Tesseract-OCR/tesseract.exe"
 
-psm_mode = 3
+psm_mode = 6
 config = f'--psm {psm_mode}'
 source_pdf_folder = 'pages_processed'
 target_folder = 'parsed_pdfs'
