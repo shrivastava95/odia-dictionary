@@ -9,6 +9,7 @@ This repository is for the purposes of building a parser that is able to read th
 
 ## How to run
 Note: do not run the optional steps unless the `pages` directory is empty.
+
 To parse the Odia Dictionary pdf:
 1. (OPTIONAL) create a .env file and add your openapi secret key to it. refer to `sample.env`.
 2. (OPTIONAL) `sh run1.sh` - reads the pdf and converts to 300 DPI high-resolution png images.
