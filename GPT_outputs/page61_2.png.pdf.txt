@@ -1,0 +1,26 @@
+| Word in English   | Part of Speech   | Odiya Translation  |
+|-------------------|------------------|----------------------|
+| ଲାକୀଦାନାଦ୍‌           | Noun             | ତାପୁତେ ବୁକ୍‌ କାର୍‌  |
+| rumour            | Noun             | ତାପୁତେ ବୁକ୍‌ କାର୍‌  |
+| ,କେଚଢ଼ିଦାନାଦ୍‌         | Adjective        | AQIGIQ  |
+| run about         | Verb             | FA AIA ତୁଲ୍‌ ଲି |
+| ମିର୍ରାନାଦ୍‌           | Verb             | ପେର୍‌ କେ ପେର୍‌ କେ  |
+| ମିର୍‌ ରି ଆନ୍ଦାନାଦ୍‌ ,ଗେଦ୍‌ | Noun             | ମାନାଦ୍‌  |
+| runat `           | Verb             | GIG  |
+| ସାନାଦ୍‌,ରେତାନାଦ୍‌        | Adjective        | FA ଦାୟୂଟ୍‌ |
+| run down          | Verb             | AQ ରି ମିର୍‌ ରି ଆୟ୍‌ @ ଆନ୍ଦାନାଦ୍‌ |
+| run out           | Verb             | ତେରି ଆନ୍ଦାନାଦ୍‌ |
+| run over          | Verb             | ଅଗିଦାନାଦ୍‌ |
+| runs ୮୮୮୮          | -                | ମିରମିନ୍ଦେ  |
+| rust ୮୮୮୮          | Noun             | କାର୍କ ପ ଇତା |
+| rustling of leaves | Verb             | Ug (ତାଗ୍‌ ଲିନେଙ୍କିତା) ତାଲୁ ଗିଭା |
+| ମେଲ୍‌ ତା ନାରୂଣ୍ଡ         | -                | ଜୀତାମ୍‌ |
+| salary            | Noun             | ସେଲ୍‌ ତୁ, ବୁଗା |
+| saliva            | Noun             | ଓୱର୍‌ |
+| ଉସାନାଦ୍‌           | -                | ସେନ୍‌ କିକେ, ଗର୍ସା କିକେ, GI ଭା କିକେ |
+| salt              | Noun             | ଓୱର୍‌ |
+| salted and dried fish | Noun          | ସେନ୍‌ କିକେ,ଗର୍ସା କିକେ |
+| saltiness         | Adjective        | ସାର୍‌ କାର୍କ୍‌ |
+| ଆତା              | -                | -                      |
+
+Note: The last row has no English word or part of speech mentioned in the raw data, so I have left those columns blank.

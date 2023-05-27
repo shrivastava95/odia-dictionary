@@ -1,0 +1,25 @@
+| English Word   | Part of Speech   | Odia Translation   |
+|----------------|-----------------|--------------------|
+| entrance       | Noun.           | ସୋରେ ସାର୍ଦା ଆଦାନାଦ୍‌ |
+| entrapped      | Verb.           | AIG AB ଉଶ୍‌ |
+| envelop        | Verb.           | ଡାଟାନାଦ୍‌ |
+| envelope cover | Noun.           | ମୁଢ୍ାନାଦ୍‌ |
+| envy           | Noun.           | AIG ଉଡ଼ାନାଦ୍‌ |
+| equal          | Adjective.      | AIANR |
+| equally        | Adverb.         | ସାମାନ୍‌ ତେ |
+| escort         | Noun.           | BAR SR CAN ପିସାନୋଣ୍ତ |
+| especially     | Adverb.         | ମୁକ୍ୟମ୍‌ ଆଦାନାଦ୍‌ |
+| essay          | Verb.           | ୱଷାୟାମ୍‌ ମାଟା |
+| eternal        | Adjective.      | ବେଶ୍‌ କେ ବାରେ ମାନ୍ଦାନ୍‌ |
+| eternity       | Noun.           | ବେସ୍‌ କେ ବାରେ |
+| euphony        | Noun.           | କେଞ୍ଜାନାଙ୍‌ ମେଲ୍‌ ତା GA |
+| even a little  | Adjective.      | ଚୁଡ଼ୂଟ୍‌ ବା |
+| even NOW       | Adverb.         | ARCH ଦାକ୍‌ |
+| evening        | Noun.           | ମୁଲ୍‌ Qe |
+| ever           | Adverb.         | ବେସ୍‌ କେ |
+| ever lasting bliss | Adjective.   | ବେସ୍‌ କେ ବାରେ ସୁକ୍‌ କାମ୍‌ |
+| ever new       | Adjective.      | ବେସ୍‌ କେ ବାରେ ପୁନା ମାନ୍ଦା |
+| every alternate day | Adjective. | UQ କା ରୋଜ୍‌ @e@ ସି ଅକ୍‌ କା ରୋଜ୍‌ |
+| every day, daily | Adverb.      | ରୋଜ୍‌ |
+| every hour     | Adverb.         | ସାର୍ରେ Sal |
+| every minute   | Adverb.         | ସାର୍ରେମିନିଟ୍‌ |

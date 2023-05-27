@@ -1,0 +1,24 @@
+| Word in English   | Part of Speech   | Odiya Translation   |
+|-------------------|------------------|---------------------|
+| ସାମାୟ୍‌           | Adjective        | ରୋଜ୍‌               |
+| day after tomorrow | Noun             | ମାନେଟ୍‌ କ୍‌          |
+| day before yesterday | Noun         | ଆନାଡ଼୍‌             |
+| day before yesterday, past | Noun  | ଓନେ                  |
+| day break          | Adjective       | GAIGR ମଦାଲ୍‌        |
+| day by day         | Adverb          | ରୋଜିଙ୍କ୍‌ ରୋଜ୍‌ |
+| day time           | Noun            | ପାୟାଲ୍‌            |
+| dazzle             | Adjective       | IQ ମାୟ୍‌ ଆଭା           |
+| dazzle             | Noun            | କଣ୍ଡା,କାଣ୍ଠ କ୍‌,ପୁଲ୍‌ ସ୍‌ ତା |
+| dazzle             | Noun            | ପାଲ୍‌ ସିର୍ମ୍‌ ଆଦାନାଦ୍‌ |
+| dazzling           | Adjective       | .4/766/ କୁର୍କିତା, ମେର୍ସିତା |
+| deacon             | Noun            | ଗୁଡ଼ିୟ୍‌ ସାରେ         |
+| dead, expired      | Noun            | ସାୱ୍‌                |
+| deaf, dump         | Noun            | କନ୍ଦାଲ୍‌,ବାୟିରାଲ୍‌,ମୁକ୍‌ କାଲ୍‌ |
+| deaf man           | Noun            | ସେଞଟାଲ୍‌            |
+| deaf woman         | Noun            | ସେଞ୍ଟିଲ୍‌            |
+| dear               | Adjective       | ପ୍ରେମା              |
+| dearth             | Noun            | କାର୍‌ ଓ୍‌            |
+| death              | Noun            | କିୱ୍‌ @IFIG, AIG ଡୋଲ୍‌ AIG, EM ଲାନାଦ୍‌ |
+| debate             | Noun            | ଗଟି କେଭାନାଦ୍‌         |
+| debtor             | Noun            | ବାକି ତୀସି ମାନ୍ଦାନୋର୍‌ |
+| decade             | Noun            | AIG ଏଣ୍ଡ କ୍‌,ସାନ୍‌ ସାରାମ୍‌ |

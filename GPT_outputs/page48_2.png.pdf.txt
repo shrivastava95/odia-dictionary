@@ -1,0 +1,19 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| much | Adjective | ଆଛୋଟ୍‌ |
+| mucus, common cold phlegm | Noun | ପାଣୀସେମ୍‌ |
+| muddy water | Adjective | ବୁର୍ଦା |
+| mud pot | Noun | Gl |
+| mud | Noun | ସିମୁର୍‌ |
+| multiply increase | Verb | ନାର୍ଗେ |
+| multiply | Adjective | ପେରୁଗାନାଦ୍‌ |
+| murmuring | Noun | ଆୟ୍‌ କ୍‌ ୱାଦ୍ରାନାଦ୍‌ |
+| muscles, meat | Noun | Ulg |
+| mushroom | Noun | @Q |
+| musical instruments | Noun | ପେନ୍‌ ସାନ୍‌ଡ଼ୋଲା |
+| musk rat, white rat | Noun | କଟେଲ୍‌ |
+| must, necessary | Verb | ଦର୍କାର୍‌ -ଆନ୍‌ ସାରାମ୍‌ |
+| mustard oil | Noun | ମେଞ୍ଚି ନୀୟ୍‌ |
+| mustard | Noun | କରା, ସାର୍ଶୋ, ମେନ୍ଞ୍୍‌( ନ୍ଦ) |
+| my, mine-singular | Pronoun | ନାୱାଦ୍‌ |
+| mystery | Noun | ଆୟ୍‌ କ୍‌ ମାଟ୍ଟା, ପୁନ୍‌ ନୁ କୁଟ୍‌ ମାନ୍ଦାନ୍‌ AG! |

@@ -1,0 +1,24 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| see | Verb | ଉଡ଼ାନାଦ୍‌ |
+| see after | Verb | କାପ୍‌ ଉଡ଼ାନାଦ୍‌ |
+| see into | Verb | ମେକ୍‌ କାନାଦ୍‌ |
+| seed | Noun | ପେଣ୍ଡୁକ୍‌ el |
+| seed, stone, nut | Noun | ମୁଞ୍ଜାଟେକା, ଗୀଞ୍ଜା |
+| seedling | Noun | AQ କେ, ଓାଞ୍ଚିନ୍‌, ନାରା |
+| seeing | Verb | ଉଡ଼ମିନ୍ଦଣ୍ତ |
+| seek | Verb | ମେକ୍‌ କାନାଦ୍‌ |
+| seen | Verb | ତୋନ୍ଦିତ୍‌, ତୋପମିନ୍ଦେ |
+| seize | Verb | AA ତାନାଦ୍‌ |
+| seldom | Adverb | ବେଶ୍‌ କୋ ବେଶ୍‌ କୋ |
+| select | Verb | ଏନ୍ସାନାଦ୍‌ |
+| self control | Verb | ନିଜେ ନିଜ ଆଲ୍‌ ପ୍‌ ତିନ୍‌ ପୟ୍‌ ତାନାଦ୍‌ |
+| self conceit | Noun | ନିଜ କୂୱାମ୍‌ |
+| self respect | Noun | ନିଜ ମାରିୟାଦା(ମେଲ୍‌ ତା) |
+| selfish | Adjective | ସନ୍ତାଙ୍ଗ ସନ୍ତାଙ୍ଗ୍‌ ମାଟୁଗେ ଉଡ଼ାନାଦ୍‌ |
+| selfishness | Noun | ନିଜେ ସେଙ୍ଗେ ମାତ୍ର ପାଡ଼ିୟ୍‌ ଦା ଉଡ଼ାନାଦ୍‌ |
+| selflessness | Noun | ନିଜା ଜୀୱାମ୍‌ ମାତ୍ର ଉଡ଼ୋର୍‌ ସାର୍ରାତୋର୍‌ କିଙ୍କ୍‌ ଆଲ୍‌ ସାନାଦ୍‌ |
+| selling | Verb | ଓମ୍‌ ମନାଦ୍‌, ଆମ୍‌ ମାନାଦ୍‌ |
+| selling goods | Verb | ସାମାନ ଆମାନାଦ୍‌ |
+| send | Adjective | ଲୋହ୍‌ ତା ARI, CAID ମାନ୍ଦାନ୍‌ |
+| send for | Verb | ନାରୂର୍‌ ରୋସି କାର୍ଗାନାଦ୍‌ |

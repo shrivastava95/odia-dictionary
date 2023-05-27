@@ -1,0 +1,11 @@
+| English Word | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| play | Verb (singular) | କାର୍‌ AS |
+| saw | Verb (plural) | ମୀର୍‌ ଉଡ଼ିଭୀର୍‌ |
+| went | Verb (singular) | FAl ଆଭିନ୍‌ |
+| will play | Verb (singular) | Gl କାର୍‌ସିତିନ୍‌ |
+| will see | Verb (plural) | ମୀର୍‌ ଉଡ଼ି ତୀର୍‌ |
+| you (plural) | Pronoun | ମୀର୍‌ |
+| you (singular) | Pronoun | ନିମ୍‌ ମା |
+| zeal | Noun | ନାର୍ଗେ ଇଷ୍ଟାମ୍‌ ତା ମା |
+| ମାଡ଼ାନାଦ୍‌ | Unknown | Unknown |

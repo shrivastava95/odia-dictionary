@@ -1,0 +1,24 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| AICS ZI | Noun | ଏକ୍ସିଡୋଜେନ୍‌ |
+| lime stone | Noun | ଚୁନାମ୍‌ କାଲ୍‌ |
+| Q,alg | N/A | N/A |
+| line formed by the parted hair on woman's head | Verb | ତାଲାପାୟା |
+| line up, line of people for inspection | Noun | ଆଇଏମ୍, ସିଏମ୍ ସିଏମ୍ |
+| ନାରୂର୍‌ କିଙ୍କ୍‌ EQ ପି ସାନାଦ୍‌ | N/A | N/A |
+| line(them) up, arrange in a line | Verb | ସାଜାଇବା |
+| lines in palm of hand-palmist | Noun | କାଇକିନ୍‌ I ତା ଉଡ଼ିଜୀୱାମ୍‌ ତ୍‌ ମାଟା କେତାନୋଣ୍ତଠ |
+| lion | Noun | ସିଂହ |
+| lion roars | Noun | ଗର୍ ଫର୍ କେ ଭତା |
+| lips | Noun | ପୀଢୁଞ୍ଜ |
+| listen | Verb | ଶୁଣନ୍ତୁ |
+| little | Adjective | ଛୋଟ |
+| little finger | Noun | ମୀଣିହାତ ଅଙ୍ଗୁଠି |
+| little cormorant bird, coal goose | Noun | ଏକାକାର, ଏର୍ କାକାଡ଼ |
+| little finger | Noun | ପିଂଳହାତ ଅଙ୍ଗୁଠି |
+| little food | Noun | ଥୋଡ଼ା ଖାଦ୍ୟ |
+| little while | Noun | ଛୋଟ ସମୟ |
+| live | Adjective | ଜୀବନ |
+| live coal | Adjective | ଜୀବନିର କାଲରେ |
+| live on | Verb | ଜୀବନ ଯାଇଥାଏ |
+| livelihood | Noun | ଆଜୀବନକ୍ଷମତା |

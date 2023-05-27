@@ -1,0 +1,20 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| decayed | Verb | କାଡିଇଆତା,କାଡିଭା |
+| decayed tooth | Noun | ପୁପାପୋଲ୍,ମଟାପାଲ୍‌ |
+| deceit,hypocrisy | Noun | ବଲିସାନୋର୍‌ |
+| deceive | Verb | ବୁସା ମାଡ଼ାନାଦ୍‌,ବଲ୍‌ ଲିସାନାଦ୍‌ |
+| decent | Noun | ସୋକ୍‌ ମାନ୍ଦାନାଦ୍‌ |
+| deception | Noun | ନାଟ୍‌ କାମ୍‌,ଚାଲାକ୍‌ ପାଡ଼ିୟ୍‌ |
+| decision | Noun | ଦିର୍ମାନାମ୍‌ / ସାମାଦାନାମ୍‌ ତ୍‌ ମାଟା |
+| decorate,arrange | Verb | ସାୟା ଓାଟା,ସୋକ୍‌ ତୁଙ୍ଗା |
+| decrease | Noun | କାମ୍‌ ମାଡ଼ାନାଦ୍‌,ଦାକ୍‌ ଓ ତୁଙ୍ଗାନାଦ୍‌ |
+| deep | Adjective | Ja, ଗ୍‌,କାଟି |
+| deep darkness | Adjective | ଆମା ae aie |
+| deep mourning | Adjective | @16G ଦୁକ୍‌ କାମ୍‌ |
+| deep pit | Noun | ଆଡ଼୍‌ ଗେ ଇଡ଼୍‌ ପେ ମାନ୍ଦାନ୍‌ ଆନାଲୋର୍‌ ପଡ଼ିୟ୍‌ |
+| deep sleep | Adjective | ତୁସ୍‌ ତୁସ୍‌ଉଞ୍ଜାନାଦ୍‌ |
+| deep tiredly sleeping | Adjective | BR ଜାଲ୍‌ AIG ଟଣ୍ଟ |
+| deep water | Adjective | AIGIR ଏର୍‌ |
+| deepness | Noun | ଗୟ୍‌ କ୍‌,ଗୁୟ୍‌ Ae ଗ୍‌ ` |
+| deer | Noun | ଲୁପ୍‌ |

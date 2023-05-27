@@ -1,0 +1,23 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| Minde | - | ମିନ୍ଦେ |
+| Lopala, tage | - | ଲୋପାଲ, ତାଗେ |
+| In a consequence of | Noun | ଆତ୍‌ |
+| Kaadhu, ate ke | - | କାଢୁ, ଆତ୍‌ କେ |
+| In a dying stage | Adjective | ଡ଼ଲ୍‌ |
+| Mir asminde | - | ମିର ଆସମିନ୍ଦେ |
+| In an auspicious day | Adverb | ମେନାରଜ୍‌ ତେ |
+| In an evil day | Adverb | ତିପାଲ୍‌ ଏ |
+| In comparison with | Preposition | ସାମାଙ୍ଗ୍‌ ଆଲେକେ |
+| In connection with | Preposition | ଇ ମାଟ୍ଟା ତିନ୍‌, ଇ ଞିଷାୟାମ୍‌ ସେଙ୍ଗେ |
+| In consideration of | Preposition | ଇଲେ ମାନ୍ଦାନାସୁଟ୍‌, ଇ ସାବ୍‌ ତେ, ଆଲ୍‌ ପିନେ |
+| In course of | Preposition | ZIGM ଆଲେ, ଆଶ୍‌ ତେ ଆଶ୍‌ ତେ |
+| In every age | Adverb | ବେସ୍‌ କେ ବାରେ |
+| In front of | Adposition | ମୁନେ |
+| In no ways | Adverb | ବେନ୍‌ EMR କେ ବା ଆୟ୍ୟୋ |
+| In order to | Preposition | ମାୟ୍‌ Og |
+| In outside | Preposition | ବାୟ୍‌ ଦେ |
+| In skirt | Noun | ଲାଙ୍ଗା |
+| In that | Adposition | ଆଗା |
+| In that place | Preposition | ଆ ପଡ଼ିୟ୍‌ ଦା |
+| In the lump, in lots | Adverb | ମୁଟେଡ଼ |

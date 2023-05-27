@@ -1,0 +1,19 @@
+|  English Word       | Part of Speech | Odia Translation   |
+|---------------------|----------------|--------------------|
+| groundnut           | Noun           | ଞେର୍‌ ସେଲ୍‌ EI   |
+| group               | Noun           | ଡ଼ଟ୍‌,ମାନ୍ଦା ମାନ୍ଦା ନାରୂର୍‌ |
+| grove               | Verb           | Qe                 |
+| grow                | ୮୮୮            | ପେର୍ସାନାଦ୍‌,ବେଢ଼ିୟା ଆଦାନାଦ୍‌ |
+| grow long stretched out teeth | Noun | ପାଲ୍‌ ପେୟ୍‌ ତିତ୍‌ |
+| grumble             | Noun           | FQ ବୁଙ୍କୁର୍‌, କିସ୍‌ କେଭାନାଦ୍‌ |
+| grunt               | Noun           | ପାଦି,ମେକ୍‌ କା ,ଞେର୍‌ କାଡ଼୍‌ କେୟାନାଦ୍‌ |
+| guardian            | Noun           | ବାତ୍‌ କିସାନୋଡ଼,ପୋର୍‌ ପାନୋର୍‌ ଲି ,ଜାଡେଲ୍‌ ,କୂକ୍‌ କୋଡ଼୍‌ |
+| hairdo,hairy        | Adjective      | @,64Q ପୟ୍‌ ସି ମିନ୍ଦେ,ଜାଟ୍‌ ଲି AQ, ଭା,କେଲ୍‌ କ୍‌ ଏଁରୋ-ଗାଟ୍ଟି Ag ଭା |
+| hairpin             | Noun           | ସେମ୍‌ AIR         |
+| half an hour        | Noun           | ଆର୍‌, ଦୁଡା ଗା.ଣ୍ଟା,ଆଦା el -ଆରା ଗା ଣ୍ଡା |
+| half Kg             | Noun           | ଆର୍‌ କେଜ୍‌ , Fel କେଜ୍‌,ଆଦା 6a |
+| hallow              | Verb           | AGG! AQ ମୁ        |
+| hallow pod of the sponge gourd | Noun | ବୁର୍କା              |
+| hammer              | Adjective      | YSAl-Ga            |
+| hammering           | Verb           | କଟ୍ଟାନାଦ୍‌       |
+| hand                | Noun           | କାୟ୍‌             |

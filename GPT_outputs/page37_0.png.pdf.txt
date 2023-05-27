@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| go on | Adposition | ନାନ୍‌ |
+| bus | Noun | ବାସ୍ତେ ଦାତାନ୍‌ |
+| play | Verb | ନାନା କାର୍ସିତାନ୍‌ |
+| played | Verb | ନାନା କାର୍ସ୍‌ ତାନ୍‌ |
+| see | Verb | ନାନ୍ନା ଉଡ଼ିତ୍ତାନ୍‌ |
+| was playing | Verb | ନାନା କାର୍ସ୍‌ ମାତାନ୍‌ |
+| will be playing | Verb | ନାନା କାର୍ସ୍‌ ମାନ୍‌ ତାନ୍‌ |
+| ice | Noun | ଆଜୁର୍‌ ଗାଡା |
+| identify/recognize | Verb | ଆନାଞାଲ୍‌ |
+| idle/sluggish (female) | Adjective | AB, EMM |
+| idol/image | Noun | ବଡ଼୍‌ ପେମ୍‌, ବମ୍‌ |
+| idol/idolatry | Noun | ବୋମ଼ମି ପୂଜା |
+| if | Connective | ଅକଞ୍ଚେଲାନ, ଯଦି |
+| drink (if) | Connective | Aq କେ |
+| if (condition), in case | Subordinating connective | AG, APIESER |
+| ignite | Verb | କିଚିମାସ |
+| ignorance | Adjective | ପୁନୁକଟ୍‌ |
+| ignorant | Noun | ପୁନୁକଟ୍‌ ମାନ୍ଦାନୋଣ୍ତ |
+| ignore/hate | Verb | ତୁର୍ସାନାଦ୍‌, ପାସ୍‌ କାନାଦ୍‌ ଞ୍ଜିର୍ସ ପାନାଦ୍‌ |
+| iguana | Noun | ଉର୍ପାଲ୍‌ |
+| will | Noun | ଇଷ୍ଟୀମ୍‌ AR GI |
+| illegible | Adjective | କାସମାଲାମ୍‌, ଆଡୁ ଗୋ AAR AER |
+| illegitimate | Adverb | A1@1, ପିଗ୍‌ ଗା |

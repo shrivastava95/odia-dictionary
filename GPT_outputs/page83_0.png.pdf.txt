@@ -1,0 +1,32 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| ଗାଣ୍ଟା | Noun | ଗାଣ୍ଟା |
+| ଗାଢ଼ି | Adjective | ଗାଢ଼ି |
+| wall | Noun | ଦାଡିୟକ୍‌, ଗୋଡ଼ା |
+| is | Verb | ମାରା |
+| about | Preposition | ନେଟା |
+| to | Preposition | - |
+| fell | Verb | - |
+| down | Adverb | - |
+| wall lamp | Noun | ଲାନ୍ତାର୍‌ FG ରି |
+| walnut | Noun | ମାଡ କାୟା |
+| want | Verb | RIGIM,@Q କାର୍‌ |
+| need | Verb | RIGIM,@Q କାର୍‌ |
+| war | Noun | ରାମ୍‌ MEG |
+| warm clothing | Noun | AQ କାଙ୍କା |
+| warm | Verb | କିଶ୍ଆରାନାଦ୍‌ |
+| warming under earth | Adjective | @@\e |
+| wam | Verb | କେଉଭାନାଦ୍‌, ଚେତୁର୍‌ ମାନ୍‌ NES |
+| warrior | Noun | ପୋଲେଶ୍‌ ନାରୁଣ୍ଡ |
+| wart | Noun | ବୁଡ଼୍‌ ଦି କାୟା |
+| was | Verb | ମାରା |
+| crying | Verb | କେୟ ମାଭା |
+| giving | Verb | ଇସ ମାଭା |
+| known | Verb | ପୁଞ୍ଜ ମାରା |
+| rearing | Verb | @AAI@Y |
+| watching,protect | Verb | କାପ୍‌ ମାଭା, ରାକ୍‌ କା ମିନ୍ଦେ |
+| wearing | Verb | କେରସମାରୋଣ |
+| wash neatly | Adjective | ସାୟ ଞେଡ୍‌ ତା, ଭକ୍‌ କା |
+| washed,cleaned cloth | Adjective | AR ତା AQ କା, କୁସାମ୍‌ |
+| washerman | Noun | GEER, GE! AR କାନୋର୍‌ |
+| washing (pound) | Verb | FAQ |

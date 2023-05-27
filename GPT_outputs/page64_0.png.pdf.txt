@@ -1,0 +1,30 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| share | Verb | ସାର୍ଦିଞ୍ତୋଦାନାଦ୍‌ |
+| sharp | Adjective | AG, AQ ମାନ୍ଦାନାଦ୍‌,ପାଦୁମ୍‌ |
+| sharp sword | Noun | ସୂର୍‌ କାଚେର୍‌ |
+| sharpening | Adjective | JQ@l ଓାଟି ମେୟ୍‌ ଭାନାଦ୍‌ |
+| sharping stone | Noun | ଗୁଣ୍ଡ ରାମ୍‌ କାଲ୍‌ |
+| shave | Transitive verb | କୋର୍‌ ୟାନାଦ୍‌ |
+| shawl | Noun | ସୁନ୍‌ ନି |
+| she goat | Noun | ଡାଡାମେକ୍ନା |
+| she is going | Verb | ଆନ୍‌ ଜ @ Ase |
+| she near | Pronoun | ଇଦ୍‌ ଦୁ |
+| she plays | Verb | ଆଦ୍‌ କାର୍ସିତ୍‌ |
+| she said | Verb | 6@@l |
+| she sees | Verb | ଆଦ୍‌ ASS |
+| she was | Verb | ଆଦ୍‌ lal |
+| she was saved | Verb | ଗେଲ୍‌ ସା |
+| she went | Verb | ଆଭା |
+| she will come | Verb | ଓଆାତା |
+| she will not come | Verb | ଏଆଁରୋ |
+| she,it | Pronoun | ଆଦ୍‌ |
+| she (far) | Pronoun | ଆଦ୍‌ ଦୁ,ଉଦ୍‌ |
+| shed | Noun | ପୋଙିଂସ୍ତଣ୍ତ |
+| shed drop | Verb | ଚଟ୍‌ ଚଟ୍‌ -ଲାର ମିନ୍ଦେ -କାରମିନ୍ଦେ |
+| sheep | Noun | ମେଣ୍ଟା |
+| sheep bleats | Noun | ମେକ୍‌ କା କେଇତ୍‌ |
+| sheep pen | Noun | ମେକାନ୍‌ ପାକା |
+| shell fish | Noun | AIG A କୀକେ |
+| shepherd | Noun | ଗଲାଲ୍‌ |
+| shield | Noun | Algae |

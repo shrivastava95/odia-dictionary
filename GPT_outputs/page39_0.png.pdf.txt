@@ -1,0 +1,28 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| inter palate |  | ଲୋପାଲ୍‌ ତା ଆଲ୍‌ ପ୍‌ |
+| insert |  | ତୁରୁଞି |
+| intestine | Noun | ମିନ୍ଦର୍‌ |
+| intex finger | Noun | ଆଙ୍ଗୁଠିଗା |
+| perketad |  | ପେର୍କେଟାଦ୍‌ |
+| intimacy | Noun | କାଳିଆମା |
+| mandanad |  | ମାନ୍ଦାନାଦ୍‌ |
+| intoxication | Verb | ଓଶ୍‌ ଆତିତ୍‌ |
+| invention | Noun | କଥା, ପୂନାଦ୍‌ |
+| fly, make |  | ଉଡ଼ି, ତାୟାର୍‌ ମାଡ଼ି |
+| topisana |  | ତୋପିସାନାଦ୍‌ |
+| investigate a crime | Verb | ନେରାମ୍‌ ମାଡ଼୍‌ |
+| tonaga matra tal |  | ତୋନାଗା ମାଟ୍ଟା ତାଲ୍‌ ପାନାଦ୍‌ |
+| invite | Verb | ଆହ୍ବାସାନାଦ୍‌, କାର୍ଯ୍ୟାକରଣ |
+| jackal | Noun | କବଳା |
+| jackfruit-tree | Noun | ପାନସାର୍‌ |
+| jaggery | Noun | ବେଲଲାମ୍‌ |
+| jam boo | Noun | ନେଣ୍ତ ପାଣ୍ଡି, ଜିନ୍‌ ନା ପାଣ୍ଡି |
+| jar | Noun | କୁଣ୍ଡା |
+| jasmine | Noun | ମାଲାବାର୍‌ ପୁର୍ଗା |
+| jaundice | Noun | ପିତରୋଗ |
+| java old bath, porridge gruel | Noun | କିର୍କଟାଚାକୁର- ଗେଞ୍ଜ |
+| jawbone | Noun | ଗାଭଗା |
+| jealous | Adjective | ଦମନାକାରୀ |
+| fly, angry |  | ରୋଷିମ୍‌, କୁଉମ୍‌ |
+| Rama |  | ରାମ୍‌ |

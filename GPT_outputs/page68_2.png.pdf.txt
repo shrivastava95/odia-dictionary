@@ -1,0 +1,28 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| stopping work | Verb | ବାନ୍ଦ୍‌ ମାଡ଼ା |
+| store | Verb | ସୋସିରିଞ୍ଚାନାଦ୍‌ |
+| stork | Noun | କଙ୍ଗା |
+| storm, cyclone | Noun | ଗାଲ୍‌ |
+| ମୁରୁଗ୍‌, ଦୁମ୍ରାମ୍‌ |  |  |
+| stormy day | Adverb | ତୁପାମ୍‌, ଦୁମାମ୍‌ |
+| ଆସି ମାନ୍ଦାନ୍‌ ରୋଜ୍‌ |  |  |
+| story | Noun | କାତା, ଞେଚୁଡ଼୍‌ |
+| straight | Adjective | OIG, କାମ୍‌, କାସ୍ତମ୍‌ |
+| straight reply | | ତିନାଙ୍ଗ୍‌, କେତ୍ତାନାଦ୍‌ |
+| straight road | Adjective | ଆର୍‌ ଏମ୍‌ |
+| ale |  |  |
+| straight up | Verb | ଆନ୍‌ ଜି ତେମ୍‌ |
+| strainer, sieve | Noun | GY କାଭାନାଦ୍‌, ଜାଲଡ଼ |
+| straining | Verb | ମୁଭିଭର୍‌ |
+| stranger | Noun | ନେଲ୍‌ 3, Je MM GI MING |
+| straw | Noun | AAR, ତାଡ଼, ହାଟ୍‌, ମେ ଟ୍ଟା, କାର୍‌ କୟେ |
+| stream | Noun | ବୁଡ଼େର୍‌ |
+| streams rose | Noun | କ୍୍‌ୟେର୍‌ ନିଣ୍ଡି |
+| street | Noun | ପାୟା |
+| strength | Adjective | ବାଲାମ୍‌ |
+| strict | Adjective | ସାୟା କାପ୍‌, ଉଡ଼ାନାଦ୍‌ |
+| strike | Noun | aie |
+| strike a match stick | Verb | ଆକ୍‌ ପେଟି ଆତାନାଦ୍‌, ରେୟ୍‌ ଭାନାଦ୍‌ |
+| string | Noun | ଦଉଡ଼ି |
+| strong | Adjective | MOE, ESR |

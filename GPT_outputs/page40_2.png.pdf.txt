@@ -1,0 +1,33 @@
+| Word in English | Part of speech | Odiya Translation |
+| :-------------: | :-----------: | :--------------: |
+|       a         | Adjective&Article | ଅରୋଟ୍‌ |
+|   accordingly   |     Adverb    |  ଆଦିଙ୍କ୍‌ ଲେକେ |
+|        GUE      |     Adverb    |      ଟିକ୍‌ ତମିଦ୍‌     |
+|      justice    |    Adjective  |       ଦାର୍ମାମ୍‌      |
+|    justify/justification     |      Verb     |       ନିଜାମ୍‌      |
+|        BIE      |      Noun     |       ଇନ୍‌ ଞ୍ଜୋ       |
+|   ତୋପିସାନାଦ୍‌,କେତାନାଦ୍‌    |      Noun     |       -       |
+|        ପଦଲା       |      Noun     |       kind of festival       |
+|       ପାଣ୍ଡୁମ୍‌      |      Noun     |       -       |
+|    ଗେରସ କୀକେ    |      Noun     |     kind of fish      |
+|       ତାର୍‌ ଏ @16@      |      Noun     |       -       |
+|       @6¢' କୀକେ      |      Noun     |       -       |
+|        ବୁସ କୀକେ      |      Noun     |       -       |
+|      6QI6C' କୀକେ      |      Noun     |       -       |
+|        ଲୁଗେ କୀକେ      |      Noun     |       -       |
+|        ଇକ୍‌ କୁ      |      Noun     |   kind of flower    |
+|        ଇଢୁ-ଇକ୍‌      |      Noun     |       -       |
+|      କାନାକାମ୍ବାରା      |      Noun     |       -       |
+|      ଟଗୋର୍‌,ଇଟ୍‌ ଲି      |      Noun     |       -       |
+|        ପୂଙ୍ଗାର୍‌      |      Noun     |       -       |
+|       ପୂଙ୍ଗାର୍‌      |      Noun     |       -       |
+|   GAM ଚାକୁର୍‌   |      Noun     |      kind of food       |
+|     ଏଡ଼େକା,ଏର୍କା      |      Noun     |    kind of fruit     |
+|        als      |      -        |          -         |
+|     ତୁମୁଡ଼ି,ତୁମ୍‌ ଡ଼ି     |      Noun     |          -         |
+|        AD       |      Noun     |       ପାର୍ଚେଲି      |
+|          FOO          |      Noun     |   kind of green leaves    |
+|         ald         |      Noun     | kind of herbal plant|
+|        ଆପା       |      Noun     |          -         |
+|      6@641,6S6Q     |      Noun     |      kind of honey       |
+|        ଜୁରେଲ୍‌      |      Noun     |    kind of insect     |

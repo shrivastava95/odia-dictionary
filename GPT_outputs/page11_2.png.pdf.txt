@@ -1,0 +1,26 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| karka | Noun | କାର୍କା AGI |
+| black pepper | Noun | କମାଟ୍‌ ଗିଞ୍ଜା |
+| black soil | Noun | କାରି ମାଣୁଲ୍‌ |
+| black-heads | Noun | ମକାମ୍‌ ତା କାର୍ରି ବଣ୍ଢିଆ |
+| blacksmith | Noun | କାମ୍ମାର୍‌ |
+| blame | Verb | ନେରାମ୍‌ ଭଦାନାଦ୍‌ |
+| blanket | Noun | ଦୁପ୍‌ ଡି କମ୍ବଲ |
+| blaspheme | Not Available | ଦାର୍‌ମାମ୍‌ ଇଲୁକ୍‌ ଦାର୍‌ ମିକ୍‌ ନାରିନ୍‌ ପାଶ୍‌ କାନାଦ୍‌,ପେର୍ଲାନାଦ୍‌,ନେରାମ୍‌ ମାଡ଼ାନାଦ୍‌ |
+| blazing fire | Adjective | @41Q କିସ୍‌ |
+| bleats | Noun | 6AIQ ମେ କା ମେଁ ମେଁ କେଇତା |
+| bleeding | Verb | CHRO କାରାନାଦ୍‌।ପଙ୍ଗାନାଦ୍‌ |
+| bless | Verb | ଆସୀର୍ଧାଦାମ୍‌ ସାୟାମ୍‌ ମାଡ଼ା |
+| blew away | Verb | ତୁୱ୍‌ ତାନାଦ୍‌ |
+| blew up | Verb | ପିଟେ ପାରିସାନାଦ୍‌ |
+| blind lady | Noun | JER ନାଟାଡ଼ |
+| blind-man | Not Available | ଗୁଡ଼ି ଏଣ୍ଡ |
+| blister | Noun | ଗାଡା ପେୟ୍‌ ତ୍‌ |
+| blood | Noun | ନେତୂର୍‌ |
+| blood pressure | Noun | 6EQQ ଜୀୱା ତାଗେ ଆଦ୍‌ ମାନାଦ୍‌ ନାର୍କେ କାମ୍‌ ଆଦାନ୍‌ ରୋଗାମ୍‌ |
+| blossoming | Verb | Q&IQ QQ ଭା |
+| blot,spot | Noun | ପାଲ୍‌ Ge |
+| blotch | Noun | କାର୍ରି ରାଙ୍ଗିନାଦ୍‌ QR କା |
+| blouse | Noun | ରେୟ୍‌ କ୍‌ କେ |
+| blow as the wind | Verb | ଗାଲ୍‌ ତୋଲାନାଦ୍‌ |

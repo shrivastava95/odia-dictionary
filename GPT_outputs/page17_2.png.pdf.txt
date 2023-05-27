@@ -1,0 +1,72 @@
+| Word in English | Part of Speech | Odiya Translation |
+|---|---|---|
+| illa | Verb | ଆଦାନାଦ୍‌ |
+| confusing | Verb | ଜାଳିସା ଦେଇବା |
+| gi6 | Unknown | ଗୀତ |
+| fifi | Unknown | ଫିଫି |
+| ar | Unknown | ଆର୍ |
+| aigifia | Unknown | ଏକ ପରିବାର |
+| aq | Unknown | ଅଲ୍ପ |
+| Ale | Unknown | ଅଲେ |
+| confusion | Noun | ବ୍ରହ୍ମାଣ୍ଡ |
+| ମୀଭାନାଦ୍‌ | Unknown | ମୀଭାନାଦ୍‌ |
+| congratulations | Noun | ଅଭିନନ୍ଦନ |
+| କାୟ୍ | Unknown | କାୟ୍ |
+| କ୍ | Unknown | କ୍ |
+| ମୋଡ଼ | Unknown | ମୋଡ଼ |
+| କି | Unknown | କି |
+| ନାମାସ୍ | Unknown | ନାମାସ୍ |
+| କାରାମ୍ | Unknown | କାରାମ୍ |
+| ମାଡ଼ାନାଦ୍‌ | Noun | ଅନନୁମାନିତ ଅନୁଭାବ |
+| conjunctivitis | Noun | ଆଖୀ ପକ୍ଷିପାତ |
+| ତାନ୍ | Unknown | ତାନ୍ |
+| ରୋଗାମ୍‌ | Unknown | ରୋଗାମ୍‌ |
+| Connection | Noun | ସଂଯୋଗ |
+| କାଲିୟାନାଦ୍‌ | Unknown | କାଲିୟାଣ |
+| ପାନାଦ୍‌ | Unknown | ପାନାଦ୍‌ |
+| ଜୋଡ଼୍‌ | Unknown | ଜୋଡ଼୍‌ |
+| conscience | Noun | ସାନ୍ତବାନ୍ତର |
+| ଆଲ୍ | Unknown | ଆଲ୍ |
+| ସି | Unknown | ସି |
+| ମେଲ୍‌ | Unknown | ମେଳ୍‌ |
+| ତା | Unknown | ତା |
+| ମାନ୍ଦାନାଦ୍‌ | Noun | ମାନସିକ ସ୍ବାସ୍ଥ୍ୟ |
+| conscious | Adjective | ସ୍ବାବହାରିକ |
+| cara | Unknown | ଚାରି |
+| consider, think | Verb | ବିଚାର |
+| constipation | Noun | କଷ୍ଟପିପାସା |
+| ଦୋଡ଼ା | Unknown | ଦୋଡ଼ା |
+| କୁଣ୍ଡେ | Unknown | କୁଣ୍ଡେ |
+| construction | Noun | ନିର୍ମାଣ |
+| ତେୟାର୍ | Unknown | ତେୟାର୍ |
+| ମାଡ଼ାନାଦ୍‌ | Unknown | ଅନନୁମାନିତ ଅନୁଭାବ |
+| ତେତାନାଦ୍‌ | Unknown | ନାଟକ |
+| ତୁ | Unknown | ତୁ |
+| ଙ୍ଗାନା | Unknown | ଦୂର |
+| constructive | Adjective | ନିର୍ମାଧିକାରକ |
+| ମାଡ଼ାନାଦ୍‌ | Noun | ଅନନୁମାନିତ ଅନୁଭାବ |
+| consumption | Noun | ଉପଭୋଗ |
+| ଟିବି | Unknown | ଟିବି |
+| ରୋଗାମ୍‌ | Unknown | ରୋଗାମ୍‌ |
+| ତ୍ | Unknown | ତ୍ |
+| contemplation | Noun | ଆଲୋଚନା |
+| content | Noun | ସାମଗ୍ର୍ହ |
+| ମାନ୍ଦାନ୍‌ | Unknown | ମାନ୍ଦାନ୍‌ |
+| ମାଟ୍ଟାତ୍‌ | Unknown | ପର୍ବତ ପ୍ରଦେଶ |
+| ମୁକ୍ୟା | Unknown | ମୁଖ୍ୟ |
+| ଓିଷୟାମ୍‌ | Unknown | ବିଷୟାମ୍‌ |
+| contentment | Noun | ସନ୍ତୋଷ |
+| ସାନ୍ତୋଷାମ୍‌ | Unknown | ସଂତୋଷ |
+| ସାଦା | Unknown | ସଦା |
+| ସୁ | Unknown | ସୁ |
+| ମାର୍‌ | Unknown | ମାର୍‌ |
+| aia | Unknown | ଆଇଆ |
+| ar | Unknown | ଆର୍ |
+| କାମ୍ | Unknown | କାମ୍ |
+| continually | Adverb | ଅବିରତ |
+| @@ | Unknown | ପ୍ରତି ସମୟ |
+| OG | Unknown | ଓଡିଶା ଗଣ୍ଡି |
+| ବାଣ୍ଡି ଆଞ୍ଜୋ | Unknown | ଅରଗଳା ଲୋକ |
+| acl | Unknown | ଏସିଏଲ୍ |
+| aim | Unknown | ଏଆଇଏମ୍ |
+| air | Unknown | ବାୟ

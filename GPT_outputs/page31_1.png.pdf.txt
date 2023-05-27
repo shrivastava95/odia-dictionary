@@ -1,0 +1,32 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| Injo | Verb | ମାଡ଼ାନାଦ୍‌ |
+| Kaam | Verb | ତୋପିସାନାଦ୍‌ |
+| Give up | Verb | ପାଣି କର୍କେ ଛୋଡ଼ିବା |
+| Sanada | Noun | GSAeialg |
+| Gladden by touch | Verb | ପ୍‌ |
+| Tanta-Ititaṇḍa | Noun | ପ୍ରତିଷ୍ଠା |
+| Glamour | Noun | ଚମକ |
+| Tullānāda | Noun | ଝିମିଆନାଦ୍‌ |
+| Glance | Noun | ଝିମିଆନାଦ୍‌ |
+| Uḍominda | Noun | କାଁଚ |
+| Glass bottle | Noun | କାଁଚ ବାଟଲ |
+| Pēṅka | Noun | ପେଣ୍କ |
+| Glass, crystal | Noun | କାଁଚ |
+| Glittering | Adjective | ଜିମିଆନାଦ୍‌ |
+| Mērsānada | Noun | ଗୋଧୂଳି |
+| Gloaming | Noun | ଝିମିଆନାଦ୍‌ |
+| Gloomy | Adjective | ଅସ୍ପଷ୍ଟ |
+| Glory | Noun | ସୌନ୍ଦର୍ଯ |
+| Glory, glorious, glorify | Adjective | ସୌନ୍ଦର୍ଯ |
+| Glutton | Noun | ଅନାହାରୀ |
+| Gnashing of teeth | Verb | ଦାଁତ କରି ହାଂକିବା |
+| Gnat, flea | Noun | ଚିରି |
+| Go | Verb | ଯାଇ |
+| Go | Noun | ଯାତ୍ରା |
+| Goa side | Verb | ଗୋଆ ପାର୍ଶ୍ଵ |
+| Go after | Verb | ପାଇଁ ଯାଉଥିବା |
+| Go as a side | Adverb | ପାର୍ଶ୍ଵରେ ଯାଇ |
+| Go away | Verb | ଯାଇହୋକ |
+| Goby | Verb | କୋଈ ମାଛ |
+| Madanada | Verb | ମାଡ଼ାନାଦ୍‌ |

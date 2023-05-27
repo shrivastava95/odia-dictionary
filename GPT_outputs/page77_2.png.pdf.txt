@@ -1,0 +1,43 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| verb | Noun | କ୍ରିୟା |
+| ତୂସି | Verb | ତୁଷି |
+| ସାର୍‌ ଦି | Verb | ସାରା ଦେଉ |
+| ଇଉଭୋର୍‌ | Noun | ଇଉଭୋର୍‌ |
+| ଦୋଡ଼ା | Noun | ଦୌଡ଼ |
+| GIS | Noun | ଜିଆସ |
+| ଭଦାନାଦ୍‌ | Verb | ଭେଦାନା |
+| to shave | Transitive Verb | କଟିବା |
+| କରିୟାନାଦ୍‌ | Verb | କରିବା |
+| to shift | Verb | ସ୍ଥାନ ପରିବର୍ତ୍ତନ କରିବା |
+| AGR ତୁଙ୍ଗାନାଦ୍‌ | Verb | ତୁଙ୍ଗା ହୋଇଯାଇବା |
+| to show | Transitive Verb | ଦେଖାଇବା |
+| ତୋପିଷାନାଦ୍‌ | Verb | ଦେଖାଇବା |
+| to shower | Transitive Verb | ସ୍ୱଚ୍ଛ କରାଇବା |
+| IG ଓନା ଓଦାନାଦ୍‌ | Verb | ଆନାଲେ କାହିଁ ଦେଖାଇବା |
+| to sift | Transitive Verb | ଛାନିବା |
+| ଏତ୍‌ ତେ ନେମାନାଦ୍‌ | Verb | ନେମାଇବା |
+| ଜାଲଡ଼ତେ କାତାନାଦ୍‌ | Verb | ଜାଳିବା |
+| to sing | Transitive Verb | ଗୀତ ଗାଇବା |
+| — | — | — |
+| to sit | Intransitive Verb | ବସିବା |
+| to sleep | Intransitive Verb | ଘୁମିବା |
+| ଉନ୍‌ ଜାନାଦ୍‌ | Verb | ଗୋବର ଲଗାଇବା |
+| solution | Transitive Verb | ସୋଲ୍ୟୁସନ |
+| QAIGI ତାନାଦ୍‌ | Verb | ହସିବା |
+| କାୱ୍‌ ତାନାଦ୍‌ | Transitive Verb | ଧୂମାଙ୍କି ପିଇବା |
+| to smoke | Transitive Verb | ଧୂମ କରିବା |
+| ଉନ୍‌, ସୁଟା | Noun | ଧୂମ |
+| ଉଣ୍ଡାନାଦ୍‌ | Intransitive Verb | ଛିକିବା |
+| bridge | Noun | ସେତୁ |
+| ତୁମ୍‌ ମାନାଦ୍‌ | Intransitive Verb | ତୁମ୍ ତୁମ୍ କରିବା |
+| to soak | Transitive Verb | ହେଲେଇବା |
+| ନା ଆତାନାଦ୍‌ | Verb | ଆଠି ଦିବା |
+| ଓ ତାନାଦ୍‌ | Transitive Verb | ସେମାନଙ୍କ ବିତରଣ କରିବା |
+| to speak | Transitive Verb | କଥା ବୋଲିବା |
+| ତ୍ରିୟାନାଦ୍‌ | Verb | କଥା ବୋଲିବା |
+| to spill water | Transitive Verb | ପାଣି ଛଲାଇବା |
+| ତଢାନାଦ୍‌ NAA | Verb | ପିଆ ଛଲାଇବା |
+| ଇସାନାଦ୍‌ | Intransitive Verb | ଥୁଣ୍ଠୁ ଫୋଡ଼ିବା |
+| ଉଛାନାଦ୍‌ | Intransitive Verb | ଛିଟକାଇବା |
+| to sprain | Intransitive Verb | ଶିଥିଲ ହୋଇଯାଇବା |

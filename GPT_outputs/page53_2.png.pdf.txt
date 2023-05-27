@@ -1,0 +1,40 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|---------------|------------------|
+| ତୁଙ୍ଗାନ୍‌ | Noun | ତୁଙ୍ଗାନ୍‌ |
+| ପାରାମେଶ୍ବାରିନ୍‌ | Noun | ପାରାମେଶ୍ବାରିନ୍‌ ଆର୍‌ |
+| ତୋପ୍‌ ପିଶାନ୍‌ | Noun | ଗାଣ୍ଡଲ୍‌ AIF କୁଟାନାଦ୍‌ |
+| AIRY | Adjective | ଏରାଙ୍ଗ୍‌ AGO |
+| patch | Noun | ଆର୍‌ |
+| ` | Noun | (not available) |
+| Noun. | Noun | (not available) |
+| Gaia | Noun | ତୋପ୍‌ ପିଶାନ୍‌ |
+| path | Noun | ଆର୍‌ |
+| way | Noun | ଆର୍‌ |
+| patience | Noun | ଦେୟ୍‌ Ale |
+| patient | Adjective | ନେମ୍‌ ଲା |
+| patriot | Noun | ଦେସାମ୍‌ ମାୟ୍‌ ଦିଙ୍କ୍‌ |
+| ପ୍ରେମା ମାଡ଼ାନୋନ୍‌ | Noun | ପ୍ରେମା ମାଡ଼ାନୋନ୍‌ |
+| patronize | Noun | ସାୟାମ୍‌ |
+| pay reverence | Verb | କାୟ୍‌ କ୍‌ |
+| ଜୋଡୁପ୍‌ | Noun | ପେୟାର୍‌, ଜୋଡ଼ାଦ୍‌ |
+| pay(return) | Verb | ମାଲ୍‌ ସି |
+| AAAI | Noun | ମାଲ୍‌ ପିଦାନାଦ୍‌ |
+| pea | Noun | ସେଲୁ ଘା |
+| peace | Noun | ସୁକାମ୍‌ |
+| peace agreement | Verb | ରାଜ୍‌ ଜି |
+| ଆଦାନାଦ୍‌ | Noun | (not available) |
+| peacock | Noun | ପୋତ୍‌ ମାଲ୍‌ |
+| ମାଲୁପିଟେ | Noun | ମାଲ୍‌ କୁ |
+| peacock screams | Verb | କେୟଂକେୟଂ DES |
+| ମାଲ୍‌ କେୟିତା | Noun | (not available) |
+| peacock's feather | Noun | ପୂରି |
+| peahen | Noun | ଡାଡା ମାଲ୍‌ |
+| pearl ` | Noun | \@ |
+| pedalling | Verb | କି ,ଓକ୍‌ କି |
+| peel | Noun | ପୁଛାନାଦ୍‌ |
+| peel,husk | Noun | ତଲ୍‌ କା ,ଟୋଟେ QA sl |
+| peel-off | Verb | ତୀସାନାଦ୍‌,ଟେଣ୍ଢାନାଦ୍‌ |
+| peevish,jealous | Adjective | NQIG |
+| ଏରାଙ୍ଗ୍‌ | Adjective | ଏରାଙ୍ଗ୍‌ AGO |
+| pen | Noun | @RE1,CAR କୁ |
+| pendant | Noun | ଉଙ୍ଗାନ୍‌ ଜୋଡ଼କ୍‌ |

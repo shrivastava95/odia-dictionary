@@ -1,0 +1,23 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| to become ripe | Intransitive verb | ପାଣ୍ଠି ଆନ୍ଦାନାଦ୍‌ |
+| to begin to do something | Intransitive verb | ମଦଲିସିନାଦ୍‌ |
+| to bend | Miransitive verb | ଏନ୍‌ ଚ଼ାନାଦ୍‌ |
+| to bite | Transitive verb | କାଛାନାଦ୍‌ |
+| to bloom flower | Intransitive verb | ପୂଙ୍କାର୍‌ YA ତାନାଦ୍‌ |
+| to blow the nose | Transitive verb | ସିମୁର୍‌ ସିନ୍ଦା |
+| to book ticket | Transitive verb | ଟିକେଟ୍‌ କୟ୍‌ ତାନାଦ୍‌ |
+| to bow | Transitive verb | ମଡ଼କାନାଦ୍‌ |
+| to break as arope | Transitive verb | ଦେତାନାଦ୍‌ |
+| to break(coconut) | Transitive verb | ପାତାନାଦ୍‌ |
+| to break(door) | Transitive verb | eel |
+| to bring | Transitive verb | GIAI,GIGIGIQ |
+| to build house wall | Transitive verb | ଲୋନ୍‌ ତେତାନାଦ୍‌ |
+| to build road | Transitive verb | ରୋଡ଼୍‌ ତଚାନାଦ୍‌ |
+| to bury | Transitive verb | ମିଚାନାଦ୍‌ |
+| to call | Transitive verb | କାର୍‌ ଙ୍ଗିତା |
+| to carry child | Transitive verb | ଏଭି,ଡୋଦାନାଦ୍‌ |
+| to carry weight | Transitive verb | ମୋସାନାଦ୍‌ |
+| to catch,to hold | Transitive verb | AA, AA ତାନାଦ୍‌ |
+| to cause to | Transitive verb | ଏଡ଼ପିସା ନାଦ୍‌,ଏର୍‌ AY ତିନ୍‌ |
+| to cause to bathe | Transitive verb |  |

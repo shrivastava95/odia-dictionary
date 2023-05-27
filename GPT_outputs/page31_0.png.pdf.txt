@@ -1,0 +1,28 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| get into | Verb | ନେଙ୍ଗାନାଦ୍‌, ନିଗାନାଦ୍‌ |
+| get loosened by itself | Verb | ଲେୟ୍‌ ମ୍‌ |
+| get on | Verb | ମେଲ୍‌ ତା, ସାୟ୍‌ ପାଡ଼ିୟ୍‌, ଆଦାନାଦ୍‌ |
+| get out | Verb | ତୋଲାନାଦ୍‌ |
+| get over | Verb | ଡାଣ୍ଟୀନାଦ୍‌ |
+| get ready | Verb | ତାଲା ଇଢ୍‌ ଶି ial, କାଦାଲିଏାରା |
+| get stuck | Adjective | ଆଙ୍ଗମିନ୍ଦେ |
+| get the goose flesh | Noun | ରୋମା ଚୁମ୍‌ ଆଭା |
+| get to, reach | Verb | ଏଓ୍‌ ତାନାଦ୍‌ |
+| get together | Verb | ଗୂଡ଼ାନାଦ୍‌ |
+| getup | Verb | ଭଶ୍‌ BIE ତା କୁଞ୍ି, ତେଦାନାଦ୍‌ |
+| ghastly | Adverb | ବାୟାମାଲାମ୍‌ ତେ |
+| ghee, curd's | Noun | ପାଲ୍‌ ନୀୟ୍‌ |
+| gherkin | Noun | ଲେନ୍ତା ଦସ୍‌ କାୟା |
+| ghost | Noun | ଭୂତ |
+| giant | Noun | ରେକସ |
+| giddy | Noun | GIN AI IQ GQ, ଉଡ଼ାନାଦ୍‌ |
+| gifts | Noun | କୁସେଲ୍‌ ତେ ମେଲ୍‌ ତା, ସାମାନ୍‌ ଭଦାନାଦ୍‌ |
+| ginger | Noun | ଆଲ୍‌ ଲାମ୍‌ |
+| giraffe | Noun | ତୁମିର୍‌ ପିଡ଼କା |
+| girl | Noun | ପିକିଡ଼୍‌ |
+| girls | Noun | ପୀକି |
+| girls sing song | Verb | ପୀକି ପାଟା, ପାରିତା |
+| give | Verb | ଭମ୍‌, ଭଦାନାଦ୍‌ |
+| give away | Verb | ଏଗ୍‌ ଦେଙ୍ଗା |
+| give out | Verb | ଅଡି ଆଭାତ୍‌ ନିଜାମେ |

@@ -1,0 +1,24 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| continued fever | Noun | ଅର୍ରୋଟ୍‌ |
+| narka | Noun | ପାୟାଲ୍‌ ମାନ୍ଦାନ୍‌ IER |
+| contract | Verb | ସାଇକ୍ର୍ତା କରିବା |
+| contractor | Noun | କନ୍ଟ୍ରାକ୍ଟୋର୍‌ |
+| contradict | Verb | ବିରୋଧ କରିବା |
+| control | Noun | ନିୟନ୍ତ୍ରଣ |
+| conveniently | Adverb | ସୁବିଧାଜନକ |
+| coo birds sing | Verb | କୁକୁ ଗୀତ ଗାୟ |
+| cook | Noun | ରସୋଇ |
+| cooking | Verb | ରସୋଇ କରିବା |
+| cooking pot | Noun | ରସୋଇ ପାତ୍ର |
+| cool water | Noun | ଠଣ୍ଡା ପାଣି |
+| coolie | Noun | କୁଲି |
+| co-ordination | Noun | ସହଯୋଗ |
+| copious rainfall | Adjective | ବହୁ ବର୍ଷାର ବରଫ |
+| coppersmith | Noun | ତମ୍ର ବ୍ୟାଜକ |
+| copy | Noun | ପ୍ରତିଲିପି |
+| cord | Noun | ରସୀଡ଼ି |
+| coriander leaf | Noun | ଧନିଆ ପାତା |
+| coriander seed | Noun | ଧନିଆ ବିଜ |
+
+Please note that some of the Odiya words may still contain errors due to the noisy OCR output.

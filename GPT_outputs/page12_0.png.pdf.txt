@@ -1,0 +1,30 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| blow down | Verb | ରାଲି |
+| blow out | Verb | ପିଚ୍‌ ଚିଦାନାଦ୍‌ |
+| blow up | Verb | ଧୂମ୍‌ ଉଡ଼ିସାନାଦ୍‌ |
+| blow whistle | Verb | ପିଲ୍‌ ଉସଡ଼ |
+| blow(air) | Verb | ଉଦାନାଦ୍‌ |
+| blowing the nose | Verb | ସିଇନ୍ଦା |
+| blowpipe | Noun | ଗୋଣ୍ଡଟାମ୍‌ |
+| blue colour | Noun | ଫୀକା ନୀଳ |
+| blunt | Adjective | ଗାଣ୍ଡି, ବକଲି |
+| boar | Noun | ଆଡ଼୍‌ ଓ୍‌ ତ୍‌ ପାଦ୍‌ |
+| board | Noun | ରୁଟି ରାକାନ୍‌ ସିରି |
+| board, plank | Noun | ବାକି |
+| boast | Verb | ଗାଢ଼୍‌ ଶ୍‌ ଆଶ୍‌ ନିଲ୍‌ ସାନାଦ୍‌ |
+| boastful | Adjective | ହୁଙ୍କାରୀ |
+| boat | Noun | ନାଉ |
+| body | Noun | ଶରୀର |
+| boiling | Verb | ଉବ୍ର୍ତ୍ତ |
+| boils in the body | Verb | କାଳା ତୃଣା |
+| boisterous | Adjective | ଉତ୍ତେଜିତ |
+| bold | Adjective | ନ୍ୟାଣ୍ଡି |
+| boldness | Noun | ଦୀର୍ଘତା |
+| bolster | Noun | ପୋଡ଼୍‌ ଗ୍‌ ତାଲ୍‌ ପ୍‌ ଗାଡ଼୍‌ |
+| bolt | Noun | କୋଇଲା |
+| bomb | Noun | ବମ୍ବ |
+| bone | Noun | ହାଡ଼ |
+| booby | Noun | ବାୟାଲ୍‌ |
+| book | Noun | ବହି |
+| bore fruit | Verb | ଫଳ ହେଉଛି |

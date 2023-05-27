@@ -1,0 +1,26 @@
+| English Word   | Part of Speech   | Odia Translation    |
+| -------------- | ----------------- | ------------------- |
+| ପୀରାନାଦ୍‌    | Transitive verb   | ମିଶାଇବା          |
+| MIMAIGI  | Transitive verb   | ଗରମ ଓ ଠଣ୍ଡା ପାଣି ମିଶାଇବା |
+| ମାନ୍ତାନାଦ୍‌   | Transitive verb   | ଖାଦ୍ୟ ଦାନ କରିବା     |
+| ସିଜା        | Transitive verb   | ଖାଇବା            |
+| ପାଣ୍ଡୁମ୍‌ ତା ରେତାନାଦ୍‌ | Transitive verb   | ଆଖି ଖୋଲିବା        |
+| କାଣ୍ଡକୁତେର୍ମ୍‌ ,କଣ୍ଡା | Transitive verb   | ଛାରିବା           |
+| ପୀମା        | Intransitive verb | ଉନ୍ନତ ହୋଇଯିବା     |
+| ଉସୋମିନ୍ଦେ    | Transitive verb   | ପେଶାବ କରିବା       |
+| ନଅତା       | Intransitive verb | ସମୟ ଗୁଜାରାଇବା      |
+| ପାୟାଲ୍‌    | Verb              | ଘଣ୍ଟି ସଙ୍ଗରେ ଫେରିବା |
+| ତେରି ଆନ୍ଦାନାଦ୍‌  | Intransitive verb | ମଳିବା            |
+| A କାନାଦ୍‌     | Transitive verb   | ଛିଲାଇବା          |
+| ORR  | Transitive verb   | ଛିଲାଇବା          |
+| QA ଶ୍‌ ପା ,ଟୋଟି ଓମ୍‌,ପୁଛା | Transitive verb   | ଝଳିବା            |
+| ମାଡ଼କି      | Intransitive verb | ଖେଳିବା           |
+| ଉଡ଼ା ବାୟ୍‌ ପାନାଦ୍‌ | Verb              | ଛେଦ କରିବା         |
+| କଟାନାଦ୍‌    | Transitive verb   | ଖରିଦାରୀଙ୍କୁ କଟୁଆ କରିବା |
+| କିଚ଼ାନାଦ୍‌   | Transitive verb   | କଲମ ଦ୍ୱାରା କଟାଇବା |
+| AlGe  | Transitive verb   | ତାଲା କଟାଇବା       |
+| ଓଟାନାଦ୍‌    | Intransitive verb | ଖେଳିବା           |
+| ସାନାଦ୍‌     | Intransitive verb | ଖେତ ଚଲାଇବା       |
+| ଉଡ଼ଦାନାଦ୍‌  | Transitive verb   | ତରକାରୀ ଉଠାଇବା     |
+| ପୁଙ୍ଗାକୟତାନାଦ୍‌ | Transitive verb   | ପୁଣ୍ଯ ମାଡ଼ାଇବା    |
+| ଉଶ୍‌ ଶା,ଉଛାନାଦ୍‌,ମୁଦୁମ୍‌ ଉସ୍‌ ତା ପେର୍କେ ଞେଡ଼ସାନାଦ୍‌ | Transitive verb   | ପାଣି ଢୁଲାଇବା   |

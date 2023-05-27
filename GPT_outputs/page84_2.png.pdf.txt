@@ -1,0 +1,26 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| whenever | Adverb | ଯେଖାନିକି |
+| where | Interjection | କୁଣ୍ଠାନ୍ତରେ |
+| where | Interjection | କୁଣ୍ଠାନ୍ତରେ |
+| where had gone? | Interjection | କୁଣ୍ଠାନ୍ତରେ ଗେଇଁଥିବା |
+| where it will be | Verb | କୁଣ୍ଠାନ୍ତରେ ହେଉଛି |
+| where so,where soever | Adverb | ଯେଖାନିକି ଏକାନ୍ତରେ |
+| whereas | Adverb | ଯେତେବେଳେ |
+| which | Adjective | ଯାହା |
+| while | Subordinating connective | ସମୟରେ |
+| while going | Adjective | ଯାଇଥିବା ସମୟରେ |
+| whirlpool | Noun | ଝରିମିନ୍ଦେ |
+| whirlwind | Noun | ଝରିବାତ୍ତରେ |
+| whisperer | Noun | ଫୁସିନ୍ଦାର |
+| whispering | Verb | ଫୁସିନ୍ଦାଇଥିବା |
+| whistle | Noun | ହ୍ୱିସଲ୍‌ |
+| white ant | Noun | ପୋକୋଡ଼ା |
+| white colour | Noun | ସଫେଦ ରଙ୍ଗ |
+| white gourd | Noun | ପେତକୁମଳା |
+| white gourd creeper | Noun | କାନ୍ତାଳି |
+| white patches | Noun | ସଫେଦ ଛିଙ୍ନ |
+| whitlow | Noun | ହାତ ଛାରା |
+| who | Interjection | କେଉ |
+| who are they? | Interjection | କେଉଁରେ ଅଛନ୍ତି? |
+| who ever | Pronoun | ଯାହାଙ୍କୁ ଯାଏ |

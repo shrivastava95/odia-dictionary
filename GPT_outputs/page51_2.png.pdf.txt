@@ -1,0 +1,26 @@
+| English Word | Part of Speech | Odia Translation |
+| ------------ | --------------| -----------------|
+| Onion        | Noun           | ଭଲ୍‌ ଲି, ଉଲ୍‌ ପାୟା |
+| only         | Adverb         | ମାଟୁଗେ |
+| Adjective    | Adjective      | MGEA, AUG, AS, ତ୍‌ |
+| only         | Adjective      | ଓରୋଟ୍‌, ଅଣ୍ଡୋୟ୍‌ |
+| one of       | Adjective      | ସେରୋନ୍‌, ଅରୋ |
+| 64,2161      | -              | - |
+| only son     | Noun           | ଅରୋଣେେ |
+| mar          | ମାର୍‌           | ଅଣ୍ଡୋୟ୍‌ ମାର୍‌ |
+| consent      | Verb           | ଅପାନାଦ୍‌, ଏତାନାଦ୍‌ |
+| ooze         | Verb           | IQ, ଉରୋ ମିନ୍ଦେ |
+| 0893         | Verb           | କୁଲା, ତୀସା |
+| open out     | Verb           | ବାୟ୍‌ ଦେ, ତୋପିସାନାଦ୍‌ |
+| opening eyes | Verb           | କାଣ୍ଡ କୁ SIG, ଉଡ଼ାନାଦ୍‌ |
+| operation    | Noun           | ରୋଗାମ୍‌ ସାୟା, ଆଦାନାଙ୍କ୍‌ ମେନ୍ଦୁଲ୍‌ କୟ୍‌, ତାନାଦ୍‌ କୁଟାନାଦ୍‌ |
+| opinion      | Noun           | ଓଁରେ ଞେରେ ମାଟା |
+| oppose       | Verb           | ସିରୋଦାମ୍‌ ତୁଙ୍ଗାନାଦ୍‌, ପାଲ୍‌, ଭଦାନାଦ୍‌ |
+| oppress      | Verb           | GIF, SQ |
+| optimist     | Noun           | ଆଶା ମାଡ଼ାନୋଣ୍ତ |
+| optional     | Adjective      | PER, ଇଷ୍ଟାମ୍‌ ତେ, ଏନ୍‌ ସାନାଦ୍‌ |
+| 08          | Coordinating connective | ଇଲୁକ୍‌ |
+| orally       | Adverb         | ଗଟିତେ |
+| orange       | Noun           | ଦେବା କାୟା |
+| orange tree  | Noun           | ଦେବାମାରା |
+| orator       | Noun           | IG, ସାୟା, କେତାନୋର୍‌, ଞେତାନୋଣ୍ତ |

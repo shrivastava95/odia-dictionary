@@ -1,0 +1,18 @@
+| Word in English       | Part of Speech   | Odiya Translation |
+|-----------------------|------------------|-----------------------|
+| hungry                | Verb.            | କାର ପ ଇ ତା           |
+| hunter                | Noun.            | ବନ୍‌ ଓାଲ, ପଣ୍ଡା ମାଡ଼ାନୋର୍‌ |
+| hunting               | Verb.            | ଷଡ୍ଲ୍‌                |
+| hurt                  | Noun.            | ଦେବା ତାଗାଲ୍‌, ତାଦ୍‌, ଗାୟାମ୍‌ |
+| husband               | Noun.            | ମୁତପାଲ୍‌             |
+| husband's brother's wife | Noun.        | ଏରୁଣ୍ଡାଢ୍‌ ଏର୍ଦାଡ୍‌     |
+| husband's elder brother, elder sister's husband | Noun. | ବାୱାଲ୍‌ |
+| husband's younger brother  | Noun.       | ଏରୁଣ୍ଡ               |
+| hush                  | Interjection.    | ବିଶ୍ରାମ ନାହିଁ         |
+| hut in the field      | Noun.            | କେତୁଲ୍‌-ଗୁଡ଼ିସି          |
+| hybrid cobra, rat snake, mucosus | Noun. | ଗଡ୍‌, ତାରାସ୍‌ |
+| hymn/song             | Noun.            | ପ୍ରାର୍ତାନାତ୍‌          |
+| hypocrisy             | Noun.            | ବଲ୍‌ ଲିସାନୋର୍‌, ମେଲ୍‌ ତା SING EME AIF କାମ୍‌ ତାନ୍ତ୍ରାମ୍‌ ପାଡ଼ିୟ୍‌, ମାଡ଼ାନୋର୍‌ |
+| hypocrite             | Noun.            | ବଲ୍‌ ଲିସାନୋଣ୍ଠଡ         |
+| ITeatacake            | Verb.            | ନାନା ଅରଟ୍‌ ଆର୍‌ ତିନ୍ତାନ୍‌ |
+| I go                  | Verb.            | ଞ୍ଜାମିନ୍ଦାନ୍‌, AGAR, ASI, al |

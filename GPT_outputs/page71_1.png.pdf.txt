@@ -1,0 +1,20 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| teeth | Noun | ଖ୍ବସେ |
+| tell (word) | Verb | କେଲ୍‌ ମ୍‌ ,କେଲାଟ୍‌ |
+| tell a lie | Verb | ବଲିସାନାଦ୍‌ |
+| tell against | Verb | ତେନ୍‌ ସ୍‌ କାନାଦ୍‌, AQ ତାନାଦ୍‌ |
+| tell apart | Verb | ତେଡ଼ା ତୋପିସାନାଦ୍‌ |
+| tell over | Verb | ଲେ କ୍‌ କା ଆଟାନାଦ୍‌ |
+| tell upon/on | Verb | ନାଷ୍ଟାମ୍‌ ମାଡ଼ାନାଦ୍‌ |
+| tell (story) | Verb | ସେୟ୍‌,କେଲା |
+| temper | Noun | କୋପାମ୍‌, ଆଲାମ୍‌ |
+| temperature | Noun | କାଙ୍କା,ଦାଗା |
+| temple | Noun | ଗୁଡ଼ିୟ୍‌,ମନ୍ଦିର |
+| ten | Numeral | ପାଦି,ଦାଶ୍‌ |
+| ten paisa | Noun | ପାଦି A ଇସା |
+| ten past nine | Adverb | ଗାଣ୍ଟାପାଦି FAQ |
+| ten to nine | Adverb | ଗାଣ୍ଟାଆଦାନାଙ୍କ୍‌ AIG ନିମିସ ତାକ୍‌ GI Ace |
+| tender | Noun | ଆର୍‌ ଓ ତୀସାନାଦ୍‌ |
+| tender leaf | Noun | କଡ଼୍‌ ସାନ୍‌ Ale |
+| tension | Noun | କପାମ୍‌ ନାରୁଣ୍ଡ |

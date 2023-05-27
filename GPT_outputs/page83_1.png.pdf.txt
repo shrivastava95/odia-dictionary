@@ -1,0 +1,23 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|-----------------|------------------------|
+| washing hands with clothes | Verb | ସୁପ୍‌ ରୁ ଉକ୍‌ କାନାଦ୍‌ |
+| washing vessels | Verb | କିଶିଡାୱ୍‌ ଭମ୍‌ ସିଦାନାଦ୍‌ |
+| wasp | Noun | ସିଦାନାଦ୍‌ |
+| wasp hornet | Noun | S&F ର୍‌ EQ |
+| waste food | Noun | wasp hornet |
+| waste,in vain | Adverb | ଦୋଡ଼ା।ମିଗୁଲ୍‌ AI ସାକ୍‌ କୂର୍‌ |
+| watch | Verb | ଆଶ୍‌ ଶାମେ,ଆପ୍‌ ନାମେ |
+| watch,clock | Noun | କାପ୍‌ ଉଡ଼ା,ରାକା |
+| water | Noun | କୀମ୍‌,ଚେତୁର୍‌ ମାନ୍ଦାନାଦ୍‌ |
+| water animal | Noun | ବୋବୁ,ଏର୍‌ |
+| water falls | Noun | ଏର୍‌ @18l |
+| water level to chest | Adjective | ତ୍ସ |
+| water lilly flower | ?/୨///. | ଗୁଣ୍ଡେ IQ ମିନ୍ଦେ |
+| water pot | ?/୧///. | ଦୁର୍ପା |
+| water snake | Noun | ପୁଙ୍ଗାର୍‌ |
+| water tank for cows | Noun | GIG, GIG] କଗେଲ୍‌ |
+| water teems | Noun | ଏର୍‌ ତା ମାନ୍ଦାନ୍‌ ଜୀୱାମ୍‌ |
+| water with dry clay | Noun | ( ବାଣ) ତରି |
+| water-land | Noun | ଗୁଏର୍‌, ଗୁୟି |
+| waterland-bodies | Noun | ଗୋଦାର୍‌,ଇଲେର୍‌,ଏା LA କା |
+| watermelon | Noun | କାୟା, ତାର୍ପୁଜା |

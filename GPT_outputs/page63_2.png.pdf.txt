@@ -1,0 +1,23 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| set free | Verb | ସିଦାନାଦ୍‌ |
+| set in | Verb | ଆରମ୍ବ ତୁଙ୍ଗାନାଦ୍‌, ତଲ୍‌ ଲିନାଦ୍‌, ମଦଲିସାନାଦ୍‌ |
+| set off, out | Verb | ଦାୟାନାଦ୍‌, ପେୟ୍‌, ସି ଆନ୍ଦାନାଦ୍‌ |
+| set out | Verb | ବାୟ୍‌ ଦେ ପେୟ୍‌, ତାନାଦ୍‌ |
+| set self apart | Verb | ସେରୁଞିର୍‌ ଶ୍‌, ପିଭୋର୍‌ |
+| setup | Verb | ତଲ୍‌ ଲିନ୍‌ AIGA, ତୁଙ୍ଗାନାଦ୍‌, ତେୟାର୍‌ ମାଡ଼ାନାଦ୍‌ |
+| set upon | Verb | ୱାଡ଼୍‌ ସି ଆଦ୍‌, ରିସାନାଦ୍‌ |
+| set, arrange | Verb | ସାମାଙ୍ଗ୍‌ ମାଡ଼ାନାଦ୍‌ |
+| settle | Verb | ମାଟା ତେର୍ସ୍‌ ପାନାଦ୍‌ |
+| seven | Numeral | ଏଡ଼, ସାରୁ |
+| seventeen | Numeral | ପାଦିସାଉୁ |
+| seventy | RS Numeral | ଡାବେୟ ରୁପା |
+| sew, stitch | Verb | କୁଟ୍ଟାନାଦ୍‌ |
+| shadow | Noun | ନୀତ୍‌ କା |
+| shadow of man | Noun | ଗୋଲ୍‌ |
+| shake off | Verb | WG ଭମ୍‌ ମିସାନାଦ୍‌ |
+| shake out | Transitive verb | ଦୁଲ୍‌ ପାନାଦ୍‌, ଗୁଞ୍ଜାନାଦ୍‌, ଅଲାନାଦ୍‌, ଉତଭାନାଦ୍‌ |
+| shaking displacing house | Verb | ଲୋନ୍‌ ଗିଲ୍‌ ଗାଲ୍‌, ଆଦାନାଦ୍‌ |
+| shall we go? | Verb | ଦାକାଡ଼ା?, ଦାୟ୍‌ କାଲା? |
+| shallow | Adjective | ଏର୍‌ ତା ala, AIQ ମାନ୍ଦାନାଦ୍‌ |
+| shame | Interjection | ae |

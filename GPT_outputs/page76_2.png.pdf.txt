@@ -1,0 +1,21 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| to hide, keep | Transitive verb | ଆଣକାନାଦ୍, ମିଞ୍ଜାନାଦ୍‌ |
+| to jump | Intransitive verb | ତାସାନାଦ୍‌ |
+| to keep | Transitive verb | ତୁ ଲାନାଦ୍‌ |
+| to kiss | Transitive verb | ଏଁଟାନାଦ୍‌ |
+| to know | Transitive verb | କୌଣସିକୁ ଜାଣିବା |
+| to laugh | Intransitive verb | କ୍ଷିତିଜ ହାସିବା |
+| to leak [water] | Transitive verb | ସାନାଦ୍‌ |
+| to leave, abandon | Transitive verb | କାରୋମିନ୍ଦେ |
+| to lick | Transitive verb | ଚୋଷିବା |
+| to lie down, sleep | Intransitive verb | କାନାଦ୍‌ |
+| to lose | Transitive verb | ହାରିବା |
+| to make fire, kindle fire | Transitive verb | ମାପାନାଦ୍‌ |
+| to make something upside-down | Transitive verb | ସିଲାଇବା |
+| to make to dry | Transitive verb | ମୁଭ୍ତାନାଦ୍‌ |
+| to make to sleep | Transitive verb | ନିଦ୍ରା ଦେଇବା |
+| to make wet | Transitive verb | ଜଳାଇବା |
+| to meet, join | Transitive verb | ମିଳିବା |
+| to melt | Verb | କାଁଡିବା |
+| to milk | Transitive verb | ଦୂଧ ଛାଡ଼ାଇବା |

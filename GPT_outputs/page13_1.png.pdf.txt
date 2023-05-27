@@ -1,0 +1,35 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| bruise | Noun | ରାଲ୍‌ GIQY |
+| bruise,cicatric | Noun | ଗାସ୍‌ ରାମ୍‌ |
+| | | ତ୍‌ ମାର୍ରା ପୁଟିତ୍‌ |
+| brush | Noun | gq |
+| brush the teeth | Verb | ପାଲ୍‌ କାର୍‌ |
+| | | ତମା, ତୁଙ୍ଗା |
+| bubble | Noun | ବର୍‌ GR ପେତିତ୍‌ |
+| bubbling | Verb | AVR ଏାଦାନାଦ୍‌ |
+| buck | Noun | ପୋତ୍‌ RA |
+| bucket | Noun | ବାଲ୍‌ ଟି |
+| bud | Noun | ୬ ମଡ଼ିତ୍ତା ମଗ୍‌ ଗା |
+| bud germ | | ` ?/୨///. ମୋକେ ପେତା |
+| bud rose | Noun | AE ପୁଙ୍ଗା |
+| buffalo | Noun | ଗେଦି-ବାରେ |
+| buffalo-cart | Noun | ବାରେନ୍‌ ବାଣ୍ଡ |
+| buffaloes | Noun | ଗେଦେ |
+| buffalo-female | Noun | ଡାଡିବାରେ |
+| bugler | Noun | କମ୍‌ AGIEAIQ |
+| build | Verb | ତେଢିମ୍‌,ତେତାନାଦ୍‌ |
+| buildings | Noun | ତାଲାକ୍‌ |
+| | | ଲୋନ୍‌,ପରଟ୍‌ ତାଲା |
+| bulbous root | Noun | ld |
+| bull | Noun | Alge |
+| bullock | Noun | କୋନ୍ଦା |
+| bullock cart | Noun | କୋନ୍ଦା ଗଡ଼୍‌ |
+| | | ag |
+| bunch | Noun | ଗେଲେ ଜୋପା |
+| | Adjective | ql |
+| | | ତୁମ୍ବା ମାନ୍ଦାନାଦ୍‌ |
+| bundle | Noun | ମୁଟା,କାଟା |
+| bundle of grain | Noun | ଓାଞିା କାଟା |
+| bundle of grainswood | Noun | ଓେରିକିନ୍‌ ମୋପ୍‌ |
+| bundle of paddy | | ^/୨//.. ମେଦେ |

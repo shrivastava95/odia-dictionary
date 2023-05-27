@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| benediction | Noun | ବିଏଲ |
+| beneficial | Adjective | ଲାବାମ୍‌ |
+| benefit | Noun | ସାୟାମ୍‌ |
+| benevolence | Noun | 686Q UGB କିଙ୍କ୍‌ ସାୟାମ୍‌ ମାଡ଼ାନାଦ୍‌ |
+| berry | Noun | @@ ଆଲ |
+| berth | Noun | ଟ୍ରେନ୍‌ ତା ଏଗି ଗିର ପଡ଼ିୟ୍‌ |
+| beside | Coordinating connective | ତୋଣ୍ଟରେ |
+| besides | Adverb | ଆଗି ମାଲ୍‌ ଲା |
+| betel leaf | Noun | ପାନ୍‌ ଆକ୍‌ କି |
+| betray | Verb | ଓର୍ ଆ ନାମ୍‌ ମି ମାନ୍ଦୋନ୍‌ ଗେ ତୋପିଶି ଆକାଡାନାଦ୍‌ ଶିଭଦାନାଦ୍‌ |
+| between | Adposition | ନାଡ଼ୂମେ |
+| beware | Verb | ନେଇୟାଂ ତିଙ୍କ, କିସ୍‌ ଓଏ ମେସ୍ମା |
+| bewilderment | Verb | କାଣ୍ଡ କିଙ୍‌ ଆକାଡ଼୍‌ ତୋଣ୍ଡ |
+| bid | Verb | ନୀଲାମ୍‌ |
+| bid in a chit or a lottery | Noun | ଜେଟ୍‌, କାଳିୟି ଓଟା ନାଡୁମେ |
+| bier | Noun | ଗାୟା |
+| big | Adjective | ୬୯୪ି |
+| big drops | Noun | ବଡ଼ା ବଟ୍‌ କ୍‌ |
+| big rope | Noun | ଜୋରା |
+| bigotry | Noun | ଧର୍ମାନ୍ତର୍‌ ପ୍ରତିଷ୍ଠା |
+| bill hook, chopper | Noun | ବାଣ୍ଡା କାଚେର୍‌ |
+| billhook | Noun | କାର୍‌ |
+| bind with rope | Verb | ତାଳି ତକୁଡ଼େ |

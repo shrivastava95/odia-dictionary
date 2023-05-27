@@ -1,0 +1,26 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|-----------------|------------------|
+| ମାଡ଼ାନୋଣ୍ଟ | Noun | ଏର୍‌ ଚେମୁ |
+| jug | Noun | ଏର୍‌ |
+| Juice | Noun | ଏର୍‌, ସାର୍‌, ଜୃଶ୍‌ |
+| Jujube,bier | Noun | ରେଙ୍ଗା ମାଡ଼ା |
+| jump | Noun | ଲାଙ୍ଗୁଡ଼ା, କୁଦି, ତୁଲି, ତୁଲି |
+| junction | Noun | ନାଲୁ ପାକ୍‌ କା |
+| ରୋଡ଼୍‌ କାଲିୟାନାଦ୍‌ | Noun | Not Available |
+| keep account | Verb | ଇସାବ୍‌ ଗୁଣି |
+| ତେ ତାସାଟ୍‌ | Adverb | Not Available |
+| keep away | Verb | ଦୂରାମ୍‌ ମାନ୍ଦାନାଦ୍‌ |
+| keep in | Verb | AG ମାନ୍ଦାନାଦ୍‌, ତାସାନାଦ୍‌ |
+| keep in mind | Verb | ଏର୍କି କୀମ୍‌ |
+| keep in with | Verb | ମେଲ୍‌ ତା ସାମ୍ବାନ୍ଦାମ୍‌ ତାସାନାଦ୍‌ |
+| keep off | Verb | ସାରେ Gale] ଓାଟାନାଦ୍‌ |
+| keep on | Verb | ନାଡୃପିସାନାଦ୍‌, ଆସମି ନ୍ଦେ |
+| keep safely | Adjective | All ତାସାଟୁ |
+| keep to | Verb | ମାଟା ପୟ୍‌ ସି ପାଡ଼ିୟ୍‌ ମାଡ଼ାନାଦ୍‌ |
+| keep up | Verb | ଇତା ମାଟା ତାସାନାଦ୍‌ |
+| keeping safely | Verb | ଅସରିସାନାଦ୍‌ |
+| kept silence | Verb | AIA ମିନ୍ଦଣ୍ତ |
+| kerosene oil | Noun | GAIR କେରୋସ୍‌ |
+| kettle | Noun | କାପ୍‌ ସାଟାନ୍‌, ମାଡ଼ାନ୍‌ |
+| key | Noun | ତାଲାତ୍‌ କାୟ୍‌ କ୍‌, ତାଲାମ୍‌, ଚେୟ୍‌, ତେମୁଁ |
+| kick,hit | Verb | ତାନାନାଦ୍‌ |

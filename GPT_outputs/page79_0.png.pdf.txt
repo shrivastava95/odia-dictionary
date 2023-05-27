@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| ଞ୍ଚ ପାୱୂର୍‌ | Noun | କିର୍ଷୋ AQUA |
+| tooth pain | Noun | ପାଲ୍‌ କୁ |
+| tooth stick, brush | Noun | ପାଲକାର୍‌ ପୁଲ୍ଲା |
+| top | Adjective | AB |
+| top of the mountain | Noun | ମେଟ୍ଟାତ୍‌ ପରା-ଜୂଟୁ |
+| torrent | Noun | ତୋଲ୍‌ କ୍‌ |
+| tortoise | Noun | NIEIM, GO |
+| torture, anguish | Noun | କାଷ୍ଠାମ୍‌, ତିପ୍‌ ପାଲ୍‌ |
+| to split | Verb | ବାଦାପାତାନାଦ୍‌ |
+| total up | Adjective | q@4 ପା |
+| touch | Noun | କେଟାନାଦ୍‌, ଇଟାନାଦ୍‌ |
+| touch me not | Noun | ଇଟ୍‌ କିନ୍‌, କେଟ୍‌ କିନ୍‌ ଜାମ୍‌ ନି, ଆଣ୍‌ କି ଆନ୍ଦାନ୍‌ ଏଟୁ |
+| towards | Adposition | ଆ ପାକ୍‌ କା |
+| towel | Noun | ତାଲା ଗୁଡ଼ା, ତୁୱାଲ୍‌ |
+| town, city | Noun | ଗାଡ଼ିୟ୍‌ |
+| trachea, wind pipe | Noun | 6@1Q କି ଆଙ୍ଗିଡ଼୍‌ |
+| trader | Noun | ଲାବାମ୍‌ ସେଙ୍କେ ଆମ୍‌ ମାନୋନ୍‌, GIF ମାନୋନ୍‌ |
+| tradition | Noun | ମୁନ୍ନେଟର୍‌ ନିୟାମ୍‌ |
+| traditional | Adjective | ମୁନ୍‌ ନେଟ୍‌ କାଲାମ୍‌ ନୁଞ୍ଜା AIS ନିୟାମ୍‌ |
+| tramp of feet | Noun | †‰/. ଟିପ୍‌ ଟାପ୍‌ GER ତିତୋର୍‌ |
+| transformation | Noun | 6G କାମ୍‌ ମାରି, ମାଲ୍‌ A ତା ଜୀୱାମ୍‌ |
+| translate | Noun | 68Q ଗଟି ତେ ମାଲ୍‌ ସି କେତାନାଦ୍‌ |
+| transplant | Verb | AIG ଉର୍‌ ଶ୍‌ |

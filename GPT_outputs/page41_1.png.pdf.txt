@@ -1,0 +1,31 @@
+| Word in English | Part of Speech   | Odiya Translation |
+|-----------------|-----------------|-------------------|
+| 6ag             | Noun            | ମା                |
+| ସାରଗ୍‌ ମାଡ଼ା    | Noun            | କିନ୍ତୁମ୍‌           |
+| kind of watery place | Noun            | ତରି-ଗୋୟ୍‌          |
+| kindle the fire | Verb            | ଉନ୍ମେଳନ୍ତୁ          |
+| AAA, Ss ନିର୍ଶ୍‌ ପିତ୍ତାନ୍‌ | Noun            | ଶୁଭ ଇଛା           |
+| kindly          | Adverb          | ସୌଜନ୍ୟପୂର୍ଣ୍ଣ |
+| kindness        | Adjective       | ସୌହାର୍ଦତା         |
+| ସାୟାମ୍‌ ମାଡ଼ି      | Noun            | ଜଙ୍ଗଲୀ ଆଡ଼ା        |
+| kindof jungle root | Noun            | କେଶ୍‌            |
+| କା ମାଟି         | Noun            | କାଠିନ୍‌ ମାଟି      |
+| king            | Noun            | ରାଜାଲ୍‌          |
+| king cobra      | Noun            | ନେୟ୍‌            |
+| ତାଡା,ତାରାଶ୍‌    | Noun            | ରାଜତ୍ବାଳୀ ପକ୍ଷୀ    |
+| king fisher     | Noun            | ଏର୍‌ କିକାଡ଼       |
+| king vulture    | Noun            | ଡାମୋର୍‌          |
+| kingdom         | Noun            | ରାଜ୍ୟେମ୍‌         |
+| kingdom of God  | Noun            | ଦୈବାଳୋକ           |
+| ARCADIA         | Noun            | ଅର୍କାଡିଆ           |
+| ରାଜ୍ୟାମ୍‌        | Noun            | ରାଜ୍ୟ             |
+| kingdom of heaven | Noun            | ସ୍ୱର୍ଗ ରାଜ୍ୟ       |
+| kinship         | Noun            | ବନ୍ଧୁତ୍ୱ          |
+| kiss            | Verb            | ଚୁମ୍ବନ୍ତୁ          |
+| kitchen         | Noun            | ରସୋଈ             |
+| ଗାଦ୍‌,ଆଟାନାଙ୍କ୍‌ ଗାଦ୍‌ | Noun            | କାଟି              |
+| kitchen knife   | Noun            | ଚାକୁ ବେଳଣ୍ଟି      |
+| kite bird       | Noun            | ସପୁଆ ପକ୍ଷୀ       |
+| knavery         | Noun            | ଧୋକାଧନୀ           |
+| knead mixing flour | Noun            | ଆଟା ଘୋଲାଇ ମିଶାଇ |
+| knee            | Noun            | ହାତିଆ             |

@@ -1,0 +1,24 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| hot milk | Adjective | ପାଡ଼ିୟ୍‌ ମାଡ଼ାନୋର୍‌ |
+| hot water | Noun | ପାଲ୍‌ |
+| hotness | Noun | କାଙ୍କା |
+| hour | Noun | ଗାଣ୍ଡୀ |
+| hour hand of a clock | Noun | କୟ୍‌ ୟେ |
+| house | Noun | ଲୋନ୍‌ |
+| house back side | Preposition | ପାର୍ଥା |
+| house lizard | Noun | ବାଲ୍‌ କି ଡ଼କା, ଟକ୍‌ କେ |
+| house sparrow | Noun | ପିଟେ |
+| house-servant | Noun | କୋରି, ଲୋତ କୁଲିନୋଣ୍ଡ |
+| housewife | Noun | ଲୋତା ନାଟାଡ଼୍‌ |
+| hovering | Verb | ତାନାଦ୍‌ |
+| how | Interjection | ବେଲା |
+| how is it | Adjective | ଆର ଆଲ ଆ ତା |
+| how many | Adverb | ବେଚର |
+| how many members | Adjective | ବେସ୍‌ ମୁଲ୍‌ ବେସ୍‌ ଜାନାମ୍‌ |
+| how many non masculine | Noun | ବେଛୱ୍‌ର |
+| how much | Adverb | ବେଛଟ |
+| how you will go? | Pronoun | ନାନା |
+| I am not sure | Adjective | ଇମା, ଆଇ, ଆସ |
+| Iam playing | Verb | ନାନ୍ନା |
+| sea shore | Noun | କାର ସମିନ୍ଦାନ୍‌ |

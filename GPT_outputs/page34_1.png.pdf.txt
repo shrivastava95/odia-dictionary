@@ -1,0 +1,26 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|-----------------------|----------------------|
+| playing | Verb | ମିନ୍ଦଣ୍ଡ |
+| lift | Verb | ତେସ୍‌ ଇତ୍‌ OY |
+| plays | Verb | QB କାର୍‌ ସ୍‌ତଣ୍ଡ |
+| 8୦୦୫ | Verb | AY ASCAID |
+| told | Verb | କେତଣ୍ଡ |
+| took | Verb | ଓଭର୍‌ |
+| was saved | Verb | ଗେଲ୍‌ ସ୍‌ CY |
+| went | Verb | ଆଉଣ୍ଡ |
+| will take it | Verb | GAQ |
+| he (far) | Pronoun | @Y |
+| he (near) | Pronoun | XY |
+| head | Noun | ତାଲ୍ଲା |
+| head man of village | Noun | ବେଢ଼ିୟା ରାହିତ |
+| head pad | Noun | ଉମାର୍‌ |
+| headache | Noun | ତାଲା ଏତାନାଦ୍‌ |
+| headlong fall down | Adverb | କାପ୍‌ ମୁଣ୍‌ GF AINA |
+| head-skull brain-pan | Noun | ତାଲାକାୟ୍‌, ମେଦ୍‌ ଦର୍‌ |
+| heap of sweepings | Adjective | ତଗ୍‌ ଗୁ ତଶ୍‌ ଶାନ୍‌ AGAIQ |
+| heap, heap of stones | Noun | ଦିବା, କାଲ୍‌ କିନ୍‌ ଦିବା |
+| hear | Verb | କେଞ୍ଜାନାଦ୍‌ |
+| hearing | Noun | କେଞ୍ଜାନ୍‌ AB, Ale |
+| heart | Noun | ମାରି କାୟା, ଗୁଣ୍ତେ |
+| heart beat | Noun | ଗୁଣି ଡାକ୍‌ ଡାକ୍‌ ଆସମିନ୍ଦେ |
+| heart disease | Noun | JS ନପ୍‌, ଜୀୱାମ୍‌ ତା ନେଶ୍‌ ତାଗେ ନପ୍‌ |

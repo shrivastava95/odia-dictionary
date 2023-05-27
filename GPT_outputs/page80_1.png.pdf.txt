@@ -1,0 +1,36 @@
+| Word in English      | Part of Speech    | Odiya Translation   |
+|---------------------|------------------|---------------------|
+| ki                  | Noun             | କୀ                     |
+| twenty four         | Numeral          | ଚବିଶ                   |
+| kōḍēṅk eyṅk        | Numeral          | ଉନନବିଂଶ                |
+| twenty one          | Numeral          | ଏକବିଂଶ                 |
+| kōḍēk              | Noun             | ଗଛେ                   |
+| ADL                 | Noun             | ତ୍ରେଶ                   |
+| twenty three        | Numeral          | ତ୍ରିଶ                   |
+| ae                  | Noun             | ତ୍ରାଇ                 |
+| twenty two          | Numeral          | ବାଇସିଶ                 |
+| 6AY twice           | Numeral          | ଅଷ୍ଟାନ୍ତ                 |
+| ୦୮୮. ରେଣ୍ଡି ଚୁଟ୍‌ କ୍‌ | Phrase           | ଏକ ପାଇ ଆଠ                |
+| twig                | Noun             | ଶାଖା                 |
+| AGM kōḍēk mã        | Noun             | ଜୋଡ଼ା ଭାଇ, ଜୋଡ଼ା ବହି, ଜେମିତି ଭାଇ, ଜେମିତି ବହି |
+| AIG AA, SIG ER      | Noun             | ଜୋଡ଼ା ଭାଇ, ଜୋଡ଼ା ବହି     |
+| twist aear          | Verb             | ମୋଡିବା                  |
+| AIGA GAT 6S         | Phrase           | ଜୋଡ଼ା ଭାଇ ଓ ବହି ଏକସଙ୍ଗେ |
+| unbind the rope     | Verb             | ଗୋଡ଼ାର ହାତ ଖୋଲିବା           |
+| tāḍhum̐ dētānād    | Phrase           | ତାଡୁମ୍ ଦିଅ ନାହିଁ              |
+| uncle               | Noun             | ମାମୁ                   |
+| ?/6///.             | Noun             | ମାମୁ                   |
+| unclean cloth       | Adjective        | ଦୂଷିତ ବସ୍ତ୍ର             |
+| gall a              | Noun             | ବ୍ୟଞ୍ଜନ                 |
+| uncooked rice       | Adjective        | ଅପରିପକ୍ବ ଚାଉଳ            |
+| under ground        | Adjective        | ଅଧଃଭୂମିରେ                |
+| UIPIMIQ ASA         | Adjective        | ଅଧଃଭୂମିରେ                |
+| under,low           | Preposition      | ଅଧଃଭୂମିରେ                |
+| iṛapā āndānād      | Phrase           | ନିଛିନ୍ନତାରେ               |
+| understand          | Adverb           | ବୁଝିବା                  |
+| puñjā mindin        | Verb             | ବୋଝିବା                  |
+| āsaminde            | Verb             | ବୋଝିବା                  |
+| understand the meaning | Verb        | ଅର୍ଥ ବୋଝିବା               |
+| lāṅgā              | Noun             | ଅନ୍ତର୍ବାସ              |
+| undoubtedly        | Adverb           | ନିସ୍ଚିତତ୍ବରେ               |
+| dāṇṭ                | Noun             | ନଖରେ ଜଳିଥିବା ଗଂଠି          |

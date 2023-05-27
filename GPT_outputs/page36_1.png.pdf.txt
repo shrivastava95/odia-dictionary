@@ -1,0 +1,22 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --------------- | -------------- | ---------------- |
+| Interjection | Interjection | ନିମେ ବେଏଲା |
+| ଦାତ୍‌ ତିନ୍‌ | Noun | ଦାତାର |
+| however | Coordinating Connective | ବେଲା ବା |
+| however,in whatever way | Adverb | ବେଲେ ଆତ୍‌ କେ ବା ବେନ୍‌ ଲେକ୍‌ କାମ୍‌ ବା |
+| huge profit | Adjective | ଲାବାମ୍‌ |
+| human | Adjective | ମାଣୁଷିନ୍‌ ମାଟା |
+| humane | Noun | ଦୟାଳୁ, ଅନୁଚାହଶୀଳ |
+| humble,meek | Adjective | ନେମ୍‌ ଲା, ନିଜେ ନିଜେ କିଙ୍କ୍‌ ଚିନା, ଚୁତୁଲା ମାଡ଼ାନାଦ୍‌, ଆଲ୍‌ ସାନାଦ୍‌ |
+| humbly | Adverb | ନେମ୍‌ ଲାତେ |
+| humidity | Noun | ନାନ୍ଦି ମିନ୍ଦେ |
+| humiliation | Noun | ସିଗ୍‌,ତେନ୍‌ ସ୍‌ କାନାଦ୍‌ |
+| humour | Noun | କାୱ୍‌ ସାନାଙ୍କ୍‌ ମାଟା |
+| humpback | Noun | ଗୁନ୍ନାଲ୍‌,ଗୁନ୍‌ ନଲ୍‌ |
+| hunch back | Noun | ଗୁଲୁ ଓାଇିଂ |
+| FIER, FQA ତେଦ୍‌ AR GI | Noun | FIER, FQA ତେଦ୍‌ ଆର୍‌ ଗି |
+| hundred | Numeral | ସାନ୍ଦା |
+| hunger | Noun | କାରୁଞ, କାରୁ ପୋୟତା |
+| I became great | Verb | ନାନା ବେଡ଼ିୟୋନ AGIA |
+| I could not (come) | Verb | ପାର୍ତିଲେଣ୍ଡ |
+| Ido | Verb | IR ନା ତୁଙ୍ଗିଭାନ୍‌ |

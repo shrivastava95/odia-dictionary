@@ -1,0 +1,21 @@
+| English Word  | Part of Speech | Odia Translation |
+| ------------- | ------------- | ------------- |
+| curry  | Noun  | କାରେମ୍‌  |
+| curry leaf tree  | Noun  | ମାରା |
+| curry prepared with meat   | Noun  | ଆଙ୍ଗିନ୍‌ କୂଚ଼ିର୍‌  |
+| curry stone  | Noun  | କାରାମ୍‌ ନୂରାନ୍‌ <br> ଗୁଣ୍ତୁମ୍‌ |
+| curry stuff   | Noun  | OQ Alain!  |
+| curry with cabbage   | Noun  | ମୁଟା <br> କୁଚିର୍‌ |
+| curry-stuff burning on stomach  | Verb  | କାରାମ୍‌ <br> ମାଣ୍ଡୋମିନ୍ଦେ  |
+| curse  | Noun  | ସାପିସାନାଦ୍‌ <br> AFAIFI, AAA,  |
+| curse badly  | Verb  | AIFAIFIG, AIF  <br> ଜାଟି ମାୟ୍‌ ତାନାଦ୍‌ |
+| curse,gossip  | Noun  | ପାଗା <br> ମାଡିଭୋର୍‌ |
+| cushion  | Noun  | ମେତାଙ୍କ୍‌ Ga |
+| custard apple  | Noun  | ଚିଭା ପାଲେ <br> alg |
+| custard apple tree  | Noun  | ସୀତା <br> ମାଡ଼ା |
+| cut  | Verb  | ନାର୍‌ କାନାଦ୍‌ <br> କୟ୍‌ ମ୍‌ |
+| cut off  | Noun  | ତେଗିଆତ୍‌ |
+| cut off asurface  | Noun  | ଏକ୍‌ କାନାଦ୍‌ |
+| cut,cutting  | Verb  | ଗାୟାମ୍‌ <br> କୟ୍‌ ସାନାଦ୍‌ |
+| cyclone  | Noun  | ସୁର୍‌ ଗାଲ୍‌ |
+| cymbal  | Noun  | ଞେନ୍‌ ସାନ୍‌ Al |

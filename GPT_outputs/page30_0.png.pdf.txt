@@ -1,0 +1,22 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| Preposition | ADAGE, from, from me | ପ୍ରିପୋଜିଶନ |
+| Adposition | 98,9808 front | ଅଡପୋଜିଶନ |
+| frown | Verb | ମାନ୍ଦାନାଦ୍ଦ |
+| fruit | Noun | ଫଳ |
+| fruit bearing tree | Noun | ଫଳଦାନି |
+| fruit juice | Noun | ଫଳରସ |
+| gain | Verb | ଉପାର୍ଜନ କରିବା |
+| gallbladder | Noun | ପିତ୍ତାସ୍ଥି |
+| gambling | Noun | ଜୁଏତାଙ୍କ |
+| gander | Noun | ହାଂସ |
+| gangrene | Noun | ପ୍ରଳେପ |
+| gap in a row of teeth with one or more lacking | Noun | ଏଡାମ୍ |
+| garden | Noun | ବଗିଚା |
+| garden bed | Noun | ଗଛାଗଡ଼ି |
+| garden lizard | Noun | ବଘରିଆ ସପ |
+| garden pea | Noun | ମଟର |
+| gardener | Noun | ବଗିଚା ଦର୍ଶନୀ |
+| gargle rinse | Verb | କଲା କରିବା |
+| gargling | Noun | କଲା ହେଲା |
+| garland | Noun | ମାଳା |

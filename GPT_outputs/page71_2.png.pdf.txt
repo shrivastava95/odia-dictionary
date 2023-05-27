@@ -1,0 +1,22 @@
+| Word in English     | Part of Speech | Odiya Translation |
+|---------------------|-----------------|------------------------|
+| tent                | Noun            | ପାକା                    |
+| tender              | Adjective       | 6MGI                    |
+| terrace             | Noun            | ଆଟୁମ୍‌, ପାଟ୍‌, ଆଦାମ୍‌, ଓାଟାନାଦ୍‌ |
+| terrible cold       | Adjective       | ସାଲ୍‌, ଇଗାମ୍‌           |
+| terrific            | Noun            | ନାର୍ଗେଁ କାଷ୍ଟାମ୍‌      |
+| test                | Verb            | ପରିକ୍ୟା                 |
+| testicle born with (men) | Noun     | ପିଜା ବିଜା, ମୁନ୍ନେଟ୍‌ କ୍‌ |
+| testify/testimony   | Verb            | ସାକି                   |
+| tether              | Noun            | ପାଗାମ୍‌               |
+| text                | Noun            | କାଗାଜ୍‌-ଆକ୍‌              |
+| than                | Coordinating connective | ଇଦର୍କାନା          |
+| thank/thankful      | Adjective       | AIPUGIR, GIA ନାଲ୍‌      |
+| that                | Adjective       | ଆଦୁ                    |
+| that month          | Adverb          | ଆ ଲେଞ୍ଚ୍‌, ନେଲା          |
+| that much           | Adjective       | Al, Alec, ଆଚ଼ୋରେ         |
+| the                 | Adjective       | UBBI IQR ବା ସାମାନ୍‌ କିଙ୍କ୍‌ Qa aq ସି କେତଭାନାଦ୍‌ |
+| the close of the day | Adverb        | ରୋଜିନ୍‌ AIGA            |
+| the cosmic space    | Noun            | ବାୟ୍‌ୟୁଲ୍‌              |
+| the one who always seen with mucus | Noun | ସମୁର୍‌ ନାନ୍ଦାଲ୍‌ |
+| the one who ready to catch ball | Noun | ଗୋଲକି           |

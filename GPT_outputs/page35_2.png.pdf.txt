@@ -1,0 +1,31 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|-----------------|----------------------------|
+| ତୁଙ୍ଗାନୋଣ୍ଟ | Adjective | ନିଜାମ୍‌ |
+| honest | Adjective | ନିଜାମ୍‌ |
+| faithful | Adjective | ନିଜାମ୍‌ |
+| man | Noun | ମାନ୍ଦାନାଦ୍‌ |
+| honesty | Noun | ନିଜାମ୍‌ |
+| honey | Noun | ଭର୍ଷେ, ମେସ୍‌, ତେନେ, ପେରେ A |
+| honey bee | Noun | 6dG, ag 414 |
+| honey comb | Noun | ପେରେ GIGI |
+| honour | Noun | ନାମାସ୍‌ କାର୍‌ |
+| hood of snake | Noun | Ald ପାମ୍‌ |
+| hook | Noun | ଗାଲାମ୍‌ କୟି |
+| hope | Adjective | ନାମ୍‌ କାମ୍‌ ଆଷା |
+| horde | Noun | ତୁଟ୍‌, ମାନ୍ଦା |
+| horizontal | Noun | ପାଟି ମିନ୍ଦେ, ସାପ୍‌ ପୁନ୍‌ ମାନ୍ଦାନାଦ୍‌ |
+| horn | Noun | କୋକ୍‌, ମ ଇରା-କମ୍‌ |
+| horn bill | Noun | କାରୋଟ୍‌ |
+| horn music | Noun | କମ୍‌ |
+| horn siren,branch | Noun | କୋକ୍‌ |
+| hornet | Noun | କାଣ୍ତୁରୁମ୍‌ |
+| hornet(big) | Noun | QEIQ |
+| horse | Noun | ଗୁରାମ୍‌, ପୋତ୍‌ ଗୁରାମ୍‌ |
+| horse fly | Noun | AGAR |
+| horse gram | Noun | କଡ଼େ, ଉଲ୍‌ Gl |
+| horseradish tree | Noun | ମୁଲୁଙ୍ଗା ମାଡ଼ା, ମୁଗୁଁଲା |
+| hospital | Noun | ଆସ୍‌ ପାତାଲ |
+| hospitality | Noun | ସାୟାଉଡ଼ାନାଦ୍‌ |
+| host | Noun | ସୁଟ୍‌ ମିର୍‌ ସେୱା ମାଡ଼ାନୋଣ୍ତ |
+| hostile | Noun | ଓିରୋଦାମ୍‌ |
+| hostility | Adjective | ବିରୋଦାମ୍‌ ତେ |

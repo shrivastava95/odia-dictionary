@@ -1,0 +1,22 @@
+| Word | Part of Speech | Odia Translation |
+|------|----------------|-----------------|
+| bundle of sticks, wood | Noun | ସର୍କିନ୍‌ ମୋପ୍‌ |
+| bundle up 11 saree, wrap, encircling | Verb | ଉଭାନାଦ୍‌ |
+| bungalow | Noun | ମେଡା ମେଡ଼ା ଲୋନ୍‌ |
+| burned up | Verb | ଞେଭା, ଞେମ୍‌ |
+| burning | Verb | Adel |
+| burning coal | Noun | ତାଡ଼ମେ |
+| burning (fire) | Adjective | ନିର୍ଷୋମିନ୍ଦେ (କିଶ୍‌), ମାଣ୍ଡମିନ୍ଦେ |
+| burst | Verb | FSC, ପୋକିତା |
+| burst forth | Verb | AIG କେ ପେୟ୍‌ ସି ତୋପାନାଦ୍‌ |
+| burst out | Verb | AIG କେ ରାମ ତୁଙ୍ଗାନାଦ୍‌, ଆଦାନାଦ୍‌, ପକ୍‌ କାନାଦ୍‌ |
+| burst upon | Verb | AIG କେ Ge ସାନାଦ୍‌, ରେତାନାଦ୍‌ |
+| bury | Verb | ମିଚ୍ଚାନାଦ୍‌ |
+| bus | Noun | @Q |
+| bush, shrub | Noun | 6AIGINI |
+| business | Noun | ଏପାରାମ୍‌ |
+| busy | Adjective | MAl ଗାପା, ଦାନ୍ଦା ag ସି |
+| but | Coordinating connective | ମାତ୍ରାମ୍‌ |
+| butcher | Noun | ଆଙ୍ଗ୍‌ କୟ୍‌ ସି ଆମ୍‌ ମାନୋଣ୍ଟ |
+| butt | Verb | କଟାଭା |
+| buttocks | Noun | ଗୁରାପେଣ୍ଡା |

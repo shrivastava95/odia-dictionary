@@ -1,0 +1,24 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| injustice | Noun | ନାୟାମ୍‌ AR ଓା,ମାୟ୍‌ ତାନାଦ୍‌ |
+| inner seed | Noun | IR ଜେ,ଜ୍‌ |
+| innocent | Adjective | ତାପ୍‌ ପୁ ,ପାପ୍‌ ମାଡ଼୍‌ କୁଟ୍‌ ପୁନୁକୁଟ୍‌ ମାନ୍ଦାନୋଣ୍ଡ |
+| inquire into | Verb | ମେକ୍‌ କାନାଦ୍‌ |
+| inquire of | Verb | ତାଲ୍‌ କା( ପା)ନାଦ୍‌ |
+| insanity | Noun | ବାୟା ରୋଗାମ୍‌ |
+| insert | Verb | ଗେବାନାଦ୍‌,ଲୋପାଲ୍‌ ଦ୍‌ ନିଗିସାନାଦ୍‌ |
+| insipid | Noun | ରୁଚ୍‌ ଇଲେ |
+| insistence | Noun | ଜିଦ୍‌ |
+| insomnia | Noun | ଉଶ୍‌ IE ARES ମାନ୍ଦାନ୍‌ ରୋଗାମ୍‌ |
+| inspiration | Noun | ସାର୍ଦା ତେ ଇଷ୍ଟାମ୍‌ ତୁଙ୍ଗୀସାନାଦ୍‌ |
+| instantly | Adverb | ଆଦେ ସାମାୟାମ୍‌ ତେ |
+| instead | Adposition | ବାଦଲାଇ |
+| instead of,in lieu of | Preposition | ବାଦାଲା |
+| instruction | Noun | ମାଟା କେତଭାନାଦ୍‌ |
+| instruments | Noun | ଡଅଲା,ମ ଇରା,ବାଜା |
+| insult | Verb | ପେର୍‌ ଲାନାଦ୍‌,ଚ଼ାଡିସାନାଦ୍‌,ନେରାମ୍‌ |
+| insurance | Noun | ଡ଼ାବ୍‌ ତୋରାନୋର୍‌ କିଙ୍କ୍‌ ପେର୍‌ କେ ଏକୁୱା , ନାର୍ଗେ ଡ଼ାବ୍‌ ଦର୍କିତ୍‌ |
+| intelligence | Noun | ମେଲ୍‌ ତା ବୁଦି |
+| intelligent | Adjective | ଡିଟ୍‌ ମେଦର୍‌ |
+| intelligently | Adverb | ଗ୍ୟାନାମ୍‌ ତେ |
+| intention | Noun | ଉପାୟାମ୍‌, |

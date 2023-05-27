@@ -1,0 +1,29 @@
+| Word in English | Part of Speech  | Odiya Translation  |
+| ----------------|----------------| ----------------- |
+| bravery        | Noun           | ଦେୟୋର୍୍‌ ତାଦ୍‌ |
+| bravo           | Interjection  | ଓ |
+| bread           | Noun           | ରୁଟି |
+| break away     | Verb            |     |
+| ଦେଙ୍ଗାନ୍ଦାନାଦ୍‌    | Noun           | ମିରାନା ଦ୍‌ |
+| break down     | Verb           | AF ଆ ନ୍ଦାନାଦ୍‌ |
+| break fast     | Noun           | 6@Q ସେଟ୍‌ ଦଡ଼ା |
+| break forth(out)| Verb           | AIG କେ ସାଟ୍‌ କେ ତୋପାନାଦ୍‌ |
+| break into     | Verb           | ବେଦ୍‌ ରିସି alg କେ (ନୀ) ନେଙ୍ଗାନାଦ୍‌ |
+| break into pieces | Verb      | AQE ତା |
+| break open     | Verb           | ଉଚ୍‌ ଛି ଟେଣ୍ଡାନାଦ୍‌ |
+| break the egg  | Verb           | ଗାର୍ବାମ୍‌ ଅମ୍‌ |
+| break up coconut | Verb         | ନାଡେଲ୍‌ କାୟ୍‌ ଉତାନାଦ୍‌ |
+| break up radio | Verb           | ରେଡିୟ ଉଚ୍ଚିଭର୍‌ |
+| break with     | Verb           | ବେନୋନାଗା କୁଞି ସାଙ୍ଗ ର୍‌ ସ୍‌ ପାନାଦ୍‌ |
+| break,snap     | Verb           | ଉତାନାଦ୍‌ |
+| breast          | Noun           | ରୋମ୍‌ କ୍‌ |
+| breath          | Noun           | 6@Q କା ଆଞେସାମ୍‌ |
+| breathing      | Noun           | 64, କାଡ଼୍‌ |
+| breeze          | Noun           | ସାଲାଙ୍ଗ ଗାଲ୍‌ |
+| bricks          | Noun           | ଇଟା |
+| bridal `        | Noun           | ପେଣୁୁଲ୍‌ ତା ମାଟା |
+| bride           | Noun           | କୋକାଡ଼୍‌ |
+| bride groom     | Noun           | କୋକୋଣ୍ଡ |
+| bridge          | Noun           | $@ |
+| bridles         | Noun           | ମୋକୁମ୍‌, ପାଗାମ୍‌ |
+| briefly        | Adverb        | ମୁକ୍‌ କା ମୁକ୍‌ କା ଚିନ୍ନା ତୁଙ୍ଗା QEmI Ag! |

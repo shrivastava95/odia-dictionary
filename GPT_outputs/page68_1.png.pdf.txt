@@ -1,0 +1,24 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| stick | Noun | କୁଟ୍ଟାମ୍‌-କୁଟା |
+| sticker | Noun | ବଟ୍‌ କ୍‌ |
+| stickiness | Verb | ଏୟେର୍‌ ପୟ୍‌ ତ୍‌ |
+| Ace | Noun | ଆଣ୍ଡୁକ ଟୁଣ୍ଢି |
+| stick | Noun | ତୁଡ଼, ତୁଡି |
+| stimulate | Verb | ମାଡ଼ାନାଙ୍କୁ ଇଷ୍ଟାମ୍‌ |
+| sting | Noun | @Q, ଏଙ୍ଗୁ କୋଡ଼େଲ୍‌ |
+| stink, stench | Noun | କାରାବ୍‌ ଗାବ୍‌ ବୁ |
+| stir | Verb | କେଲ୍‌ କାନାଦ୍‌ |
+| stomach | Noun | ବଭା |
+| stomach ache | Noun | @@ କା ନପ୍‌ |
+| stomach burning | Noun | ଡକା ମାଣ୍ଡ ମିନ୍ଦେ |
+| stomach pain | Noun | କାନ୍‌ ସ୍‌ କା ମିଟ୍ଟୋମିନ୍ଦେ |
+| stomach ulcers | Noun | ଡକ୍‌ କା ତା ପୁଣ୍ଡ କିନ୍‌ eq |
+| stone | Noun | କାଲ୍‌ |
+| stone of a fruit, seed, pith of the plantain tree | Noun | ଟେକା |
+| stone used for sharpening an axe | Noun | ମେୟ୍‌ ତାନ୍‌ କାଲ୍‌ ଆକ୍‌ ରାୟ୍‌ |
+| stone, rock | Noun | ରାୟ୍‌, ଗୁଣ୍ଡ ମ୍‌ |
+| stones separate from rice | Noun | ନୁଙ୍କା ତିରପାନାଦ୍‌ |
+| stool | Noun | ପୀ, ପେଲାନାଦ୍‌ |
+| stop smoking | Verb | Gl ଉନ୍‌ ମା |
+| stopping vehicle | Noun | OR ମ୍‌, ଆଙ୍ଗା-ବାଣି ତିନ୍‌ ନିଶ୍‌ ପା,କଟ୍‌, କଟ୍‌, ମାନ୍‌ |

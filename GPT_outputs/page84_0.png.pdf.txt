@@ -1,0 +1,22 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| weary of, be fed up with | Adjective | ତିନ୍‌ ଜି ତିନ୍‌ ଜ୍‌, ପାଞ୍ଜ୍‌ ଆଉମ୍‌, ପାଞ୍ଜ୍‌ ତୋମ୍‌ |
+| weaver | Noun | ସୀଲେ ଗୁଡ଼ା, ଆଲ୍ଲାନୋନ୍‌ |
+| weaver bird | Noun | ଜାକା ପିଟେ |
+| weaves blowing | Verb | ତଲକ୍‌ ଓଡ଼ସମିନ୍ଦେ, ଏର୍‌ OM, କାମିନ୍ଦେ |
+| weaves-to rise | Jntransitive verb | ତଲ୍‌ କୁ dE ସାନାଦ୍‌ |
+| weaving cot | Verb | କାଟୁଲ୍‌, ଆଲ୍ଲାନାଦ୍‌ |
+| weaving hut | Verb | ସେସାନାଦ୍‌ |
+| wedding gift | Noun | ତରୁସାନାଦ୍‌, -ଆଛିନ୍ତା ଗିନି |
+| wedding hook | Noun | ବାଙ୍ାମ୍‌, 68 ମାନ୍ଦାନ୍‌ ପେଟି |
+| wedding house | Adjective | ପେଣ୍ଡୁଲ୍‌, ପେଲ୍‌ |
+| wedlock | Noun | ପୁସ୍‌ ତ୍‌ ତାଡ଼ୂମ୍‌ |
+| Wednesday | Noun | ବୁଦ୍‌ ଏାରାମ୍‌ |
+| weed out, bush cutting | Verb | ରଟା ନାଦ୍‌ କାନାଦ୍‌ |
+| weeding | Verb | ପଦେର୍‌, ତୀସାନାଦ୍‌, ପଦେର ଲାଗାନାଦ୍‌ |
+| weeds | Noun | ଗାର୍କି ଗାଡ଼୍‌ |
+| weeds, tares | Noun | ପଦେର୍‌, ପଦାଲା |
+| week | Noun | ଓାରାମ୍‌ |
+| weigh, measure | Adjective | GR କିତା, କଲ୍‌ ଶାନାଦ୍‌ |
+| weight less | Adjective | ତେଲକି-ଆଲକାଙ୍ଗ୍‌ |
+| weight-heavy | Adjective | @1§ ମିନ୍ଦେ |

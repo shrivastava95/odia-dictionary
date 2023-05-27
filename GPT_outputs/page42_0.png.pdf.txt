@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| labour | Noun | କୂଲି, ଜୀତାମ୍‌ AISA ମାଡାନୋଣ୍ଟ |
+| labourer | Noun | କୂଲି AIGA ମାଡ଼ାନୋଣ୍ଡ, କୋଭି,ଜୀତା ନାରୁଣ୍ତ |
+| lack | Noun | 2 ଲୋ |
+| lack respect, shame | Noun | ସିଗାଲ୍‌ ମାଲାମ୍‌, ସିକ୍‌ ଇଭୋର୍‌ |
+| ladder | Noun | ତା ମ୍ା,ତାପା |
+| ladle | Noun | ଗାଣି,ଟେଡ଼୍‌ |
+| lady | Noun | ନାଟା |
+| lady's finger | Noun | ସୁକାର୍‌ ବେଣ୍ଡି କାୟା |
+| lake | Noun | ଏର୍‌ g |
+| lamb, young sheep | Noun | ମେଣ୍ଡା ପିଲା GAGA RIAA ପିଲ୍ଲା |
+| lame person or man, handicapped | Noun | କୁଟାଲ୍‌ |
+| lame women | Noun | କୁଟୋଲ୍‌ |
+| lament | Verb | କେୟାନାଦ୍‌ |
+| lamp | Noun | ଡିବିରି ,ଦିପେମ୍‌ |
+| lamp stand | Noun | ପିତା,ଦିପେମ୍‌ ଓାଟାନ୍‌ ବାଲ୍‌ ଲା |
+| land documents | Noun | ବୂମ୍‌ Ale! |
+| land festival | Noun | ଭୀମୁଡ଼ି ପାଣ୍ଡୁମ୍‌ |
+| land lord | Noun | ବୂମ୍‌ ନାର୍ଗେ ମାନ୍ଦାନ୍‌ AIGAIQ |
+| land slide | Noun | ମେଟା ଜାର୍‌ ଜାର୍‌ AIR ତା |
+| language | Noun | ଗୋଟୁ,ମାଟା |
+| lantern | Noun | AIF ତାର୍‌ |
+| lap | Noun | ବୋରା |
+| large house | Noun | ବାଡ଼ିୟା ଲୋନ୍‌ |

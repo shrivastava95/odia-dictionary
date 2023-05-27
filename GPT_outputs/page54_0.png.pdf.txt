@@ -1,0 +1,27 @@
+| Word             | Part of Speech | Odia Translation  |
+|------------------|----------------|---------------------|
+| Pension            | Noun.            | ପେନ୍ସନ୍‌            |
+| Darkan, Bhadan Dap | Noun.            | ଡାର୍କାନ୍‌, ଭଦାନ୍‌ ଡାପ୍‌ କ୍‌ |
+| Peon               | Noun.            | ଆପିସ୍‌ ତା ମାନ୍ଦାନ୍‌           |
+| Femi Sutula Padiy | Noun.            | ସୁତୁଲା ପାଡ଼ିୟ୍‌             |
+| Madaanond, SE Ta   | Noun.            | ମାଡ଼ାନୋଣ୍ଡ, SE ତା           |
+| AIGA, SAIS Narund | Noun.            | ଏଆଇଗା, ସାଇସ୍ ନାରୁଣ୍ଡଟ, ଚକର୍‌  |
+| People             | Noun.            | ଲୋକଙ୍କ               |
+| Pepper             | Noun.            | ମରିଚା               |
+| Perchance          | Adverb.          | ଅକ୍ଷରଇ               |
+| Perfect, Proper    | Adjective.       | ସମ୍ପୂର୍ଣ, ଠିକ୍‌        |
+| Perfume, Smell     | Noun.            | ପ୍ରଗନ୍ଧ, ବାସ୍‌ ନାମ୍‌ |
+| Perfumed Oil       | Noun.            | ସୁଗନ୍ଧ ତୈଲ             |
+| Peril              | Noun.            | ପ୍ରବଳ ଖତରା             |
+| Permanent          | Adjective.       | ସଥିର, ଅଚଳ             |
+| Persecute          | Verb.            | ଉପଦ୍ରବ ଦେଇବା           |
+| Personally         | Adverb.          | ନିଜେ ଜୀୱନ ଦ୍ଵାରା          |
+| Personnel          | Noun.            | ବ୍ୟକ୍ତିଗତ ଭଦାନ୍‌         |
+| Persuade           | Verb.            | ବିନିଯୁକ୍ତ କରିବା           |
+| Pesticides         | Noun.            | କୀଟନାଶକ              |
+| Pestle, Mortar     | Noun.            | ହଣ୍ଡି, ଉସ୍‌ ପାଲ୍‌   |
+| Petal              | Noun.            | ପୁଷ୍ପ ପତ୍ର            |
+| Petticoat          | Noun.            | ପେଟିକୋଟ୍‌            |
+| Phalanx            | Noun.            | ଫାଲାନ୍ସ୍‌             |
+| Pharisee           | Noun.            | ଫେରିସୀ               |
+| Physical Health    | Noun.            | ଶାରୀରିକ ସ୍ୱାସ୍ଥ୍ୟ‌   |

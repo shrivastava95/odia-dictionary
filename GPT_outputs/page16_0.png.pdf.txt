@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| circle | Adjective | @Q |
+| circumcision | Noun | ଆଡୁକୋଲ୍୍‌, ସାୟ୍‌ ଇଲ୍‌ | 
+| citizen | Noun | ନିଜ ଦେଶେମ୍ ତ୍‌ ନାଟେନ୍‌ ନାରୂଣ୍ଡ |
+| city | Noun | କାଡ଼ିୟ୍‌, ନାହାର |
+| clan,cast | Noun | କୁଲାମ୍‌ |
+| clapping | Transitive verb | କାୟ୍‌ କ୍‌ ତାଲ୍‌ AIS, IE AIS |
+| clash | Verb | ତାଗାଲାନାଦ୍‌ |
+| class | Noun | କିଲାସ୍‌ |
+| class mate | Noun | ତୋଡ଼େ ସାଦ୍‌ ଓାନୋଣ୍ଟ, କାର୍‌ ଶ୍‌ ପାନୋନ୍‌ |
+| clay | Noun | ବୁର୍ଦା HIN |
+| clean | Adjective | ଷେଡ଼୍‌ ତା, ନର୍ଦାନାଦ୍‌, ନାଲା ମାନ୍ତା,ଏଡ଼ି, |
+| cleanliness | Noun | ସୁବ୍ାଙ୍ଗ୍‌ |
+| cleanse | Verb | ନର୍‌ GIGI |
+| clear | Noun | ଓେଡିସାନାଦ୍‌ ଆଉା,ଞେଡ୍‌ ତା |
+| clear answer | Adjective | ମେଲ୍‌ ତା ଟିକ୍‌ ଜାୱାବ୍‌ |
+| clear water | Adjective | IQ GIG ଙ୍କ୍‌ ମିନ୍ଦେ |
+| clever | Noun | ତେଲୁୱ: |
+| cleverness | Noun | ଚାଲାକ୍‌ |
+| climb | Verb | ତାରା |
+| climb down | Noun | ଡିଗା |
+| cling | AIG ପୋ ୟ୍‌ A ମାନ୍ଦାନାଦ୍‌ |
+| clock striking | Verb | Ol@l CASA, IE ସାନାଦ୍‌ |
+| close | Noun | କେତ୍ତାନାଦ୍‌, ମୁଚାନାଦ୍‌ |

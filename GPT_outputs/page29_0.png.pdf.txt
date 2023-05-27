@@ -1,0 +1,30 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| ସାମ୍ପା,ମାଡୁପ୍‌ ପା | Noun | ସାମ୍ପା, ମାଡୁପ |
+| fold your hands(fits) | Verb | ହସ୍ତକ୍ଷେପ |
+| ag ମ୍‌ | Noun | ଏଗ୍ |
+| fold,heap | Verb | ଫଳ୍ଡ |
+| ଦୁରୁସିତୋମ୍‌,ଦିବା ଓାଟାନାଦ୍‌ | Noun | ଦୂରୁଷିତ, ଦିବା ଓାଟ |
+| folding ` ୦୮ sarees | Adjective | ପିନିଗ |
+| ପର୍କା AA ତାନାଦ୍‌ | Noun | ପାର୍କ |
+| folding hands to rest | Verb | ଶାନ୍ତିରେ ହସ୍ତକ୍ଷେପ |
+| ରି ମାଲ୍ଲା ପାଟିଭୋଣ୍ଡ | Noun | ଅନୁସରଣା |
+| follow | Verb | ସବୁତି |
+| fomentation | Noun | ଉଷ୍ଟି |
+| କାନସାନାଦ୍‌ | Noun | ଆସକ୍ତି |
+| fondness | Noun | ପ୍ରେମ |
+| food | Noun | ଖାଦ୍ୟ |
+| food become rotten | Adjective | ପୋସା |
+| food to be charred | Verb | ବିଶୁଷ୍କ |
+| foolish | Adjective | ମୂଢ଼ |
+| foot | Noun | ପାଦ |
+| foot print | Noun | ପାଦ ଛାପ |
+| for | Preposition | ପାଇଁ |
+| fora while | Verb | କିଛି ସମୟରେ |
+| for ever | Noun | ସଦାକେଳି |
+| for fathers | Noun | ପିତୃଗଣ |
+| କାଲାମ୍‌ ତେ | Preposition | ତାଙ୍କ ଜାଣନ୍ତୁ |
+| forme | Preposition | ମୋରିକୁ |
+| for me only | Preposition | ମୋର ପାଇଁ |
+| for one day only | Preposition | ଏକ ଦିନ ପାଇଁ |
+| for some day | Preposition | କିଛି ଦିନରେ |

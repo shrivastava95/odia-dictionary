@@ -1,0 +1,23 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| wooden ladle | Noun | ଭୟାଲ୍‌ |
+| word | Noun | ମାଟା |
+| work | Noun | ପାଡ଼ିୟ-(ପାନି) |
+| work at | Verb | AISA ଦାଗେ ଦାନ୍ଦା ମାନ୍ଦାନାଦ୍‌ |
+| work on | Verb | ପାଡ଼ିୟ୍‌ ଆସୋରେ FIG ପିସୋରେ ମାନ୍ଦାନାଦ୍‌ |
+| work out | Verb | କାର୍ସ୍‌ ପାନାଦ୍‌, ସାଦ୍‌, ଓାନାଦ୍‌ |
+| work upon | Verb | ବେନ୍‌ ଅର୍ତୁଣ୍ଢ କିଙ୍କ୍‌ ମେଲ୍‌ ପାନାଦ୍‌ |
+| world | Noun | ଲକ୍କ୍ରାମ୍‌ |
+| worm | Noun | କାଣ୍ଡ କ୍‌ ତୋପିଲ୍‌ ପୁଡ଼ିକ୍‌ ` |
+| WOrMS | Noun | କାଣ୍ଡ କ୍‌ ତୋପିଲ୍‌ ପୁଡ଼ିକ୍‌ ` |
+| worn ornament | Adjective | ଓେଡେର୍‌ ତ୍‌ ଗଲୁସୁ ଞାଟାନାଦ୍‌ |
+| worried | Verb | କାଷ୍ଠାମ୍‌ ଆଭୋଣୁ |
+| worship | Noun | ପୂଜା, ପ୍ରେମା ତେ ଞ୍ରେର୍‌ସୋରେମଡ଼୍‌ କାନାଦ୍‌ |
+| worth | Noun | ରେଟ୍‌, ମେଲ୍‌ ତା |
+| worthless | Noun | ଲାବାମ୍‌ ଇଲ୍‌ Gl |
+| worthy | Adjective | ଆଦାନାଙ୍କ୍‌ ସାୟାମ୍‌ Q,@le] କ୍‌ |
+| yes | Noun | ଓ |
+| yesterday's water | Noun | ଏର୍‌ |
+| yesterday | Noun | ଗେଷ୍ଠିନ୍ନ |
+| yet | Coordinating connective | ଇଙ୍କାଦାଙ୍କ୍‌ |
+| yoke | Noun | କାଣ୍ଡ |

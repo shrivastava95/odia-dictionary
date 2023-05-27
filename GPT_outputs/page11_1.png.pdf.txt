@@ -1,0 +1,34 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| ତାନାଦ୍‌ | Noun | ଅଜାଣୁ |
+| bird | Noun | ପକ୍ଷୀ |
+| birth | Noun | ଜନ୍ମ |
+| birth control | Noun | ଜନ୍ମ ନିଯୋଜନ |
+| ଆଡାମ୍‌ ତୁଙ୍ଗାନାଦ୍‌ | Noun | ଟୋପା ପକ୍ଷୀ |
+| birthday | Noun | ଜନ୍ମଦିନ |
+| birthday ceremony | Noun | ଜନ୍ମଦିନ ଉତ୍ସବ |
+| bishop | Noun | ବିଷ୍ପ |
+| ମାନ୍ଦାନ୍‌ ଗୁଡ଼ିୟ୍‌ କିନ୍‌ ଆଦିକାରାମ୍‌ ତ୍‌ ବେଡ଼ିୟା | Noun | ମାନସିକ ଶିକ୍ଷା କେନ୍ଦ୍ର |
+| ଦାର୍ମାମ୍‌ ତ୍‌ | Noun | ଯୋଗଶାଳା |
+| bison | Noun | ମହିଷ |
+| — | Noun | — |
+| bitch bird | Noun | କାଳିଆ ପକ୍ଷୀ |
+| bite | Verb | କାଟିବା |
+| bitter | Adjective | ତୀଖା |
+| bitter gourd | Noun | କରକରା |
+| bitter plant | Noun | ତୀଖାପାତ |
+| ପତାଲା | Noun | କାଳା ମଶୀଷା |
+| black ant | Noun | କାଳା ପୋକରା |
+| ପେତେ | Noun | କାଳିଆ ଜାମୁ |
+| black berry | Noun | କାଳିଆ ଜାମୁ |
+| black berry-tree | Noun | କାଳିଆ ଜାମୁ ଗଛ |
+| ମାଡ଼ା | Noun | କାଳିଆ ମୃଗ |
+| black buck | Noun | କାଳିଆ ହରିଣ |
+| black cloud | Noun | କାଳିଆ ମେଘ |
+| black colour | Noun | କାଳା ରଙ୍ଗ |
+| black cumin seed | Noun | କାଳିଆ ଜୀରା |
+| black drongo bird | Noun | କାଳିଆ ଡ୍ରୋଙ୍ଗୋ ପକ୍ଷୀ |
+| black faced monkey | Noun | କାଳିଆ ଵାନର |
+| ଜୁ | Noun | କାଳା ହଂସ |
+| black gram | Noun | କାଳିଆ ମାଷ |
+| black myrobalam tree | Noun | କାଳିଆ ହରଡ଼ |

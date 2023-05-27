@@ -1,0 +1,31 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| ଲାପା | Adjective | ଲାପା |
+| ସିଟ୍‌ ପାଟ୍‌ | Noun | ସିଟ୍‌ ପାଟ୍‌ |
+| quickness | Adjective | ପାଡା ପାଡା |
+| quiet | Noun | ସାମ୍‌ କ୍‌, କଟ୍ଟୋ |
+| rabbi | Noun | ଜିହୁଦା ନାରିନ୍‌ ଦାର୍ମାମ୍‌, ତ୍‌ ଗୁରୁ |
+| rabbit,hare | Noun | ଅଷ୍ଟମି |
+| radish | Noun | ମୁଳା, ପାଣ୍ଡେରା |
+| rafter | Noun | ତୁଲାମ୍‌, ପାଟ୍‌ ଟି |
+| rag | Verb | ଖୁରଦାରି କରିବା, ପର୍ଛିବା |
+| AIA! | Interjection | ଏଇଆ! |
+| ragi | Noun | ଗୁଆ, ନୁଦ୍ଦି |
+| ragi porridge | Noun | ଗୁଆ ଝୋଳ |
+| rain | Noun | ବର୍ଷା |
+| rain sound | Noun | ବର୍ଷା ସ୍ବର |
+| ଓାସମିନ୍ଦେ | Noun | ମହସାଗର |
+| rain cloud | Noun | ବାଦଳ |
+| rain drops | Intransitive verb | ବର୍ଷା ପଡ଼ିଥିବା |
+| ବଟକ୍‌ | Adjective | ବଟକ |
+| rain stopped | Verb | ବର୍ଷା ବନ୍ଧ ହେଲା |
+| rainbow | Noun | ରମ୍ବା ବିମାନ |
+| rainbow appears | Verb | ରମ୍ବା ବିମାନ ଦେଖାଇ ଦେଉଛି |
+| EQ ତେଡ଼ତା | Adjective | ବିରୁଦ୍ଧ |
+| raining | Verb | ବର୍ଷା କରୁଥିବା |
+| rainy,winter season | Noun | ସିତ୍ତା |
+| କାଲାମ୍‌ | Noun | କଳମ |
+| raise, (carry with hands) | Verb | ଉଠାଇବା |
+| ram ୬୮୦୮ | Noun | ହରେକୃଷ୍ଣ |
+| Rani is singing | Verb | ରାଣୀ ଗାୟତେ ଅଛନ୍ତି |
+| ପାର ମିନ୍ଦେ | Adjective | ଅନାବଶ୍ୟକ |

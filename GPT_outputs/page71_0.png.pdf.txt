@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| tamarind tree | Noun | ଇତା ମାଡ଼ା,ପୁଲା ମାରା |
+| tangle | Verb | AINA ମାନ୍ଦାନାଦ୍‌,ସିକ୍, ମାତ୍‌ |
+| tangle,knot | Verb | କାଟ୍‌ ତତାନାଦ୍‌ |
+| tank,pond | Noun | ଏର୍‌ ଟେଙ୍କ୍‌ IG |
+| tar, pitch | Noun | ତାର୍‌ |
+| taste | Noun | ରୂଚ୍‌ |
+| taste it | Verb | ନାକ୍‌ ଉଡା |
+| tasteless | Adjective | QQ AM GI |
+| tattered cloth | Adjective | AIBI AT ତା ଗୁଡ଼ା |
+| taught | Verb | ନେର୍‌ ପିସିତୋମ୍‌,ସାଦ୍‌, ୱସିତୋମ୍‌ |
+| tax | Noun | ସାର୍‌ କାର୍‌ କୁ ଡାପ୍‌ କୁ ତତ୍‌ ତାନାଦ୍‌,ବୂମ୍‌, ସିଶ୍‌ ତୁ ତହ୍‌ ତାନାଦ୍‌ |
+| tax collector | Noun | ଡ଼ାବ୍‌ କ୍‌ ଏାସୁଲ୍‌ ତୁଙ୍ଗାନୋଣ୍ଡ |
+| tea plant | Noun | କାପ୍‌ ପୁ ମାରା |
+| teach | Verb | ନେର୍‌ ପିସାନାଦ୍‌, ପୋଦିସାନାଦ୍‌ |
+| teacher | Noun | ପାନ୍ତୁଲ୍‌, ଗୁରୁ, ମାସ୍ଟର୍‌, ଜୀର୍‌ ମିନ୍ଦେର,ମାଶ୍‌, ଟାରୀର୍‌, ପାନ୍ତିଲିର୍‌ |
+| teachers are there | Noun | ଗୁରୁ ଜୀର୍‌ ମିନ୍ଦେର,ମାଶ୍‌, ଟାରୀର୍‌, ପାନ୍ତିଲିର୍‌ |
+| teak tree | Noun | ତେକା ମାରା,ଡେକ୍‌ କୁ ମାଡ଼ା |
+| tear | Verb | ଇଙ୍କାନାଦ୍‌ |
+| tear, breakup | Verb | ଇକାନାଦ୍‌,ପାତାନାଦ୍‌ |
+| tears | Noun | କାଣ୍ଡେର୍‌ |
+| tears Over | Noun | କାଣ୍ଡେର ATS |
+| teeth = | Noun | AIR |
+| teeth grows | Noun | ପାଲ୍‌ କ୍‌ ପେୟ୍‌ |

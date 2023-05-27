@@ -1,0 +1,20 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| whole | Adverb | ଗାମ୍‌ |
+| whole, all | Adjective | AGA, AER |
+| wholesale | Adjective | ମଭାମ୍‌ କାଲ୍‌ ପି ଆମ୍‌ ମାନାଦ୍‌, ୱାମ୍‌ ମାନାଦ୍‌ |
+| wholly | Adverb | ସାରେ |
+| whom | Interjection | 6@OG& who-mesculine-plural Pronoun ବେନୁରୁ who-mesculine-singular Pronoun ବେନୋଣୁ who-non masculine-singular Pronoun ବାଦୁ who-non-mesculine-plural Pronoun ବାରୁ |
+| whooping cough | Noun | କୁରୁମ୍‌ |
+| whorl | Noun | GIMI G1 YEE ASQ ଦା ଟେକା ଟେକା ମାନ୍ଦା, ଉଣ୍ଡ ରି କେଲ୍‌ କିନୋଣ୍ଡ |
+| whose-singular | Pronoun | ବେନାଦି,ବେନାଦ୍‌ |
+| why | Adverb | ବାରି-ବାତାଙ୍କ୍‌ |
+| wick | Noun | ଦିପେମ୍‌ ତ୍‌, ଡିୱ୍‌ ରି ତା ଏାତ୍‌, ସିଲୁପ୍‌ ପଶା |
+| wickedness | Noun | //6/// ଟିକ୍ରାମ୍‌, ଦୁଷ୍ଟ |
+| wide | Adjective | େଲ୍‌ ପ୍‌ ବାଡ଼ା |
+| widow | Noun | ମୁଣ୍ଡରାଲ୍‌ ନାଟ୍‌, GIG, AICS ମୁରେ |
+| widower | Noun | ମୁଣ୍ତରାଲ୍‌ ମାଣୁସୁଣ୍ଠ |
+| wife | Noun | ମୁତି |
+| wife and husband | Noun | USga |
+| wife's younger sister | Noun | NBIE.NBI ମାୟ୍‌ ୟାଡ୍‌ |
+| wild animals | Adjective | ଗୁପାତେ |

@@ -1,0 +1,35 @@
+| Word in English | Part of Speech | Odiya Translation |
+|---|---|---|
+| ଭୋଣ୍ତ | Verb | ସର୍ଆଉଣା |
+| surrounding | Noun | ପରିଧି |
+| ପାକ୍‌ କା କୂଡ଼୍‌ ଭୋର୍‌ | Noun | ସଂଶୟ |
+| suspect | Verb | ଶଙ୍କା କରିବା |
+| ଡାୱ୍‌ ଟ୍‌ ତେ ପୟ୍‌ | Noun | ମାନ୍ୟତା |
+| ତାନାଦ୍‌ | Verb | ହ୍ରାସାନା |
+| swallow up | Verb | ନିଗଲାଇବା |
+| swallowing poisons | Noun | ବିଷକ୍ରୀଡ଼ା |
+| sway | Adjective | ଅନୁକୂଳ |
+| swear | Noun | ଶପଥ |
+| sweat | Noun | ସ୍ୱେଦ |
+| sweep the | Verb | ସଫା କରନ୍ତୁ |
+| sweeping | Verb | ସଫାଇ |
+| sweet cane plant | Noun | କୁଡୁଳ |
+| କାରା | Noun | ଶକରଙ୍କୁଳୀ |
+| sweet potato | Noun | ରାଷ୍ଟାଳି |
+| ମାଟି, ପାଣ୍ଡେ ମାଟି,ନାଙ୍ଗେଲ୍‌ | Noun | ମାଟି |
+| tabernacle | Noun | ପୂଜା ମନ୍ଦିର |
+| ଆଞ୍ଜୋ ମାଉାସୁଙ୍କ୍‌ ଇହ୍ଦୁଦୀ | Noun | ହିନ୍ଦୁ ମନ୍ଦିର |
+| ନାରୂର୍‌ ରୋମାନ୍‌ ସେଙ୍ଗେ | Noun | ପାପିଷ୍ଟ |
+| ମାଡ଼୍‌ ତା ପାକ୍‌ କା | Noun | ମାଛ |
+| table | Noun | ଟେବୁଲ୍‌ |
+| tablet | Noun | ଗୋଳି |
+| taboo | Noun | ନିଷେଧ |
+| tabor | Noun | ଢୋଲ |
+| tabor playing | Verb | ଢୋଲ ବଜାଇବା |
+| ମିନ୍ଦର୍‌ | Noun | ମନ୍ଦିର |
+| tactics,skill | Noun | ହଠାତ |
+| ମାଡ଼ାନାଙ୍କ୍‌ QE ମାନ୍ଦାନାଦ୍‌ | Noun | ପିଶା |
+| tad pole | Noun | ମତ୍ସ୍ୟକ୍ଷି |
+| tail | Noun | ପୁଚ୍ଛ |
+| tailoring | Noun | କାପଡ କାଟିବା |
+| tailor | Noun | ଦରଜୀ |

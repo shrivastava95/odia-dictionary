@@ -1,0 +1,23 @@
+|   English Word   |  Part of Speech  |  Odia Translation  |
+|------------------|-----------------|-------------------|
+|     meddler      |       Noun      | ଆଶ୍‌ ଶାମେ ଆଡ଼ାମ୍‌ ଓାଟାନୋଣ୍ଡ |
+|     mediator     |       Noun      |   ସାମାଦାନାମ୍‌ ତୁଙ୍ଗାନୋଣ୍ଟ, ବେରୁମାଲ୍‌ |
+|  medical store   |       Noun      |       ମାତ୍‌ ଦୁକାନ୍‌       |
+|     medicine     |       Noun      |              UG              |
+|  medicine bottle |       Noun      |             Gal              |
+|     meditate     |       Verb      |    ଅଣ୍ଡୋୟ୍‌ ଆଲ୍‌ A ତେ ମାନ୍ଦାନାଦ୍‌    |
+| meditate on God  |       Verb      |         ମକାରିସିଂ ମୋର ପୀଟି ପ୍ରାର୍ତାନା Ger!         |
+|    meditative    |    Adjective    |          AG ଆଲ୍‌ ପିନ୍‌ ଟଣ୍ଟେ ମାନ୍ଦାନାଦ୍‌          |
+|    meek/meekness |    Adjective    |      ମାଟା ପ୍ରାକାରାମ୍‌ ନେମ୍‌ AI , ସାୟା ମାନ୍ଦାନାଦ୍‌      |
+|       meet       |   ୮୮/୮୬       |          କାଇଲି ତାନ୍‌          |
+|     meeting      |       Noun      |    ଗଟି ଗୂଡ଼ାନାଦ୍‌,ପାଞ୍ଚି     |
+| meeting place    |       Noun      |       କୁପ୍‌ ପି,ପାନ୍ଦିର୍‌        |
+|    melodious     |    Adjective    |        ମେଲ୍‌ ତା ଲେଙ୍ଗ୍‌        |
+|       melt       |      †×⁄       |          କାରୁଗଂତ୍‌          |
+|      member      |       Noun      |         ମେମ୍ବାର୍‌         |
+|     memorize     |       Verb      | ଏଦ୍‌ ମାଡ଼ାନାଦ୍‌, ଗୁଣି ଦେ ତାସାନାଦ୍‌ |
+|      memory      |       /୧/      | ଗୁର୍ତି,ଏର୍‌ କି |
+|  memory fails    |      1⁄£୮/      |       ଏଦ୍‌ ଇ ଓାଦାଟାମିଲ୍‌ ଲେ        |
+| menstrual pain   |       Noun      |           ନାଟାନ୍‌ ଡକା ed           |
+|   menstruation   |       Noun      | ନେଲ୍ଲା,ଲେଞ୍ଜ୍‌ CMB CORA ଆନ୍ଦାନାଦ୍‌ |
+| mental disposition,mood |   Noun      |        ଗାଟି ଟେମ୍ପାର୍‌ ,ଟିକ୍‌       |

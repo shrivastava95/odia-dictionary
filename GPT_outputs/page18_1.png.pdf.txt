@@ -1,0 +1,27 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| penk | Noun | ଜନ୍‌ ନା ,ଜାନ୍‌ ନା |
+| pentak | Noun | ଆାୟା,ଡେଡ଼ା |
+| corner | Noun | ମୂଲା |
+| corner stone | Noun | ମୁଲା କାଲ୍‌, ପାଣ୍ଡ |
+| corps | Noun | ସୈନୁକ୍‌ ES |
+| corpse | Noun | ପିନୁମ୍‌ |
+| correct | Verb | ସାରି,ଟୀକ୍‌,ନିଜାମ୍‌ |
+| correction | Verb | ଟୀକ୍‌ ତୁଙ୍ଗା |
+| corruption | Adjective | ଲାଞ୍ଚାମ୍‌,ତାପ୍‌ |
+| aiga, or me | Noun | ଡ଼ାବ୍‌ ଗିର କାନାଦ୍‌ |
+| corset bodies | Noun | ale |
+| cost | Verb | ଦାମ୍‌,ରେଟ୍‌ |
+| cot | Noun | କାଟୁଲ୍‌ |
+| cotton | Noun | ଦୁଦ୍‌, ତୂତୁଲ୍‌, alg ମାଡ଼ା |
+| cotton tree | Noun | ପାରୁପ୍‌ ପୁ ମାଡ଼ା,ଦୂଦ୍‌ ମାରା |
+| cough | Verb | ଡ଼ାଗାନାଦ୍‌ |
+| counsellor | Noun | ସାୟା ମାଟ୍ଟା ଭଦାନୋଣ୍ଡ |
+| count, calculate | Verb | ଲେକାଟ |
+| couple | Noun | USQee |
+| courage | Noun | ଦାୟାଙ୍ଗ୍‌ |
+| course | Noun | ଆନ୍ଦାନାକ୍‌ ଆର୍‌,ନାଡ଼ୂଦାନ୍‌ ଆର୍‌ |
+| court | Noun | କୋର୍ଟ |
+| courtesy | Noun | ଲୋନ୍‌ ଓାଦାନର୍‌ କିଙ୍୍‌ ସାୟା ପ୍ରେମାତେ ଉଡ଼ାନାଦ୍‌ |
+| courtyard | Noun | ଏହେଶ୍ଟା,ଆ ୍ଗାଡ଼୍‌ |
+| covenant | Noun | ଇର୍‌ ସିର୍‌ ଲୋପେ ମାନ୍ଦାନ୍‌ ମାଟ୍ଟା କାଗାଜ୍‌ |

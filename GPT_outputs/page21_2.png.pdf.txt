@@ -1,0 +1,26 @@
+| English Word | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| Ishtam Tunganonḍ | Noun | ଇଷ୍ଟାମ୍‌ ତୁଙ୍ଗାନୋଣ୍ଡ |
+| dew, snow | Noun | ଇମ୍‌ ମା |
+| Ralit, Mach, Im | Noun | ରାଲିତ୍‌, ମାଚ୍‌, ଇମ୍‌ |
+| dewy | Noun | ଇମ୍‌ ମା କାଲାମ୍‌ |
+| dhoby, washer man | Noun | ସାକିଲ୍‌ |
+| dhole dog | Noun | ଗଛ୍‌ ନେଇକ୍‌ |
+| diabetes | Noun | ନାର୍କେ ଅଗର ରୋଗାମ୍‌ |
+| dialogue | Noun | ଓଦାନାଦ୍‌, ଗଟି ଞେତାନାଦ୍୍‌, ତ୍ରିୟାନାଦ୍‌ |
+| diapidated house | Adjective | ପାଡ଼ ଗୋରି ମାନ୍ଦାନାଦ୍‌ |
+| diarrhoea | Noun | ଡକା ଆତ୍‌, ଡଙ୍କା ଆତ୍‌, ପେଲାନ୍‌ ରୋଗାମ୍‌ |
+| didn't comb a hair | Noun | ତାଲା ସାୟ ACM, AE ଶିଲେ |
+| die | Verb | କିୱ୍‌ କ୍‌ ଭଣ୍ଡ, ଡ଼ୋଲ୍‌ ତୋଣ୍ଡ |
+| 0160 | Noun | ଡ଼ଲା ନାଦ୍‌ |
+| difference | Verb | ତେଡ଼ା, ୱେରେ ଞ୍ଚେରେ ମାନ୍ଦାନାଦ୍‌ |
+| different | Adjective | ଓ ରେ ସେରେ |
+| difficult | Adjective | @IQI¢] |
+| dig & draw water | Verb | ତୋରାନାଦ୍‌ |
+| dig up | Verb | କୋଟି କୋଟି କୋର୍କ୍‌ ତିନ୍ତା |
+| digestion | Verb | ଆର୍‌ ଗାନାଦ୍‌ |
+| dignity | Noun | ମାରିୟାଦା |
+| diminished | Adjective | ଗଦାର୍‌ IQ ଇଡ଼କିଆଭ୍ା |
+| dinner, supper | Noun | ମୁଲ୍‌ ଦୋଡ଼ା |
+| dip | Verb | ମୁସ୍‌ ତ୍‌ନ୍‌ |
+| dipped | Verb | ମୁତ୍‌ GIGI |

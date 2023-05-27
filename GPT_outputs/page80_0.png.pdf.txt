@@ -1,0 +1,22 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| turn upon | Verb | ଆସମିନ୍ଦେ, ଜାର୍ଗାନାଦ୍‌ |
+| ସାଟ୍‌ କେ | N/A | N/A |
+| ରେତାନାଦ୍‌ | N/A | AIS ସାନାଦ୍‌ |
+| turing | Verb | ଟ୍ୟୁର୍ନିଂ |
+| ଏରି ଆନ୍ଦାନାଦ୍‌ | Verb | ଚକିତେ ଏଡ଼ିପଡ଼ନ୍ତୁ |
+| tusk | Noun | ଉଡ଼ା |
+| tut | Interjection | ତୁ |
+| tutor | Noun | ଟ୍ୟୁଟର |
+| twelve | Noun | ପାଦିରେଣ୍ଡୁ |
+| twenty | Numeral | ବିଶ |
+| twenty five | Numeral | ପଚାଶ |
+| ugly | Adjective | କାସିମାଲାମ୍‌, ଆଡ଼କୋଲ୍‌ |
+| ulcer | Noun | ଡକାତା ପୁଣ୍ଡୁ ମିନ୍ଦେ, ଘା, AIGA ୱସ୍‌ ତା |
+| ultimately | Adverb | ଆସେ ଆସେ, CIGAR ଦାଙ୍କ୍‌ |
+| umbrella | Noun | ଛାତା, କତୁକ୍‌, ଏରେକ୍‌ |
+| unbutton the shirt | Verb | କୁସାମ୍‌ |
+| ତୀସାନାଦ୍‌ | N/A | N/A |
+| unconscious | Adjective | ଚିମ୍‌ କ୍‌, ଆଦାନାଦ୍‌ |
+| uninterested,bored | Adjective | ମଣ୍ଡ ପେତ୍‌ |
+| unanimously | Adverb | ଅର୍ରୋଟ୍‌ |

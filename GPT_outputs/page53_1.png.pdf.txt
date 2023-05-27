@@ -1,0 +1,24 @@
+| English Word | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| parrot | Noun | ପିଟେ, ରାମେ |
+| parson | Noun | ପୂଜେର୍‌ |
+| part by part | Noun | ମୁକ୍‌ କା ମୁକ୍‌ କା |
+| part from | Verb | ସି ଆନ୍ଦାନାଦ୍‌ |
+| part with | Verb | ଡେରେ ଏୀରାନାଦ୍‌ |
+| partiality | Noun | ଇଲୁକୁଟେ, ମାନ୍ଦାନାଦ୍‌ |
+| particular | Adjective | ଅରଙ୍ଗେ, ମାଟ୍ସୁମ୍‌, ଅଣ୍ଟେୟ୍‌, ସୁପ୍‌ ପୟ୍‌, ଭାୱ୍ତାଲ୍‌ |
+| parting | Verb | କେଲ୍‌ କ୍‌ ପାୟା, ତୀସାନାଦ୍‌ |
+| partition | Noun | ବାଗାମ୍‌ ତୁ ସାର୍‌, ଦିଭଦାନାଦ୍‌ |
+| partner | Noun | ଅଣ୍ଡୋୟ୍‌ ଆଇନା ତା, ଆଇନା ମାଡ଼ାନୋର୍‌ |
+| partridge | Noun | କାଞ୍ଜାପିଟେ |
+| parts of leg | Noun | ଟିକ୍‌ କାଲ୍‌ (ଡେକା) |
+| pass over | Verb | ନାଡ଼୍‌ ସ୍‌ ଆନ୍ଦାନାଦ୍‌ |
+| pass away | Verb | ଡଲାନାଦ୍‌ |
+| pass by | Verb | ଗାର୍ରେ ଦାୟାନାଦ୍‌, ନାଡ଼୍‌ ସି ଆନ୍ଦାନାଦ୍‌ |
+| pass into | Verb | ମାରି ଆନ୍ଦାନାଦ୍‌ |
+| pass out | Verb | ପେୟ୍‌ ସି ଆନ୍ଦାନାଦ୍‌ |
+| passer-by | Noun | ସେରରଭଣୁ |
+| passion(bear) | Verb | ଅର୍ସାନାଦ୍‌(ସାମାଲିଭ ନ୍‌) |
+| past | Verb | ଆଭା, ଦିନାମ୍‌ |
+| pasted | Adjective | ଟେକ୍‌, କୁଇନ୍‌ଆଣ୍ଟି ମିନ୍ଦେ |
+| pastor | Noun | ଗୁଡ଼ିୟ୍‌ ଦା ପ୍ରାର୍ତାନା |

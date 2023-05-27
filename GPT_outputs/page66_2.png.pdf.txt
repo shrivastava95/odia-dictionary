@@ -1,0 +1,32 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| ବେଲା | Pronoun | ଆଶି |
+| some one | Pronoun | ବେନୋ |
+| some what | Adverb | ବେଶ୍‌ ଶୋଟ୍‌ |
+| ଉଡ଼ |  | Oa |
+| someday | Adverb | ବେସ୍‌ କ୍‌ ଆନା |
+| ବେସ୍‌ କ୍‌ |  |  |
+| somersault | Noun | କୋଡ଼ି ଓଦାନାଦ୍‌ |
+| sometime | Adverb | ବେଶ୍‌ କ ବେଶ୍‌ କ |
+| ଅଣ୍ଡୋୟ୍‌ ସାମାୟାମ୍‌ |  |  |
+| sometimes | Adverb | ବେଶ୍‌ କେ ବେଶ୍‌ |
+| କେ |  |  |
+| somewhere | Adverb | ବେଗ୍‌ ଗା ବା,<br>ବେଗ୍ଗା ନା |
+| son | Noun | ମାର୍‌ |
+| son-in-law | Noun | ବାଣାଞ୍ଜାଲ୍‌ |
+| Son of Man | Noun | ଜୀଶୁ ଖ୍ରୀଷ୍ଟ,<br>ପାରାମେଶ୍ବାରିନ୍‌ ମାର୍‌ |
+| son's | Noun | ମାର୍କ୍‌ |
+| song | Noun | AI, ପାଟା |
+| soon, quickly | Adverb | RA MID |
+| sorcerer | Noun | ପୂଜାରୀ |
+| sorcery | Noun | ପାର୍ଚେଗା, ନୋର୍‌, ରେଡିର୍‌ |
+| sore mouth | Noun | AQ ବର୍କ୍‌ କାଭା |
+| sorry | Adjective | କାଷ୍ଠାମ୍‌ ଆଦାନାଦ୍‌ |
+| soul | Noun | ଜୀୱାମ୍‌, ଜୀୱା ଆତ୍ମା |
+| sound | Noun | ଲେଙ୍ଗ |
+| sound of thunder | Noun | ଗୁତୁଞ୍ଜାନାଦ୍‌ |
+| sour | Noun | ପୁଲସ୍‌ ତା, ପୁଲ୍‌ ଲା |
+| south | Noun | ତିନ୍ନା ପାକ୍‌ କା, ଉତ୍ତାନା |
+| SOW | Noun | ଏ]ତାନାଦ୍‌ |
+| sowing festival | Noun | ଓିଜା |
+| alge |  |  |

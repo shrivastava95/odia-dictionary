@@ -1,0 +1,24 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| elder        | Adjective      | ବେଡ଼ିୟୋଣ୍ତ       |
+| elder brother | Noun           | ଦାଦାଲ୍‌         |
+| elder brothers | Number         | ଦାଦାଲର         |
+| elder father | Noun           | ପେପି, ବେଡ଼ିୟା ଭୟାନ୍‌ |
+| elder mother | Noun           | ବେରିୟାୟାୱ୍‌     |
+| elder sister | Adjective, Noun | ୟାକା, କା, ନାନୋ     |
+| elder sister's husband | Noun | ବାଟୋ |
+| elders | Adjective | ବେଡ଼ିୟାତୋର୍‌ |
+| elect | Number | ଏନ୍‌ ଚାନାଦ୍‌ |
+| election | Noun | ଏନ୍‌ ଗିଗି ଏଆଇଗ୍କ୍ୟୁ |
+| elephant | Noun | ଏନ୍‌ |
+| elephantiasis diseases | Noun | ତୋୟ୍‌ ତ୍‌ କାଲ୍‌ ଇ. ତା କାଲ୍‌ |
+| eleven | Number | ଅଣ୍ଡୋୟ୍‌ |
+| elicit | Noun | ବାୟ୍‌ ଦ୍‌ ପେପି ସାନାଦ୍‌ |
+| eligible | Noun | ମେଲ୍‌ ତା |
+| elopement | Noun | 68Q ଆଶ୍ରେ ମୁଭି ଏଆଇଏସ୍ ତୋଡ଼େ ଆଣ୍‌ କି ଦେଙ୍ଗାନ୍ଦାନାଦ୍‌ |
+| else | Coordinating connective | ଇଲୁକୁଟେ, ଇଲକୁ |
+| embarrass | Verb | ନାମ୍‌ କାମ୍‌ ଓାଟି ମାନ୍ଦାନୋନିନ୍‌ ଗେ ସି ଦାନାଦ୍‌ |
+| emblic myrebalan tree | Noun | ନେଲ୍‌ ଫଲ |
+| emblicmyrobalan the fruit and its tree | Noun | ନେଲ୍‌ କାୟା |
+| embrace | Verb | କାର୍‌ ମୁର୍ଚ୍ଚାନାଦ୍‌ |
+| emerge | Verb | ବାୟ୍‌ ଦେ ପେତ୍‌ ତାନାଦ୍‌ |

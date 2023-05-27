@@ -1,0 +1,25 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| skeleton | Noun | ଡ଼ୋଲ୍‌ ଭର୍‌ QM |
+| skimmer | Noun | ଟେଡ୍‌,ଉକ୍‌ Ge |
+| skin | Noun | CR |
+| skin disease | Noun | ତାମେର୍‌ ରୋଗାମ୍‌-ଉୟ୍‌ ASIA, AD ଭାନାଦ୍‌ |
+| skin of fruit | Noun | ABR ତଲ୍‌ କା,ଟଟେ |
+| skin of onion | Noun | ଟଟେ |
+| skin problems | Noun | ତଲ୍କା-ରୋଗାମ୍‌ |
+| skink | Noun | ମିନିକି ଡୋକେ |
+| skirt | Noun | ସାୟା, ଗୂନ୍‌ ଲାଙ୍ଗା |
+| skull | Noun | ମେଦର୍‌ କାପ୍‌ ଉଡ଼ାନ୍‌ ବୂଲା |
+| sky | Noun | ୨୮୬୮. ମାବ୍‌, ପରରା |
+| slam of a door | Verb | ଗୁମାମ୍‌ ତାଲ୍‌ କ୍‌ ତା, ତା INE! |
+| slate | Noun | ବାଲ୍‌ ଲା |
+| Slave | Noun | S1@l, କୋତି ନାରୂଣ୍ତ |
+| sleep | Verb | AY AIG, AQ, IMG, AIG ଟାନାଦ୍‌ |
+| sleep curly | Verb | ପାଲ୍‌ 6@, ପାଟ୍‌ ଟାନାଦ୍‌ |
+| sleeper berth | Noun | ବାଣି ତା ପାଟ୍‌ ଟି ଆନ୍ଦାନ୍‌ ପଡ଼ିୟ୍‌ |
+| slice(cleave) | Verb | ଓାଡ଼୍‌ ସି ବାଦା ତୁଙ୍ଗା |
+| slid down | Verb | ସ୍‌ କ୍‌ alg |
+| slim girl | Adjective | @l@ ମାନ୍ଦାନ୍‌ ପିକିଡ଼ |
+| sling | Noun | ଅଡ଼୍‌ ସେଲ୍‌ |
+| slip away ,off | Verb | କେଲ୍‌ ଲୁକୁଣ୍ଢେ ଦାୟାନାଦ୍‌ |
+| slip out of one's hands | Noun | ସ୍ଲିପ୍‌ ଆଉଟ୍‌ ଓଫ୍‌ ଓନେ'ସ୍‌ ହାଣ୍ଡ୍ସ୍‌ |

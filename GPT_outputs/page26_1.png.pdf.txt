@@ -1,0 +1,21 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| exhibition | Noun | କଭା ପଡ଼ିୟ୍‌ |
+| exhort | Verb | ସାୟାମ୍‌ ତ୍‌ ମାଟା |
+| exhortation | Noun | କାଟି ସାର୍ଦା |
+| exile | Noun | ତସ୍‌ ଞ୍ଚେରେ ନାର୍‌ ଞ୍ଞୋଦାନାଦ୍‌ |
+| expanding | Verb | ପାର୍ଲୁଭା-ପୂଙ୍ଗା, ଏଓ୍‌ ଦିସାନାଦ୍‌ |
+| expect | Verb | ଏତିର୍‌ ଉଡୋମିନ୍ଦେ, ନାମ୍‌ କାମ୍‌, ଆଶା ତୁଙ୍ଗାନାଦ୍‌ |
+| expenditure | Noun | କାର୍ସ୍‌ |
+| experience | Noun | ଆଲ୍‌ ଓଟ୍‌ ଆଦାନାଦ୍‌ |
+| experiment | Noun | ପରୀକ୍ଷା |
+| expert | Noun | ଆଲ୍‌ GIS, QR ମାନ୍ଦାନୋଣ୍ଡ |
+| expose | Verb | ତୋପିସାନାଦ୍‌ |
+| expression | Noun | ମାଟା କିଙ୍କ୍‌ ରାଲାନାଦ୍‌ |
+| fair | Noun | ବଢ଼ା, ଆଦ୍‌ SIR କ୍‌ |
+| faith | Noun | ନାମ୍‌ କାମ୍‌, ଞଶବାସାମ୍‌ |
+| falcon bird | Noun | ଓେସେରା GIG! |
+| fall | Verb | IER କାଲ୍‌ ଦା ତେଗ୍‌ ତା |
+| falling | Verb | ମାଟା ଅପାନାଦ୍‌ |
+| fallout | Verb | ତେନ୍‌ ସ୍‌ କାନାଦ୍‌, ଲଢ଼ାୟ୍‌, ଗଡ଼ GI ମାଡ଼ାନାଦ୍‌ |
+| fallto | Verb | AIG] ତେ ଆରାମ୍ଭ ତୁଙ୍ଗାନାଦ୍‌, ମାଡ଼ାନାଦ୍‌ |

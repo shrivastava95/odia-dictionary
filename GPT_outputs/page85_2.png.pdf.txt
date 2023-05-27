@@ -1,0 +1,26 @@
+| Word in English | Part of speech | Odia Translation |
+| --- | --- | --- |
+| winner | Noun | ଗେଲସତଣ୍ଡ |
+| winnowing fork | Verb | ୱେ |
+| କାନାଦ୍ | N/A | ଏତ୍‌ |
+| winter | Noun | ଶାଲ୍‌ କାଲାମ୍‌ |
+| wipe,scrape | Verb | ତୁୟାନାଦ୍‌, ତାଡ଼୍‌ କାନାଦ୍‌ |
+| କାନାଦ୍‌ | N/A | N/A |
+| wipe,shake | Verb | ଉମ୍‌ |
+| wisdom | Noun | ଗ୍ୟାନାମ୍‌ |
+| wisely | Adverb | ଗ୍ୟାନାମ୍‌ ତେ |
+| wish | Noun | ଇଷ୍ଟାମ୍‌ ତେ ଆଲ୍‌ ସାନାଦ୍‌ |
+| witchcraft | Noun | ଜାଦୁଗର୍ଭ |
+| with | Postposition | ର ତୋଡ଼େ, ଆକେ, ତୋଣ୍ଡି |
+| with hands | Pro-form | କାଇକ୍‌ କାଲ ପି ମୋଡ଼୍‌ ସର |
+| with me | Preposition | ନାୟାଗା |
+| with stick | Verb | ଛାଡ଼େଇବୁ |
+| with them | Connective | ତୁଙ୍କ ସହ |
+| with trembling | Preposition | ଦାକ୍‌ ଦାକ୍‌ ଆତ୍‌, ୱାଣ୍‌ କାନାଦ୍‌ |
+| withdraw, retreat | Noun | ଆଉଭୋର୍‌, ପେପିସାନାଦ୍‌ |
+| wither | Verb | ପୂଙ୍ଗା ାରାନାଦ୍‌ |
+| withered flower | Noun | କାଢ଼ିୟ୍‌ ତ୍‌ ପୂଙ୍ଗାର୍‌ |
+| withered, drop off | Verb | ତା ରାଲ୍‌ ତା |
+| wither-shrink (fingers) | Noun | କାୟ୍‌ ଓାଙ୍ଗ୍‌ ତା, ଏାରା |
+| within | Adposition | ମାଜେନେ, ନାଡ଼୍‌ ମେ |
+| without | Adposition | ଇଳେ କୁଣ୍ଟାମ୍‌, କ୍‌ ଏନାର୍‌ |

@@ -1,0 +1,23 @@
+| Word in English | Part of speech | Odiya Translation |
+|-----------------|----------------|------------------|
+| shine           |                | ଞ୍ଚେନ୍ବେଲ୍‌ ତପାନାଦ୍‌         |
+| 6aq             |                | ପତାନାଦ୍‌                   |
+| ship            | Noun           | ଏର୍‌ ଜାହାଜ                 |
+| shirt           | Noun           | ସକ୍ତା,କୁସାମ୍‌ ,ଚକା     |
+| shirtless       | Adjective      | ମାନ୍ଦାନାଦ୍‌                |
+| shivering       | Verb           | IQ କାନାଦ୍‌                   |
+| shock           | Noun           | 6aq 6aq                    |
+| APIA, VM        |                | ରେଲାନାଦ୍‌                 |
+| shoes           | Noun           | @3 Qe                     |
+| shoot           | Verb           | ଓାଂ ଭାଞିଲ୍‌ ତେ ଗପିଟ୍ଟେର୍‌ ରେଭାନାଦ୍‌ -କୁଲ୍‌, ଡି କାୱାନ୍‌, ତୁପାଇ ତିସି ୱାଡ଼ସାନାଦ୍‌, JQ aq ଶି ମାନ୍ଦାନ୍‌ |
+| shop            | Noun           | କଟ୍‌,ଦୁକ୍‌ କାନ୍‌           |
+| shopkeeper      | Noun           | ଦୋକାନୀ                   |
+| short           | Noun           | API ମୋଣ୍ଡ                 |
+| short man       | Noun           | ଗୁଟୁଡ଼୍‌ କ୍‌             |
+| short sight     | Noun           | ଗାର୍ରେ ତୋପିଲ୍‌ ଓ ରୋଗାମ୍‌ |
+| short time      | Adjective      | I@Q ସାମାୟାମ୍‌,କଦିଗ୍‌ ସାମାୟାମ୍‌ |
+| shots           | Noun           | ଚୋଲି, ଗୁଲି               |
+| should          | Verb           | ଆଦାୱାଲ୍‌                 |
+| shoulder        | Noun           | ବୁଜାମ୍‌,ଜେବା              |
+| shout           | Noun           | 6@Ql GAG, AAI ଓଟାନାଦ୍‌       |
+| show affection  | Verb           | ପ୍ରେମା ତୋପିସାନାଦ୍‌,କୋରାନାଦ୍‌,ନେ ଚ୍ଚାନାଦ୍‌ |

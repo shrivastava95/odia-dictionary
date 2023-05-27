@@ -1,0 +1,22 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| push | Noun | ତୁର୍ସାନାଦ୍‌ |
+| push down | Noun | ରାଲ୍‌ ପିସାନାଦ୍‌ |
+| pushing | Adjective | ଗିଙ୍ଗ୍‌ |
+| pustule, blister | Noun | ବଣ୍ଠିୟା |
+| put away | Verb | ସୋମ୍‌ ଆ |
+| | | ଜରେ ଓଟାନାଦ୍‌ |
+| put back | Verb | ମୁନେ ମାତା ପଡ଼ିୟ୍‌ |
+| | | ତାଗା ମାଲ୍ଲା ୱାଟାନାଦ୍‌ |
+| put down (drop) | Verb | ରାଲ୍‌ ପିସାନାଦ୍‌ |
+| put down (place) | Verb | ନେଲୁଓାଟାନାଦ୍‌ |
+| putin | Verb | ତଲ୍‌ ଲିନେ AISIAIE |
+| put off (cancel) | Verb | ଆନ୍ମାନାଦ୍‌, ଆଙ୍ଗାନାଦ୍‌, ବାନ୍ଦ୍‌ ମାଡ଼ାନାଦ୍‌ |
+| put off (remove) | Verb | କୁସାମ୍‌ ତୀସାନାଦ୍‌ |
+| put on | Verb | କେର୍‌ ପିସାନାଦ୍‌ |
+| put out | Verb | GQ ପୀତାନାଦ୍‌ |
+| put up with | Verb | ବେନୁନ୍‌ ତୋଡ଼େ ବା କାଷ୍ଟାମ୍‌ ତେ ବାକ୍କା ନାଦ୍‌ |
+| python | Noun | ଆଦ୍ାଣି, ମାୱଡ଼ ତାର୍ସ୍‌ |
+| question, ask | Verb | ପୁଚୁ, କିଭୋର୍‌, ତାଲ୍‌ ଅପିସ୍, ସିନ |
+| questioned | Noun | ମାଟ୍ଟା ମାଲ୍‌, ତାନାଦ୍‌, ତାଲ୍‌ ପାନାଦ୍‌ |
+| quickly, in a fairly short time | Adverb | ଜାପେ, ଜାପେ, ଲିପା |

@@ -1,0 +1,24 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| and | Connective | ଏବଂ |
+| angel | Noun | ଦୁତ |
+| angels | Noun | ଦୁଏ ଦୁତ୍‌, କାବୁର୍‌ ତୋର୍‌ |
+| ankle | Noun | ଆଙ୍ଗୁଠି |
+| anklet | Noun | ପାଦ ହାଟ |
+| annoying | Verb | ବେଦାଉନା |
+| anoint | Verb | ଚିନ୍ତା |
+| answer | Noun | ଜବାବ |
+| answering | Verb | ଜବାବ ଦେଇବା |
+| ant | Noun | ପିପିଳି |
+| ant eater | Noun | ପିପିଳେ ଖାଦେଇ |
+| ant hill | Noun | ପିପିଳି ପଟ |
+| antelope | Noun | ଜାନୁ ମୃଗ |
+| anterior | Adjective | ଅଗ୍ରଭାଗିକ |
+| anthill | Noun | ପିପିଳି ପଟ |
+| anti Christ | Noun | ପରିଶୁଦ୍ଧ ନାଶକ |
+| anticipate | Noun | ପୂର୍ବାଭାସ |
+| anus | Noun | ଗୁଦ |
+| anxiety | Noun | ଉଦ୍ବେଗ | 
+| any how | Adverb | ଯଥାକାର |
+| anyone | Pronoun | କୌଣସି |
+| anyway | Adverb | ଯଥାପିଂଠି |

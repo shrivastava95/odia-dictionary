@@ -1,0 +1,29 @@
+| Word in English          | Part of Speech      | Odiya Translation |
+|--------------------------|---------------------|---------------------|
+| slipper                        | Noun                | ପିଶ୍‌ କ୍‌ ଆର୍ତ୍‌     |
+| Uganda                    | Noun               | ଉଗାଣ୍ଡା             |
+| slope                        | Noun                | ବୀଡ଼ା, ସେଡ଼୍‌, ଗୁର୍‌ |
+| sloth, idleness            | Noun                | 1Q, al@                  |
+| slowly(steps)           | Adverb            | ଜେୟ୍‌, ମେଲେସ୍‌        |
+| slowness                 | Adjective        | Al ପାୟା                   |
+| slugger                     | Noun                | କୂର୍କେଲ୍‌-କୂର୍କାନୋଣ୍ଡ |
+| slumber                  | Verb                | କୂର୍‌ କ୍‌ ତୋନ୍‌-ଜାପ୍‌, ଡେ |
+| small amount           | Adjective        | ଗେ                      |
+| small brother            | Noun                | ତାମାଲ୍‌                |
+| small corn field        | Noun                | କୁମ୍                   |
+| small father, big father | Noun                | ବାବାଲ୍‌, ପେପୁ         |
+| small fish                 | Noun                | ଜିମା, ଜିମେ          |
+| small frog                | Noun                | ଚିଟ୍‌ କାପା            |
+| small hill                   | Noun                | ଗୁବାଲ୍‌               |
+| small in amount          | Adjective        | କୋଦିଗେ                |
+| small in size               | Noun                | ସୁତୁଲା, ସୁଦୁଲା, ଚିନା |
+| small intestine            | Noun                | ସୁଡ଼ଲା AR           |
+| small mat                  | Noun                | ସାମ୍ା                |
+| small mother-step mother   | Noun                | AF ୟାୟୋ, ଚିନ୍‌ AIG |
+| small mud bench         | Noun                | ବୀଡା                   |
+| small plant                  | Noun                | 666& ପଦଲା            |
+| small quantity             | Adjective        | 9@@                     |
+| small red ant's            | Noun                | ପେତେ                   |
+| small river                  | Noun                | କେନେଲ୍‌ IQ         |
+| small size                    | Adjective        | AAI, Qee              |
+| small sized paprika      | Noun                | ପଶ୍‌ ମିଡ଼ିୟା         |

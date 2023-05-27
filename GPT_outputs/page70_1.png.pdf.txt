@@ -1,0 +1,25 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| ମାଟି | Noun | ସୁଗନ୍ଧ |
+| alg | Noun | ସୁର |
+| ସାୟ୍‌ | Noun | ସୁର |
+| sweet,chapatti | Noun | ଆରି ,ଆଡ଼ି |
+| sweetness | Adjective | ଆବି, ସଳାତ |
+| sweet-shop | Noun | ଆରି-କଟ୍‌ |
+| swelling | Verb | ଉବ୍‌ |
+| ତା,ତୋୟାନାଦ୍‌ | Adjective | ଉବାରାଙ୍ଗମିନ୍ଦେ, ପାଚିନ୍ଦେ |
+| swelter | Verb | ଆଙ୍କା |
+| swift swallow | Noun | ଟେଞି ପିଟେ |
+| swimming | Verb | ଇନ୍‌ ତାନାଦ୍‌ |
+| swing (wooden) | Noun | ଉଙ୍ଗାନାଦ୍‌ |
+| ବାଲ୍‌ ଲା | Verb | ହତ୍ତା ହାତରେ ନିହାତି |
+| take and go | Verb | ତୀସି ଅୟ୍‌ ମ୍‌, ଟେଣ୍ଡା |
+| take away | Verb | ୬୦%, ତୀସି ଞ୍ଞୋଦାନାଦ୍‌ |
+| take back | Verb | ମାଲ୍‌ ସହ ଓଠାନାଦ୍‌ |
+| take charge of | Adjective | ଆଦାୟ କରିବା |
+| take down | Verb | ଲିଖିବା |
+| take for | Verb | ତିଆରି ଜଣେ ଆଶା କରିବା |
+| take him | Verb | କାରୁଙ୍ଗିଡୋୟ୍‌ 1,618 ଲେକେ |
+| ଞ୍ତୋୟ୍‌ ମ୍‌ | Verb | ତିଆରି ଲେକେ |
+| take off | Verb | ତୀସି ଉପରେ ଉଠାଇଦେବା |
+| take over | Verb | ଅଧିକାର ନିକଟ ଲେକେ, ଅପ୍ରତିବନ୍ଧ୍ୟ ହେଉଛି |

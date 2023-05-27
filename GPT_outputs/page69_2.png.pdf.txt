@@ -1,0 +1,36 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| କାଶ୍ | Interjection | ତା |
+| sun flower | Noun | ପଡୁଦ୍‌ ପୁଙ୍ଗାର୍‌ |
+| sun light | Noun | ସୂର୍ଯ୍ୟ ପ୍ରକାଶ |
+| ଦେର୍ସୋନାଦ୍‌,ପତୁଦ୍‌ ଏକ୍‌ | Phrase | - |
+| ତ୍ାଞ୍ତେନ୍ବେଲ୍‌ କାସ୍ତା,ଞେସ୍‌ | Conjunction | - |
+| sun's scorch | Verb | ସୂର୍ଯ୍ୟର ତପ |
+| ତେର୍ସମିନ୍ଦେ,ଏଦ୍‌ | Phrase | - |
+| ଗାଟ୍ଟିତେର୍ତା,କାଙ୍କାପୟ୍‌ ଭା | Phrase | - |
+| Sunday | Noun | ଆଦିୱାରାମ୍‌,ଆୟାତା ବାର |
+| ଓରାମ୍‌,ରୋମାନାଙ୍କ୍‌ ରୋଜ୍‌ | Phrase | - |
+| sunlight | Noun | ସୂର୍ଯ୍ୟ ଆଳୋ |
+| ଦାଗା,ପଡ଼ଦ୍‌ ଟିଣ୍ଡିରା | Phrase | - |
+| sunny day | Adjective | ସୂର୍ଯ୍ୟପ୍ରକାଶୀ ଦିନ |
+| ଞେସ୍‌ ଆତା ରୋଜ୍‌ | Phrase | - |
+| sunrise | Noun | ସୂର୍ଯୋଦୟ |
+| sunset | Noun | ସୂର୍ଯାଷ୍ଟମା |
+| sunshine | Noun | ସୂର୍ଯ୍ୟକିରଣ |
+| super | Adjective | ଅତ୍ଯୁତ୍ତମ |
+| ମେଲ୍‌ ତା | Phrase | - |
+| supernumerary tooth | Noun | ଅତିସାର୍ଜନିକ ଦାଦା |
+| supervision | Noun | ପାଳନା |
+| ନାଡ଼ୁସ ମିନ୍ଦେ ଇଞ୍ଜୋ | Phrase | - |
+| ଉଡ଼ାନାଦ୍‌ | Noun | ଉଡ଼ାନ |
+| supply | Verb | ପୂର୍ଣିତ କରିବା |
+| ଭଦାନାଦ୍‌ | Noun | ପୂର୍ତି |
+| SUPpOrt | Noun | ଆଧାର |
+| ମାଡ଼ାନାଦ୍‌ | Phrase | - |
+| surely | Adverb | ନିଶ୍ଚୟତାରେ |
+| ତେ | Pronoun | ତାଙ୍କ |
+| surgeon | Noun | ଶସ୍ତ୍ରଚିକିତ୍ସକ |
+| ଡାକ୍‌ ଟାର୍‌ | Phrase | - |
+| surplus | Adjective | ଅଧିଶେଷ |
+| surprise | Noun | ଆଶ୍ଚର୍ଯ |
+| surrender | Verb | ଦାନକରିବା |

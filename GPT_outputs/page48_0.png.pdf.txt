@@ -1,0 +1,29 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| mole | Noun | ଆନା ସୁକା ,ଆନାଲ୍‌ ଇଟ୍‌ CAI |
+| moment | Noun | ସାମାୟାମ୍‌ |
+| Monday | Noun | ସୋମ୍‌ ଏାଁରାମ୍‌ |
+| money | Noun | ଡାବ୍‌ କୁ |
+| money paisa | Noun | ଡାବ୍‌ ପାଇସା |
+| money purse | Noun | ମୁନା ସାଞ୍ଚ୍‌ |
+| moneylender | Noun | ଡାବ୍‌ କ୍‌ ବାକି ଭଦାନୋର୍‌ |
+| mongoose | Noun | ବେଣ୍ଟ୍‌ ଉପେ |
+| monitor lizard | Noun | ନେଇନଞ୍ଜା |
+| monkey | Noun | 8 |
+| monkey chatters | Noun | 1& ହୁମ୍‌ HE ଇଞ୍ଜୋ କେଇତା |
+| monotone | Noun | ସାମାଙ୍କ୍‌ ଲେ୍‌ |
+| month | Noun | ନେଲା |
+| moon | Noun | ନେଲା |
+| moon day | Noun | ଲେନ୍ତା ନେଲା |
+| moonlight night | Noun | ନେଲାଞେନୋଲ୍‌ ତ୍‌ ନାର୍କା |
+| moral | Noun | ନିୟାୟାମ୍‌ ତ୍‌ ମାଟା |
+| morally worst | Adjective | ଲାଞ୍ଜାତାନାମ୍‌ |
+| more | Adjective | @E@@ |
+| moreover | Adverb | 6169 ବା |
+| morning | Noun | ସ୍ତେୱ,ନାର୍କ |
+| morning star | Noun | ସିୟ୍‌ ଭକ୍‌ କାମ୍‌ |
+| mortal | Adjective | ଡଲ୍‌ ଲାନାଦ୍‌ |
+| mortar | Noun | ସିମେଣ୍ଟ୍‌ ମାସାଲା |
+| mosquito | Noun | ନୁଲେ |
+| mosquito net | Noun | ନୁଲେ ଓଲା |
+| moss | Noun | ନାସ୍‌ |

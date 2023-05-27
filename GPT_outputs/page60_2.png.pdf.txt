@@ -1,0 +1,26 @@
+| Word in English | Part of speech | Odiya Translation |
+|---|---|---|
+| Mundāy | Proper noun | କୀୟାନାଦ୍‌, ଗଢ଼ୁଞା |
+| Adanād | Noun | ଆଦାନାଦ୍‌ |
+| Ripeness (fruit) | Adjective | ପାଣ୍ଡ |
+| Ta | Noun | ତା |
+| Rise | Verb | ତେଦା |
+| Rise and fall | Noun | GQ ପୋ ଡାପ୍‌, ପୋ |
+| Risk | Noun | ତାନାଲାଡ଼ାନାଦ୍‌ |
+| Kāshṭām | Noun | ମାଡ଼ାନାଦ୍‌ |
+| Rite, ritual | Noun | ଦାର୍ମାମ୍‌ ତ୍‌ ନିୟାମ୍‌, ମାଟା |
+| River | Noun | ସାୱ୍‌ର୍‌, ପଟେଡ଼୍‌, ଗଦାର, ଭଲେର୍‌ |
+| River in Sukma | Noun | Algal |
+| Rivulet | Noun | Gig |
+| Road | Noun | ରୋଟ୍‌ |
+| Roaming | Transitive verb | CaM, ତାନାଦ୍‌ |
+| Roast, to burn | Intransitive verb | ପୋଡ଼ସାନାଦ୍‌ |
+| Robber | Noun | ଡଙ୍ଗାନୋର୍‌ |
+| Rock, chips | Noun | ARR YBa |
+| Roll | Noun | ୮୮୮, ନୁଙ୍କା, ତୁରୁସାନାଦ୍‌ |
+| Roll as a ball | Verb | କୁଣ୍ତ୍ରୀସାନାଦ୍‌ |
+| Roll over | Verb | ପୋଲୌ ମିନ୍ଦୋଣ୍ଡ, roll over as in a duel - OQ ଶ୍‌ ପୟ୍‌ ଶ୍‌ ଭକ୍‌ କାନାଦ୍‌ |
+| Roll over in sleeping | Adjective | QQ ପାସୁର୍‌, ଆସମିନ୍ଦର୍‌ |
+| Rolling pin | Noun | ବାଲୁତା ରୁଟି, ରାକାନାଦ୍‌ |
+| Rolling wheel | Verb | ବାଣି ସାକାରାମ୍‌, ନୁଙ୍କାନାଦ୍‌ |
+| Rolling, pushing | Verb | g@ |

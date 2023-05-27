@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+|---|---|---|
+| AY | Noun | ଇଣ୍ଡ ପୋର୍ରେ ଉଣ୍ଡ |
+| Port | Noun | ପୋର୍ରେ ଇଣ୍ଟ |
+| Complaint | Noun | ତାପ୍‌ ପୁ - ମାଟା |
+| Male | Noun | ତେ ମାଲ୍‌ ଓରୋୌନ୍‌ କିଙ୍କ୍‌ |
+| CAA | Noun | ଓରୋଦାମ୍‌ ତେ ମାଟା କେତାନାଦ୍‌ |
+| Complete-burnt | Adjective | ଆକାର୍‌ aga ଆତ୍‌ |
+| Complex | Noun | କାଷ୍ଠାମ୍‌ ,ତିପ୍‌ ପାଲ୍‌ |
+| Complexion | Noun | ଆଣ୍‌ ସାଲ୍‌,ଆମ୍‌ ରୋ |
+| Compulsory | Adjective | IQ ମିଲ୍‌ ଲି |
+| Compunction | Noun | ଭସୁର୍‌ ଜୀୱାମ୍‌ ତ୍‌ ଆଲ୍‌ ପ୍‌ |
+| Comrade | Noun | AIG, ela |
+| Conceal | Verb | ମିଢାନାଦ୍‌, ଇର୍ତାନାଦ୍‌ |
+| Conceive | Verb | ଡକ୍‌ କାତ୍‌ ମିନ୍ଦେ |
+| Concubine | Noun | GEM ମୁଭେ |
+| Condemn | Verb | ତେନ୍‌ ଶ୍‌ କାନାଦ୍ରେନ୍‌ ଶ୍‌ କାନାଦ୍‌ |
+| Condemnation | Noun | BER, AS, AE ଇଞ୍ଜେୋ କେତଉ୍ତାନାଦ୍‌ |
+| Conduct | Noun | ବୁଦି |
+| Confess | Verb | ଅପାନାଦ୍‌ |
+| Confession | Noun | ପାପାମ୍‌ ASQ ଅପ୍‌ ଗିଞ୍ଜାନାଦ୍‌, ତାପ୍‌ ପୁ qa ଜି Geaicig |
+| Confident | Adjective | F@l¢] ନାମ୍‌ କାମ୍‌ ` |
+| Conflict | Noun | ଓେରେ ଞେରେ ,ରେକ୍‌ କା ରେକ୍‌ କା ଗଟ୍ଟି |
+| Confront | Verb | ଏଦୁରେ ନିଲ୍‌ ଶି ବିରୋଦା ପାଡ଼ିୟ୍‌ ମାଡ଼ାନାଦ୍‌ |
+| Confuse | Verb | ଅର୍ରାଗା ଆଲ୍‌ ପ୍‌ |

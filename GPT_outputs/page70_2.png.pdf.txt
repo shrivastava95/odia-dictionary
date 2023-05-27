@@ -1,0 +1,20 @@
+| English Word  | Part of Speech  | Odia Translation |
+| ------------- | ------------- | ------------- |
+| swing cradle  | Noun  | ଉୟାଲ୍‌ |
+| swing speedily  | Verb  | ଉଙ୍ଗାନାଦ୍‌ |
+| sword,saw  | Noun  | ସାକ୍‌,ସୁର୍‌ କାଚେର୍‌ |
+| symbol  | Noun  | ଆନାୱଁଲ୍‌ |
+| sympathy  | Noun  | AQQ ଜୀୱାମ୍‌ ତେ ଉଡ଼ାନାଦ୍‌ |
+| symptoms (of malaria)  | Noun  | ଆନାଞାଲ୍‌ (Gl କୋରେ ସାଲ୍‌ ପୟ୍‌ ସି ଉର୍ବ୍‌ ପେୟ୍‌ ସି Nee ଏାତା) |
+| synagogue  | Noun  | ଇଭତିIA ପ୍ରାର୍ତାନା ତୁଙ୍ଗାନ୍‌ ASQ |
+| systematically  | Adverb  | ରୂଲ୍‌ ଲେକାମେ |
+| take place  | Verb  | ଆସମିନ୍ଦେ ଜାର୍ଗାନାଦ୍‌ |
+| take rest  | Noun  | ରମାନାଦ୍‌ |
+| take to task  | Verb  | ଦେବା କାଷ୍ଟାମ୍‌ SAIN ଭଦାନାଦ୍‌ |
+| take up with  | Verb  | ତୋନ୍‌ ସୀମ୍‌ ଏଭା |
+| talent  | Noun  | ଡିଙ୍ଟା ବୁଦି |
+| talk  | Verb  | IG କେତାନାଦ୍‌ |
+| tall  | Noun  | ଡେଙ୍ଗା ଡଗ |
+| tall talk  | Adjective  | IAI VAI ଗଟି |
+| tall tree  | Adjective  | ଏତୁଗ୍‌ ମାନ୍ଦାନ୍‌ ମାଡ଼ା |
+| tamarind  | Noun  | ଇତା ପୁଲ |

@@ -1,0 +1,21 @@
+| English Word | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| unhealthy | Noun | ରୋଗାମ୍‌, ଦୁକ୍‌ କାମ୍‌ |
+| uniformity | Noun | AIAG , ଅରୋଟ୍‌ |
+| ଲେକାମ୍‌ | N/A | ମିନ୍ଦେ |
+| unite | Verb | କାଲ୍‌ ପା, ଗୁଡ଼ୂପା |
+| united | Noun | ଅର୍ରାଗା AIGA |
+| କାଲିୟ୍‌ ମେଲିୟି ମାନ୍ଦାନ୍‌ | N/A | N/A |
+| unity | Noun | କାଲିୟିମାନ୍ଦାନାଦ୍‌ |
+| universal dissolution | Noun | ସାରେ ମତା ନାଷ୍ଟାମ୍‌ ଆଦାନାଦ୍‌ |
+| universally | Adverb | ଦୁନୟାସାରେ, ନଟୁମ୍‌ ଲୋକାମ୍‌ ତେ |
+| unkind | Adjective | ଆଲାମ୍‌, କୋପାମ୍‌ |
+| unknown | Adjective | YER ଓ, ପୁନ୍‌ Ql |
+| unless | Subordinating connective | ଜୋଦ , (ଏଏୁକଟ୍ଟେ ମାତ୍‌ କେ ,) |
+| unlike | Noun | ନେଚିଲାଦ୍‌ |
+| unlock, remove | Noun | ତୀସାନାଦ୍‌, ଟେଣ୍ଡା |
+| unluckily | Adverb | ଆଦିଷ୍ଟାମ୍‌ ଇଲୁକଟେ |
+| unlucky | Adjective | ଆଡୁଷ୍ଟାମ୍‌ ଇଲୁକୁଣ୍ଡାମ୍‌ |
+| unmarried | Adjective | @@ ପିକ୍‌ କି |
+| unmarried boy | Noun | @@ GRAD |
+| vaccination | Noun | ରୋଗାମ୍‌ ୱାଦାନ୍‌ ER ଆଡ଼ାମ୍‌ ଓାଟାନାଙ୍କ୍‌ ମାତ୍‌, ସୂଦୁ ଭଦାନାଦ୍‌ |

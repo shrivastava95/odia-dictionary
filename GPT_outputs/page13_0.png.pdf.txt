@@ -1,0 +1,27 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| bright ,shine | Adjective | ଗୋଙ୍ଗ୍‌ |
+| brightness | Noun | ଜିଗ୍‌ ଜାଗ୍‌ |
+| brim with tears | Noun | କିଡ଼୍‌ କାଡ଼୍‌ ଆତ୍‌-କାଣ୍ଟ କ୍‌ କାଣ୍ଟ କ୍‌ ପୟ୍‌ ତ୍‌ |
+| bring | Verb | ତାରାଁ |
+| bring about | verb | ଜାର୍ଗିସାନାଦ୍‌ |
+| bring back | Verb | ମାଲ୍‌ ସି ତାଭାନାତ୍‌ |
+| bring in | Verb | ଓାଟାନାଦ୍‌ |
+| bring on | Verb | ତେୟାର୍‌ ମାଡ଼ାନାଦ୍‌ |
+| bring out | Verb | ତୋପିସାନାଦ୍‌ |
+| bring round | Verb | ରୋଗାମ୍‌ କୁଞ୍ଜୁ ସାୟାମ୍‌ ମାଡ଼ାନାଦ୍‌ |
+| bring under | verb | ଗାର୍ରେ ତାନ୍‌ ae ପେ ତାଭାନାଦ୍‌ |
+| bring up | Verb | ପେର୍‌ ପିସି ପୋର୍‌ ପାନାଦ୍‌ |
+| brinjal | Noun | ଗିଗ୍‌ କାୟା, ଆପନା |
+| brinjal curry | Noun | ଆପନା କୁଚିର୍‌ |
+| brisk | Adjective | ଚାଲାକ |
+| broad | Adjective | ଞେଲ୍‌ ପ୍‌ |
+| brocade silk | Noun | ଜୀର୍‌ ଗେଲ୍‌ ଗୁଡ଼ା |
+| broken = | Verb | ଭରଙ୍ଗ୍‌ ତା |
+| broken pot | Adjective | କିଲ୍‌ ଡୋକ୍‌ |
+| bronches | Noun | ଷେରିଫିଆ ନେସ କାନ୍‌ ଗୋଣ୍ଠାମ୍‌ |
+| bronchitis | Noun | ଡାଗ୍‌ ପାଣ୍‌ ସେମ୍‌ |
+| bronze | Noun | ପିତାଲ୍‌ କାଞ୍ଚ୍‌ |
+| broom | Noun | ଏପୁରି |
+| brother in law | Noun | ସିଗିର |
+| brown colour of hair | Noun | ରାଗ୍‌ କେଲ୍‌ କୁ ଆତ୍‌ |

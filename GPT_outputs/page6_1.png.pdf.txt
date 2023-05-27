@@ -1,0 +1,19 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| accordingly  | Adverb         | ଆଦିଙ୍କ୍‌ ଲେକେ    |
+| accuse       | Noun           | ସିରୋଦାମ୍‌ ତେ ଦୋଷ୍‌ (ନେରାମ୍‌ ତାପ୍‌) ୱାଟାନାଦ୍‌, ପେର୍‌ ଲାନାଦ୍‌ |
+| accusing     | Noun           | ସିରୋଦାମ୍‌ ତେ ଦୋଷ୍‌ (ନେରାମ୍‌ ତାପ୍‌) ୱାଟାନାଦ୍‌, ପେର୍‌ ଲାନାଦ୍‌ |
+| ache         | Noun           | ତୀପାତ୍‌ ତା ,ନପ୍‌ AA ତା |
+| achievement  | Noun           | ବେଚୋର୍‌ ନାରୂର୍‌ ତୁଙ୍ଗା ପାର୍‌ Sarl ପାଡ଼ିୟ୍‌ ଦା ଜୀଡ଼ାନାଦ୍‌ |
+| act          | Verb           | ME IF ACB       |
+| act against  | Verb           | ଓିରୋଦାମ୍‌ ତେ AISA ତୁଙ୍ଗାନାଦ୍‌ |
+| act after    | Verb           | QI@IAIGA AIGA ତୁଙ୍ଗାନାଦ୍‌ |
+| act harshly  | Verb           | ନାର୍ଗେ କାଷ୍ଟାମ୍‌ ଭଦାନାଦ୍‌ |
+| act of churning | Verb        | ଞିଛାନାଦ୍‌     |
+| acting       | Noun           | ନାଟ୍‌ କାମ୍‌ ତୋପିସାନାଦ୍‌ |
+| action       | Noun           | AISA            |
+| active       | Verb           | କୁସେଲେ ଦୁରୁସ୍‌ ମାଞ୍ଜ୍‌ ଜାପେ ଜାପେ ପାଡ଼ିୟ୍‌ ମାଡ଼ାନାଦ୍‌ |
+| actor        | Noun           | ନାଟ୍‌ କାମ୍‌ ତୋପିସାନୋଣ୍ଡ |
+| actress      | Noun           | ନାଟ୍‌ କାମ୍‌ ତୋପିସାନ୍‌ ନାଟା |
+| acts of fun  | Verb           | ଏପ୍‌ ପାନାଦ୍‌    |
+| adapt        | Verb           | ଆଲ୍‌ ଓଟ୍‌ ଆସି ପାଡ଼ିୟ୍‌ ତେ ସାୟା ମାନ୍ଦାନାଦ୍‌ |

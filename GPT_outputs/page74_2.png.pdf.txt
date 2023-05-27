@@ -1,0 +1,20 @@
+| Word in English  | Part of Speech | Odiya Translation |
+|-----------------|----------------|------------------|
+| IQ ମିଦାନାଦ୍‌,ଏର୍‌  | Verb | ପୃନ୍ଦିସାନାଦ୍‌ |
+| to cause to bite | Transitive Verb | କାପିସାନାଦ୍‌ |
+| to cause to bow | Transitive Verb | ମାଡ଼କିସାନାଦ୍‌ |
+| to cause to bring | Transitive Verb | ତେପିସାନାଦ୍‌ |
+| to cause to burn | Transitive Verb | ତାର୍ପିସାନାଦ୍‌, ତାର୍ଶ୍‌ |
+| to cause to climb | Transitive Verb | ପଡ଼ସୀଦାନାଦ୍‌ |
+| to cause to cry | Transitive Verb | ଅଗିସାନାଦ୍‌ |
+| to cause to crush | Transitive Verb | କେୟିସାନାଦ୍‌, କେୟ୍‌ ଶ୍‌ |
+| to cause to dance | Transitive Verb | ଡାଣ୍ିସାନାଦ୍‌ |
+| to cause to drink | Transitive Verb | ଏନ୍ଦିସାନାଦ୍‌ |
+| to cause to eat | Transitive Verb | ଉପିସାନାଦ୍‌ |
+| to cause to extinguish fire | Transitive Verb | ତିପିସାନାଦ୍‌ |
+| to cause to fall | Transitive Verb | ପିସିଇଦାନାଦ୍‌ |
+| to cause to get down | Transitive Verb | ରାଲପିସାନାଦ୍‌ |
+| to cause to give, return | Transitive Verb | ଡିପିସାନାଦ୍‌, ଡିପିମ୍‌ |
+| to cause to graze | Transitive Verb | ଇପିସିନାଦ୍‌, ଏନିସାନାଦ୍‌ |
+| to cause to grow | Transitive Verb | ମେଇସାନାଦ୍‌ |
+| to cause to fall | Transitive Verb | ପେରିପିସାନାଦ୍‌ |

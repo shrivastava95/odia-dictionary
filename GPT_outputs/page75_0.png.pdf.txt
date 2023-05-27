@@ -1,0 +1,19 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| to cause to hide | Transitive verb | ମିଛାନାଦ୍‌ |
+| to cause to keep in the sun | Transitive verb | ଓଡ଼ି ସାନାଦ୍‌, ଓଡ଼ିମ୍‌ |
+| to cause to laugh | Transitive verb | କାଞ୍ୁସାନାଦ୍‌ |
+| to cause to leave | Transitive verb | ଓଡ଼ି ପିସାନାଦ୍‌ |
+| to cause to play | Transitive verb | କାର୍ପିସାନାଦ୍‌ |
+| to cause to plough | Transitive verb | ଉଡିପିସାନାଦ୍‌, ଉଡ଼ତିସାନାଦ୍‌ |
+| to cause to pluck | Transitive verb | କୋୟଦିସାନାଦ୍‌ |
+| to cause to put out | Verb | GG(Q ସି) ଦାନାଦ୍‌ |
+| to cause to put, place | Transitive verb | ଓାଟିସାନାଦ୍‌ |
+| to cause to return | Transitive verb | AMA ଏାଦିସାନାଦ୍‌ |
+| to cause to rot, spoil | Transitive verb | କାଡ଼ିୟିସାନାଦ୍‌ |
+| to cause to run | Transitive verb | AQ ଇସାନାଦ୍‌ |
+| to cause to see, show | Transitive verb | ଉଡ଼ିସାନାଦ୍‌, ତୋପିସାନାଦ୍‌ |
+| to cause to shave | Transitive verb | କୋରିଇସାନାଦ୍‌, କୃଶ୍‌ କାନାଦ୍‌ |
+| to cause to sing | Transitive verb | ପାରିସାନାଦ୍‌ |
+| to cause to sit | Transitive verb | କୁପିସାନାଦ୍‌, କୁଶ୍‌ ପିଦାନାଦ୍‌ |
+| to cause to smear | Transitive verb | ଉସୀଦାନାଦ୍‌ |

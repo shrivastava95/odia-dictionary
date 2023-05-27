@@ -1,0 +1,29 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| plunderer | Noun | ବେଦିରିସି ଲାଗି |
+| ଞ୍ଞୋଦାନୋଣ୍ଟ | Noun | - |
+| pneumonia | Noun | ନେଲା ତା ମାନ୍ତାନ୍‌ |
+| ଡାଗ୍‌ ରୋଗାମ୍‌ | Noun | - |
+| poison | Noun | ସିଷାମ୍‌ |
+| poke | Verb | G14 GAL |
+| polar bear | Noun | 6ORINER |
+| pole star | Noun | ରାଜ AR କାମ୍‌ |
+| police | Noun | ପୋଲିଶିର୍‌ |
+| police station | Noun | ARQ ତାନା |
+| politeness | Noun | ନେମ୍‌ IE |
+| polka dots | Noun | GQ କା ଚୁକ୍‌ କା ମାନ୍ଦାନ୍‌ କୁଡ଼ା |
+| pollen | Noun | ପ୍ରଙ୍ଗାର୍‌ ଗୁହ୍ଛେଲ୍‌ |
+| pomegranate | Noun | AIMA,SINA, QE |
+| pond | Noun | NQG |
+| pond heron | Noun | ଗୁଣ୍ଟିକଙ୍ଗା |
+| ponder over | Verb | ଆଲ୍‌ ସାନାଦ୍‌ |
+| pool | Noun | କୁଟା |
+| poor man | Noun | MAB ମିନ୍ଦୋଣ୍ୁ |
+| pop com | Noun | GQ କି |
+| popular | Noun | ନାରୂର୍‌ ନେସ୍‌ BIG, SAE ,ଇଷ୍ଟାମ୍‌ ଆଦାନାଦ୍‌,ସାର୍ରେ ତୋର୍‌ କୋରାନାଦ୍‌ |
+| popularity | Noun | ନାରୂର୍‌ ନାତୃମେ ମେଲ୍‌ ତା ଆଦାନାଦ୍‌ |
+| population | Noun | ମତାମ୍‌ ଜାନାମ୍‌ |
+| porcupine | Noun | ଅୟ୍‌ |
+| porridge | Noun | ଗେଞ୍ଜିଜାୱ୍‌ |
+| porter | Noun | ବାର୍‌ 4 6419, 6A CRIGIERIQ |
+| possibly | Adverb | ଆସ୍‌ Alsi |

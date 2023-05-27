@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| look after | Verb | କାପ୍‌ ଉଡ଼ାନାଦ୍‌, ରାକ୍‌ |
+| look at | Verb | କା କୀଦାନାଦ୍୍‌, ପଡ଼୍‌ ପାନାଦ୍‌ |
+| look down upon or on | Verb | ପାସ୍‌ କାନାଦ୍‌ |
+| look into | Verb | ମେକ୍‌ କି ଉଡ଼ାନାଦ୍‌ |
+| look out for | Verb | ମେକ୍‌ GIGI |
+| look through | Verb | ପରୀକ୍ଷା ମାଡ଼ି ଉଡ଼ାନାଦ୍‌ |
+| look, view | Verb | AGI |
+| looking glass, mirror | Noun | ଆଦାମ୍‌ |
+| loose | Adjective | ଆକୁଳ, ସେଁ |
+| loosen | Verb | ଲେମ୍‌, ଲେତାନାଦ୍‌ |
+| loosened | Adjective | ଆଉାକଲେତଭା ମିନ୍ଦାନ୍‌ |
+| loot, plunder | Noun | ଡଙ୍ଗାନାଦ୍‌, ଞ୍ଞୋଦାନୋଣ୍ଟ |
+| looter | Noun | ଜୋକ୍‌ କା, ସାଙ୍ଗୋ, ଜାତା ମାଞ୍ଚି, ସାଡ୍‌ ମାଞ୍ଜା, ଡଙ୍ଗାନାଦ୍‌ |
+| lord | Noun | ପାରାମେଶାର୍‌, ଦେଏ୍‌ ଡ଼୍‌AA ତନ୍‌, ଭଶ୍ବର, ଆପିଆ, ଅସିନ |
+| lorry | Noun | ରି |
+| lose | Verb | ମାପାନାଦ୍‌ |
+| lose a fight | Verb | ନ୍‌ PIRI |
+| loss, damage | Noun | ନାଷ୍ଟୀମ୍‌, ମାଡ଼ିଭୋଣ୍ତ |
+| lost man | Adjective | ମାଇଆତଣ୍ଡ |
+| lot | Noun | ଏକ୍‌, ଓା, ଦିବେଡ଼, ଡିଟାଙ୍ଗ୍‌ |
+| lot of, too much, very | Adjective | ଡିଟାଙ୍ଗ, ଗାଦେମ୍‌ |
+| lotus | Noun | ପଦ୍ମ ପୂରଙ୍ଗାର୍‌ |
+| loud noise | Noun | କାୟ୍‌ Qe ଗଟି, ତ୍ରିୟାନାଦ୍‌ |

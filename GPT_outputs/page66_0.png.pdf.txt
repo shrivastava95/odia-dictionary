@@ -1,0 +1,26 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| small tomato | Noun | ଏର୍କ୍‌ କା |
+| small wooden stool | Noun | Gm |
+| smallpox | Noun | AUG CINE ରୋଗାମ୍‌ |
+| smartness, briskness | Noun | ସିଟ୍‌ |
+| ପାଟ୍‌ ସାୟା ପାଡ଼ିୟ୍‌ ତୁଙ୍ଗାନାଦ୍‌ | N/A | N/A |
+| smell | Verb | JQ କାନାଦ୍‌ |
+| smoke | Noun | କୁମ୍ପଡ଼, ଉମା |
+| smoke of the incense | Noun | ଉମା |
+| smooth | Noun | ନିୟ୍‌ ମାଙ୍ଗ୍‌ |
+| snail | Noun | ନାତ କେ |
+| snake | Noun | ତାଢ଼ାସ୍‌, ତାର୍ସ୍‌ |
+| snake charmer | Noun | ତାରସକିନର୍‌, ତାଡାସ୍‌ ପୟ୍‌ ସି କାର୍ପି ସାନୋର୍‌, ଞେଲ୍‌ ତାନୋର୍‌ |
+| snake gourd | Noun | ଜାଙ୍ଗ, ଗୁମଡ଼କାଯା |
+| snake kisses | Verb | ତାଡ଼ାସ୍‌ ଡୁର୍‌ EQ @ Jacl |
+| snake lift the head | Verb | ତାରସକ୍‌ ଉଦିତ୍‌ |
+| snap the finger's | Verb | G¢ କା |
+| snaring | Verb | ପାଲ୍‌ କ୍‌ ନୋକି କୋପାମ୍‌ ତୋପିସାନାଦ୍‌ |
+| snatch | Verb | AIR କ୍ ଭା |
+| sneezing | Verb | GACY |
+| snore | Noun | ଗର୍‌ କିଭ୍ତୋନ୍‌, ଗୁର୍ରାନଦ୍‌ |
+| snub-nosed | Noun | ନାପ AAGY |
+| so | Adverb | ଇ ଲେକ୍‌ କେ |
+| so be it | Interjection | ଆଲେ ଆଦ୍‌ ଗୁନ୍‌ ଆୟି |
+| so early | Adjective | GARIR, AG ale |

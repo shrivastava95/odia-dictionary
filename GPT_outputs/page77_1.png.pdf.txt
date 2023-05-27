@@ -1,0 +1,21 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| quarrel | Intransitive verb | ଏରପଇସାନାଦ୍‌, ପତାନାଦ୍‌ |
+| raise | Transitive verb | କିୟାନାଦ୍‌, ତେତାନାଦ୍‌ |
+| rear the fowl | Verb | କୋର୍କ୍‌ |
+| receive, catch | Transitive verb | ପର୍ପାନାଦ୍‌ |
+| remove shoes, clothes etc. | Transitive verb | ଏନ୍ତାନାଦ୍‌, ପୟ୍‌ ତାନାଦ୍‌ |
+| return, turn back | Intransitive verb | କୁସ୍‌ ପା, ମାଲ୍‌ ସ୍‌ |
+| ring bell | Transitive verb | ଏାଦାନାଦ୍‌, ସେନ୍‌ |
+| rise from sleep | Verb | ସାନାଦ୍‌, ଭଞ୍ଜ |
+| rise high up | Verb | କାଡ଼ତ୍‌ GE, ନୁଞ୍ା ତେଦାନାଦ୍‌, ନାର୍ଗେ AG |
+| roast | Transitive verb | ତାର୍ରାନାଦ୍‌ |
+| rot | Intransitive verb | ପଡ଼ସାନାଦ୍‌, କାଡ଼ିଇତା |
+| run | Intransitive verb | ମିରାନାଦ୍‌ |
+| scold | Transitive verb | ମାୟ୍‌ ତ୍ତାନାଦ୍‌, ତେନ୍‌ ଶ୍‌ କାନାଦ୍‌ |
+| search | Transitive verb | ମେକାନାଦ୍‌ |
+| see | Transitive verb | ଉଡ଼ାନାଦ୍‌ |
+| see so_ beautiful sky | Adjective | ଉଡ଼ାନୁକ୍‌ ଗାଟି ସକ୍‌ ମାନ୍ଦାନ୍‌ ମାବ୍‌ |
+| sell | Transitive verb | ଓାମାନାଦ୍‌, ଆମ୍ମାନାଦ୍‌ |
+| send | Numeral | ରୋତାନାଦ୍‌, ଲୋତା ନାଦ୍‌ |
+| serve food | Transitive verb | ତେନ୍‌ କାନାଦ୍‌ |

@@ -1,0 +1,22 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| hardware | Noun | ଇକ୍ଲେମ୍‌ ତା,ଇ ନିମ୍‌ ସାମାନ୍‌ |
+| harm | Noun | ତିପାଲ୍‌, ନାଷ୍ଟାମ୍‌,କ୍ଷତି |
+| harmonium | Noun | ପୀଙ୍ଗ୍‌ |
+| harmony | Noun | କେଙ୍ଗ କାଲିୟାନାଦ୍‌ |
+| harvest festival | Noun | @@ ତା ଅଲିଗେ |
+| harvesting | Noun | ଆାଞ୍ଜି କୋୟ୍‌ ତାନାଦ୍‌ |
+| haste, hurry | Noun | ଦାନ୍ଦା ପୟ୍‌ ସି |
+| hatchet | Noun | ଟେଙ୍ଗା, ଟାଙ୍ଗିଆ |
+| hatred | Noun | ପେର୍ଲାନାଦ୍‌, ARIF ଆଦାନାଦ୍‌, କୋପାମ୍‌ ଆଦାନାଦ୍‌, ଛାଡି SIME, ଞିରୋଦାମ୍‌ |
+| have(have a pillow and rest) | Verb | ତାଲାପା ଏଟି ପାଟା |
+| having seen | Verb | AG |
+| having slept | Noun | ଉନ୍‌ ଜି,ଉନ୍‌ ଶ୍‌ Clg se |
+| having told | Adjective | କେତାନ୍‌ AG |
+| hay | Noun | ସାତ୍‌ ତି ମାନ୍ଦାନ୍‌ Ge । ପିସିଲ୍‌ |
+| hay stack | Noun | ଗାଡ଼ ଲୋନ୍‌ |
+| he | Pronoun | ଉଣ୍ତ,ଓଣ୍ତୁ |
+| he goat | Noun | ପୋତ୍‌ ତୁ ମେକ୍‌ କା,ପୋକ୍‌ GF ମେକ୍‌ କା |
+| he had gone market | Verb | ଆଟ୍‌ -ସାନ୍ତା AB ମାଭଣ୍ତ |
+| he has been promoted | Verb | ପରଟ୍‌ କ୍ଲାସ୍‌ ତାଗ୍‌ ତେଦାନାଦ୍‌ |
+| he is giving | Verb | QVAGS |

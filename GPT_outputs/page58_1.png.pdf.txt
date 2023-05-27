@@ -1,0 +1,27 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| ମାନ୍ଦାନାଦ୍‌ | Verb | ସ୍ୱଲାଭାବେ ତ୍ଯାଗ କରିବା |
+| quit | Verb | ଛେଡ଼ିବା |
+| quite | AIP, JSR, AIGA | ଖୁବ ଭଲ, ଖୁବ ଆକର୍ଷକ |
+| Rani sings | Verb | ରାନୀ ଗୀତ ଗାୟ |
+| ransom | Noun | ଅପରାଧୀଙ୍କ ମୁକ୍ତି ପାଇଁ ଦାନ |
+| ସାଇ ଆଦାନାକିଙ୍କ୍‌ | | ସାଈ ଆଦାନାକିଙ୍କ୍ |
+| ଭଦାନାଦ୍‌ | | ଭଦାନାଦ୍‌ |
+| rapidly | Adverb | ଦ୍ରୁତ |
+| ଗାବା | | ଅସାଧ୍ୟ |
+| rarely, seldom, occasionally | Adverb | ବହୁତ ବ୍ୟତିତ |
+| rascal | Noun | ଦୁର୍ବାଚାରୀ |
+| ମାଡ଼ାନୋଣ୍ଡ | | ଜାଳିଆ ପୋଷାକ |
+| rashness | Noun | ବେପର୍ଦାପି |
+| rat | Noun | ଉଁଟା |
+| rather ... than | Correlative connective | ହେତୁ ... ନାହିଁ |
+| raw fruit | Noun | କଚା ଫଳ |
+| raw meat | Adjective | କଚା ମାଂସ |
+| raw rice cooked without draining the alter | Noun | ଖମିରି ବିନା ପାନୀ ଛାଳିନ୍ନ୍ତୁ |
+| ray, beam | Noun | କିରଣ |
+| razor | Noun | ସାଫା କରଣୀ |
+| reach | Verb | ପାଇଁ ପର୍ଯ୍ୟନ୍ତ ଯାଇଥିବା |
+| read | Verb | ପଢ଼ିବା |
+| ନାଦ୍‌ | | ପଢ଼ିବା |
+| read into | Verb | ଭାବ କରିବା |
+| read off | Verb | ପଢ଼ିବା |

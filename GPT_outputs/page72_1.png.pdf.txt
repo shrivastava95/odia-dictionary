@@ -1,0 +1,27 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| these,they-feminine | Demonstrative, Pronoun. | ଓଗ |
+| they | Pronoun. | ଆହୁନି |
+| they are playing | Verb. | ଖେଳୁଛନ୍ତି |
+| ମିନ୍ଦର୍‌ | Noun. | ମିନ୍ଦର୍‌ |
+| they did | Verb. | ତୁଙ୍କ୍‌ ତର, ମାଡ଼୍‌ |
+| ତୋର୍‌ | Noun. | ତୋର୍‌ |
+| they got broken | Verb. | ଉଚ୍ଚିଭର୍‌ |
+| they play | Verb. | ଭର୍‌ କାର୍ସିତର୍‌ |
+| they say | Verb. | କେଢିଭୋର୍‌ |
+| they will say | Verb. | କେଚ୍ଚୀଭୋର୍‌ |
+| they (far) | Pronoun. | ଓରୁ, ଉରୁ |
+| they (female) see | Verb. | ଉଡ଼ିଭା |
+| they (m) will do | Verb. | ଭର୍‌ ତୁଙ୍ଗି ଭୋର୍‌, ମାଡ଼ିଭୋର୍‌ |
+| they (male) will see | Verb. | ଉର୍‌ ଉଡ଼ିଭୋର୍‌ |
+| they (near) | Pronoun. | ଆହୁନି |
+| they (non-masculine) | Pronoun. | ଆହୁନି |
+| thick | Adjective. | ଗୋଟେଇ |
+| thickest forest, tallest trees | Noun. | ଟୁଟ୍‌ କ୍‌ ଅଣପାତର ବନ, ଊଁଚା ଗଛ |
+| thicket plant | Noun. | ରୋଟା |
+| thickness | Noun. | ପୋଷଣ, ତ୍ରୁଟି |
+| thief,thieves | Noun. | ଚୋର, ଚୋରା |
+| thigh | Noun. | ତୋକ |
+| thin | Adjective. | ପାତଳା, ଦରଙ୍ଗା |
+| things | Noun. | ସାମାନ୍‌ |
+| think | Verb. | ଭାବିବା |

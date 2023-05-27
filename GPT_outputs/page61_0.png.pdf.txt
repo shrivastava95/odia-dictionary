@@ -1,0 +1,43 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| romantic love | Adjective       | ସୋକ୍‌             |
+| roofing with bamboo | Noun | ଓାଁସାକ୍‌ |
+| room | Noun | ଗାତ୍୍‌, ଗାତି |
+| room-mate | Noun | ତୋଡ଼େ ଅଣ୍ଡୋୟ୍‌ |
+| root | Noun | ସେର୍‌, ମାଡ୍‌ |
+| root vegetable,yam | Noun | କେସ୍‌ କାମାଟି |
+| root-vegetable | Noun | ନାଙ୍ଗେଲମାଟି |
+| rope | Noun | ଏର୍‌ ଗାଟ |
+| rope for tying plough | Noun | କାନ୍ନେମ୍‌ |
+| rope shelf | Noun | ଆର୍ପୁ-ତାଡୁମ୍‌, ଉଟ୍‌ ତାଢ଼ୂମ୍‌ |
+| rope weave | Noun | 68Q ଡ଼ାଣ୍ତେମ୍‌ |
+| rope,cord | Noun | ମୋକୁମ୍‌ |
+| rose | Noun | ଗୁଲାପ୍‌ ପୁଙ୍ଗାର |
+| rotten food | Verb | Ugg ଭା ସାକ୍‌ |
+| sack | Noun | ବୋରା, ବାସ୍ା |
+| sacred writings | Adjective | CASQ, AGI ARIF ଗଟ୍ଟି,ନୀତିଗ୍‌ ମାଟ୍ଟା,ମେଲ୍‌ ତା ମାଟ୍ଟା |
+| sacrifice | Noun | ତିରାମ୍‌,ବାଲିଦାନ୍‌ |
+| sad | Noun | ୮୮୮୭ ଦୁକ୍‌ କାମ୍‌,ଆଲ୍‌ ପିନେ ମାନ୍ତୋଣ୍ଡ |
+| Sadducee | Noun | ଯୀଶୁ ଖ୍ରୀଷ୍ିନ୍‌ |
+| aright | Adverb | ଯଥା ସେତିବା ପ୍ରମାଣରେ |
+| arm | Noun | ବାହୁ, ହସ୍ତ |
+| Army | Noun | ସେନା |
+| arouse | Verb | ଜାଗାନାଅ |
+| arrange | Verb | ସଜାଇବା |
+| arrange, set straight | Verb | ଠିକ୍‌ କରିବା |
+| arrival | Noun | ଆଗମ |
+| arrow | Noun | ତୀର |
+| arsenic | Noun | ଜର୍ଷିମିକ |
+| article | Noun | ନିବନ୍ଧ |
+| as | Adverb | ଯେଉଁଁଠାରେ |
+| as far as | Conjunction | ସେତେବେଳେ |
+| as if | Conjunction | ଯେହେତୁ |
+| as it is | Adverb | ଏହିବିଧରେ |
+| as well as | Conjunction | ଜେଉଁଁଠାରେ |
+| ascend | Verb | ଉଠିବା |
+| ash | Noun | ରଖଣ |
+| ask | Verb | ପୁଛିବା |
+| asleep | Adjective | ଘୁମିବା |
+| aspect | Noun | ଦୃଷ୍ଟିଭେଦ |
+| aspen tree | Noun | ଛିଡ଼େ |
+| assemble | Verb | ସଂଯୋଗ ହେବା |

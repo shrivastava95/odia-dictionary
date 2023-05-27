@@ -1,0 +1,27 @@
+| Word in English | Part of speech | Odiya Translation |
+|----------------|----------------|------------------|
+| license | Noun | ଞ୍ରିଡ଼ୁସିଦାନାଦ୍‌ |
+| permission | Noun | ମାଟା |
+| lick | Verb | ତାଲ୍‌ ପାନାଦ୍‌ |
+| lid | Noun | ମୁଚାନାଦ୍‌, କାପ୍‌ ପଢ଼ୁ |
+| lie | Verb | ବଲ୍‌ ଲାନାଦ୍‌, ସେଡ୍‌, ମାଟା, ଗାଭି |
+| lie down | Verb | ପାଟି ମାନ୍ଦାନାଦ୍‌ |
+| lie in | Verb | ପୁଟିସାନାଦ୍‌ |
+| lie in wait | Verb | GI@ AMR Ald, କି ମାନ୍ଦାନାଦ୍‌ |
+| life | Noun | ୨୧, ପ୍ରାଣାମ୍‌, ପାନାମ୍‌, ବାଦ୍‌ କାଡ଼୍‌ |
+| life span | Noun | ଗାର୍କ୍‌ |
+| lift | Verb | IQ ତୋଶା NIGIN@I |
+| lift up(cot) | Verb | @IGR ଉତାନାଦ୍‌ |
+| light | Noun | ଞେସ୍‌, ଞେନେଲ୍‌ |
+| light weight | Adjective | ଏଲ୍‌ କାଙ୍ଗ, ପାୟିଙ୍ଗ୍‌ Ace |
+| lightning | Noun | ସେନ୍‌ ନେଲ୍‌, AIP, 6A ଆଦାନାଦ୍‌ |
+| lightning | Verb | @1Q କିନା, କଣ୍ଡାନାଗା ଜିକ୍‌ ଆଭା |
+| lime | Noun | BR GR ମାବ୍‌, ମେର୍ସାନାଦ୍‌ |
+| like | Noun | କୋରାନାଦ୍‌ |
+| like circus | Noun | ସାର୍କେଟ୍‌, ଆକ୍ରାମ୍‌ |
+| like that | Adverb | ଆଲେକେ |
+| like this | Connective | ଇଲେକେନ |
+| like, love, longing | Noun | କୋରାନାଦ୍‌ |
+| likewise | Adverb | ଆ ଲେକେ |
+| lily | Noun | Geil ପୂଙ୍ଗା |
+| limbs | Noun | 6AGR ତ୍‌ ମାନ୍ଦାଙ୍କ୍‌ |

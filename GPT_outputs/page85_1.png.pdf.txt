@@ -1,0 +1,26 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| Mandan Pasanja | Noun | ମାନ୍ଦାନ୍‌ ପାସଞ୍ଜନ୍‌ |
+| Wild boar | Noun | ଆଡ଼୍‌ ଓ ତା Ale |
+| Wild cat | Noun | ବାୟ୍‌ କ୍‌ |
+| Wild fruit | Noun | ପଟୋଶ୍‌ କାୟା |
+| Wild life | Noun | ଜୀୱାମ୍‌ |
+| Wild lime | Noun | ତାପା, ରିଜ୍ମା କାୟା |
+| Wilderness | Noun | ମାନ୍ଦାନ୍‌ ବୂମ୍‌ |
+| Wile | Noun | 9G! |
+| Wilful | Adjective | AS! ଇଷ୍ଟାମ୍‌ ତେ |
+| Will | Noun | ଇଷ୍ଟାମ୍‌ |
+| Will | Verb | ଆତା।ମାନ୍ତା |
+| Will not accept | Interjection | ଓପ୍‌ ପର୍‌ |
+| Will see | Verb | AG OQ |
+| Will you come?, you will come | Verb | ଓାତିନା? ତିନ୍‌ |
+| Will you drink? | Interjection | ଉଣ୍ଡିନା |
+| Willingly | Adverb | ଇଷ୍ଟାମ୍‌ ତେ |
+| Win | Verb | ଜିଡ଼ାନାଦ୍‌ |
+| Wind | Noun | ଗାଲ୍‌ |
+| Wind blowing | Verb | ଗାଲ୍‌ ତଲମିନ୍ଦେ |
+| Wind dropsy | Noun | ଡକ୍‌ କା କାଲି ଇଗେ LIQ AI ମାନ୍ଦାନାଦ୍‌ |
+| Wind, to fan intransitive verb | Verb | ଏରସକାନାଦ୍‌, ଗାଲ୍‌ ତଲୋମିନ୍ଦେ |
+| Window | Noun | କିଡ଼କେ, ଜର୍‌ କା |
+| Windpipe | Noun | ବଣ୍‌ କି, ନେସ୍‌ କାଡ଼ ନାଡ଼ତାନ୍‌ ଗଣ୍‌ କ୍‌ |
+| Wing | Noun | ରେକା |

@@ -1,0 +1,35 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| five rupee   | Verb           | ପାଞ୍ଚ ଟଙ୍କା    |
+| five[males]  | Numeral        | ପାଞ୍ଚ       |
+| -            | ଆଇଓୱିର      |                 |
+| fix          | Verb           | ଠିକ୍ କରନ୍ତୁ    |
+| fixed rate   | Adjective      | ସ୍ଥିର ଦର      |
+| flat         | Adjective      | ଫ୍ଲାଟ         |
+| ସାୟ୍‌ ମୁନ୍‌ ମିନ୍ଦେ |                |                 |
+| flesh        | Noun           | ମାଂସ          |
+| flies        | Noun           | ଝିଅ           |
+| ବୁଙ୍କ୍‌ କେଇମିନ୍ଦେ   |                |                 |
+| float        | ୮୮୮୮ ଜିଓ ମାନ୍ଦା         | ତରଙ୍ଗ ଉଠାଇବା |
+| ମେଦୁଲମିନ୍ଦେ,ଏର୍‌ ତା ଆଦାମ୍‌ |                |                 |
+| ଆନ୍‌ ଜ ମିନ୍ଦେ       |                |                 |
+| flood        | Noun           | ପ୍ରବାହ        |
+| flour,powder | Noun           | ଅଟା           |
+| flow         | ୮୮୮୨. ପୋଙ୍ଗୋମିନ୍ଦେ        | ପ୍ରବାହ ହେବା   |
+| flower blossoms ` ⁄/. | Noun | ପୂର୍ବାର୍‌ |
+| ପାରଲମିନ୍ଦେ,ପୃଙ୍ଗା ଇତା |             |                 |
+| flower in red colur | Noun | ମାଲଟି        |
+| ପୂଙ୍ଗାର୍‌           |                |                 |
+| flower tree | Noun           | ମାଧୁରୀ        |
+| flowerbed    | Noun           | ଫୁଲ ଖାଟା      |
+| flowering    | Adjective      | ଫୁଲ ଖିଳାନ୍ତୁ  |
+| flowing      | Noun           | ପ୍ରବାହ        |
+| flute        | Noun           | ବାଂସୀ        |
+| flute players | Noun          | ବାଂସୀ ବାଜାର   |
+| ଉଦାନୋର୍‌           |                |                 |
+| fly          | Verb           | ଉଡ଼ନ୍ତୁ       |
+| fly on goat a kind of worm | Noun | ମାକଡ଼ା ଝିଅ  |
+| fly with a fluttering-wing's | Verb | ଫେଙ୍ଚନ୍ତୁ |
+| ଟାଟିସି,       |                |                 |
+| fly(insect)  | Noun           | ମଛର୍           |
+| foal foot    | Noun           | ହତ୍ତୁ ପାଦ      |

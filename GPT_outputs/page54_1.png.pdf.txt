@@ -1,0 +1,22 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| Panaam | Noun | ପାଣାମ୍‌, ଜୀୱାମ୍‌ ସାୟ୍‌ |
+| Physician | Noun | ଡାକ୍‌ ଟାର୍‌ |
+| Pick out | Verb | ଏନ୍‌ ଚି ୋଦାନାଦ୍‌ |
+| Pick up | Verb | ତେସ୍‌ ଭଦାନାଦ୍‌, ଗୁଡୃଶ୍‌ ପାନାଦ୍‌ |
+| Pickaxe | Noun | ପିକ୍‌ କାସ୍‌ |
+| Pickpocket | Noun | ଡଙ୍ଗାନୋର୍‌, କାନି ଡଙ୍ଗାଲ୍‌ |
+| Picture | Noun | ଚିତ୍ରାମ୍‌, ପଟ୍‌ |
+| Piece by piece | Adverb | ଦୁକୁଡି ମୁକ୍‌ କା ମୁକ୍‌ କା |
+| Piece into piece | Adverb | GEN GOR |
+| Piece of bamboo | Noun | ଗୋଣ୍ଟାମ୍‌ |
+| Piece of flesh | Noun | କାଣ୍ଡା କାଣ୍ଡା ତିତା, ତୁଙ୍କା ତୁଙ୍କା ତୀଭା |
+| Piece of paper | Noun | ସୀଟାକ୍‌, ସୀଟ୍‌ ମୁକ୍‌ କା |
+| Pieces of wood | Noun | ପେଡ୍‌ କ୍‌ ଗଡ଼େଲ୍‌ ନାର୍‌ କ୍‌ ତା GAS |
+| Pierce, pierce in metal | Verb | ବୋସ୍ ସା, ତୁଙ୍ଗାନାଦ୍‌, ଗିଟ୍‌, ତାଲ୍‌, ଶୋମିନ୍ଦୋର୍‌ |
+| Piety | Noun | ମେଲ୍‌ ତା ବୁଦ୍ଦି |
+| Pig grunts | Interjection | ପାଦି ଢୁର୍କ ଢୁର୍କ କେୟାନାଦ୍‌ |
+| Pig, hog | Noun | ପାଦି, ପାଦ୍‌ |
+| Pigeon | Noun | ବଡ଼େପିଟେ, ପାଞାର୍‌ ଦି |
+| Pigs lying on the water | Verb | AG ଏର୍‌ ତାଗା ତଡ଼ି ୟ ମିନ୍ଦେ |
+| Pigsty | Noun | ପାଦିନ୍‌ ଗୁଡ଼ା |

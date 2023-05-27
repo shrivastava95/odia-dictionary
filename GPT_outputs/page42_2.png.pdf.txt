@@ -1,0 +1,27 @@
+| English Word          | Part of Speech  | Odia Translation |
+|-----------------------|-----------------|---------------------|
+| lay asnare          | Noun            | ସାଲ ଞିଡୁସ୍ାନ୍‌ |
+| lay by                | Verb            | ଗୁଡୃଶ୍‌ ପାନାଦ୍‌ |
+| lay down            | Verb            | ଗୁଡ଼ୁସ୍‌ ପାନାଦ୍‌ |
+| lay down            | Noun            | ପାଟା |
+| lay open            | Verb            | 19 ବାୟ ଦେ ତୋପିସାନାଦ୍‌ |
+| lay out              | Verb             | କାର୍ଚ୍‌ ମାଡ଼ାନାଦ୍‌ |
+| lay up               | Verb            | କାଲାମ୍‌ ସେଙ୍ଗେ ଗୁଡ଼ୁସ୍‌ ପାନାଦ୍‌ |
+| layer after layer    | Noun            | ବିଡ଼ା ବିଡ଼ା |
+| laziness             | Noun           | ମଣ୍ୁ |
+| lazy man             | Noun           | ପାନ୍ଦି ଓାଣ୍ଡ, ମଣ୍ଡି ଆଣ୍ଡ, ଗାଡିୱାଣ୍ଡ |
+| lead                 | Noun           | ଆର୍‌ ତୋପିସାନାଦ୍‌ |
+| leader               | Noun           | ପେଦାଲ୍‌ |
+| leading              | Verb            | ପେଦାନ୍‌ ଆଦାନାଦ୍‌, ନାଡୁପିସାନାଦ୍‌ |
+| leaf                 | Noun           | ଆକ୍‌ |
+| leaf basket          | Noun           | ଡପ୍‌ ପା |
+| leaf plates tree     | Noun           | ପାଉଡ଼ C3! |
+| leaf-plate           | Noun           | ତ୍ରି ଡପ୍‌ ପା |
+| leafstalk            | Noun           | ତଡ଼୍‌ ମେ |
+| leakage              | Noun           | ଲୋନ୍‌ ଏଡ୍‌ ଭା, କାର ମିନ୍ଦେ |
+| leaking              | Verb            | ଓାଙ୍ଗୋମିନ୍ଦେ |
+| lean                 | Verb            | ରୋଇମିନ୍ଦାନ୍‌ |
+| learn by heart       | Verb            | ସାଦୁୱା, ନେର୍ସା, କାର୍ଶ୍‌ ପା |
+| least stroke of a pen| Noun           | ରାଶ୍‌ ତାମୁକ୍‌ କା |
+| leave                | Verb            | ସଡ଼୍‌ ସା ଛ |
+| leave the door open  | Noun           | ଦୋରା ବାକି ରଖନ୍ତୁ |
