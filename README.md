@@ -23,6 +23,29 @@ To parse the Odia Dictionary pdf:
 9. `python src/f-dataframe_maker/maker.py` - Compiles [GPT_outputs](GPT_outputs) to the desired .csv - [parsed_dicts/parsed_dict_very_unclean.csv](parsed_dicts/parsed_dict_very_unclean.csv)
 
 
+<details>
+<summary>
+
+### `python src/a-getting_page_images/pdf_to_imgs.py`
+
+</summary>
+
+Converts each page of the [Odia Dictionary PDF](Odia.Dictionary.pdf) to a 300 DPI image stored in [pages](pages).Here is a nicely formatted hyperlink!
+
+</details>
+
+<details>
+<summary>
+
+#### Markdown *in* `summary`
+
+</summary>
+
+Hi.
+
+</details>
+
+
 ## Structure
 **Folders**
 - `GPT_outputs` - stores parsed & formatted text tables
