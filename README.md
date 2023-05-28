@@ -1,6 +1,9 @@
 # odia-dictionary
 A repository for organizing contributions to the creation of an Odia Dictionary dataset for the Dictionary Augmented Translations project in C4GT'23.
 
+# demo notebook
+To get a better idea of the code-flow, refer to the [demo colab notebook](demo_notebook.ipynb)
+
 ## Description
 This repository is for the purposes of building a parser that is able to read the Odia.Dictionary.pdf file and parse the definitions into a Dataset. The issues tab contains aspects of the current solution that need to be worked upon and refined, or added in the future.
 
