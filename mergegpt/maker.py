@@ -13,7 +13,7 @@ for df_link in os.listdir(source_dir):
     df = pd.read_csv(df_full_source, 
                      sep='|', 
                      on_bad_lines='skip') # only around 20 bad rows, can be ignored
-    if df.shape[1] != 3:   # Enforce every row has three columns
+    if df.shape[1] != 5:   # Enforce every row has three columns
         continue
     df = df.iloc[:, 1:-1]  # remove blank unused columns
     df.columns = ['English Word', 'Part of Speech', 'Odia Translation']

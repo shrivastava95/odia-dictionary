@@ -14,7 +14,7 @@ openai.api_key = OPENAI_API_KEY
 
 
 source_folder = f'parsed_texts'
-source_folder_2 = f'../odia-dict-repo/parsed_texts' # a copy of the cloned repo with different psm settings
+source_folder_2 = f'../odia-dict-repo-psm2/parsed_texts' # another repo clone, run with different psm settings
 output_destination = f'mergegpt/GPT_outputs_merged'
 
 for text_path in tqdm(os.listdir(f'{source_folder}')):

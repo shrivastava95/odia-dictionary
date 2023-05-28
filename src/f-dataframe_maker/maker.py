@@ -8,17 +8,21 @@ output_dir = f'parsed_dicts'
 output_name = f'parsed_dict_very_unclean.csv'
 
 for df_link in os.listdir(source_dir):
-    df_full_source = os.path.join(source_dir, df_link)
-    print(df_link)
-    df = pd.read_csv(df_full_source, 
-                     sep='|', 
-                     on_bad_lines='skip') # only around 20 bad rows, can be ignored
-    if df.shape[1] != 5:   # Enforce every row has three columns
-        continue
-    df = df.iloc[:, 1:-1]  # remove blank unused columns
-    df.columns = ['English Word', 'Part of Speech', 'Odia Translation']
-    dataframes.append(df)
-    print(df.shape)
+    try:
+            
+        df_full_source = os.path.join(source_dir, df_link)
+        print(df_link)
+        df = pd.read_csv(df_full_source, 
+                        sep='|', 
+                        on_bad_lines='skip') # only around 20 bad rows, can be ignored
+        if df.shape[1] != 5:   # Enforce every row has three columns
+            continue
+        df = df.iloc[:, 1:-1]  # remove blank unused columns
+        df.columns = ['English Word', 'Part of Speech', 'Odia Translation']
+        dataframes.append(df)
+        print(df.shape)
+    except Exception as e:
+        print(e)
 
 
 data = pd.concat(dataframes, axis=0).reset_index(drop=True)
