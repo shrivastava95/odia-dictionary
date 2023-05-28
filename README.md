@@ -26,7 +26,7 @@ To parse the Odia Dictionary pdf:
 <details>
 <summary>
 
-`python src/a-getting_page_images/pdf_to_imgs.py`
+#### 1. `python src/a-getting_page_images/pdf_to_imgs.py`
 
 </summary>
 
