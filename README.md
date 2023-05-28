@@ -26,20 +26,12 @@ To parse the Odia Dictionary pdf:
 <details>
 <summary>
 
-### `python src/a-getting_page_images/pdf_to_imgs.py`
+`python src/a-getting_page_images/pdf_to_imgs.py`
 
 </summary>
 
 Converts each page of the [Odia Dictionary PDF](Odia.Dictionary.pdf) to a 300 DPI image stored in [pages](pages).Here is a nicely formatted hyperlink!
 
-</details>
-
-<details>
-<summary>
-
-#### Markdown *in* `summary`
-
-</summary>
 
 Hi.
 
