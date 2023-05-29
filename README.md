@@ -22,7 +22,7 @@ To parse the Odia Dictionary pdf:
 5. `python src/d-read_pdfs_with_text/reader.py` - Gets unstructured OCR text output from PDFs in [parsed_pdfs](parsed_pdfs). Outputs .txt files to [parsed_texts](parsed_texts)
 6. `rm GPT_outputs/*` - the GPT outputs folder must be emptied as the API will not be called to replace text files already present in the folder. (refer to [sender.py](src/e-gpt_api_sender/sender.py))
 7. `python src/e-gpt_api_sender/sender.py` - Calls the GPT API to structure the raw OCR text output files in [parsed_texts](parsed_texts). Outputs .txt files to [GPT_outputs](GPT_outputs)
-8. `python src/f-dataframe_maker/preprocess.py` - Removes the 1st line of every .txt file in [GPT_outputs](GPT_outputs) if it does not begin with the appropriate delimiter `"|"`. **Run this command 2-3 times** until every .txt file in the gpt outputs folder starts with a CSV file header.
+8. `python src/f-dataframe_maker/preprocess.py` - moves file pointer of every .txt file in [GPT_outputs](GPT_outputs) to first occurence of `"|"`, until every .txt file in the gpt outputs folder starts with a CSV-style column header.
 9. `python src/f-dataframe_maker/maker.py` - Compiles [GPT_outputs](GPT_outputs) to the desired .csv - [parsed_dicts/parsed_dict_very_unclean.csv](parsed_dicts/parsed_dict_very_unclean.csv)
 
 
