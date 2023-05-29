@@ -1,0 +1,29 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| blow down | Verb | ରାଲି |
+| blow out | Verb | ପିଚ୍‌ ଚିଦାନାଦ୍‌ |
+| blow up | Verb | ଧୂମ୍‌ ଉଡ଼ିସାନାଦ୍‌ |
+| blow whistle | Verb | ପିଲ୍‌ ଉସଡ଼ ଓାଟାନାଦ୍‌ |
+| blow(air) | Verb | ଉଦାନାଦ୍‌ |
+| blowing the nose | Verb | ସିଇନ୍ଦା |
+| blowpipe | Noun | ଗୋଣ୍ଡାମ୍‌ ଗୋଣ୍ଡଟାମ୍‌ |
+| blue colour | Noun | AIG ଆଇଗି |
+| blunt | Adjective | ମାନ୍ଦା |
+| boar | Noun | ଆଡ଼୍‌ ଓ୍‌ ତ୍‌ ପାଦ୍‌ ରୋଲୁ |
+| board | Noun | ରୁଟି ରାକାନ୍‌ ବାଲା ବୋର୍ଡ |
+| board, plank | Noun | ରୁଟି ରାକାନ୍‌ ବାଲା @1RI |
+| boast | Verb | ଗାଢ଼୍‌ ଶ୍‌ ଆଶ୍‌ ନିଲ୍‌ ସାନାଦ୍‌ |
+| boastful | Adjective | ଗାର୍ବିତ |
+| boat | Noun | ନାଉ |
+| body | Noun | ଦେହ |
+| boiling | Verb | ଏଚେର୍‌ ଓାସମିନ୍ଦେ |
+| boisterous | Adjective | ରାମ |
+| bold | Adjective | ଦେୟାଙ୍ଗ୍‌ |
+| boldness | Noun | ଦୁରୁଶ୍‌ ମାନ୍ଦାନାଦ୍‌ |
+| bolster | Noun | ପୋଡ଼୍‌ ଗ୍‌ ତାଲ୍‌ ପ୍‌ ଗାଡ଼୍‌ |
+| bolt | Noun | ମେର୍ସାନାଦ୍‌ |
+| bomb | Noun | ବାମ୍‌ |
+| bone | Noun | ହାଡ଼ |
+| booby | Noun | ବାୟାଲ୍‌ |
+| book | Noun | ପୁସ୍ତକ |
+| bore fruit | Verb | ଫଳ ଉତ୍ପାଦିତ ହୋଇଥିଲା |

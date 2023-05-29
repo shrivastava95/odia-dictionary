@@ -1,0 +1,24 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| welcome | Interjection | ନାମାଶ୍‌ |
+| welfare | Noun | ମେଲ୍‌ ତା ସାୟାମ୍‌ |
+| well | Noun | ଯଥାର୍ଥ |
+| well done | Interjection | ସାୟା |
+| well star | Noun | ଭକ୍‌ AR |
+| well twined rope | Noun | ନୁୟ୍‌ ଦ୍‌ |
+| well wisher | Noun | ମେଲ୍‌ ତା ମେକ୍‌ କାନୋର୍‌ |
+| went | Verb | ଯାଇଥିଲା |
+| west | Noun | ପଶ୍ଚିମ |
+| wet | Noun | ତରଳ |
+| wet land | Adjective | ତରଳ ଜମି |
+| wet the cloth | Verb | କପଡ଼ା ଭିଜାଇବା |
+| what | Interjection | କେତେ |
+| what does lady do? | Interjection | ମହିଳା କଣ କରୁଛନ୍ତି? |
+| what kind of curry you don't like? (dislike) | Interjection | କେଉଁ ଦଳ ଭଲଲାଗନଥିବା ନାହିଁ? |
+| what work man does? | Interjection | ପୁରୁଷ କଣ କରୁଛନ୍ତି? |
+| wheat | Noun | ଗହୁଁ |
+| wheezing | Noun | ହ୍ୱୀଜିଂ |
+| when | Adverb | କେତେ |
+| when soever | Adverb | ଜେତେବେଳେ କଲିଶ୍ତ |
+
+Note: Some entries in both outputs could not be accurately mapped to their Odiya translations and have been left out of the table.

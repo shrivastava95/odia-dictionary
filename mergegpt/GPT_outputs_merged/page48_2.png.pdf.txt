@@ -1,0 +1,24 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| much | Adjective | ଆଛୋଟ୍‌ |
+| mucus | Noun | ପାଣୀସେମ୍‌ |
+| phlegm | Noun | ପାଣୀସେମ୍‌ |
+| mud | Noun | ବୁର୍ଦା |
+| mud pot | Noun | ବୁର୍ଦା |
+| muddy water | Adjective | ମାଟ୍ଟିକୋଳ୍ଯ୍ୟ |
+| multiply | Verb | ଗୁଣାକାର କରିବା |
+| increase | Verb | ବୃଦ୍ଧି ପାଇଁ |
+| murmuring | Noun | ଆରାମ୍ଭି ଗୁଆସ |
+| muscles | Noun | ମାଂସ |
+| meat | Noun | ମାଂସ |
+| mushroom | Noun | ଛତ୍ରାନାଳି |
+| musical instruments | Noun | ସଙ୍ଗୀତ ଉପକରଣ |
+| musk rat | Noun | କଟେଲ୍‌ |
+| white rat | Noun | କଟେଲ୍‌ |
+| must | Verb | ଆବଶ୍ୟକ |
+| mustard | Noun | ସର୍ସୋ |
+| mustard oil | Noun | ସରସ ତେଲ |
+| my, mine-singular | Pronoun | ମୋର |
+| myna | Noun | ମାଇନା |
+| myself | Pronoun | ଆମେ ସ୍ୱଭାବିକ ରୀତେ |
+| mystery | Noun | ରହସ୍ୟ |

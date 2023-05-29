@@ -1,0 +1,26 @@
+| English Word         | Part of Speech     | Odiya Translation |
+|----------------------|---------------------|-----------------------|
+| Preposition             | Preposition            | ପରନୁଞ୍ା୍‌ (paranuñjā) |
+| From                     | Adposition             | ପର (para)              |
+| From me                | Adposition             | ମୋର ସହିତ (mora sahita) |
+| Front                     | Preposition            | ମୁନ୍ନେ (munne)      |
+| Frown                   | Verb                     | ମୋଡ଼ିବା (moṛiba)   |
+| Fruit                     | Noun                     | ଫଳ (phala)               |
+| Fruit bearing tree | Noun                     | ଫଳଦାନୀ ଗଛ (phaladānī gachha) |
+| Fruit juice             | Noun                     | ରସ (rasa)                 |
+| Gain                     | Verb                     | ଲାଭ (lābha)               |
+| Gallbladder         | Noun                     | ପିତ୍ତାଶୟ (pittāśaya) |
+| Gambling            | Noun                     | ଜୁଏଖେଳ (juēkhēḷa)     |
+| Gander                | Noun                     | କର୍କଟକ (karkaṭaka)   |
+| Gangrene           | Noun                     | ପିତ୍ତାଶୟ ରୋଗ (pittāśaya rōga) |
+| Gap in a row of teeth with one or more lacking | Noun | ଦଣ୍ଡ ହାନି (daṇḍa hāni) |
+| Garden                | Noun                     | ବଗିଚା (bagichā)         |
+| Garden bed          | Noun                     | ଉଦ୍ୟାନ ମାଳିକା (udyāna mālikā) |
+| Garden lizard      | Noun                     | ବିଡ଼ାଳୁ (biṛāḷu)       |
+| Garden pea         | Noun                     | ମଟର (matar)             |
+| Gardener           | Noun                     | ମାଳି (māli)              |
+| Gargle rinse        | Verb                     | ଗର୍ଗଲ କରା (gargala karā) |
+| Gargling             | Noun                     | ଗର୍ଗଲ (gargala)        |
+| Garland              | Noun                     | ହାର (hāra)                | 
+
+Note that I have removed erroneous values such as the numbers and alphabets at the end of some entries.

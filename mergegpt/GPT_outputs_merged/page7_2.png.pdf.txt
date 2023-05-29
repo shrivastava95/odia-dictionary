@@ -1,0 +1,30 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| a            | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly  | Adverb           | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| and          | Coordinating Connective | ମେଣ୍ଡେ |
+| angel        | Noun             | ଦୁତ |
+| angels       | Noun             | ଦେଏ ଦୁତ୍‌,କାବୁର୍‌ ତୋର୍‌ |
+| angle        | Noun             | ମୂଲା |
+| angry        | Verb             | ଆଲ୍ଲାମ୍‌ |
+| angular gourd | Noun            | ବିର୍‌ କାୟା |
+| animals      | Noun             | ପାସ୍‌ ଞିପିଟେ |
+| ankle        | Noun             | କାଲ୍‌ ପାଟେ |
+| annoying     | Verb             | ଆଲୁ।ମ୍‌ ଆଦାନାଦ୍‌ |
+| anoint       | Verb             | ରାସାନାଦ୍‌, ତଚଚାନାଦ୍‌ |
+| answer       | Noun             | ଉଭତାରାମ୍‌ |
+| answering    | Verb             | ଜାଓାଁବ୍‌ ଭଦାନାଦ୍‌ |
+| ant          | Noun             | ଅଙ୍ଗ ଗଚେ |
+| ant eater    | Noun             | ନୁସ୍‌ @Q |
+| anthill      | Noun             | ପୁତ୍‌ |
+| ant hill     | Noun             | ପୁତ୍‌ |
+| antelope     | Noun             | ର ଲେକେ ଜାନୁ |
+| anterior     | Adjective        | ମୁନ୍ନେଟ୍‌ ଦାନ୍‌ ପେର୍କେଟ୍‌ ଆତ୍‌ |
+| anti Christ  | Noun             | ଜୀଶୁନ୍‌ ୱ୍ପରୋଦି, ଜିଓ ଜାନ୍ତୁ |
+| anticipate   | Noun             | ନାମ୍‌ କାମ୍‌ ମାନ୍ଦାନ୍‌ |
+| anus         | Noun             | ଗୁଦ୍‌ ପିରା ପଡ଼ିୟ୍‌ |
+| anus bowel   | Noun             | ପେଲାନାକ୍‌ ପଡ଼ିୟ୍‌ |
+| anxiety      | Noun             | ସାର୍ଦା |
+| anyhow       | Adverb           | ବେଲେ ବା |
+| anyone       | Pronoun          | ବେନୁଣ୍ଡ ବା ଅର୍ତୁଣ୍ତ |
+| anyway       | Adverb           | ବେଲାଆୟ୍‌ |

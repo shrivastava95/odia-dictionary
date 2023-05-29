@@ -1,0 +1,25 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|-------------------|-------------------|
+| benediction | Noun | Biel |
+| beneficial | Adjective | ଲାବାମ୍‌ |
+| benefit | Noun | ସାୟାମ୍‌ |
+| benevolence | Noun | କିଙ୍କ୍‌ ସାୟାମ୍‌ ମାଡ଼ାନାଦ୍‌ |
+| berry | Noun | ଆଲୁବ |
+| berth | Noun | ପଡ଼ିୟ୍‌ ଟ୍ରେନ୍‌ ତା AIG GIR |
+| beside | Coordinating connective | ତୋଣ୍ଟେ |
+| besides | Adverb | AGI ମାଲ୍‌ ଲା |
+| betel leaf | Noun | ପାନ୍‌ ଆକ୍‌ କି |
+| betray | Verb | OR AA ନାମ୍‌ ମି ମାନ୍ଦୋନ୍‌ GE ତୋପିଶି AQ ଶି ଭଦାନାଦ୍‌ |
+| between | Adposition | ନାଟୃମେ |
+| beware | Verb | ନେୟ୍‌ ମେସ୍ମା |
+| bewilderment | Verb | କାଣ୍ଡ କିଙ୍‌ ତ୍‌ ଓଶ୍‌ ତୋଣ୍ଡ |
+| bid | Verb | ନୀଲମ୍‌ |
+| bid in a chit or a lottery | Noun | କାଲିୟି ଜେତିବା |
+| bier | Noun | ଗର୍ବଦାନା |
+| big | Adjective | 6@9QI |
+| big drops | Noun | ବାର୍ରା ବଢ଼ା |
+| big rope | Noun | ଜୋରା |
+| bigotry | Noun | ଦାର୍ମାମ୍‌ ତ୍‌ ପ୍ରତିଷ୍ଠା |
+| bill hook, chopper | Noun | କାଛାଚେର୍‌ ବାଣ୍ା |
+| billhook | Noun | କାର୍‌ |
+| bind with rope | Verb | ତାଡୁକୁ ବାଣ୍ଡିବା |

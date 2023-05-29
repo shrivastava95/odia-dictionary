@@ -1,0 +1,20 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| unmarried girl | Noun | ସିଡ୍‌ ଲେୟ୍‌ |
+| unnecessarily | Adverb | ଆପୁନାମେ, ଆସ୍‌ ସାମେ |
+| unrighteous person | Adjective | ନାରୁଣ୍ଟ, ପାଲ୍‌ ଭା ନାରୂଣ୍ତ |
+| unripe | Adjective | କାୟା |
+| unripe fruit | Adjective | କାୟା |
+| unseen | Adjective | ତୋପ୍‌ ପିଲ୍‌, ତୋପୋ |
+| untidy | Adjective | ପେରୀ ମାନ୍ଦାନାଦ୍‌, ପୟ୍‌ ସି |
+| untie, free | Verb | ଲେତାନାଦ୍‌, ଲେମ୍‌ |
+| until | Subordinating Connective | ବେଚ଼ଟ୍‌ ଦାଙ୍କ୍‌, ଦାଙ୍କ୍‌ |
+| unwise | Adjective | ବାୟାଲ୍‌ |
+| unworthy | Adjective | ମାଡ଼ା ପାର୍ଞୋ, ଆଦାନାଙ୍କ୍‌ ସାୟା ମାନ୍ନୋ |
+| up and downs | Noun | ଗଡ଼ା, ପାଲାମ୍‌, ଗୁପ୍‌ ପୁ |
+| up downs | Adjective | ଗଡ଼ପ |
+| up rooted | Verb | ପାଦେଙ୍ଗାନାଦ୍‌ |
+| up stairs, bungalow | Noun | ମେଡ଼ା ଲୋନ୍‌ |
+| vacillate (floating) | Verb | ଇଡ଼ସ, ଞୋଡ଼ସ, ଅଡ଼ା ଆନ୍ଦାନାଦ୍‌ |
+| vagina | Noun | ମୁନ୍େଡ଼୍‌ କ୍‌ |
+| valley | Noun | ମେଟା ଗୁପ୍ପା, ଦିବ୍‌ ବା |

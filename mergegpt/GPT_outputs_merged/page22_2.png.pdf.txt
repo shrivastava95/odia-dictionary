@@ -1,0 +1,28 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| do over      | Verb           | ମାଡ଼ାନାଦ୍‌          |
+| do           | Verb           | ମାଡ଼ା, ମାଡାଟ୍‌, କୀ |
+| make         |                |                  |
+| do           | Verb           | ତୁଙ୍ଗାନାଦ୍‌, ମାଡ଼ାଟ୍‌, କୀ |
+| perform      | Verb           | ମାଡ଼ା, କୀମ୍‌, ତୁଙ୍ଗା  |
+| doctor       | Noun           | ଡାକ୍‌ ତାର୍‌, ଏଡେ  |
+| doctrine     | Noun           | ନିୟାମ୍‌ ସାରେ       |
+| doe          | Noun           | ଡାଡାଲୂପ୍‌         |
+| does         | Verb           | ମିନ୍ଦେ, କୀୟାମିନ୍ଦେ |
+| does not     | Verb           | ଆଦାଟାମ           |
+| apply soap  | Verb           | ସାବ୍‌              |
+| hair         | Verb           | ତାଲୁ| ଦୁସିଲେ        |
+| put oil      | Verb           | FQ AIA           |
+| dog barks    | Verb           | ନେୟ ବୁବୁ ବୁସିତା  |
+| female dog   | Noun           | ନେୟ୍‌,ନେୟକୁ       |
+| male dog     | Noun           | ପୋତ୍‌ ନେୟୁ       |
+| doll         |                | ପିଲ୍ଲା କାର୍ସାନାଦ୍‌ |
+| domestic animal | Noun        | ନାଟେ            |
+| domestic work | Adjective     | ଲୋତ୍‌             |
+| alga         |                |                  |
+| disturb      | Verb           | ଆୟ୍‌ମା            |
+| hurry        | Verb           | ଦାନ୍ଦା ag ମା     |
+| late         | Adjective      | ନାର୍ଗେ            |
+| beat         | Verb           | ରେହ୍‌ FI, Gl ଶ୍‌ ମା |
+| catch        | Verb           | ପଇମା            |
+| move         | Verb           | ମେଦୁଲ୍‌ ମା,ଜାର୍ଗ୍‌ |

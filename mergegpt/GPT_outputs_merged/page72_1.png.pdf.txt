@@ -1,0 +1,28 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| these        | Demonstrative  | NY              |
+| they         | Pronoun        | AA, MR          |
+| they         | Verb           | ଭର କାର୍ସ୍‌        |
+| accordingly | Adverb         | ଆଦିଙ୍କ୍‌ ଲେକେ       |
+| they are playing | Verb        | ଭର କାର୍ସ୍‌        |
+| they did     | Verb           | ତୁଙ୍କ୍‌ ତର, ମାଡ଼୍‌, ତୋର୍‌ |
+| they got broken | Verb         | @Q              |
+| they play    | Verb           | ଭର୍‌ କାର୍ସିତର୍‌      |
+| they say     | Verb           | କେଢିଭୋର୍‌       |
+| they will say | Verb           | କେଚ୍ଚୀଭୋର୍‌       |
+| they (far)   | Pronoun        | ଓରୁ, ଉରୁ        |
+| they (female) see | Verb      | 2g              |
+| they (m) will do | Verb       | ଭର୍‌           |
+| they (male) will see | Verb  | ଉର୍‌            |
+| they (near)  | Pronoun        | AQ              |
+| thick        | Adjective      | ମିନ୍ଦେ, ଦାବ୍‌ଡ଼ି, ARIG |
+| thickest forest, tallest trees | Noun | ଟୁଟ୍‌ କ୍‌ ପୟ୍‌ ଶି, Ace |
+| thicket plant | Noun           | ରୋଟା           |
+| thickness    | Noun           | ଲାଏ, ମୋଟା      |
+| thief, thieves | Noun         | ଡଙ୍ଗାଲ୍‌, ଡଙ୍ଗାଲୋର୍‌ |
+| thigh        | Noun           | କୁର୍କ୍‌, ଆୱ୍‌, ତଡା, GCI, QQ, AQ |
+| thin         | Adjective      | ସାନାଙ୍ଗ୍‌ ପାଲ୍‌, ସାଙ୍ଗ |
+| things       | Noun           | ସାମାନ୍‌        |
+| think        | Verb           | ଆଲ୍‌ ସାନାଦ୍‌    |
+
+Please note that some errors such as "Og", "ME", "Fee" were not considered as they were not common in both outputs.

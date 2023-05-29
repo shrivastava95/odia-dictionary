@@ -1,0 +1,23 @@
+| English Word    | Part of Speech   | Odiya Translation |
+| :------------- | :----------: | -----------: |
+| direction | Noun | ପାକ୍‌ କାମ୍‌ |
+| dirty cloth | Noun | ମାସ୍‌ |
+| dirty cloth | Adjective | AIF AR |
+| dirty | Noun | ତୋଗ୍‌ |
+| dirty, grey hair | Adjective | GQ |
+| dirty, soiled cloth | Noun | ମାସ୍‌ |
+| alga | - | ଆଲ୍ଗ |
+| disadvantage | Noun | ନଷ୍ଟାମ୍‌ |
+| disappointment | Noun | ତୁଙ୍ଗାନାଦ୍‌, ବଲ୍‌ ଲିସାନାଦ୍‌ |
+| disaster | Noun | ସାଟ୍‌ କେ ଗାଳି ତିପ୍‌, କାଷ୍ଟାମ୍‌ ଓାଦାନାଦ୍‌, ପାଲ୍ |
+| disciple | Noun | କାର୍‌ ସି, ସାଦ୍‌ ଓଁ, ତୋପିସାନୋଣ୍ଟ |
+| disciples | Noun | ଜୀଶୁନ୍‌ ଶିଷ୍ୟାଲୋର୍‌ |
+| discipline | Noun | ଜୀଞାମ୍‌ ନାଢୃଶ୍‌, ପାନ୍‌ ମାୟ୍‌ ଦିଙ୍କ୍‌ ମେଲ୍‌ ତା, ଆଲ୍‌ ଓାଟ୍‌ |
+| discontent | Noun | ଆଲୋ, ପାଞା୍ |
+| discovery | Noun | କତାଦ୍‌, ପୂନାଦ୍‌, ମେକ ତୋପସାନାଦ୍‌ |
+| discuss | Verb | ବିଚାର୍‌, କାଲିୟ୍‌, ତ୍ରିୟାନାଦ୍‌ |
+| disease | Noun | ରୋଗାମ୍‌, ଜାବୁ, ପାଣାମ୍‌ |
+| disgrace | Noun | ନେରାମ୍‌, ମାଡ଼ାନାଦ୍‌, ପେର୍ଲାନାଦ୍‌ |
+| disgusted | Adjective | ତିପାଲ୍‌ ତେ, ମାନ୍ଦାନାଦ୍‌ |
+| dish | Noun | ବେଡ଼ିୟା ଗିନ୍ନି |
+| dishonest man | Adjective | ବଲିସିତଣ୍ଡ |

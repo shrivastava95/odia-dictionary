@@ -1,0 +1,25 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| a            | Adjective&Article   | ଅରୋଟ୍‌‌‌‌‌ |
+| accordingly  | Adverb         | ଆଦିଙ୍କ୍‌‌ ଲେକେ |
+| our          | Pronoun        | ମାନ୍‌‌ |
+| our companies| Noun           | ମାନ୍‌‌ |
+| our self     | Pronoun        | ଜାଭ୍ତାନର୍‌‌ |
+| our selves   | Pronoun        | ମାମେ ଆସ୍‌‌ |
+| our          | Pronoun        | ନିଜେ, ମାନାଡ଼୍‌ |
+| our village  | Noun           | ମାନ୍‌ ନାଟେ |
+| our          | Pronoun        | ମାନ୍‌ ନାଟେ ନାଟେ |
+| out          | Verb           | ବାୟ୍‌ ଦେ |
+| outcome      | Noun           | ପାଣି, ପାଡ଼ିୟ୍‌ ଦିନ୍‌‌ |
+| output       | Verb           | ତେୟାର୍‌ ଆଦାନାଦ୍‌‌ |
+| outrage      | Noun           | Salm |
+| outrun       | Verb           | ଜୀଡ଼ାନାଦ୍‌‌ |
+| outset       | Verb           | CR AQ |
+| outside      | Adposition     | ବାଇଦେ |
+| ovary        | Noun           | ମୁନ୍ନେଟ୍‌ କ୍‌,/ଆୟାମ୍‌ |
+| pail         | Noun           | ଇସ୍ରେ, ଗିନି, ବିନ୍ଦେକୁଣ୍ଡା |
+| pain         | Noun           | ତୀପ୍‌, ନପ୍‌ |
+| pain comes down | Verb      | ନପୁ |
+| pain on legs and hands | Noun | ଆୟ୍‌ କ୍‌ ଟେକ୍‌ କା, ଆଞ୍ଜ୍‌ ତା |
+| painted (a kind of) snake | Noun | ଜେରୁଗୋଡୁ, ଗଡ଼୍‌ |
+| pair         | Noun           | ଜୋଡ଼ା, ଜୋଡ଼, ଜାଭା |

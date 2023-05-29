@@ -1,0 +1,22 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| daily | Noun | ଦିନାମ୍‌ ଦିନାମ୍‌, ରୋଜ୍‌, ଦିନାଲ୍‌ |
+| daily | Noun | କୂଲିନ୍‌ ଡାପ୍‌ |
+| Dal | Noun | AQ, FO |
+| dall | Noun | ପାପ୍‌ ପୁ ପାଣ୍ଟା |
+| dampness | Verb | ଇପିଡିମାନ୍‌, ତା,ଇପ୍‌ ପୀର୍‌ |
+| dance | Verb | ଏନ୍ଦାନାଦ, ଆରିୟାନାଦ୍‌ |
+| dancer | Noun | ଆରିୟାନୋଣ୍ଠ |
+| dandruff | Noun | ତାଲା ମାଶ୍‌ ତ୍‌ ,ପେର୍ତ୍‌ |
+| dangerous man | Noun | ବାୟାମ୍‌, ମାଲାମ୍‌ ନାରୁଣ୍ତ |
+| dare | Verb | ଦାୟିରାଙ୍ଗ ତେ, କାରୁଙ୍ଗାନାଦ୍‌, ଗାଡ଼ସ୍‌ |
+| daringly | Adverb | ଦାୟାଙ୍ଗ୍‌ ତେ |
+| dark | Adjective | ଏନା, ମୁସୁର୍‌ ag ତା |
+| cloudiness | Noun | ଏନା, ମୁସୁର୍‌ ag ତା |
+| dash against | Verb | ତୁକ୍‌ କା ଡୁକ୍‌ କା, କିତ୍ତାତାଗାଲାନାଦ୍‌, ଜୂଜୋ,ମଗୋ ମିନ୍ଦେ |
+| date | Noun | ତାରିକ୍‌, AB! ପାଣ୍ଠ, ଏତ୍‌, COR AIS, ରେଟା, ଏଭେଲ୍‌, ମାଡ଼ା,ଇନ୍‌ ତା ମାରା |
+| daughter | Noun | ମାୟାଡ଼ |
+| daughter in law | Noun | କଡ଼ିୟାଡ଼ |
+| dawn | Adverb | @AIR, AE FAIR |
+
+Note: The erroneous values "୮୮୮୮", "G, alg", "Noun. IQ. Ala", and "FO" have been removed.

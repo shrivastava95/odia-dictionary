@@ -1,0 +1,24 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| skeleton     | Noun           | ଡ଼ୋଲ୍‌ ଭର୍‌ QM         |
+| skimmer      | Noun           | ଟେଡ୍‌, ଉକ୍‌ Ge        |
+| skin         | Noun           | ଓଷଧି CR              |
+| skin disease | Noun           | ତାମେର୍‌                |
+| skin problems| Noun           | ତଲ୍‌ କା-ରୋଗାମ୍‌         |
+| skin of fruit| Noun           | ତଲ୍‌ କା, ଟଟେ, ABR         |
+| skin of onion| Noun           | ଟଟେ                  |
+| skink        | Noun           | ମିନିକି ଡୋକେ           |
+| skirt        | Noun           | ସାୟା, ଗୂନ୍‌ ଲାଙ୍ଗା     |
+| skull        | Noun           | ମେଦର୍‌ କାପ୍‌ AGIA, ବୂଲା |
+| sky          | Noun           | ମାବ୍‌, ପରରା           |
+| slam of a door| Verb           | ଗୁମାମ୍‌, ତାଲ୍‌ କ୍‌ ତା, ତା ଗିଲିତା, INE! |
+| slate        | Noun           | ବାଲ୍‌ ଲା             |
+| slave        | Noun           | କୋତି ନାରୂଣ୍ତ, S1@l   |
+| sleep        | Verb           | AY AIG, AQ, IMG, AIG ଟାନାଦ୍‌ |
+| sleep curly  | Verb           | ପାଲ୍‌ 6@, ପାଟ୍‌ ଟାନାଦ୍‌ |
+| sleeper berth| Noun           | ବାଣି ତା ପାଟ୍‌ ଟି ଆନ୍ଦାନ୍‌ ପଡ଼ିୟ୍‌ |
+| slice(cleave)| Verb           | ଓାଡ଼୍‌ ସି ବାଦା, ତୁଙ୍ଗା |
+| slid down    | Verb           | ସ୍‌ କ୍‌ alg           |
+| slim girl    | Adjective      | ସତି ମାନ୍ଦାନ୍‌, ପିକିଡ଼ | 
+| sling        | Noun           | ଅଡ଼୍‌ ସେଲ୍‌            |
+| slip away, off | Verb         | କେଲ୍‌ ଲୁକୁଣ୍ଢେ, ଦାୟାନାଦ୍‌ |

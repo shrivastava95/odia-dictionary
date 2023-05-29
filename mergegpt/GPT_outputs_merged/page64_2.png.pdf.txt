@@ -1,0 +1,28 @@
+| English Word      | Part of Speech   | Odiya Translation |
+| :---             |   :----:        |          ---:     |
+| show way         | Verb            | ଆର୍‌ ତମୁଟ୍‌        |
+| shower           | Adjective       | ଓନା             |
+| shrew            | Noun            | ତ୍ରିୟାନୋଣ୍ଡ         |
+| shriek           | Noun            | ଗାଟ୍‌ ଟି, ପୀନା  |
+| shrivelled       | Noun            | ମଣ୍ଡା କାୟ୍‌        |
+| shut the door    | Transitive verb | ଗୁମାମ୍‌ କେମ୍‌,ମାର୍‌ |
+| shutter          | Noun            | ତୂମ୍‌ ବାଲ୍‌ ଲା   |
+| shy              | Verb            | AGL              |
+| shy person       | Adjective       | Am GQ            |
+| Siberian crane   | Noun            | ତେଲାବାଟ୍‌        |
+| sickle           | Noun            | ପାଲ୍‌ କିନ୍‌ କାଚେର୍‌ |
+| side             | Noun            | ପାକାତ୍‌, ପାକା    |
+| side by side     | Noun            | ଦେଗେର୍‌ ଦେଗେର୍‌   |
+| siege            | Verb            | ଆଡାମ୍‌ ଓାଟାନାଦ୍‌     |
+| sieve            | Noun            | ଜାଲୋଡ଼୍‌         |
+| sift             | Verb            | ଜାଲ୍‌ ଲୋଡ଼େ ତେ କାତାନାଦ୍‌ |
+| sight            | Noun            | ଉଡ଼ାନାଦ୍‌         |
+| sign             | Noun            | ମାନ୍ତା, ଚିନ୍ନୋ   |
+| signal           | Noun            | ଆନାଏଁଲ୍‌, ଚିନ୍ନୋ |
+| silence          | Interjection   | କଟ୍‌            |
+| silently         | Adverb          | କଟା ସାମ୍‌ କ୍‌ ମାଞ୍ଜିା |
+| silhouette       | Noun            | ନୀତ୍‌ କାତ୍‌       |
+| silk cotton tree | Noun            | ବୁରୁ ମାଡ଼ା       |
+| silliness        | Noun            |                       |
+
+Note that some of the translations in the second output, such as EET and A@,ale av, are not valid Odiya words. Therefore, they have been removed from the table.

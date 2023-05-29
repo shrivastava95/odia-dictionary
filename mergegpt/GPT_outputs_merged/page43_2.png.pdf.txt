@@ -1,0 +1,34 @@
+| English Word | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| license | Noun | ମାଟା |
+| permission | Noun | ମାଟା |
+| lick | Verb | କା |
+| lid | Noun | ମୁଚାନାଦ୍‌ |
+| lie | Verb | ଲାନାଦ୍‌ |
+| mat | Noun | ମାଟା |
+| strong | Adjective | ଗଟି |
+| lie down | Verb | ପାଟି ମାନ୍ଦାନାଦ୍‌ |
+| lie in | Verb | ପୁଟିସାନାଦ୍‌ |
+| life | Noun | ପ୍ରାଣାମ୍‌ |
+| life | Noun | ପାନାମ୍‌ |
+| life | Noun | ବାଦ୍‌ |
+| life span | Noun | ଗାର୍କ୍‌ |
+| lift | Verb | ତୋଶା |
+| lift up (cot) | Verb | ଉତାନାଦ୍‌ |
+| light | Noun | ଞେସ୍‌ |
+| light | Noun | ଞେନେଲ୍‌ |
+| light weight | Adjective | ଏଲ୍‌ |
+| lightning | Noun | ସେନ୍‌ ନେଲ୍‌ |
+| lightning | Verb | କିନା |
+| lightning | Verb | କଣ୍ଡାନାଗା |
+| maid | Noun | ବାଇଶ୍ନବ |
+| like | Verb | ନେଚାନାଦ୍‌ |
+| like | Verb | ଇଷ୍ଟାମ୍‌ |
+| circus | Noun | ସାର୍କେଟ୍‌ |
+| like that | Adverb | ଆଲେକେ |
+| like this | Connective | ଇଲେକେନ |
+| love | Noun | କୋରାନାଦ୍‌ |
+| longing | Noun | କୋରାନାଦ୍‌ |
+| likewise | Adverb | ଆ ଲେକେ |
+| lily | Noun | ପୂଙ୍ଗା |
+| limbs | Noun | ମେନ୍ଦୁଲ୍‌ ତ୍‌ ମାନ୍ଦାଙ୍କ୍‌ |

@@ -1,0 +1,28 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| thirdly | Adjective | JAR |
+| thirst | Noun | ଗୁଣି (GUNI) |
+| accordingly | Adverb | ଆଶାମିନ୍ଦେ, ଏର୍ (ASHAMINDE, ER) |
+| thirteen | Adjective | AIGA |
+| thirty | Adjective | ମୁପେୟ୍ (MUPEY) |
+| this | Adjective | ଇଦୁ (IDU) |
+| this day | Adverb | ଭ ରୋଜ୍ (BHA ROJ) |
+| this is ours | Adjective | ଏ ମାନ୍ (E MAN) |
+| this month | Adverb | ଭ ଚେରି, ଇମହ୍ (BHA CHERI, IMOH) |
+| this much | Adjective | ଇଚୋଟ (ICHOṬ) |
+| this time | Pronoun | ଭ ଦାମ୍, ଇ ସୁଟ୍, ଇନ୍ ଜେ (BHA DAM, I SUT, IN JE) |
+| thorn | Noun | କୟେ (KAYE) |
+| thorn plant | Noun | କୟେନ୍ ମାରା (KAYEN MARA) |
+| thorn to pierce | Verb | ଇଙ୍ଗେ (INGE) |
+| those | Demonstrative | ଆଞେ (ANE) |
+| though,although | Subordinating connective | ଆଲେ ଆତ୍ କେ ବା (ALE AT KE BA) |
+| thought | Noun | ଆଲ୍ ପ୍ ମାଟା (ALO P MAṬA) |
+| thoughtfulness | Noun | ଆଲ୍ ପିନେ ମାନ୍ଦାନାଦ୍ (ALO PINE MANDANAD) |
+| thousand rupees | Noun | ସେୟ୍ ଗଲ (SEY GAL) |
+| thrash | Transitive verb | ଏଘା (EGHA) |
+| thread | Noun | ନୂଲ୍ (NUL) |
+| threatening | Verb | ବେଦିରିସାନାଦ୍ (BEDIRISANAD) |
+| three | Numeral | ତିନି (TINI) |
+| three males | Numeral | ମୂଞିର୍ (MUNIR) |
+| thresh as (break)tamarind or grains | Verb | ତାଲ୍ ସାନାଦ୍ (TAL SANAḌA) |
+| threshing | Verb | ଏରସକାନାଦ୍ (ERASAKANAD) |

@@ -1,0 +1,24 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| chide        | Verb           | ମାୟ୍‌ ତାନାଦ୍‌     |
+| chief spirit | Noun           | ପେନ୍‌ କାରା         |
+| child        | Noun           | ଚିନା ପିଲା         |
+| chill        | Noun           | ଇଗାମ୍‌            |
+| chilli-green | Noun           | ପାକାୟା, ମିଡ଼ିୟାକ୍‌ |
+| chilli powder| Noun           | କାରା ମ୍‌          |
+| chin         | Noun           | କାଡମ୍‌           |
+| chisel       | Noun           | QR               |
+| choir        | Noun           | ପାଟା ପାରାନ୍‌ Se  |
+| choice       | Noun           | ନେଚାନାଦ୍‌         |
+| cholera      | Noun           | କାକ୍‌ କାନାଦ୍‌, ପୋର୍‌ ସାନାଦ୍‌ ନୁ ପେଲାନାଦ୍‌ |
+| choose       | Verb           | ଏଞ୍ଚାଟ୍‌, ଏନ୍‌ Ale |
+| chord        | Noun           | ଞେନ୍‌ ସାନ୍‌ ନାରେମ୍‌ |
+| Christ       | Noun           | ଜୀଶୁକିଙ୍କ୍‌ VAI |
+| Christian    | Noun           | ଜୀଶୁନ୍‌ -ଦାର୍ମାମ୍‌ ନାମ୍‌ ମାନ୍ଦାନୋର୍‌ |
+| chronic disease| Noun         | ମୁନ୍ନେଟ୍‌ କୁଞ୍ଜ୍‌ ମାନ୍ଦାନ୍‌ ରୋଗାମ୍‌ |
+| church       | Noun           | ଗୀର୍ଜା-ଗୁଡ଼ି,ଗଟ୍ଟାମ୍‌ |
+| churn        | Noun           | ଗାୱାମ୍‌ ତେ ଇଦିଲିସାନାଦ୍‌ |
+| churning staff| Noun          | GIGI ତେ, ସାର୍‌ GS ତେ ମେତାଙ୍ଗ୍‌ ଆତାନାଙ୍କ୍‌ AGA ପାନାଦ୍‌ |
+| cicatrice,brush| Noun        | ଗାୟାମ୍‌ ALL ଏାଲ୍‌,ଚିନୋ   | 
+
+Note: There were some variations between the raw outputs, but I made the assumption that any common values between the two outputs were more likely to be correct. Therefore, I used the common values between the two outputs to form the final table.

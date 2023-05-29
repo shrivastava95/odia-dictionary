@@ -1,0 +1,19 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| Noun | ପାଣାମ୍‌,ଜୀୱାମ୍‌ | ସାୟ୍‌ |
+| ମାନ୍ଦାନାଦ୍‌,ସୁକ୍‌ କାମ୍‌ | Noun | |
+| physician | Noun | ଡାକ୍‌ ଟାର୍‌ |
+| pick out | Verb | ଏନ୍‌ ଚି ୋଦାନାଦ୍‌ |
+| pick up | Verb | ତେସ୍‌ ଭଦାନାଦ୍‌, ଗୁଡୃଶ୍‌, ପାନାଦ୍‌ |
+| pickaxe | Noun | ପିକ୍‌ କାସ୍‌ |
+| pickpocket | Noun | ଡଙ୍ଗାନୋର୍‌, ଡଙ୍ଗାଲ୍‌, କାନି |
+| picture | Noun | ଚିତ୍ରାମ୍‌ ,ପଟ୍‌ |
+| piece by piece | Adverb | ଦୁକୁଡି ମୁକ୍‌ କା ମୁକ୍‌ କା |
+| piece into piece | Adverb | ଗୋଣ୍ଟାମ୍‌, ତିତା, ତୁଙ୍କା, ସୀଟାକ୍‌, ପେଡ୍‌ କ୍‌, ଗଡ଼େଲ୍‌ ନାର୍‌ କ୍‌ ତା GAS, ଶୋମିନ୍ଦୋର୍‌ |
+| piece of bamboo | Noun | ଗୋଣ୍ଟାମ୍‌ |
+| piece of flesh | Noun | କାଣ୍ଡା କାଣ୍ଡା, ତିତା, ତୁଙ୍କା, ତୀଭା |
+| piece of paper | Noun | ସୀଟାକ୍‌, ସୀଟ୍‌ ମୁକ୍‌ କା |
+| pieces of wood | Noun | ପେଡ୍‌ କ୍‌, ଗଡ଼େଲ୍‌ ନାର୍‌ କ୍‌ ତା GAS |
+| pierce, pierce in metal | Verb | ବୋସ୍ ସା, ତୁଙ୍ଗାନାଦ୍‌, ଗିଟ୍‌, ତାଲ୍‌, ଶୋମିନ୍ଦୋର୍‌ |
+| piety | Noun | ମେଲ୍‌ ତା ବୁଦ୍ଦି |
+| pig grunts | Noun | ପାଦି ଢୁର୍କ ଢୁର୍କ, କେୟାନ

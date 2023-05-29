@@ -1,0 +1,22 @@
+| Word in English    | Part of Speech  | Odiya Translation  |
+| :---              | :---           | :---              |
+| surrounding       | Verb           | ଭୋଣ୍ତ             |
+| suspect           | Noun           | ଡାୱ୍ ଟ୍‌ ତେ ପୟ୍‌   |
+| swallow up        | Verb           | ମିଣ୍‌ ଙ୍ଗାନାଦ୍‌       |
+| swallowing        | Verb           | ଞୁଷାମ୍‌ ମିନୁଙ୍ଗାନାଦ୍‌      |
+| sway              | Adjective      | ଉଙ୍ଗୋମିନ୍ଦେ           |
+| sweat             | Noun           | ଉବାମ୍‌            |
+| sweep the         | Verb           | ଲୋନ୍‌ ଏୟ୍‌ ସିମ୍‌     |
+| sweeping          | Verb           | ତଗ୍‌ ଏୟ୍‌ ତାନାଦ୍‌     |
+| sweet cane plant  | Noun           | ବେଲା କାରା         |
+| sweet potato      | Noun           | ପାଲ୍‌ ମାଟି, ପାଣ୍ଡେ ମାଟି, ନାଙ୍ଗେଲ୍‌ |
+| tabernacle        | Noun           | ଇଜିପୁର୍‌ GB         |
+| taboo             | Noun           | ପଗ୍‌ ଗୁ           |
+| tabor             | Noun           | ବାଜେ              |
+| tabor playing     | Verb           | ଡଲା ଏନ୍ଦ ମିନ୍ଦର୍‌     |
+| tactics,skill     | Noun           | Alea              |
+| tad pole          | Noun           | ଟର୍‌ ପାଣ୍ଡେ        |
+| tail              | Noun           | ତଙ୍କାର୍‌, ତକ୍‌ କା   |
+| tailor            | Noun           | ସୀଲା, ଗୁଡ଼ା         |
+
+Some errors were removed, such as "@E" in the first output and "୧୭୪୮" in the second output, as they do not hold any meaningful information. However, some errors still exist, such as "ଭୋଣ୍ତ" in the first output, which should be "surrounding," and "Alea" in the second output, which should be "tactics/skill."

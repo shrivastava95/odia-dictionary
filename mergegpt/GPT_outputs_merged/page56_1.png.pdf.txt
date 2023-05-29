@@ -1,0 +1,23 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| previous day | Noun | ମୁନେଟ୍‌ ରୋଜ୍‌ |
+| prey | Verb | ଞେଣ୍ଟୀ ମାଡ଼ାନାଦ୍‌ |
+| price | Noun | ମୋଲା |
+| prices are falling | Verb | ରେଟ୍‌ ଆଦାନାଦ୍‌ |
+| prick | Verb | କୟ୍‌ ଗିଭାନାଦ୍‌ |
+| prickly heat | Noun | ଉର୍ବ ଗାଜ୍‌ |
+| pride | Noun | କୁୱାମ୍‌ |
+| prince | Noun | ମାର୍‌ |
+| princess | Noun | ରାଣି |
+| principal | Noun | ସ୍‌ କାଲେଜ୍‌ |
+| prison | Noun | ଜେୟିଲ୍‌ |
+| prisoner | Noun | ଜେୟିଲ୍‌ ମାନ୍ଦାନୋଣ୍ଡ |
+| prisoner of war | Noun | ଗାୟ୍‌ ତ୍‌ |
+| private | Adjective | ସେରେ |
+| privately | Adverb | ଞ୍ଚେରେ ପଡ଼ି ଦା ମାନ୍ଦାନାଦ୍‌ |
+| prize | Noun | ପୁରାଶ୍‌ କାର୍‌, ସାମାନ୍‌ |
+| problems | Noun | କ୍‌ |
+| proceed | Verb | ଆନ୍ଦାନାଦ୍‌ |
+| procession | Noun | ମୂଲ୍‌ ନାରୂର୍‌ |
+| proclamation | Noun | ସାର୍ର।ତୋର୍‌ |
+| prodigal | Adjective | କାର୍‌ |

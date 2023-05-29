@@ -1,0 +1,29 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| silver       | Noun           | ସେଣ୍ଡ, ରୁପ୍‌ ପା  |
+| similarly    | Adverb         | ଆ ଲେକେ           |
+| simple       | Adjective      | ଏଦ୍‌ ଲାମ୍‌        |
+| sin          | Noun           | ପାପାମ୍‌          |
+| since        | Preposition    | ସେଣ୍ଡ, ରୁପ୍‌ ପା  |
+| sincere      | Adjective      | ସାୟା ମାଟା କେଞ୍ଜିା  |
+| AIGA         | Noun           | ମାଡ଼ାନୋଣ୍ଟ        |
+| sincerity    | Noun           | ନିଜାମ୍‌ ଆସି ନାମ୍‌ |
+| sinew        | Noun           | ନାରାମ୍‌          |
+| sing         | Verb           | ପାଟା ପାରା        |
+| singer       | Noun           | ପାଟା ପାର ନୋଣ୍ଡତ    |
+| single grain | Noun           | ଏକ ଅନାଜ ଦାନା      |
+| sink, dive   | Verb           | ମୁଣୁଙ୍ଗାନାଦ୍‌    |
+| sink, drown  | Verb           | ମୁତିଭଣ୍ୁ         |
+| sinner       | Noun           | ପାପି             |
+| sinus        | Noun           | ମୋସୋର୍‌ କୁଞ୍ଚି ଏର୍‌ |
+| sip up       | Verb           | ଜୂର୍କ୍‌ ଭଣ୍ଡାନାଦ୍‌ |
+| sister       | Noun           | ବାୟୋ, ୟାକ୍‌      |
+| sister in law | Noun          | ସାଳୀ            |
+| sister's husband | Noun      | ଭାଉଜା           |
+| sit (on row) | Verb           | ସାଲ୍‌            |
+| site         | Noun           | ପଡ଼ିୟ୍‌          |
+| sitting stool | Noun          | ଚକିରା            |
+| Six          | Numeral        | ଆରୁ             |
+| six[male]    | Numeral        | ଆର୍ଚିର୍‌          |
+| sixteen      | Numeral        | ପାଦିଆରୁ         |
+| sixty        | Numeral        | ଷଷ୍ଟି            |

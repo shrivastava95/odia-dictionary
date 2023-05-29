@@ -1,0 +1,24 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| in the mean time | Adverb | ଆସୁଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| in this | Adposition | ଇଗା |
+| in various ways | Adjective | ସାରେ |
+| in which | Adposition | ବେନ୍‌ ଦାନା |
+| inattentive | Adjective | ପାର୍‌ ସ୍ଲେ |
+| inauspicious | Adjective | ଆଡ଼ଗୋଲ୍‌, କାରାପ୍‌ |
+| incantations | Noun | ଓାଡ଼୍‌ ଡ଼େ ଉଲୁଗୋମିନ୍ଦେର୍‌ |
+| incense | Noun | ଗାବ୍‌, ଏଁସାନା, ଦୁ ପାମ୍‌ କାଟି; ଦୁପାକାଟି, ଉତୁୱାତ୍‌ |
+| incense | Verb | କପାମ୍‌ ତୁଙ୍ଗାନାଦ୍‌ |
+| incline,start | Verb | ରହିତାନ୍‌, ରୟ୍‌ ଦାନାଦ୍‌ |
+| income | Noun | କାୟ୍‌ କିନାଇ ଡାବ୍‌, ଗୁଦୂସ୍‌ ପାନାଦ୍‌ |
+| incorrect | Adjective | ଗଲ୍ପ, ଭ୍ରମିତ, ଭୁଲ |
+| increase,growth | Noun | ପେସାନାଦ୍‌, ନାରେଁପେରୁଗାନାଦ୍‌ |
+| indeed | Adverb | ଆଲେ, ଉଡାଟ୍‌, ନିଜା ମେ |
+| indeed,really | Adverb | ଆଚାଲ୍‌, ନିଜାମେ |
+| Indian beech tree | Noun | ଗିମି ପଣ୍ଡା ମାଡ଼ା |
+| indifference | Noun | ମାନ୍ଦାନାଦ୍‌ |
+| indigestion | Adverb | ଡକା ଉ ଅଗି |
+
+
+Note: For the word "income", both raw outputs have different translations. I have included both translations in the formatted table, separated by a semicolon. Similarly, for the word "incense", both outputs have different translations for the same part of speech.

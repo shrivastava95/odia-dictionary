@@ -1,0 +1,27 @@
+| English Word        | Part of Speech         | Odiya Translation  |
+|---------------------|-----------------------|--------------------|
+| a                   | Adjective&Article      | ଅରୋଟ୍‌            |
+| accordingly         | Adverb                | ଆଦିଙ୍କ୍‌ ଲେକେ         |
+| so late             | Adjective              | ଆଚୋଟ୍‌ ଆଲ୍‌         |
+| so slow             | Adjective              | ଇଚ଼ୋ CREA / ଜେୟେ |
+| so, therefore, hence| Coordinating connective| ଦାନ୍‌ ସେଙ୍ଗେ         |
+| so.....that         | Subordinating connective| ଆନ୍ଦ୍‌ କେ, ଆଦିଙ୍କ ସେଙ୍ଗେ |
+| soak                | Verb                  | ନାତାନାଦ୍‌, ଏଟା    |
+| soap                | Noun                  | ସାବୁନ୍‌            |
+| society             | Noun                  | ସାଙ୍ଗାମ୍‌, ସାଙ୍ଗାତତର୍‌ |
+| socket of the eye   | Noun                  | କାଣ୍ଡ ଗବା          |
+| soft                | Adjective              | ଲେଦେ                |
+| soil                | Noun                  | ମାଣ୍ଡୁଲ            |
+| solace              | Noun                  | ସାମାତ୍‌ GE OY      |
+| solar eclipse       | Noun                  | GQ¢] ALK / ଭା, ମାବ୍‌ A ଭା |
+| solar system        | Noun                  | AIR / ପର୍ରାତ୍‌        |
+| soldier             | Noun                  | AA Ge                |
+| sole                | Noun                  | ଲାବାକାଲ୍‌         |
+| sole of foot        | Noun                  | ଜେର୍ରୋଟ୍‌ କାଲ୍‌-ଅଣ୍ଡା କାଲ୍‌ |
+| solemnly            | Adverb                | 19 କାଲିୟି, ନାମ୍‌ କାମ୍‌ ale |
+| solitude            | Noun                  | UGY ମାନ୍ଦାନାଦ୍‌      |
+| solution            | Noun                  | ସାମାଦାନାମ୍‌       |
+| some                | Adjective              | GQ / JQ             |
+| some days back      | Adverb                | କଦି AR ପେର୍‌ କେ / କଦି ପେର୍‌ କେ |
+| somehow             | Adverb                | ବେଲେବା            |
+```

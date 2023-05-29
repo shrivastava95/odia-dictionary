@@ -1,0 +1,26 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| sowing seeds | Noun           | ନାମ୍‌               |
+| sown         | Verb           | ସ୍ରତିମାତ୍‌ ତୋଣ୍ଡ           |
+| spade, shovel| Noun           | ପାରା                |
+| span         | Adjective      | ଜେନେ, ଅଣ୍ଡୋୟ୍‌; କୁଟ୍ଟା               |
+| spark        | Noun           | କିସ୍‌ ରାଓ            |
+| sparrow      | Noun           | ରାମ୍‌ ପିଟେ, ଆନା dee |
+| speak        | Verb           | ତ୍ରିୟାନାଦ୍‌            |
+| speak for    | Verb           | ବେ ନୋଣ୍ଡ UGB; ସେଙ୍ଗେ ମାଟା ତ୍ରିୟାନାଦ୍‌ |
+| speak loudly | Noun           | ବେଡ଼ିୟା AIG; EME ତେ |
+| speak out    | Verb           | ତୀସି, ଟେଣ୍ିି, ବାତ୍‌; ବା ଜୀୱାମ୍‌ ତା ଲୋପାଲ୍‌ ତାସ୍‌; କୁଟେ କେତାନାଦ୍‌ |
+| speak poorly | Verb           | ପୀନ୍ଦା ଗଟି, ଆର୍ଷୋ; କାରାପ୍‌ ଗଟି |
+| speak up     | Verb           | ନାର୍ଗେ ଲେଙ୍ଗ ତେ; କେତାନାଦ୍‌ |
+| speaker      | Noun           | AQ କ୍‌, SF] GAR       |
+| spear        | Noun           | ଗର୍କା                |
+| spear lance  | Noun           | ବାର୍ସି              |
+| speciality   | Noun           | ସାୟାମ୍‌, ମେଲ୍‌ ତା |
+| speech       | Adjective      | ସେଇମିନ୍ଦେ            |
+| speed        | Adjective      | ଲାପ୍‌, ସିଟ୍‌; ପାଟ୍‌, ପିଡ଼୍‌ de |
+| spell        | Verb           | ଅରଟ୍‌ AAS; କେତାନାଦ୍‌ |
+| spend        | Verb           | ତେର୍ସାନାଦ୍‌          |
+| spices       | Noun           | GAR                |
+| spider       | Noun           | ବାଲି                 |
+
+Please note that there were a few entries with non-common errors, such as "@@1,4@" and "୮୮୮୮". I have not included those in the final table.

@@ -1,0 +1,28 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| a | Adjective & Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| turn upon | Verb | ସାଟ୍‌ କେ |
+| turning | Verb | ସାନାଦ୍‌ |
+| turning | Verb | ଏରି ଆନ୍ଦାନାଦ୍‌ |
+| turning around (look) | Verb | ଏରକ୍ |
+| tusk | Noun | ଏନ୍‌ AIR |
+| tut | Interjection | ତୁ |
+| tutor | Noun | ଲୋତା ଗୁରୁ AIR |
+| twelve | Noun | ପାଦିରେଣ୍ଡୁ |
+| twenty | Numeral | କୋଡେକ୍‌ |
+| twenty five | Numeral | ଇର୍ଚେ |
+| ugly | Adjective | କାସିମାଲାମ୍‌ |
+| ulcer | Noun | ଡକାତା ପୁଣ୍ଡୁ ମିନ୍ଦେ |
+| ulcer in the mouth | Noun | AIGA |
+| ulcer, sore | Noun | ଘା |
+| ultimately | Adverb | ଆସେ ଆସେ |
+| cigar | Noun | ଦାଙ୍କ୍‌ |
+| umbrella | Noun | ଛାତା, କତୁକ୍‌ |
+| umbrella made with bamboo | Noun | ଏରେକ୍‌ |
+| unbutton the shirt | Verb | କୁସାମ୍‌ |
+| unconscious | Adjective | ଚିମ୍‌ କ୍‌ |
+| uninterested, bored | Adjective | ପେତ୍‌ |
+| unanimously | Adverb | ଅର୍ରୋଟ୍‌ |
+
+Note that some entries with erroneous values have been filtered out, such as "ସାନାଦ୍‌" in the first row of the first output and "ଆଦାନାଦ୍‌" in the last row of the second output.

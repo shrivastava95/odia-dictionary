@@ -1,0 +1,19 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| punctually | Adverb | ଟୀକ୍‌ ଆଦେ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| pungent | Noun | କାରାମ୍‌ |
+| pungent smell | Adjective | ଟି ଗାବ୍‌ବୁ |
+| punishment | Noun | ନେରାମ୍‌ କାଷ୍ଟାମ୍‌, ଭଦାନାଦ୍‌, ଦେବା |
+| pupil | Noun | ପାପ୍‌ ପା |
+| purdah | Noun | ମୁସ୍‌ କା |
+| pure | Adjective | ସୁବାଙ୍ଗ, ସାୟାମ୍‌, ଡେଡ଼ିୟ୍‌, ସୁବାଙ୍, ମେଲ୍‌ ତା |
+| purity | Adjective | ଆଲ୍‌, ଇଷ୍ଟାମ୍‌, AIL, SOU, EC UIGL |
+| purification | Noun | ସୁବାଙ୍ଗ, ସାୟାମ୍‌, ତୁଙ୍ଗାନାଦ୍‌ |
+| purified water | Noun | ଟେଣ୍ଟାଙ୍ଗ୍‌, ମାନ୍ଦାନ୍‌ ଏର୍‌ |
+| purpose | Noun | ଆଲ୍‌ ପ୍‌, ଇଷ୍ଟାମ୍‌ |
+| pus | Noun | କୂଲୁମ୍‌, ଜାଲାମ୍‌ |
+| pus from ear | Transitive verb | ଗୁବା ପଙ୍ଗାନାଦ୍‌, ଆଦାନାଙ୍କୁ AG ଏନ୍‌ ନିମିସ ତାକ୍‌ GI |
+| queen | Noun | ରାଣୀ |
+| quench thirst | Adjective | ଟୁଟ୍ଲୁମ୍‌ ଆତ୍‌, VEL Ale |
+| query | Noun | ନିଜାମା ମାଟା ବାତା, ଇଞ୍ଜୋ ତାଲ୍‌ ପି ଉଡ଼ାନାଦ୍‌ |

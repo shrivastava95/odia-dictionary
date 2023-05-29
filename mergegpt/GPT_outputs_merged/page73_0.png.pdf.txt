@@ -1,0 +1,25 @@
+| Word in English   | Part of Speech   | Odiya Translation   |
+|---|---|---|
+| threshing by foot   | Noun   | ଓଇଲେ   |
+| threshing ground   | Noun   | କାଲାମ୍‌   |
+| threshold   | Noun   | ଆର୍ଦା ଗୁମାମ୍‌, ଚିନ୍‌   |
+| throat   | Noun   | ଗନୁକୁ, ଗୁଢୁଙ୍କ, ବୋଣ୍‌   |
+| thrice   | Adverb   | ଚୁଟ୍କେ   |
+| throne-pierce   | Noun   | କୟ୍‌, ଗିତାନାଦ୍‌   |
+| through   | Preposition   | ସାଙ୍ଗେ, ଟୋଣ୍ଡେ, ତେ   |
+| throughout the day   | Adverb   | ଆର୍‌ ଏ ଆର୍‌, ସାର୍‌ରେ   |
+| throw away   | Verb   | ପାଦେ ଦାନାଦ୍‌, ଏଚା ନାଦ୍‌   |
+| throw yourself down   | Verb   | ନେଲ୍‌ ଲାଗୁଁଡ଼ା   |
+| throwing stone   | Verb   | ପାଦେଘିଂ ପାସ୍‌ କି କାଲ୍‌   |
+| thumb finger   | Noun   | ମଟ ଓାଡ଼୍ଞା   |
+| thunder   | Noun   | ଇଢ଼ିତା, ଗୁଣ୍ଞି ଭା   |
+| thunderbolt   | Noun   | ପିଡ଼ିଗୀ ରାଲ୍‌ ତା   |
+| Thursday   | Noun   | ଗୁରୁ ୱାରାମ୍‌, ଲାଛି ୱାରାମ୍‌   |
+| thus   | Adverb   | ଆଲେକେ, ସେଙ୍ଗେ   |
+| tick (hens)   | Noun   | କୋର୍‌ ପୋର୍ କ୍‌ କି   |
+| tick (on)   | Noun   | ଉତୁମ୍‌, ଏସ୍ାଡ଼ା   |
+| ticket money   | Noun   | ବଡ଼ା ପାଇସା   |
+| ticklish   | Verb   | ଗୁପାଲ୍‌ ଭା ପାଲ୍‌   |
+| tie   | Verb   | ତତାନାଦ୍‌   |
+
+Note: The following words from output 1 had errors and were discarded to avoid confusion - "କି", "ନା ଗଡ଼ା", "1115". The word "thus" had multiple translations in output 1, so both were included in the table.

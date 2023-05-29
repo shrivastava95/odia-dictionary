@@ -1,0 +1,28 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|------------------|
+| senior       | Adjective      | ତୋର୍‌             |
+| sense        | Noun           | ଉପିର୍‌           |
+| sensitive    | Noun           | କିତ୍‌ କିତା ଆସମିନ୍ଦେ |
+| separate     | Verb           | ଏରୁ କିମ୍‌         |
+|              | Verb           | ପେରେ େରେ,ଅରଣ୍େ      |
+|              | Verb           | ଆୟା ଭଡ଼ୋମାଭାନ୍‌  |
+|              | Verb           | @AAIGIQ         |
+| separation   | Noun           | 41Q ପିସାନାଦ୍‌     |
+| servant      | Noun           | କୋତି ନାଟାଡ଼୍‌    |
+|              | Noun           | 6@IG GIRS       |
+| servant of God | Noun        | ଜିତ୍‌            |
+| sesame Oil   | Noun           | GFR FA,GR       |
+|              | Noun           | କିନ୍‌ ନୀ        |
+| sesame seed  | Noun           | Gey             |
+| set          | Verb           | ଆଗେ             |
+|              | Verb           | ARIA, ଏାଟାନାଦ୍‌ |
+|              | Verb           | ତଲ୍‌            |
+|              | Verb           | AM ତୁଙ୍ଗାନାଦ୍‌ ଆରମ୍‌ ବ ମାଡ଼ାନାଦ୍‌ |
+|              | Verb           | ଓରୋଦାମ୍‌ ତେ    |
+| set aside    | Verb           | ଉଟୁଲ୍‌          |
+|              | Verb           | ଦୂରାମ୍‌ ଏାଟାନାଦ୍‌ |
+| set at ease  | Verb           | ଜୀୱାମ୍‌ GE ଆଲ୍‌ ପ୍‌ ଦୂରାମ୍‌ ମାଡ଼ାନାଦ୍‌ |
+| set at naught | Verb          | ବଲିସରେ ମିଡ଼୍‌ କାନାଦ୍‌ |
+| set down     | Verb           | ବେଦ୍‌           |
+|              | Verb           | ରିସାନାଦ୍‌       |
+|              | Verb           | ତେନ୍‌ ସ୍‌ କାନାଦ୍‌ |

@@ -1,0 +1,27 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| bruise       | Noun           | ରାଲ୍‌ GIQY      |
+| cicatrix, cicatric bruise | Noun | ଗାସ୍‌ ରାମ୍‌ |
+| brush        | Noun           | ତମା, ତୁଙ୍ଗା        |
+| brush the teeth | Verb       | ପାଲ୍‌ କାର୍‌     |
+| bucket       | Noun           | ବାଲ୍‌ ଟି       |
+| bubble       | Noun           | ବର୍‌ GR ପେତିତ୍‌   |
+| bubbling     | Verb           | AVR ଏାଦାନାଦ୍‌   |
+| buck         | Noun           | ପୋତ୍‌ RA        |
+| buffalo      | Noun           | ଗେଦି-ବାରେ     |
+| buffalo-cart | Noun           | ବାରେନ୍‌ ବାଣ୍ଡ   |
+| buffaloes    | Noun           | ଗେଦେ          |
+| buffalo-female | Noun        | ଡାଡିବାରେ     |
+| bugler       | Noun           | କମ୍‌ AGIEAIQ    |
+| build        | Verb           | ତେଢିମ୍‌, ତେତାନାଦ୍‌ |
+| building     | Noun           | ତାଲାକ୍‌ ଲୋନ୍‌, ପରଟ୍‌ ତାଲା  |
+| bulbous root | Noun           | ମାଟି           |
+| bull         | Noun           | ଆମ୍ବତ୍‌        |
+| bullock      | Noun           | କୋନ୍ଦା        |
+| bullock cart | Noun           | କୋନ୍ଦା ଗଡ଼୍‌ ବାଣ୍ଡି |
+| bunch        | Noun           | ଗେଲେ ଜୋପା      |
+| bunches of fruits | Adjective | ତୁମ୍ବା ମାନ୍ଦାନାଦ୍‌ |
+| bundle       | Noun           | ମୁଟା, କାଟା     |
+| bundle of grain | Noun        | ଓାଞିା କାଟା     |
+| bundle of grainswood | Noun   | ଓେରିକିନ୍‌ ମୋପ୍‌ |
+| bundle of paddy | Noun       | ମେଦେ           |

@@ -1,0 +1,25 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| a | Adjective & Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| twenty one | Numeral | କୋଡେକ୍‌ |
+| twenty two | Numeral | ୬ଏ |
+| twenty three | Numeral | ଏ |
+| twenty four | Numeral | ନାଲୁ |
+| twice | Adverb | ରେଣ୍ଡି ଚୁଟ୍‌ କ୍‌ |
+| twig | Noun | ସୁତୁଲା କମ୍‌ ମା |
+| twins | Noun | ଏକା ଭାଇବନ୍ଦା |
+| twist | Verb | ମୋର୍କା ପୟ୍‌ ସି ଲାକିଭା |
+| unbind the rope | Verb | ତାଢୁମ୍‌ ଦେତାନାଦ୍‌ |
+| uncle | Noun | ମାମାଲ୍‌ |
+| unclean cloth | Adjective | ଶୀତଳ କମ୍‌ ମା |
+| uncooked rice | Adjective | ନୂକା |
+| underground | Adjective | ଆନାଲୋର୍‌ ପଡ଼ିୟ୍‌ |
+| under, low | Preposition | ଇଡ଼ପା ଆନ୍ଦାନାଦ୍‌ |
+| understand | Adverb | ବୁଝେମ୍‌ ଆସ୍‌ ଆସମିନ୍ଦେ |
+| understand the meaning | Verb | ପୁଞ୍ଜା ମିନ୍ଦିନ୍‌, ଆର୍ଦାମ୍‌, ଆସମିନ୍ଦେ |
+| underwear | Noun | ଲାଙ୍ଗା |
+| undoubtedly | Adverb | ଡାୱଟ୍‌, ଏକାଦେଉଁ |
+
+
+Please note that some entries have multiple values in one of the columns in the raw outputs. In these cases, I tried to provide all the correct options and separated them with a comma. Also, some entries from the raw outputs have too many errors and couldn't be merged into the final table.

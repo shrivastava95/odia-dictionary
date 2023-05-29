@@ -1,0 +1,23 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| sunflower | Noun | ପଡୁଦ୍‌ ପୁଙ୍ଗାର୍‌ |
+| sunlight | Noun | ଦୀପାବଳୀ ଆଳୋ |
+| Sunday | Noun | ଆଦିବାର |
+| sunrise | Noun | ସୂର୍ଯ୍ୟ ଉଦୟ |
+| sunset | Noun | ଡିଗାନା |
+| sunshine | Noun | ପ୍ରକାଶ |
+| supernumerary | Adjective | ଅତିରିକ୍ତ |
+| tooth | Noun | ଦାନ୍ତ |
+| supervision | Noun | ପରିଦ୍ରଷ୍ଟି |
+| surgeon | Noun | ଶସ୍ତ୍ରଚିକିତ୍ସକ |
+| surprise | Noun | ଆଶ୍ଚର୍ଯ |
+| surrender | Verb | ପରାଜଯ୍ୟ |
+| supply | Verb | ଆବେଦନ |
+| support | Noun | ସମର୍ଥନ |
+| sure | Adjective | ନିସ୍ଚିତ |
+| super | Adjective | ମହାନ |
+| article | Noun | ପତ୍ରିକା |
+| accordingly | Adverb | ତେଉଁ ସ୍ୱାଭାବିକ |
+| scorch | Verb | ଜ୍ବାଲା |
+| sunny | Adjective | ସୂର୍ଯ୍ୟପ୍ରକାଶିତ |
+| supernumerary | Noun | ଅତିରିକ୍ତ ଦାନ୍ତ |

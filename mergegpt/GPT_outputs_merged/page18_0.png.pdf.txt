@@ -1,0 +1,30 @@
+| English Word | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| a | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| continued fever | Noun | ନାର୍କା |
+| payal | Noun | ପାୟାଲ୍‌ |
+| mandan | Noun | ମାନ୍ଦାନ୍‌ |
+| contract | Verb | ସମ୍ମତି କରନ୍ତୁ |
+| contractor | Noun | ଟିକାଦାରି |
+| contradict | Verb | ବିରୋଧ କରନ୍ତୁ |
+| control | Noun | ନିଯୋଜନ |
+| conveniently | Adverb | ସୁବିଧାଜନକ |
+| coo birds sing | Verb | କୋଇଲାଟି ଗୀତ ଗାୟ |
+| cook | Noun | ଆଟ୍‌ |
+| cook the curry | Verb | ମସାଲା ଆଟି କୁହାନ୍ତୁ |
+| cook the rice | Verb | ଚାଉଳ ଆଟି ଉପରେ ଆଧା ଘଣ୍ଟା ପକାନ୍ତୁ |
+| cooking | Noun | ରନ୍ଧନ |
+| Asia | Noun | ଆସିଆ |
+| cooking pot | Noun | ପାତ୍ର |
+| cool | Adjective | ଶୀତଳ |
+| cool water | Noun | ଜଳ ଠଣ୍ଡା |
+| coolie | Noun | କୂଳି |
+| coop | Noun | ଛୋଟ ମଛିର ଘର |
+| co-ordination | Noun | ସମନ୍ବୟ |
+| copious rainfall | Adjective | ଭରିପୂର୍ଣ ବରଷା |
+| coppersmith | Noun | ତାମ୍ର କାରିଗର |
+| copy | Noun | କପି |
+| cord | Noun | କୋର୍ଡ |
+| coriander leaf | Noun | ଧନିଆ ପତ୍ର |
+| coriander seed | Noun | ଧନିଆ ବିଜା |

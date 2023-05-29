@@ -1,0 +1,23 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| swing cradle | Noun | ଉୟାଲ୍‌ |
+| swing speedily | Verb | ଉଙ୍ଗାନାଦ୍‌ |
+| sword,saw | Noun | ସାକ୍‌, ସୁର୍‌ କାଚେର୍‌ |
+| symbol | Noun | ଆନାୱଁଲ୍‌ |
+| sympathy | Noun | ଜୀୱାମ୍‌ ତେ |
+| ଉଡ଼ାନାଦ୍‌ | Noun | ଉଡ଼ାନାଦ୍‌ |
+| symptoms | Noun | ଆନାଞାଲ୍‌ |
+| synagogue | Noun | ଇଭତି |
+| systematically | Adverb | ରୂଲ୍‌ ଲେକାମେ |
+| take place | Verb | ଆସମନ୍ଦେ, ଜାଗାନାଦ୍‌ |
+| take rest | Noun | ରମାନାଦ୍‌ |
+| take to task | Verb | ଦେବା, କାଷ୍ଠାମ୍‌ |
+| take up with | Verb | ତୋନ୍‌, ସୀମ୍‌, ଏବଂ ଏଭା |
+| talent | Noun | ଡିଙ୍ଟା, ବୁଦି |
+| talk | Verb | କେତାନାଦ୍‌ |
+| tall | Adjective/Noun | ଡେଙ୍ଗା ଡଗ |
+| tall talk | Adjective | ଗଟି |
+| tall tree | Adjective | ମାଡ଼ା, ଏତୁଗ୍‌ ମାନ୍ଦାନ୍‌ |
+| tamarind | Noun | ଇତା, ପୁଲ |
+
+Note: The word "sympathy" existed in both outputs but with different Odiya translations. The same applies to the word "take to task". Also, the word "tall" is labeled as both Adjective and Noun in the merged output.

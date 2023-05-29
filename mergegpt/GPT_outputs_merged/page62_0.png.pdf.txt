@@ -1,0 +1,28 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| salty | Noun | ଲୁଣି ଉପ୍‌ ପା |
+| salute, worship | Verb | ମଡୃକାନାଦ୍‌ |
+| salvation | Noun | ଗେଲ୍‌ ସାନାଦ୍‌ |
+| sambar deer | Noun | ମାଇମାମ୍‌ |
+| sanctify | Noun | ପାପାମ୍‌ କୁଞ୍ଚି ଗେଲ୍‌ ପ୍‌ |
+| AGIA | Noun | ସୁବ୍ାଙ୍ଗ୍‌ ଡ଼ି |
+| ମାନ୍ଦାନାଦ୍‌ | Noun | ମାନ୍ଦାନାଦ୍‌ |
+| sand | Noun | ଉସ୍‌ କା |
+| saree | Noun | ସିଲେ |
+| sat down | Verb | କୁଦି ମାଭା |
+| Satan, spirit | Noun | ଦେୟାମ୍‌, ବୁତାମ୍‌, ପାରା |
+| ମେଶ୍ବାର୍‌ ପରେ ଓରୋଦାମ୍‌ | Noun | ମେଶ୍ବାର୍‌ ACR ଞ୍ଭରୋଦାମ୍‌ |
+| ତୁଙ୍ଗାନୋଣ୍ଟ | Noun | ତୁଙ୍ଗାନୋଣ୍ଟ |
+| satisfactorily | Adverb | ସାର୍ଦା ତେ |
+| ଇଷ୍ଟାମ୍‌ ତେ | Adverb | .ଇଷ୍ଟୀମ୍‌ ତେ |
+| satisfied | Verb | ସୁମାର୍‌ |
+| ଆଦାନାଦ୍‌ | Noun | ଆଦାନାଦ୍‌ |
+| Saturday | Noun | ସାନିୱାରାମ୍‌ |
+| sauce pan | Noun | କୋଡ଼େଇ, କୋଡେୟ୍‌ |
+| save | Verb | ବଚାଇବା |
+| saving | Noun | ସଞ୍ଚିତ କରିବା |
+| saviour | Noun | ରକ୍ଷକ |
+| ପିସାନୋଣ୍ଟ, ଜୀଶୁ ଖ୍ରୀଷ୍ଟ | Noun | ପିସାନୋଣ୍ଟ, ଜୀଶୁ ଖ୍ରୀଷ୍ଟ |
+| saw | Verb | ସାଇନ୍‌ |
+| Noun | ରାମ୍ମାମ୍‌ |
+| sawdust, husk | Noun | ପ

@@ -1,0 +1,31 @@
+| Word in English   | Part of Speech        | Odia Translation   |
+|-------------------|-----------------------|------------------|
+| to                | Verb                  | ପାନାଦ୍‌           |
+| make              | Verb                  | କେଉା             |
+| set               | Verb                  | କେଉା             |
+| fire              | Transitive verb.      | ପାନାଦ୍‌           |
+| toast             | Verb                  | ପେଣ୍ଟ୍‌ କ୍‌      |
+| parch             | Verb                  | ପେଣ୍ଟ୍‌ କ୍‌      |
+| tobacco           | Noun                  | ବୀଡ଼ି Qe Ag,     |
+| tobacco plant     | Noun                  | ପଗୁ ଏଟୁ, ଫଗ କାରା |
+| to-day            | Noun                  | ନେଣ୍ଡ             |
+| toddy             | Noun                  | କାଲୁ             |
+| toddy tree        | Noun                  | ଗାର୍ବାମ୍‌ ମାଡ଼ା, ତାଢ଼ି ମାରା |
+| toe ring of women | Noun                  | ମାଟି             |
+| toe, nail         | Noun                  | କାଲ୍‌ ଦ୍‌ CERI IC &% ,ଗୋର୍‌ |
+| together          | Adjective             | GRA JSIFIQ        |
+| toilet            | Noun                  | ପେଲାନ୍‌ ଗାଦ୍‌     |
+| told              | N/A                   | କେତଉା            |
+| tolerate          | Adjective             | ପାଲ୍‌ ତେ କଟ୍ଟ ମାନ୍ଦାନାଦ୍‌ |
+| tomato, brinjal   | Noun                  | ଓାଙ୍ଗା କାୟା, ଆପା, ଟାମାଟି |
+| tomb, grave       | Noun                  | @Q କ୍‌,         |
+| tomorrow          | Noun                  | ନାଡୁ, ନାଡ଼ା       |
+| tongs             | Noun                  | AA ସି ତୀସାନାଦ୍‌   |
+| tongue            | Noun                  | ନାଲ୍‌ କି         |
+| to-night          | Adverb                | 69 ନାର୍କ୍‌ କା      |
+| tonsils           | Noun                  | AGG ବିଲା, ବୁଗ୍‌ ଗା ଭା |
+| too               | Adverb                | AG GU, GIG, Qe ମାଲ୍‌ ଲା |
+| too hot           | Adjective             | AIG କାଶ୍‌ ତ୍୍‌, ଞେତ୍‌ |
+| tooth             | Noun                  | ପାଲୁ-ପାଲ୍‌ କ୍‌  |
+| toothbrush        | Noun                  | ପାଲ୍‌ କାର୍‌ ପୁଲାମ୍‌, ତୁମିରି କାର୍‌ |
+| toothless mouth   | Adjective             | MQ                 |

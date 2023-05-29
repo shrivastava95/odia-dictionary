@@ -1,0 +1,28 @@
+| English Word   | Part of Speech  | Odiya Translation |
+|----------------|----------------|------------------|
+| a              | Adjective&Article | ଅରୋଟ୍‌           |
+| accordingly    | Adverb           | ଆଦିଙ୍କ୍‌ ଲେକେ      |
+| inter          | Preposition     | ମଧ୍ୟରେ ଅନ୍ୟ ଗୋଟି ପଦ |
+| palate         | Noun            | ତାଲେରି         |
+| insert         | Verb            | ଢାଳିବା         |
+| ତୁରୁଞି          | Noun            | ତୁରୁଞ୍ଜେ        |
+| ମିନ୍ଦର୍‌         | Noun            | ମିଣ୍ଟିରି        |
+| intestine      | Noun            | ଅନ୍ୟନ୍ୟ ଅନ୍ୟୋନ୍ୟ |
+| finger         | Noun            | ଅଙ୍ଗୁଠି         |
+| ପେର୍କେଟାଦ୍‌     | Noun            | ପରିଧି କାଟେଇ ବିଶେଷ |
+| intimacy       | Noun            | ସନ୍ଦେହଳ ଅବସ୍ଥା |
+| ମାନ୍ଦାନାଦ୍‌     | Noun            | ମନଃଶାନ୍ତି       |
+| intoxication   | Verb            | ମଦ୍ୟ ସେବନ       |
+| invention      | Noun            | ଆବିଷ୍କାର        |
+| ଉଡ଼ି           | Verb            | ଉଡ଼ାଇବା        |
+| ତାୟାର୍‌ ମାଡ଼ି   | Noun            | ବନ୍ଦାର          |
+| ତୋପିସାନାଦ୍‌    | Verb            | ଅନୁସନ୍ଧାନ       |
+| investigate    | Verb            | ଛାନ୍ଧିବା        |
+| crime          | Noun            | ଅପରାଧ          |
+| ତୋନାଗା ମାଟ୍ଟା ତାଲ୍‌ | Noun            | ମାଟ୍ଟା ତଳ        |
+| କାନାଦ୍‌        | Noun            | ହେଟେଇ ଦିଅ        |
+| ପାନାଦ୍‌        | Noun            | ଉପଯୋଗ କରିବା     |
+| invite         | Verb            | ଆମନ୍ତ୍ରଣ ଦିଅ    |
+| jackal         | Noun            | କାଳିଆ          |
+| jackfruit-tree | Noun            | କଟହଳୀ          |
+| ମା

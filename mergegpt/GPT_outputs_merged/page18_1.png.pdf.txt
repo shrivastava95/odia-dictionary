@@ -1,0 +1,24 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| com          | Noun           | ଜନ୍‌, ଜାନ୍‌      |
+| corn         | Noun           | ଡେଡ଼ା, ଆାୟା   |
+| corner       | Noun           | ମୂଲା            |
+| cornerstone  | Noun           | ପାଣ୍ଡ, ମୁଲା କାଲ୍‌ |
+| corps        | Noun           | ସୈନୁକ୍‌, ଏସ୍‌  |
+| corpse       | Noun           | ପିନୁମ୍‌         |
+| correct      | Verb           | ସାରି, ନିଜାମ୍‌, ଟୀକ୍‌ |
+| correction   | Verb           | ଟୀକ୍‌ ତୁଙ୍ଗା      |
+| corruption   | Adjective      | ଲାଞ୍ଚାମ୍‌, ତାପ୍‌ |
+| cot          | Noun           | କାଟୁଲ୍‌        |
+| cotton       | Noun           | ଦୁଦ୍‌, ତୂତୁଲ୍‌, ମାଡ଼ା |
+| cotton tree  | Noun           | ପାରୁପ୍‌ ପୁ, ମାଡ଼ା, ଦୂଦ୍‌ ମାରା |
+| cough        | Verb           | ଡ଼ାଗାନାଦ୍‌      |
+| counselor    | Noun           | ସାୟା ମାଟ୍ଟା, ଭଦାନୋଣ୍ଡ |
+| count        | Verb           | ଲେକାଟ           |
+| couple       | Noun           | ଦୁଇ              |
+| courage      | Noun           | ଦାୟାଙ୍ଗ୍‌        |
+| course       | Noun           | ଆର୍‌, ନାଡ଼ୂଦାନ୍‌ ଆର୍‌ |
+| court        | Noun           | କୋର୍ଟ୍‌         |
+| courtesy     | Noun           | ଲୋନ୍‌ ଓାଦାନର୍‌ କିଙ୍୍‌, ସାୟା ପ୍ରେମାତେ ଉଡ଼ାନାଦ୍‌ |
+| courtyard    | Noun           | ଆଙ୍ଗାଡ଼୍‌, ଏହେଶ୍ଟା |
+| covenant     | Noun           | ଇର୍‌ ସିର୍‌ ଲୋପେ, ମାନ୍ଦାନ୍‌ ମାଟ୍ଟା କାଗାଜ୍‌ |

@@ -1,0 +1,32 @@
+| Word in English | Part of speech | Odiya Translation |
+|-----------------|----------------|------------------|
+| a               | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly     | Adverb         | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| justice         | Adjective      | ଦାର୍ମାମ୍‌ |
+| justify/justification | Verb | ନିଜାମ୍‌ |
+| BIE             | N/A            | ଇନ୍‌ ଞ୍ଜୋ |
+| ତୋପିସାନାଦ୍‌       | Noun           | ତୋପିସାନାଦ୍‌  |
+| କେତାନାଦ୍‌         | Noun           | କେତାନାଦ୍‌  |
+| kind            | Noun           | ପଦଲା            |
+| ପାଣ୍ଡୁମ୍‌          | Noun           | ପାଣ୍ଡୁମ୍‌        |
+| kind of fish    | Noun           | ଗେରସ କୀକେ        |
+| ତାର୍‌           | Noun           | ତାର୍‌             |
+| ଏ @16@          | N/A            | ଏ @16@          |
+| @6¢'            | Noun           | @6¢'            |
+| ବୁସ           | Noun           | ବୁସ             |
+| 6QI6C'          | Noun           | 6QI6C'          |
+| ଲୁଗେ           | Noun           | ଲୁଗେ            |
+| kind of flower  | Noun           | ଇକ୍‌ କୁ          |
+| ଇଢୁ-ଇକ୍‌        | Noun           | ଇଢୁ-ଇକ୍‌         |
+| କାନାକାମ୍ବାରା | Noun           | କାନାକାମ୍ବାରା   |
+| ଟଗୋର୍‌          | Noun           | ଟଗୋର୍‌         |
+| ଇଟ୍‌ ଲି         | Noun           | ଇଟ୍‌ ଲି         |
+| ପୂଙ୍ଗାର୍‌       | Noun           | ପୂଙ୍ଗାର୍‌        |
+| kind of food    | Noun           | GAM ଚାକୁର୍‌     |
+| kind of fruit   | Noun           | ଏଡ଼େକା,ଏର୍କା     |
+| ^ ତୁମୁଡ଼ି       | Noun           | ^ ତୁମୁଡ଼ି        |
+| ପାର୍ଚେଲି      | Noun           | ପାର୍ଚେଲି         |
+| kind of green leaves | Noun     | କଡ଼େଲ୍ FOO       |
+| kind of herbal plant | Noun     | ଆପା             |
+| kind of honey  | Noun           | 6@641,6S6Q      |
+| kind of insect | Noun           | ଜୁରେଲ୍‌ Qe       |

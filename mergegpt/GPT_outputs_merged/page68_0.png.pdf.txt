@@ -1,0 +1,20 @@
+| English Word    | Part of Speech      | Odiya Translation |
+|-----------------|---------------------|------------------|
+| stationery      | Noun                | ରାସାନାଦ୍‌ ସାଦ୍‌ |
+|                  |                      | ୱାନାଦ୍‌ ସ୍‌ କୁଲ୍‌ JB କାଗାଜ୍‌ |
+|                  |                      | AIGA ମାନ୍ଦାନ୍‌ ଦୁକାନ୍‌, କଟ୍‌ |
+| statue,idolater | Noun                | ବୋମେ ମାଡ଼ାନାଦ୍‌ |
+| statute         | Noun                | ନିୟାମ୍‌ ମାଟା, ରୂଲ୍‌ |
+| staying         | Verb                | ସାଙ୍ଗ୍‌ ଉଶ୍‌ କାଡ଼୍‌, ତୁଙ୍ଗାନାଦ୍‌ |
+| steadiness      | Noun                | ଦୁସ୍‌, କାଟି ମାନ୍ଦାନାଦ୍‌ |
+| steady arrogant | Adjective           | ମାନ୍ଦାନାଦ୍‌-ଟେକ୍‌ A ସୋମିନ୍ଦୋଣ୍ଡ |
+| steal           | Verb                | ତାର୍‌ ରା |
+| stealing        | Noun                | ଡଙ୍ଗା AIGA, ମାତ୍ତା, ଇମ୍ରାନାଦ୍‌ |
+| stealing away   | Noun                | ଇମ୍‌ ଡ଼ାନାଦ୍‌-ଇମ୍‌ ଡି, ମାତ୍ତା, ଇମ୍ରାନାଦ୍‌ |
+| stealthily      | Adverb              | ଆୟ୍‌ କୁନ୍‌ ମାଞ୍ଜା GIG ଓାଙ୍ଗି AG ଡଙ୍କାନାଦ୍‌ |
+| steam           | Noun                | କୁମ୍‌ ପୋଡ଼ |
+| steel           | Noun                | ତିଲ୍‌ ପ୍ଲେଟ୍‌, ଫା, କୁଣ୍ଡଳ |
+| stem            | Noun                | ନରା A NOR |
+| stench          | Noun                | ଗାବ୍‌ ବୁ |
+| steno           | Noun                | ରାସିଭଦାନୋର୍‌, କିଙ୍କ୍‌ ରାସୀଦାନାଦ୍‌ |
+| stenography     | Noun                | ବାର ନାରୂର୍‌, କିଙ୍କ୍‌ ରାସୀଦାନ

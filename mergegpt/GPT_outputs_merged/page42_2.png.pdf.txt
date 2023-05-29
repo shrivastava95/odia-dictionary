@@ -1,0 +1,29 @@
+| English Word                  | Part of Speech    | Odiya Translation |
+|-------------------------------|------------------|------------------|
+| a                             | Adjective&Article | ଅରୋଟ୍‌           |
+| accordingly                   | Adverb           | ଆଦିଙ୍କ୍‌ ଲେକେ    |
+| lay asnare                    | N/A              | ଲେ ଆସନରେ        |
+| lay by                        | Verb             | ଗୁଡୃଶ୍‌ ପାନାଦ୍‌ |
+| lay down                      | Verb             | ଞିଢୂସାନାଦ୍‌   |
+| lay down                      | Noun             | ପାଟା            |
+| lay open                      | Verb             | ତୋପିସାନାଦ୍‌    |
+| lay out                       | Verb             | କାର୍ଚ୍‌ ମାଡ଼ାନାଦ୍‌ |
+| lay up                        | Verb             | ଗିଗି କାଲାମ୍‌    |
+| layer after layer             | N/A              | ବିଡ଼ା           |
+| laziness                      | Noun             | ମଣ୍ୁ             |
+| lazy man                      | Noun             | ପାନ୍ଦି          |
+| lead                          | Noun             | ଆର୍‌ ତୋପିସାନାଦ୍‌ |
+| leader                        | Noun             | ପେଦାଲ୍‌         |
+| leading                       | Verb             | ପେଦାନ୍‌         |
+| leaf                          | Noun             | ଆକ୍‌            |
+| leaf basket                   | Noun             | ଡପ୍‌ ପା         |
+| leaf plates tree              | Noun             | ପାଉଡ଼ C3!      |
+| leaf-plate                    | Noun             | ସସ୍‌ ତ୍ରି ଡପ୍‌ ପା |
+| leafstalk                     | Noun             | ତଡ଼୍‌ ମେ        |
+| leakage                       | Noun             | ଲୋନ୍‌ ଏଡ୍‌ ଭା    |
+| leaking                       | Verb             | ଓାଙ୍ଗୋମିନ୍ଦେ    |
+| lean                          | Verb             | ରୋଇମିନ୍ଦାନ୍‌   |
+| learn by heart                | Verb             | ସାଦୁୱା, ନେର୍ସା, କାର୍ଶ୍‌ ପା |
+| least stroke of a pen         | Noun             | ରାଶ୍‌ ତାମୁକ୍‌ କା |
+| leave                         | Verb             | ସଡ଼୍‌ ସା        |
+| leave the door open           | N/A              | ଦରବାର ଖୋଲିବା   |

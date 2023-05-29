@@ -1,0 +1,20 @@
+| English word | Part of speech | Odia translation |
+|--------------|----------------|-----------------|
+| by talk | Adposition | ଗଟ୍‌ |
+| by work | Adposition | ଗଟ୍‌ |
+| by walk | Verb | ନାଡ଼୍‌ ସ୍‌ ନାଡ଼୍‌ ସ୍‌ |
+| by way of | Preposition | ଅଧି |
+| carry on | Verb | ନାଟୃପିସା, ନାତୁସ୍‌, ପାନାଦ୍‌ |
+| carry on shoulder | Noun | କାଞ୍ଜାନାଦ୍‌ |
+| carry out | Verb | ପୂରାଉଛି, ମାଟା ପୟ୍‌ ସି ପାଡ଼ିୟ୍‌, ମାଡ଼ାନାଦ୍‌ |
+| carry the things on head | Verb | ତୋର୍ଥ ଡୋଦାନାଦ୍‌, ତୋଞ୍ଚି ସୋଦାନାଦ୍‌ |
+| carrying | Verb | ମୋସାନାଦ୍‌, ତୋସାନାଦ୍‌, ପୂହ -ତ୍‌-ବାୱ୍‌, କାଞ୍ଜାନାଦ୍‌ |
+| cashew nut | Noun | ଜିଡ଼୍‌ ମାମିଡ଼୍‌ |
+| cassava plant, tapioca | Noun | ସୋମା ମାଡ଼ା |
+| cast away water | Verb | ଲସ୍‌, କାନାଦ୍‌, ପଚାନାଦ୍‌ |
+| cast one's net | Verb | ଏସ୍‌, ତାନ୍‌, ଏସାନାଦ୍‌ |
+| castle, wall | Noun | ଦାଡ଼ିୟ୍‌, ନେଟା |
+| castor oil | Noun | ନେରୋଣେ ମାଡ଼ା, ନୀୟ୍‌ |
+| cat | Noun | ଷେର୍‌, କାଡ଼୍‌ |
+| cat MEWS | Noun | ଞେୟ୍‌, ସ୍‌, କାମାଟି |
+| cataract of the eye | Noun | ପାରା |

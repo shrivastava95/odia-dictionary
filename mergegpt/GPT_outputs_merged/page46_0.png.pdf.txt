@@ -1,0 +1,21 @@
+| Word in English | Part of speech it belongs to | Odiya Translation of the word |
+| --- | --- | --- |
+| male, man | Noun | ମାନେ, ମାଣୁଷୁଣ୍ |
+| males | Noun | ପୋତ୍ |
+| malnutrition | Noun | କାମା, ସାତ୍‌ ଓମ୍ |
+| man who has a broken teeth | Adjective | ଞାଲ୍‌-ଉରୁଙ୍ଗ୍‌ |
+| management | Noun | ସାର୍ରେ ପାଡ଼ିୟ୍ |
+| mango bird | Noun | ଆଶ୍‌ ପିଟେ |
+| mango festival | Noun | ମାର୍କା |
+| mango tree | Noun | ମାର୍କା ମାଡ଼ା |
+| mango, mango fruit | Noun | ମାର୍କା, ମାର୍କ୍‌ ପାଣ୍ଡୁ |
+| mangoes | Noun | ମାର୍କା କାୟା |
+| manliness | Noun | ନାରୂରିନ୍‌ ମେଲ୍‌ ତା |
+| manna | Noun | ଆସ୍‌ କେ |
+| many/much | Adjective | ଦିବେଡ଼ |
+| marble | Noun | କାଲ୍‌ କ୍‌ |
+| mare | Noun | ଡାଡା ଗୁର୍ରାମ୍‌ |
+| marigold flower, camomile | Noun | ବାନ୍ତି ପୂଙ୍ଗା |
+| mark | Noun | ମାର୍ରା |
+| market | Noun | ହାଟ୍‌, ସାନ୍ତା |
+| marriage feast of boy and girl | Noun | ପେଲ |

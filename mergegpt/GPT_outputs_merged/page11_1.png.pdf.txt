@@ -1,0 +1,24 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| bird         | Noun           | ପକ୍ଷୀ         |
+| birth        | Noun           | ଜନ୍ମ            |
+| birth control| Noun           | ଜନ୍ମ ନିଯୋଜନ    |
+| height       | Noun           | ଉଚ୍ଚତା         |
+| birthday     | Noun           | ଜନ୍ମ ଦିନ        |
+| ceremony     | Noun           | ଉତ୍ସବ          |
+| bishop       | Noun           | ବିଶୋପ          |
+| mandate      | Noun           | ହୁକମ            |
+| officer      | Noun           | ଅଧିକାରୀ         |
+| bison        | Noun           | ବିସୋନ୍‌        |
+| bird         | Noun           | ପକ୍ଷୀ         |
+| bite         | Verb           | କାଟିବା         |
+| bitter       | Adjective      | କଡେଇବା         |
+| gourd        | Noun           | ଲାଉ             |
+| black        | Adjective      | କଳା            |
+| cumin        | Noun           | ଜିରା            |
+| monkey       | Noun           | ବାନର୍ଜି        |
+| goose        | Noun           | ହଂସ             |
+| gram         | Noun           | ଚଣା            |
+| myrobalam    | Noun           | ହରିତକୀଟି       |
+
+Please note that there were some discrepancies in both the OCR outputs, which I have tried to minimize while merging them.

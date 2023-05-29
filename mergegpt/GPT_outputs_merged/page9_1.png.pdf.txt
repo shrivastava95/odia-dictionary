@@ -1,0 +1,22 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| awake        | Verb           | ତେଦିସାନାଦ୍‌           |
+| aware        | Noun           | ପୁନ୍ଦାନାଦ୍‌            |
+| away         | Adverb         | ଦୁରାମ୍‌ ତେ           |
+| awe          | Noun           | ବାକ୍‌ ତି ତେ ରେଲାନାଦ୍‌   |
+| badly        | Adverb         | କାରାବ୍‌ ତେ           |
+| bag          | Noun           | ମୂଣା, ସାଞ୍ଚ୍‌         |
+| baker        | Noun           | ରୋଟି ଆମ୍‌ ମାନୋଣ୍ଡ       |
+| balance      | Noun           | ଆଭା ପେର୍କେ ମିଗାଲ୍‌ ତାଦ୍‌ |
+| balcony      | Noun           | ମେଡ଼ା ଲୋତ୍‌ ଗଡ଼ା       |
+| bald head    | Adjective      | ଟେକ୍‌ କା, ପୋଡା        |
+| balsam       | Noun           | ଟଗର୍‌ ଏଟ୍‌             |
+| bamboo       | Noun           | ସୈଦୁର୍‌               |
+| bamboo basket| Noun           | ଗାମ୍ା, କୁଶ୍‌ ଶା       |
+| bamboo mat   | Noun           | ସାମ୍‌ ପା, ଟାଟ୍‌       |
+| bamboo tree  | Noun           | ହିଦ୍‌                  |
+| banana fruit | Noun           | କେଡ଼ା ପାଣ୍ଡି           |
+| banana tree  | Noun           | କେଡ଼ା ମାଡ଼ା            |
+| bandage      | Noun           | ମାତ୍‌ ଓାଟି, ତୋଉାନାଦ୍‌, ମାର୍‌ ସୀଲେ |
+| bandi rat    | Noun           | ମୁସ୍‌ ଚେଟେଲ୍‌           |
+| bangle       | Noun           | ଗାଜୁମ୍‌               |

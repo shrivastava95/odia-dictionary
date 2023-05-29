@@ -1,0 +1,25 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| AIGA         | N/A            | ଆଙ୍ଗ୍‌        |
+| lime stone   | Noun.          | ଚୁନାମ୍‌ କାଲ୍‌ |
+| Q            | Noun.          | ନାରୂର୍‌ କିଙ୍କ୍‌ ପି ସାନାଦ୍‌ |
+| କ୍‌,ରାୟ୍‌         | Noun.          | N/A              |
+| line formed by the parted hair on woman's head | Noun. | ସାଲେ,ଜାଲେ ଜାଲେ |
+| line up, line of people for inspection | Noun. | ସାଲେ ସାଲେ -ଜାଲା ଜାଲା ଓଟା |
+| line(them) up,arrange in a line | Verb. | ସାଲେ ସାଲେ -ଜାଲା ଜାଲା ଓଟା |
+| lines in palm of hand-palmist | Noun. | କାଇକିନ୍‌ IR ତା ଉଡ଼ିଜୀୱାମ୍‌ ତ୍‌ ମାଟା କେତାନୋଣ୍ଟ |
+| lion         | Noun.          | ସିମ୍‌           |
+| lion roars   | Noun.          | କେ ଭତା         |
+| lips         | Noun.          | ପେଦୁଞେ          |
+| listen       | Verb.          | କେନ୍‌ ଜା        |
+| little       | Adjective.     | କେନ୍ନେ, କଦି, ଚୁଢତୁଟ୍‌, ଉଛୁଟ୍ଭଛୁ ଟ୍‌ |
+| little finger | Noun.          | ପିଲା ଓାତୃଞ୍ଜା, MI ଓାଡ଼ଞ୍ଜା |
+| little cormorant bird, coal goose | Noun. | ଏକାକାର୍‌, ଏର୍‌ କାକାଡ଼୍‌ |
+| little food  | Noun.          | QR କେଣ୍ଡଠ ଦୋଡ଼ା |
+| little while | Noun.          | ଚୁଡୁଟ୍‌        |
+| live         | Adjective.     | MQ କାନାଦ୍‌     |
+| live coal    | Adjective.     | @Q ତାଡ଼୍‌ ମେ    |
+| live on      | Verb.          | ବାତ୍‌, କାନାଦ୍‌, ଜୀୱାମ୍‌ ମାନ୍ଦାନାଦ୍‌ |
+| livelihood   | Noun.          | ବାଳୁ             |
+
+I had to remove "alg", "@@", "GIG!", "6@6R", "SQ", "QR", "AIM", "SIEM", "EQ", "N/A", "ଟ୍‌", "ଷେ" and "ବାକ

@@ -1,0 +1,32 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|-------------------|------------------|
+| a | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| would have | Verb | ହବେ ପାଇଛି |
+| wound | Noun | ଘାଉ |
+| wound burning | Noun | ଜଳସିକା ଘାଉ |
+| ମାଣ୍ଡାନାଦ୍ | Noun | ମାଣ୍ଡାନାଦ୍‌ |
+| wound on the nose | Noun | ମସସିକା ଘାଉ |
+| RAs | N/A | ରସା |
+| wrap | Verb | ଗୁମ୍ବାଡି କରାନ୍ତୁ |
+| ତେ ଉଡୁପିସାନାଦ୍ | Noun | ଉଡୁପି ସାନାଦ୍ |
+| wrath | Noun | କୋପ |
+| wrath of god | Noun | ଦୈବାନୁରାଗ |
+| ପାରାମେଶ୍ବାରିନ୍ | Noun | ପାରମେଶ୍ବର |
+| wreath | Noun | ଗର୍ଲାଣ୍ଟ |
+| wreathe | Verb | ଗର୍ଲାଣ୍ଟ କରାନ୍ତୁ |
+| wring | Verb | ଐଚିତ୍ତ୍ର |
+| wrist | Noun | କଳିଆ ପାଇ |
+| write | Verb | ଲେଖନ କରନ୍ତୁ |
+| write the letters | Verb | ଚିହ୍ନ ଲେଖନ କରନ୍ତୁ |
+| writer | Noun | ଲେଖକ |
+| written | Verb | ଲେଖା ହେଉଛି |
+| wrongly | Adverb | ଭୁଲୋ |
+| wry necked | Noun | ଗେରୁଡ଼ା |
+| yoke with slings | Verb | କାଭାଡ଼ି କରନ୍ତୁ |
+| yolk | Noun | ଅଣ୍ଡ ପିଣ୍ଡ |
+| you are going(sl) | Verb | ସେ ଯାଇଛନ୍ତି |
+| ଜ ମିନ୍ଦିନ୍ | N/A | ଜିମିନ୍ଦିନ୍ |
+| you are playing(pl) | Verb | ଖେଳାଚ୍ଛନ୍ତି |
+| ald ମିନ୍ଦୀର୍ | N/A | ମିନ୍ଦୀର୍‌ |
+| you play(pl) | Verb | ଖେ

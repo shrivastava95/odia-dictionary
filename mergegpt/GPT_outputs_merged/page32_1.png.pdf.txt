@@ -1,0 +1,23 @@
+| Word in English     | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| CAMM, FIG           | Noun           | ମାଲ୍‌,ମାନ୍‌ ମାରାଲ୍‌ |
+| ମାନ୍‌ ମାୟାଡ଼        | Noun           | grand father, father s father |
+| ଦାଦା               | Noun           | grand father, mother s father |
+| ତାତାଲ୍‌            | Noun           | grand mother,(mother's mother) |
+| କାକ୍‌ କୋ           | Noun           | grand mother(father's mother) |
+| alal                | Noun           | grand son daughter's son |
+| ମାନ୍‌ ମାଲ୍‌         | Noun           | grand son son's son |
+| ତାମୁଣ୍ଡ            | Noun           | grandeur |
+| ଜିଗ୍‌ ଜାଗ୍‌         | Noun           | grant |
+| ସାରି ଇଞ୍ଜୋ ଅପ୍‌ ପାନାଦ୍‌ | Noun           | grantee |
+| ଡାପ୍‌ କ୍‌ ତିସୁକୁଟେ      | Noun           | grantee |
+| grapes fruits       | Noun           | ଅଙ୍ଗୂର |
+| grapes juice        | Noun           | ଅଙ୍ଗୂର ରସ |
+| ରଣ୍ଡା,ର ଟା,ଗାଡ୍‌, ସୋପ୍‌ ପା   | Noun           | grass |
+| ଗାଡ୍‌ AIR ବୂମ୍‌   | Noun           | grass of the field |
+| କର ଉଛି            | Noun           | grass with prickly seeds |
+| ସାନ୍ଦାନାଲ୍‌,ଦାନ୍ଯୱାଦ୍‌, ନାମାଶ୍‌ କାରାମ୍‌,ମଡ଼ୂକାନାଦ୍‌ | Noun | gratitude |
+| ଞିଶ୍‌ କ୍‌ ,ଗୋଲ୍‌    | Noun           | grave |
+| ମରୁମ୍‌ AGM         | Noun           | gravel |
+| ମେୟ୍‌ ସାନାଦ୍‌        | Verb           | graze |
+| ଏଲ୍‌ କା,,ବାୟ୍‌     | Noun           | grazing field |

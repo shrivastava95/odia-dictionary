@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| QB | Noun | କ୍ୟୁ.ବୀ. |
+| according to | Preposition | ଅନୁସାରେ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ଲେକେ |
+| a | Adjective&Article | ଅରୋଟ୍‌ |
+| and | Conjunction | ଏବଂ |
+| burnt | Adjective | ଦହନାଗରିତ |
+| complaint | Noun | ତାପ୍‌ ପୁ - ମାଟା |
+| complete | Adjective | ପୂର୍ଣ୍ଣ |
+| complexion | Noun | ସାଲ୍‌, ଆମ୍‌ ରୋ |
+| compulsory | Adjective | ବାଧାତ୍ମକ |
+| conduct | Noun | ବ୍ୟବହାର |
+| confident | Adjective | ଆତ୍ମବିଶ୍ବାସ |
+| conflict | Noun | ଦ୍ୱନ୍ଦ |
+| confront | Verb | ମୁଖାମୁଖି |
+| confuse | Verb | ଗଡ଼ଗଡ଼ାଇବା |
+| comrade | Noun | ସଙ୍ଘୀ |
+| conceal | Verb | ଲୁଚାଇବା |
+| conceive | Verb | ସୃଷ୍ଟି କରିବା |
+| concubine | Noun | ଧୀରେଇ |
+| condemn | Verb | ଦଂଡିତ କରିବା |
+| condemnation | Noun | ଦଂଡ |
+| confession | Noun | ଅସ୍ବୀକାର |
+| confused | Adjective | ଗଡ଼ଗଡ଼ାଇଥିବା |

@@ -1,0 +1,24 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| to hide,keep | Transitive Verb   | ଆଣକାନାଦ୍, ମିଞ୍ଜାନାଦ୍‌ |
+| to jump | Intransitive Verb | ତାସାନାଦ୍‌ |
+| to keep | Transitive Verb | ଓାଟାନାଦ୍‌ |
+| to kiss | Transitive Verb | ବୁର୍ରାନାଦ୍‌ |
+| to know | Transitive Verb | QAl@l@ |
+| to laugh | Intransitive Verb | QQ |
+| to leak[water] | Transitive Verb | ସାନାଦ୍‌ |
+| to leave, abandon | Transitive Verb | କାରୋମିନ୍ଦେ |
+| to lick | Transitive Verb | ନାକ୍‌ |
+| to lie down, sleep | Intransitive Verb | କାନାଦ୍‌ |
+| to lose | Transitive Verb | ମାପାନାଦ୍‌ |
+| to make fire, kindle fire | Transitive Verb | କିସ୍‌ |
+| to make something upside-down | Transitive Verb | କାପ୍‌ |
+| to make to dry | Transitive Verb | ମୁତ୍ତାନାଦ୍‌ |
+| to make to sleep | Transitive Verb | ଆାତିସାନାଦ୍‌ |
+| to make wet | Transitive Verb | ଜିସନାଦ୍‌, ଉନ୍‌ ଶ୍‌ ପାନାଦ୍‌ |
+| tome | Pronoun | ନାକିଙ୍କ୍‌, ନାକ୍‌ କୁ |
+| to meet, join | Transitive Verb | କାଲ୍ୟାନାଦ୍‌ |
+| to melt | Verb | କାଡ଼ିଗିଂତ୍‌ |
+| to milk | Transitive Verb | ପାଲ୍‌ |
+
+As you can see, I've merged the two outputs, removed the errors that were not common in both outputs, and formatted the data into the required table format.

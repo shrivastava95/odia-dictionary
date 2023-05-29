@@ -1,0 +1,29 @@
+| English Word | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| a | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| after wards | Adverb | ପାୟା |
+| afternoon | Noun | ମାଦ୍‌ ନାମ୍‌ |
+| again | Connective/Adverb | ମେଣ୍ଡେ |
+| against | Adposition | ୱରୋଦାମ୍‌ ତେ |
+| agreement | Noun | ରାଜି ଆଦାନାଙ୍କ୍‌ ମାଟା |
+| ague | Noun | କାନ୍‌ ନିଗ୍‌ |
+| ah | Interjection | ଓ ୟାୟ |
+| ahead | Adverb | ମୁନରେ |
+| aim | Noun | ମାଡ଼ାନାଦ୍‌ |
+| air force | Noun | ମାବିନ୍‌ ସୟ୍‌ ନୁର୍କ |
+| alcoholic | Adjective | ଓଶ୍‌ |
+| alert | Adjective | ବର୍ |
+| alive | Noun | ବାତ୍‌ ଗିଗି |
+| all | Adjective/Noun | ସାରେ |
+| all hail | Interjection | ମେଲ୍‌ ତା ଆୟି |
+| all in all | Adjective | ସାରେ |
+| all right | Adjective | ସାରି ସାୟା ଆତ୍‌ |
+| all that | Noun | ସାରେ |
+| allopathy | Noun | ଡାକ୍‌ ଟାର୍‌ ମାତ୍‌ ତିନ୍ଦାନାଦ୍‌ |
+| allotment | Noun | ବାଗାମ୍‌ ସାର୍ଦୀଦାନାଦ୍‌ |
+| almirah | Noun | ଆଲ୍‌ ମିରା, ବିରୋ |
+| almond | Noun | ବାଦାମ୍‌ ସେଲେଙ୍ଗା |
+| almost | Adverb | ବେଚୋଟ୍‌ ସୁମାରେ |
+| aloe | Noun | ପାଦ୍‌ କୟ୍‌ ୟେ |
+| aloft | Adverb | ପର୍ରୁ |

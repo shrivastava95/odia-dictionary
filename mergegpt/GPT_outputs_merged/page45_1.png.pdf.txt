@@ -1,0 +1,17 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|-----------------|----------------------|
+| low jungle | Noun | ରିସିତ୍‌ |
+| thicket | Noun | ଗୁବ୍‌ |
+| low status | Adjective | ସୁଦୂଲା |
+| low, heap, mountains | Noun | ତା ମାନ୍ଦାନୋର୍‌ |
+| lower | Adjective&Article | ବାଲ୍‌ |
+| lower back tooth | Noun | ଆଡ଼ିଗି |
+| lower lip | Noun | ପାଲ୍‌ କ୍‌ ପାଲ୍‌ କ୍‌ |
+| lower the head | Adjective | ଆଡିଗି, ଆଡିଗି, AGAI, AIG, ୱାଙ୍ଗାନାଦ୍‌, କ୍‌ କାନାଦ୍‌ |
+| Lucifer | Noun | ଶୟତାନ୍‌ |
+| low status | Noun | ମାନ୍ଦାନୋଣ୍ଡ, ବାଡ଼ିୟା |
+| make | Verb | ମାଡ଼ାନାଦ୍‌, ତେଆର୍‌, ତୂଲ୍‌, ବଛା ତୂଲ୍‌, ପୋସ୍‌ କ୍‌ ପୋସ୍ କ୍‌, 6A6@ AQ, ସିଟ୍‌ alg ମିର୍ରାନାଦ୍‌, Q&, ଏଦୁରେ ଆନ୍ଦାନାଦ୍‌, ମାଟା ତାସାନାଦ୍‌, ଆଦାନାଦ୍‌ |
+| make known | Adverb | ବୁଝାକିତଣ୍ଢଠ, ବୁଜାୟ୍‌, GEIGER |
+| make a kissing sound | Noun | ତାନାଦ୍‌ | 
+
+Please note that some of the entries contain multiple translations with different parts of speech. The errors that were common in both outputs were retained, while those that were unique to only one output were removed.

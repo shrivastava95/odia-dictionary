@@ -1,0 +1,29 @@
+| Word in English | Part of speech | Odiya Translation |
+|-----------------|----------------|------------------|
+| without any     | Adverb         | କଟେନ୍‌          |
+| work            | Noun           | କା              |
+| (she was eating)| Verb           | କୁଦିକେ         |
+| without fail    | Adverb         | ତାପୁ            |
+| without tired   | Adverb         | ଉଲଗ             |
+| withstand       | Verb           | ଆଡାମ୍‌          |
+| witness         | Noun           | ସାକ୍‌           |
+| woe             | Noun           | ୟାୟୋ            |
+| wolf            | Noun           | ଟଣ୍ଡେଲ୍‌        |
+| woman           | Noun           | ନାଟାଡ଼         |
+| women           | Noun           | ଅଗ ଫିକ୍ସ୍!      |
+| womens are      | Verb           | ମିନ୍ଦା          |
+| playing         | Noun           | କାରସ୍‌         |
+| won't fight     | Verb           | ରାମୁକୁ         |
+| (shout)         | Noun           | ମାଡ଼ନ୍‌        |
+| won't lust      | Verb           | ମାଲରତିନ୍‌ ସାମାନ୍‌ |
+| wonder          | Noun           | ୟାୟୋ            |
+| wood            | Noun           | ଞେର୍‌ କ୍‌        |
+| wood oil        | Noun           | ଞେର୍‌ କିନ୍‌ ନିୟ୍‌ |
+| woodpecker      | Noun           | ବେରିୟା କିର୍‌    |
+| yam             | Noun           | ନୋଶ୍‌ କା ମାଟ୍ଟି   |
+| yard            | Noun           | ପାଲାମ୍‌ ଆଙ୍ଗାଡ଼   |
+| yawning         | Verb           | ତିସାନାଦ୍‌        |
+| year            | Noun           | ଏଣୁ             |
+| yellow          | Adjective      | ସାରାମ୍‌         |
+| powder          | Noun           | ପାସ୍‌           |
+|                 |                | ପ୍‌ AIL, SIF] କ୍‌    |

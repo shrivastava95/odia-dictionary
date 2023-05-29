@@ -1,0 +1,27 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| foundation | Noun | ପାଣ୍ଡ ଞିସାମ୍‌ |
+| foundation pillar | Noun| ଗାବା |
+| fountain well | Noun | ଏଡ଼ମା |
+| four-4 | Numeral | ନାଲୁ |
+| fourteen | Numeral | ପାଦିନାଲୁ |
+| fowl | Noun | କୋର୍‌ |
+| fox/vixen | Noun | ପୋତ୍‌ FIR କା |
+| fracture | Noun | ବୁଲ୍‌ ଲା AFI |
+| fragrance | Noun | ପୁଙ୍ଗାନ୍‌ ମେଲ୍‌ ତା |
+| frailty | Adjective | ମାନ୍ଦାନାଦ୍‌ |
+| freedom | Noun | ନିଜ ଇଷ୍ଟାମ୍‌ ତେ |
+| freely | Adverb | ଆଏ ଦର୍କାନାଦ୍‌ |
+| freeze | Verb | ନେତୂର୍‌ ଗୂଡ଼ାନାଦ୍‌ |
+| frequently | Adverb | ବେସୁଟ୍‌ ତାମ୍‌ |
+| fresh | Noun | କାସ୍‌ |
+| Friday | Noun | ଶୁକୁ ଓରାମ୍‌ |
+| fried grain | Noun | ପ୍ରିକି |
+| friends | Noun | ସାଙ୍ଗୋତ୍ତୋର୍‌ |
+| friendship | Noun | ଜାଭା, ସାର୍କୋ |
+| frightened | Verb | ତୋଣ୍ଟ |
+| frog | Noun | ପାଣ୍ଡେ, ପାଣ୍ଡି |
+| from day to day | Preposition | ରୋଜକ୍‌ ରୋଜ୍‌ |
+| from me | Preposition | ନାୟାଗା |
+| from there,from house | Preposition | ଆଗ୍‌ |
+| from up from the top | Preposition | ନୁଞ୍ଚି, କୁଞ୍ଚି |

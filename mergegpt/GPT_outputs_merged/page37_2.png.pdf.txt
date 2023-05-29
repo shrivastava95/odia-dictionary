@@ -1,0 +1,21 @@
+| English Word       | Part of Speech     |Odiya Translation|
+| :------------- | :----------: | -----------: |
+| Minde           | Noun         | ମିନ୍ଦେ       |
+| in              | Preposition  | ରୁହିଛନ୍ତି   |
+| in a consequence of | Noun   | ଆତ୍‌     |
+| in a dying stage | Adjective   | ଡ଼ଲ୍‌      |
+| in an auspicious day | Adverb | ସୁଭମୁହୁର୍ତରେ |
+| in an evil day   | Adverb      | ଦୁଷ୍ଟମୁହୁର୍ତରେ |
+| in comparison with | Preposition | ସଂପର୍କରେ  |
+| in connection with | Preposition | ସଂସ୍ପର୍ଶରେ |
+| in consideration of | Preposition | ବିବରଣୀ     |
+| in course Of     | Preposition | ମୁଖ୍ୟ     |
+| in every age    | Adverb      | ସବୁ ପ୍ରାୟ  |
+| in front of     | Adposition  | ଅଗ୍ରପରେ    |
+| in NO ways      | Adverb      | କଦାପି ନାହିଁ |
+| in order to     | Preposition | ପାଇଁ       |
+| in outside      | Preposition | ବାହାରେ     |
+| in skirt        | Noun        | ପେଟି       |
+| in that         | Adposition  | ଏହି         |
+| in that place   | Preposition | ସେଥିଏ      |
+| in the lump ,in lots | Adverb | ଭିନ୍ନ-ଭିନ୍ନ |

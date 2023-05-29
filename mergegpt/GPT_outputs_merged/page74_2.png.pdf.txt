@@ -1,0 +1,23 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| IQ           | Noun           | ମିଦାନାଦ୍‌            |
+| to bite      | Transitive Verb  | ପୃନ୍ଦିସାନାଦ୍‌          |
+| to bow       | Transitive Verb  | କାପିସାନାଦ୍‌          |
+| to bring     | Transitive Verb  | ମୋଡ଼କିସାନାଦ୍‌         |
+| to burn      | Transitive Verb  | ତେପିସାନାଦ୍‌           |
+| to climb     | Transitive Verb  | ପଡ଼ସୀଦାନାଦ୍‌         |
+| to cross     | Transitive Verb  | ପାନାଦ୍‌            |
+| to crush     | Transitive Verb  | ଡାଣ୍ିସାନାଦ୍‌         |
+| to cry       | Transitive Verb  | ଅଗିସାନାଦ୍‌          |
+| to dance     | Transitive Verb  | କେୟିସାନାଦ୍‌         |
+| to drink     | Transitive Verb  | ଏନ୍ଦିସାନାଦ୍‌         |
+| to eat       | Transitive Verb  | ଉପିସାନାଦ୍‌          |
+| to extinguish fire | Transitive Verb  | ତିପିସାନାଦ୍‌ |
+| to fall      | Transitive Verb  | ପିସିଇଦାନାଦ୍‌        |
+| to get down  | Transitive Verb  | ରାଲପିସାନାଦ୍‌        |
+| to give, return | Transitive Verb  | ଡିପିସାନାଦ୍‌ |
+| to graze     | Transitive Verb  | ଇପିସିନାଦ୍‌          |
+| to grow      | Transitive Verb  | ମେଇସାନାଦ୍‌         |
+
+
+Note: There was an error in the second output where a few Odiya translations were not captured correctly. Hence, I retained the translations from the first output wherever they were correct.

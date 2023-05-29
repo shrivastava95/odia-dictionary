@@ -1,0 +1,26 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|---------------------|
+| regularity   | Noun           | ନିୟାମ୍‌ ପ୍ରାକାରାମ୍‌             |
+| reindeer     | Noun           | କଡ଼ମାମ୍‌                    |
+| relationship | Noun           | ଜାତା ଜୋକ୍‌ କା                 |
+| relative     | Noun           | ସୁଙ୍କୁମିର୍‌                 |
+| relax        | Verb           | ଟିସାନାଦ୍‌, AFAIRIA, LIQ ଓ୍‌ |
+| religious    | Adjective      |                               |
+| remarriage   | Noun           | ମେଣ୍ଡୋନ୍‌ ତାମ୍‌            |
+| CAA          | Noun           | ମାଡ଼ାନାଦ୍‌                  |
+| remedy       | Noun           | ସାୟା ଆଦାନ୍‌ ମାୟ୍‌         |
+| remembrance  | Adjective      | ଏଦ୍‌ କି                   |
+| remission    | Noun           | ଞିଡ଼୍‌ ସୀଦାନାଦ୍‌            |
+| remittance   | Noun           | ଦୂରାମ୍‌ ଡ଼ାବ୍‌ କ୍‌        |
+| remorse      | Noun           | ଜୀୱାମ୍‌ ତେ ମାଡ଼୍‌ ତା       |
+| removing     | Verb           | ଟେଣ୍ଡା, ତୀସାନାଦ୍‌, ଏ ୍ପୁକ୍‌ କୁସ୍‌ ପାନାଦ୍‌, ତୀର୍ପାନାଦ୍‌ |
+| shoes        | Noun           | ଟେଣ୍ଡା                    |
+| thorns       | Noun           | ତୀସାନାଦ୍‌, ତୀର୍ପାନାଦ୍‌   |
+| rice         | Noun           |                               |
+| renown       | Noun           | ମେଲ୍‌ ତା ପେଦେର୍‌             |
+| repair       | Verb           | ଅଲ୍‌, ଓଲ୍‌, ARI             |
+| nets         | Noun           | ସାନାଦ୍‌                    |
+| cycle        | Adjective      | ସାକ୍‌                     |
+| clitic       | Noun           | ବାରି, ବାରେ               |
+| approval     | Interjection   | ଆଲ୍‌ ଲେ ଆୟି                |
+| repay        | Verb           | ଡାପ୍‌ କ୍‌ ମାଲ୍‌            |

@@ -1,0 +1,22 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| come | Verb | ଆସିବା |
+| comedian | Noun | ନାଟକ କଳାକାର |
+| comfort | Noun | ସୁବିଧା |
+| coming month | Adjective | ଆସୁଛି ମାସ |
+| command | Verb | ଆଦେଶ ଦେବା |
+| commandment | Noun | ଆଦେଶ |
+| committee | Noun | ସମିତି |
+| common kite | Noun | ସାଧାରଣ ପତଂଗ |
+| common place | Noun | ସାଧାରଣ ସ୍ଥାନ |
+| communicable disease | Noun | ଶାରୀରିକ ରୋଗ |
+| competition | Noun | ପାରିଶ୍ରମିକ ପ୍ରତିଯୋଗୀ |
+| complain | Verb | ଅସ୍ତ୍ରାଣ୍ତ ପ୍ରତିବାଦ କରିବା |
+| come out | Verb | ବାହାର ଆସିବା |
+| come round | Verb | ଉପଚାର କରିବା |
+| come soon | Adverb | ସେଠାରେ ଆସିବା |
+| come up | Verb | ଉପରେ ଆସିବା |
+| come upon | Verb | ପାଇଁ ଯାଇଥିବା |
+| comet | Noun | ଧମାକା ତାରା |
+| compelled | Verb | ବାଧା ପାଇଁ |
+| company | Noun | ସଂସ୍ଥା |

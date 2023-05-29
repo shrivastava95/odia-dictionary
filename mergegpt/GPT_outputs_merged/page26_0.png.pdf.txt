@@ -1,0 +1,26 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| every month | Adverb | ସମସ୍ତ ମାସ |
+| everyone | Adverb | ସମସ୍ତ |
+| everywhere | Adverb | ସମସ୍ତ ଜାଗା |
+| evil | Noun | ଦୁଷ୍ଟ |
+| evil spirit | Adjective | ଦୁଷ୍ଟ ଆତ୍ମା |
+| evil work | Noun | ଦୁଷ୍ଟ କାର୍ଯ୍ୟ |
+| ewe | Noun | ଡାଡା ମେଣ୍ଡା |
+| exactly | Adverb | ଠିକାନା |
+| exaggerate | Verb | ଅତିରେକ କରିବା |
+| exalt | Verb | ଉନ୍ନତ କରିବା |
+| excess | Noun | ଅତିରେକ |
+| exchange | Verb | ବଦଳ କରିବା |
+| excuse | Noun | କ୍ଷମା |
+| execute | Verb | ନିଷ୍ପାଟ କରିବା |
+| exhaustion | Noun | ଥକାଣ |
+| face | Noun | ମୁହାଁ |
+| face to face | Adjective | ମୁହାଁ ମୁହାଁ |
+| facility | Noun | ସୁବିଧା |
+| fade | Verb | ଫେଡ୍ ହୋଇଥାଏ |
+| fail | Verb | ବିଫଳ ହୋଇଥାଏ |
+| failure | Noun | ବିଫଳତା |
+| fainting | Noun | ମୁହାଁ ହୋଇଥାଏ | 
+
+Note: In the first output, for the word 'ewe' the Odiya translation is 'ଡାଡା GAB!' which seems to be incorrect, while in the second output, the Odiya translation is 'ଡାଡା ମେଣ୍ଡା' which is more accurate, so I considered the latter. Similarly, for the word 'fainting' in the first output, the Odiya translation is 'ମୋକ ବେଦ୍‌ ରୋରେ' which seems to be incorrect, while in the second output, the Odiya translation is 'ମୁହାଁ ହୋଇଥାଏ' which is more accurate, so I considered the latter. Moreover, for the word 'evil' in the first output the part of speech is 'Noun', while in the second output, it is 'Adjective'. Here, the correct part of speech is 'Noun' as per the context.

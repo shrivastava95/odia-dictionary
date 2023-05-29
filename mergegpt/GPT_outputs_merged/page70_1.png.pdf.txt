@@ -1,0 +1,31 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| a            | Adjective&Article | ଅରୋଟ୍‌            |
+| accordingly | Adverb         | ଆଦିଙ୍କ୍‌ ଲେକେ         |
+| alg          | Noun           | ସାୟ୍‌ ଲେଙ୍‌         |
+| chapatti     | Noun           | ଆରି , ଆଡ଼ି       |
+| mel          | Noun           | ମେଲ୍‌ ତା           |
+| sweetness    | Noun           | ଆବି , ସାଲତ       |
+| sweet-shop   | Noun           | ଆରି-କଟ୍‌         |
+| sweet smell  | Noun           | ମେଲ୍‌ ତା           |
+| sweet tone   | Noun           | ସାୟ୍‌ ଲେଙ୍‌         |
+| swelling     | Verb           | ଉବ୍‌              |
+| swelling-stomach | Adjective   | ଉବାରାଙ୍ଗମିନ୍ଦେ, ପ |
+| swelter      | Verb           | କା ଆ ଙ୍କା          |
+| swift        | Adjective     | ଜଳଦ              |
+| swallow      | Noun           | ଟେଞି ପିଟେ         |
+| swimming     | Verb           | ଇନ୍‌ ତାନାଦ୍‌       |
+| swing        | Noun           | ଉଙ୍ଗାନାଦ୍‌        |
+| take aback   | Verb           | ଦାଦେଲାନାଦ୍‌      |
+| take and go  | Verb           | ତୀସି ଅୟ୍‌ ମ୍‌    |
+| take away    | Verb           | ତୀସି ଞ୍ଞୋଦାନାଦ୍‌  |
+| take back    | Verb           | ମାଲ୍‌ ସି ୋଦାନାଦ୍‌ |
+| take charge of | Adjective    | AIG              |
+| take down    | Verb           | ରାସାନାଦ୍‌        |
+| take for     | Verb           | ଆଲ୍‌ ସି ଉଡ଼ାନାଦ୍‌ |
+| take him     | Verb           | କାରୁଙ୍ଗିଡୋୟ୍‌ 1,618 |
+| take off     | Verb           | ତୀସି ଡୋଦାନାଦ୍‌    |
+| take over    | Verb           | ପାଡ଼ିୟ୍‌ ମାଡ଼ାନାଙ୍କ୍‌ |
+| take the bull by the horns | Phrase | ପରିକ୍ରମାକ୍ରମରେ ପଳିବା |
+| take to      | Verb           | ଆଲ୍‌ ସି ଉଡ଼ାନାଦ୍‌ |
+| take up      | Verb           | ଉପରେ ନେଇବା        |

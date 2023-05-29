@@ -1,0 +1,31 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| a | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| fold | Verb | ମଢୁପ୍‌ ପା |
+| fits | Noun | ଅନଲାଟି |
+| fold your hands | Verb | ମଢୁପ୍‌ ପା |
+| heap | Verb | ସାଜାନା |
+| Durusitom | Adjective | ଦୁରୁସିତୋମ୍‌ |
+| sarees | Noun | ସାଡ଼ିଆ |
+| folding | Verb | ପର୍କା ତାନାଦ୍‌ |
+| hands | Noun | ହାତ |
+| rest | Verb | ପ୍ରଶାନ୍ତି |
+| Rimala | Noun | ରି ମାଲ୍ଲା |
+| Patibhonda | Noun | ପାଟିଭୋଣ୍ଡ |
+| follow | Verb | ଅନୁସରଣ କରନ୍ତୁ |
+| fomentation | Noun | ଉତ୍ତେଜନା |
+| fondness | Noun | ପଛୟାମି |
+| food | Noun | ଖାଦ୍ୟ |
+| become rotten | Adjective | ଗାଳିଥିବା |
+| to be charred | Verb | ମାଣ୍ଡିସାଟିବା |
+| foolish | Adjective | ମୂର୍ଖ |
+| foot | Noun | ପାଉ |
+| foot print | Noun | ପାଦ ଛାପ |
+| for | Preposition | ଗୁରିଦ୍ଵରା |
+| while | Noun | ପର୍ଯ୍ୟ୍ୟନ୍ତୁ |
+| ever | Adverb | ସଦା |
+| fathers | Noun | ପିତାମହ |
+| me only | Preposition | ମୋତେ ମାତ୍ର |
+| one day only | Preposition | ଏକ ଦିନ ମାତ୍ର |
+| some day | Preposition | କେଉଁଠି ଦିନ |

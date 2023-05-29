@@ -1,0 +1,20 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|-----------------|----------------------|
+| groundnut | Noun | ଞେର୍‌ ସେଲ୍‌ EI |
+| group | Noun | ଡ଼ଟ୍‌, ମାନ୍ଦା ମାନ୍ଦା, ନାରୂର୍‌ |
+| grove | Verb | କାନାଦ୍୍‌, ପୁରୁସ୍କୃଡ଼ାନାଦ୍‌ |
+| grow | Verb | ପେର୍ସାନାଦ୍‌, ବେଢ଼ିୟା, ଆଦାନାଦ୍‌ |
+| grow long stretched out teeth | Noun | ପାଲ୍‌ ପେୟ୍‌ ତିତ୍‌ |
+| grumble | Noun | ବୁଙ୍କୁର୍‌, କିସ୍‌, କାସ୍‌ କେଭାନାଦ୍‌ |
+| grunt | Noun | ପାଦି, କାଡ଼୍‌ କେୟାନାଦ୍‌ |
+| guardian | Noun | ବାତ୍‌, କିସାନୋଡ଼, ପୋର୍‌ ପାନୋର୍‌, ଲି, ଜାଡେଲ୍‌, କୂକ୍‌ କୋଡ଼୍‌ |
+| hairdo | Adjective | ପୟ୍‌ ସି ମିନ୍ଦେ, ଜାଟ୍‌ ଲି, ଭା, କେଲ୍‌ କ୍‌ ଏଁରୋ-ଗାଟ୍ଟି, ଭା |
+| hairy | Adjective | ପୟ୍‌ ସି ମିନ୍ଦେ, ଜାଟ୍‌ ଲି, ଭା, କେଲ୍‌ କ୍‌ ଏଁରୋ-ଗାଟ୍ଟି, ଭା |
+| hairpin | Noun | ସେମ୍‌ AIR |
+| half an hour | Noun | ଆର୍‌, ଦୁଡା, ଗା.ଣ୍ଟା, ଆଦା el -ଆରା ଗାଣ୍ଡା |
+| half Kg | Noun | ଆର୍‌ କେଜ୍‌, ଦୁଡା, କେଜ୍‌, ଆଦା 6a |
+| hallow | Verb | ମୁ, AGG! AQ |
+| hallow pod of the sponge gourd | Noun | ବୁର୍କା |
+| hammer | Adjective | YSAl-Ga |
+| hammering | Verb | କଟ୍ଟାନାଦ୍‌ |
+| hand | Noun | କାୟ୍‌ |

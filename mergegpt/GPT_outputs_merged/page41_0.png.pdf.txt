@@ -1,0 +1,14 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| kind | Noun | ରାଶା ମାଟି ,ପାୟ୍‌ ମୂଲ୍‌, ମାଟି |
+| jungle | Noun | - |
+| root | Noun | କରଞ୍ଜ୍ୟକରଶ୍‌, ମାଟି |
+| GAB | Noun | - |
+| GA | Noun | ମାଟି |
+| kind | Noun | ଗେରା, ନୀ, ଗାଡ଼ା |
+| oil | Noun | ନୀ |
+| fruit | Noun | ଗେରା |
+| snake | Noun | କଣ୍ଡା ସିଲିମା, AQBR, ପେରମନ୍ଦେ ତାର୍ସ୍‌, ମାଡ଼ାକଣ୍ଡ, ସିଲ୍‌ ଏକାଡ଼୍‌ |
+| stars | Noun | ଅଜାଲ, AR, କାକ୍‌, ଏରୁଉ AR କାକ୍‌, କଟେଲ୍‌ AQ କାକ୍‌, ନାଙ୍ଗେଲ୍‌ AQ AIR |
+| tiger | Noun | ଗଣ୍ଡ, ରାସ୍‌, କୋଣ୍ଡୁମ୍‌ |
+| tree | Noun | AE ମାଡ଼ା, ଜି ACE, ଏତୁ ମାଡ଼ାମ୍‌ NIGEL, ଏଡ଼େକା AIG!, କସୋ ମାଡ଼ା, ଗରବ୍‌ ମାଡ଼ା, ଗୁପିଡ୍‌ ମାରା, GA ମାଡ଼ା, ମାରା, ମାରୁଦ୍‌ ମାଡ଼ା, AG Aa, ମୁରୁଡ଼ ମାଡ଼ା, 6A ମାଡ଼ା |

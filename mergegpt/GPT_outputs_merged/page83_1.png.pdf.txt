@@ -1,0 +1,29 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| washing | Verb | ସିଦାନାଦ୍‌ |
+| hands | Noun | ହାତ |
+| clothes | Noun | ବସ୍ତ୍ର |
+| vessels | Noun | ପାତ୍ର |
+| wasp | Noun | ତିତି ପୋକ |
+| hornet | Noun | ଘୋଷ ତିତି |
+| waste | Noun | ଅପବ୍ଯବସ୍ଥିତି |
+| in vain | Adverb | ନିଷ୍ଫଳ |
+| watch | Verb | ଘଡ଼ି ଦେଖିବା |
+| clock | Noun | ଘଡ଼ି |
+| water | Noun | ଜଳ |
+| animal | Noun | ଜଳ ପ୍ରାଣୀ |
+| falls | Noun | ଜଳ ପ୍ରପାତ |
+| level | Noun | ପରମାଣୁ ସ୍ତର |
+| chest-high | Adjective | ହୃଦୟ ପର୍ଯ୍ୟନ୍ତ |
+| lily | Noun | ପଦ୍ମ |
+| flower | Noun | ଫୁଲ |
+| pot | Noun | ପାତ୍ର |
+| snake | Noun | ସାପ |
+| tank | Noun | ଟେଙ୍କ |
+| teems | Noun | ଜଳ ସଂପୂର୍ଣ |
+| dry clay | Noun | ସୁଷ୍କ ମୃଣାଳ |
+| water-land | Noun | ଜଳ-ଭୂମି |
+| waterland-bodies | Noun | ଜଳ-ମାଟି ଶରୀର |
+| watermelon | Noun | ତରବୁଜ |
+ 
+Please note that I had to remove some non-common errors such as "Gf, om" and "LA" as they were unclear and couldn't be merged with the other output.

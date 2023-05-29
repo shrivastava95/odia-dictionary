@@ -1,0 +1,22 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| Dwelling | Noun | ମାନ୍ଦାନ୍‌, ବାତ୍‌ କାନ୍‌ |
+| Dwelling | Noun | ପଡ଼ିୟ୍‌ |
+| Dwelling in a forest | Noun | ଗାଗାତା ମାନ୍ଦାନାଦ୍‌ |
+| Dye hair | Noun | କେଲ୍‌ କ୍‌ AI Ale |
+| Dyeing | Noun | ସାନାଦ୍‌, AGL BIE AIGI |
+| Dying | Noun | ଡ଼ଲ୍‌ ଲାନ୍‌ ଲେକେ, Sm ଲାନ୍‌ ଲେକେ |
+| Dysentery | Noun | ସୁରୁ ସୁରୁ ପେଲ, ମିନ୍ଦେ |
+| Economical | Verb | ଡାପ୍‌ କ୍‌ AR AQ |
+| Economy | Noun | 66m, BIR, AIAI ସାର୍ରେ Je |
+| Economy | Noun | ପାନାଦ୍‌ ତେର୍ସ୍‌ ପାନାଦ୍‌, ଞ୍ପସାୟାମ୍‌ ତା ମାଟା |
+| Eczema | Noun | କୁଲୁମ୍‌ ପେୟ୍‌ ସି, ଓାଦାନ୍‌ କୁରୁପୁ |
+| Edge | Noun | ଗୋଡ଼୍‌, ମୂଲା |
+| Effigy | Noun | ମୂର୍ତି, ବମ୍‌ ମେ |
+| Egg | Noun | ଗାର୍ବମ୍‌ ale |
+| Eight | Numeral | ଏନୁମିଦି, ଆଟ୍ୋ |
+| Eighteen | Adjective | AIAG |
+| Eighty | Numeral | ଏନୁବେୟ୍‌ |
+| Either..or | Correlative Connective | ଇଦ୍‌ ଆୟ୍ୟୋ, ଆଦ୍‌ |
+| Elaborate | Adjective | AIGA ମଭାମ୍‌, ad |
+| Elbow | Noun | FB କାୟ୍‌ |

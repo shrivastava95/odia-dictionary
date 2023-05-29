@@ -1,0 +1,24 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|---------------|------------------|
+| a            | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| rough        | Noun | ଗିଡ୍‌ |
+| up and down  | Noun | - |
+| round        | Adjective | FAQ, RIF |
+| round        | Noun | ବିଡ଼ି ଉତ୍ତାନାଦ୍‌ |
+| round        | Adjective | ବଡାଲ୍‌ |
+| round        | Noun | ଟାଟ୍‌-ବୁଟୁଲ୍‌ |
+| rounds       | Verb | ମିନ୍ଦେ |
+| rout         | Verb | ଅଡିସାନାଦ୍‌ |
+| route        | Noun | ଆର୍‌ |
+| rub against | Verb | ନାଲ୍‌ ସାନାଦ୍‌ |
+| rubbing      | Verb | ଉମିସାନାଦ୍‌ |
+| ruffian      | Noun | ଆସାଲ୍‌ କୁଦ୍‌ ରଣ୍ଟ, କାୟ୍‌ ମୁଲ୍‌ |
+| ruffle       | Verb | ତାନାଦ୍‌-କେଲ୍‌ କ୍‌ |
+| ruined       | Verb | ଲୋନ୍‌ ଚିଞକ୍‌ ଆତ୍‌ |
+| rule over   | Verb | ଶାସନ, ମାଡ଼ାନାଦ୍‌, ନାଡ଼ୂପିସାନାଦ୍‌, ସାଡ଼ୂଟ୍‌ |
+| safety       | Noun | ବାୟାମ୍‌ ଇଲୁକଟେ, ସାୟା ମାନ୍ଦାନାଦ୍‌ |
+| safety pin   | Noun | ସକ୍‌ କାୟ୍‌, ଉକ୍‌ ସି.ପିନ୍ନିସ୍‌ |
+| sailing      | Noun | ଓଡ଼ା ଡୌଦାନାଦ୍‌, ଓଡ଼ା କୁଶ୍‌ ପି ମାଞ୍ଜ୍‌ |
+| sailor       | Noun | ବାଡ଼ିୟା BEI |
+| saint        | Noun | ଦାର୍ମାମ୍‌ ତା ମାନ୍ଦାନ୍‌ |

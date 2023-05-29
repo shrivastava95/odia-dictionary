@@ -1,0 +1,32 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| a | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| day | Adjective, Noun | ସାମାୟ୍‌ |
+| day after tomorrow | Noun | ରୋଜ୍‌ |
+| day before yesterday | Noun | ମାନେଟ୍‌ କ୍‌, ଆନାଡ଼୍‌ |
+| day break | Adjective | ଗାଇଗର୍‌ ମଦାଲ୍‌ |
+| day by day | Adverb | ରୋଜିଙ୍କ୍‌ ରୋଜ୍‌ |
+| day time | Noun | ପାୟାଲ୍‌ |
+| dazzle | Adjective | ଆଭା |
+| dazzling | Adjective | କୁର୍କିତା, ମେର୍ସିତା |
+| deaf | Noun | କନ୍ଦାଲ୍‌, ବାୟିରାଲ୍‌, ମୁକ୍‌ |
+| deaf man | Noun | ସେଞଟାଲ୍‌ |
+| deaf woman | Noun | ସେଞ୍ଟିଲ୍‌ |
+| dear | Adjective | ପ୍ରେମା |
+| dearth | Noun | କାର୍‌ ଓ୍‌ |
+| death | Noun | କିୱ୍‌, ଡୋଲ୍‌ |
+| deacon | Noun | ଗୁଡ଼ିୟ୍‌ ସାରେ, ନାଡ଼ୂପିସାନ୍‌ ମେଲ୍‌ ସିର୍ମ୍‌ ଆଦାନାଦ୍‌ |
+| dead, expired | Noun | ସାୱ୍‌ |
+| debate | Noun | ଗଟି କେଭାନାଦ୍‌ |
+| debtor | Noun | ବାକି ତୀସି ମାନ୍ଦାନୋର୍‌ |
+| decade | Noun | AIG ଏଣ୍ଡ କ୍‌, ସାନ୍‌ |
+| dawn | Noun | ସେଜରେ |
+| daybreak | Noun | ଉଦୟ ହେଉଛି, ଉତ୍କାଳ ହେଉଛି |
+| daytime | Noun | ଦିନରେ |
+| deafness | Noun | କଣ୍ଠ ଶ୍ରୋତବ୍ୟତା |
+| deathbed | Noun | ମରଣ ସ୍ଥାନ |
+| deathless | Adjective | ଅମର |
+| decade's | Noun | ଦଶକ ଯୋଗ୍ୟ |
+| decapitate | Verb | ଶିରସନ୍ନେହ କରିବା |
+| decease

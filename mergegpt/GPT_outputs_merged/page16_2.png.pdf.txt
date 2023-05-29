@@ -1,0 +1,21 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| cold | Noun | ଶାଲ୍‌, ପାନ୍‌, ସେମ୍‌ |
+| colic pain | Noun | ଡକା ନପ୍‌ |
+| collapse | Verb | ଜୋକା, ଏରାନାଦ୍‌, ଉଚିଦାନାଦ୍‌ |
+| colleague | Noun | ତୋଡ଼େ କାର୍‌ ସ୍‌, ପାନୋର୍‌, ପାଡ଼ିୟ୍‌ ମାଡ଼ାନୋର୍‌ |
+| collect | Verb | ଗୁଡ଼ୁ୍‌, ସ୍ବାନାଦ୍‌, ଜଡ଼୍‌ପାନାଦ୍‌ |
+| collection | Adjective | ପାୟ୍‌ ଶା ଆକ୍‌, ତାନାଦ୍‌, ଆଡ଼୍‌ ଭାନାଦ୍‌ ,ଉସୁଲ୍‌ |
+| collectively | Adverb | କାଲିୟି, କାୟ୍‌, ଲ |
+| collyrium | Noun | କଣା ରେପା, MA AI GHIA, କାଟ୍‌ କି |
+| colony | Noun | ଗୁଡେମ୍‌ |
+| colour | Noun | ରାଙ୍ଗ୍‌ |
+| colouring | Verb | AI ଏାଡ଼ସାନାଦ୍‌ |
+| colt | Noun | ପୋତ୍‌ GIG ଦେ ପିଲା |
+| comb | Noun | ପାଡ଼ିୟାମ୍‌, ପାଡ଼ିୟାକ୍‌, ଦୁଗାଏଲ ଆସାଇ, ଆସ, ଞେମ୍‌, ଭସୋଡ଼୍‌ |
+| comb hair | Adjective | ଆଲ୍‌ ତା ଜାଡ଼ା |
+| come | Noun | ଡ଼ା, ରା |
+| come about | Verb | ଜାର୍ଗାନାଦ୍‌, ନାଡୃଦାନାଦ୍‌, ଆସମିନ୍ଦେ |
+| come across | Verb | ଓଷାୟାମ୍‌, ପ୍ରାକାରାମ୍‌ କାଲିୟାନାଦ୍‌ |
+| come by/find | Verb | ପାଇବା |
+| come down | Verb | ରେଟ୍‌ କାମ୍‌ ମି, ଆଦାନାଦ୍, କଦିଗ୍‌ SIE GI, ଆଦା

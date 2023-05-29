@@ -1,0 +1,34 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| dew          | Noun           | ଇମ୍‌ ମା          |
+| snow         | Noun           | ଇମ୍‌ ମା          |
+| dewy         | Noun           | ଇମ୍‌ ମା କାଲାମ୍‌ |
+| dhoby        | Noun           | ସାକିଲ୍‌         |
+| washer man   | Noun           | ସାକିଲ୍‌         |
+| dhole        | Noun           | ଗଛୁ ନେଇକ୍‌      |
+| dog          | Noun           | ଗଛୁ ନେଇକ୍‌      |
+| diabetes     | Noun           | ନାର୍କେ ରୋଗାମ୍‌  |
+| dialogue     | Noun           | ଓଦାନାଦ୍‌       |
+| conversation | Noun           | ଓଦାନାଦ୍‌       |
+| dilapidated  | Adjective      | ପାଡ଼ ଗୋରି      |
+| house        | Noun           | ମାନ୍ଦାନାଦ୍‌      |
+| diarrhoea    | Noun           | ପେଲାନ୍‌ ରୋଗାମ୍‌ |
+| didn't       | Verb           | ସାୟ ଶିଲେ         |
+| comb         | Noun           | ତାଲା ସାୟ ଶିଲେ   |
+| hair         | Noun           | ତାଲା ସାୟ ଶିଲେ   |
+| die          | Verb           | ତୋଣ୍ଡ ଡ଼ୋଲ୍‌     |
+| 0160         | Noun           | ଡ଼ଲାନାଦ୍‌       |
+| difference   | Noun           | ତେଡ଼ା            |
+| different    | Adjective      | ସେରେ ସେରେ        |
+| difficult    | Adjective      | କାଷ୍ଟୀମ୍‌        |
+| dig          | Verb           | ତୋରାନାଦ୍‌       |
+| draw         | Verb           | ତୋରାନାଦ୍‌       |
+| water        | Noun           | ପାଣି ତୋରାନାଦ୍‌   |
+| digup        | Verb           | କୋର୍କ୍‌ ତେନେଇକ୍‌ |
+| digestion    | Noun           | ଆର୍‌ ଗାନାଦ୍‌     |
+| dignity      | Noun           | ମାରିୟାଦା         |
+| diminished   | Adjective      | ଗଦାର୍‌           |
+| dinner       | Noun           | ମୁଲ୍‌ ଦୋଡ଼ା        |
+| supper       | Noun           | ମୁଲ୍‌ ଦୋଡ଼ା        |
+| dip          | Verb           | ମୁସ୍‌ ତ୍‌ନ୍‌      |
+| dipped       | Verb           | ମୁତ୍‌ ଗିଗି        |

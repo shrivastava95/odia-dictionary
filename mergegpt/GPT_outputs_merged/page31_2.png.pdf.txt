@@ -1,0 +1,26 @@
+| English Word | Part of Speech  | Odiya Translation |
+|--------------|----------------|------------------|
+| go down      | Verb           | ରେଟ୍‌ SIG ଓାଁ, କାମ୍‌ ଆଦାନାଦ୍‌ |
+| go fast      | Verb           | ଜାପେ, ଜାପେ ଆନୁଟୁ |
+| goon         | N/A            | ୮୮୮. ନାଡ଼୍‌ ପିସାନାଦ୍‌ |
+| go out       | Verb           | dQ ତାନାଦ୍‌ |
+| go through   | Verb           | AI ଉଡ଼ାନାଦ୍‌ |
+| go through the eye of needle | Verb | FR ଗାଡ଼ୂ AIR |
+| goup         | N/A            | ୮୮୮୮. ରେଟ୍‌ ଏକ୍‌ ଓା ଆଦାନାଦ୍, ପେର୍ଗି ଆନ୍ଦାନାଦ୍‌ |
+| goat bleats  | Noun           | ମେକା କେଇତା |
+| goblet       | Noun           | କପ୍‌ |
+| God          | Noun           | ପାରାମେଶର୍‌, ବାଗାଓୱା ନ୍‌ |
+| Godavari river | Noun         | ଗୋଦାର୍‌ |
+| goddess      | Noun           | ଦେୱତା |
+| goddess temple | Noun         | ଗାମାମ୍‌ |
+| godless      | Adjective      | AG F1QQ |
+| godly        | Adjective      | GIF ତେ ମାନ୍ଦାନୋଣ୍ଡ |
+| going        | Noun           | ଦାୟାନାଦ୍‌, ଆନ୍ଦାନାଦ୍‌ |
+| gold         | Noun           | ବାଙ୍ଗାରାମ୍‌ |
+| golden eagle | Noun           | de ଲା ପିଟି |
+| golden oriole,mango bird | Noun | ଓଁଙ୍କା Ale |
+| goldsmith    | Noun           | ସୋନେରି, ଗୋଲୁମ୍‌, ସାରାବ୍‌, କାଣ୍‌ ସାଲ୍‌, ଏଣ୍ଡ, ସୋନାରୀ |
+| gone away    | Verb           | ଦେଙ୍ଗ ଆନ୍ଦାନାଦ୍‌ |
+| gone         | Adjective      | ଦେଙ୍କ୍‌ ଆଭୋଣୁ |
+| gong bell    | Noun           | al |
+| good bye, fare well | Interjection | ଦାୟୁଟ୍‌, ଆଲେ ଆଞ୍ଜୋମିନ୍ଦାନ୍‌, ଦାୟ୍‌ ଦାୟ୍‌ |

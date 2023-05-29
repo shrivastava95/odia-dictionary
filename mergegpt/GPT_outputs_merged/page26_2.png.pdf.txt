@@ -1,0 +1,23 @@
+| Word in English | Part of Speech | Odia Translation |
+|-----------------|----------------|------------------|
+| a               | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly     | Adverb         | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| extent          | Noun           | ଦିସା |
+| extra           | Adjective      | ଅତି |
+| extra tooth     | Noun           | ପେଟ ପାଲ୍‌ |
+| extraordinary   | Adjective      | ଅସାଧାରଣ |
+| eye             | Noun           | କଣ୍ଢଡା, କାଣ୍ଡ- |
+| eye disease     | Noun           | କାଣ୍ଡରୋଗ |
+| eye lash        | Noun           | କାଣ୍ଡରେପା |
+| eye lid         | Noun           | କାଣ୍ଡ ସଗା, କଣ୍ଡା |
+| eye of a needle | Noun           | ସୁଦ୍ଦାଛଳି |
+| eye pupil       | Noun           | କାଣ୍ଡପାରା |
+| eyeball         | Noun           | କାଣ୍ଡ , କଣ୍ଡା ବାର୍ରା ଗବା |
+| eyebrow         | Noun           | କାଣ୍ଡ ଚୋଗା, କଣ୍ଠମିଣ୍ଡି |
+| falls           | Noun           | ମେଟା କୁଞ୍ଚି ଇଦୁପେ, ଏର୍ରାଙ୍ଗ୍‌ଆତ୍‌ |
+| fall with a thud| Noun           | ବୁକ୍‌ କିନ୍ନେ, ନେଲ୍‌ ରାଲାନାଦ୍‌ |
+| fallen tree     | Adjective      | ତାଲାର୍‌ |
+| fallow land     | Adjective      | ପଡ଼ିୟ୍‌, ଗର୍ତ |
+| false           | Noun           | ବଲ୍‌, ଲିସାନାଦ୍‌, ଆବାଦାମ୍‌, ତାପ୍‌ |
+| eyes becomes red| Adjective      | ଆଙ୍ଗୁଡିରେ ଲାଲ |
+| falls over flowing | Verb           | ପଙ୍ଗ ମିନ୍ଦେ, ଏର୍‌ ପଙ୍ଗାନ୍‌ ପଡ଼ିୟ୍‌ |

@@ -1,0 +1,37 @@
+| Word in English | Part of speech | Odiya Translation |
+|-----------------|----------------|------------------|
+| small tomato | Noun | ଏର୍କ୍‌ କା |
+| small wooden stool | Noun | - |
+| smallpox | Noun | ରୋଗାମ୍‌ |
+| smartness, briskness | Noun | ସିଟ୍‌ |
+| smell | Verb | କାନାଦ୍‌ |
+| smoke | Noun | ଉମା |
+| smoke of incense | Noun | ଉମା |
+| smooth | Adjective | ମାଙ୍ଗ୍‌ |
+| snail | Noun | ନାତ କେ |
+| snake | Noun | ତାଡ଼ାସ୍‌, ତାର୍ସ୍‌ |
+| snake charmer | Noun | ତାରସକିନର୍‌ |
+| snake gourd | Noun | ଜାଙ୍ଗ |
+| snake kisses | Verb | ତାଡ଼ାସ୍‌ ଡୁର୍‌ |
+| snake lift the head | Verb | ତାରସକ୍‌ ଉଦିତ୍‌ |
+| snap the fingers | Verb | କା |
+| snaring | Verb | ପାଲ୍‌ କ୍‌ ନୋକି |
+| snatch | Verb | ଭା |
+| sneezing | Verb | ହାଂକ |
+| snore | Noun | ଗର୍‌ କିଭ୍ତୋନ୍‌ |
+| snub nosed | Adjective | ନାପ |
+| so | Adverb | ଇ ଲେକ୍‌ କେ |
+| so be it | Interjection | ହୁଁ ଥିବା ହେଁ |
+| so early | Adjective | ଗରିର ଆଗେ |
+| - | Noun | ଗୁମଡ଼କାଯା |
+| - | Noun | ଗୁର୍ରାନଦ୍‌ |
+| - | Noun | କୋପାମ୍‌ ତୋପିସାନାଦ୍‌ |
+| - | Noun | ନୋଟ କେ |
+| - | Noun | ପାଟ୍‌ ସାୟା ପାଡ଼ିୟ୍‌ ତୁଙ୍ଗାନାଦ୍‌ |
+| - | Noun | ରୋଗାମ୍‌ |
+| - | Noun | ସାନୋର୍‌ ତାନୋର୍‌ |
+| - | Noun | ସୁପାର୍‌ନ୍ନା |
+| - | Noun | ସୁରୁଜ୍‌ ସାନୋର୍‌ ତାନୋର୍‌ |
+| - | Verb | ଆଓଡ଼ିନା |
+| - | Verb | ତାଡ଼ାସ୍‌ ପୟ୍‌ ସି କାର୍ପି |
+| - | Verb | ତାଡ଼ାସ୍‌ ଡୁର

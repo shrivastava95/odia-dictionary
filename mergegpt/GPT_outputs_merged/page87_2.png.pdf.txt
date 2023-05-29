@@ -1,0 +1,10 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| erund | Noun | ଏରୁଣ୍ଡ |
+| your (pl) | Pronoun | ମୀୱାଦ୍‌ |
+| your (sl) | Pronoun | ନୀୱାଦ୍‌ |
+| yours (pl) | Pronoun | MAIR |
+| yours (sl) | Pronoun | ନୀୱାଦ୍‌ |
+| youth | Noun | ଯୁବକ/ଯୁବତୀ |
+   
+Please note that the Odiya translation for "youth" had multiple values in the second raw output, so I provided the two most common translations.

@@ -1,0 +1,20 @@
+| Word           | Part of Speech      | Odiya Translation   |
+|----------------|-------------------|---------------------|
+| accordingly    | Adverb            | ଆଦିଙ୍କ୍‌ ଲେକେ         |
+| accuse         | Verb              | ନେରାମ୍‌             |
+| accusing       | Noun              | ସିରୋଦାମ୍‌ ତେ ଦୋଷ୍‌ |
+| ache           | Noun              | ତୀପାତ୍‌ ତା          |
+| achievement    | Noun              | ବେଚୋର୍‌             |
+| act            | Verb              | ନାଟ୍‌ କାମ୍‌ ତୁଗ୍ଗିଂତଣ୍ଡ |
+| act against    | Verb              | ଓିରୋଦାମ୍‌ ତେ AISA  |
+| act after      | Verb              | ତୁଙ୍ଗାନାଦ୍‌         |
+| act harshly    | Verb              | ନାର୍ଗେ କାଷ୍ଟାମ୍‌ ଭଦାନାଦ୍‌ |
+| act of churning | Verb              | ଞିଛାନାଦ୍‌          |
+| acting         | Noun              | ନାଟ୍‌ କାମ୍‌ ତୋପିସାନାଦ୍‌ |
+| action         | Noun              | AISA                |
+| active         | Adjective         | କୁସେଲେ ଦୁରୁସ୍‌ ମାଞ୍ଜ୍‌ ଜାପେ ଜାପେ ପାଡ଼ିୟ୍‌ ମାଡ଼ାନାଦ୍‌ |
+| actor          | Noun              | ନାଟ୍‌ କାମ୍‌ ତୋପିସାନୋଣ୍ଡ |
+| actress        | Noun              | ନାଟ୍‌ କାମ୍‌ ତୋପିସାନ୍‌ ନାଟା |
+| acts of fun    | Verb              | ଏପ୍‌ ପାନାଦ୍‌         |
+| adapt          | Verb              | ଆଲ୍‌ ଓଟ୍‌ ଆସି ପାଡ଼ିୟ୍‌ ସାୟା ମାନ୍ଦାନାଦ୍‌      |
+```

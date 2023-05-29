@@ -1,0 +1,27 @@
+| Word in English | Part of Speech | Odiya Translation |
+|---|---|---|
+| five | Numeral | ଏୟ୍‌ |
+| fix | Verb | ଭର୍‌ ସ୍‌ |
+| fixed rate | Adjective | ତ୍‌ ରେଟ୍‌ |
+| flat | Adjective | ଚାପ୍‌ ଡ଼ି |
+| flesh | Noun | ଆ GANG |
+| flies | Noun | ବୁଙ୍ଗୁରି |
+| float | Verb | ମାନ୍ଦା |
+| flood | Noun | ବୁରେମ୍‌ |
+| flour, powder | Noun | ଅଟା, ପିଣ୍ |
+| flow | Verb | ପୋଙ୍ଗୋମିନ୍ଦେ |
+| flower blossoms | Verb | ପୂର୍ଗାର୍‌ |
+| flower in red color | Noun | ମନ୍ଦାର୍‌ |
+| flower tree | Noun | ପୂଙ୍ଗାର୍‌ ମାଡ଼ା |
+| flowerbed | Noun | ପୂର୍ଗାନ୍‌ କୁଣ୍ଡା |
+| flowering | Adjective | ପୂଙ୍ଗାର୍‌ ଆଭା |
+| flowing | Noun | ପଙ୍ଗାନାଦ୍‌ |
+| flute | Noun | ଓଶୋଡ଼ୁ୍‌ |
+| flute players | Noun | ଓସୋଡ଼୍‌ |
+| fly | Verb | ପାର୍‌ ତିତ୍‌ |
+| fly on goat, a kind of worm | Noun | ଗରେଁ ପୁଡ଼ିୟ୍‌ |
+| fly with a fluttering-wing's | Verb | ରେକ୍‌ କା |
+| fly (insect) | Noun | ଏସି |
+| foal foot | Noun | ଟଗର୍‌ ପୁଙ୍ଗାର୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| a | Adjective & Article | ଅରୋଟ୍‌ |

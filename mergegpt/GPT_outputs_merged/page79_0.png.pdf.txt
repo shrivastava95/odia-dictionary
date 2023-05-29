@@ -1,0 +1,26 @@
+| Word in English | Part of Speech | Odiya Translation |
+|-----------------|----------------|------------------|
+| a               | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly     | Adverb         | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| tooth pain      | Noun           | ପାଲ୍‌ କୁ |
+| tooth stick,brush | Noun         | ପାଲକାର୍‌ |
+| top             | Adjective      | AB |
+| top of the mountain | Noun       | ମେଟ୍ଟାତ୍‌ ପରା-ଜୂଟୁ |
+| torrent         | Noun           | ତୋଲ୍‌ କ୍‌ |
+| tortoise        | Noun           | ଏମୁଲ୍‌, ତୁର୍‌ |
+| torture,anguish | Noun           | କାଷ୍ଠାମ୍‌, ତିପ୍‌ |
+| to-spilt        | Verb           | ବାଦାପାତାନାଦ୍‌ |
+| total up        | Adjective      | ପା |
+| touch `         | Noun           | କେଟାନାଦ୍‌, ଇଟାନାଦ୍‌ |
+| touch me not    | Noun           | ଇଟ୍‌ କିନ୍‌, କେଟ୍‌ କିନ୍‌ ଜାମ୍‌ ନି, ଆଣ୍‌ କି ଆନ୍ଦାନ୍‌ ଏଟୁ |
+| towards         | Adposition     | ଆ ପାକ୍‌ କା |
+| towel           | Noun           | ତାଲା ଗୁଡ଼ା, ତୁୱାଲ୍‌ |
+| town,city       | Noun           | ଗାଡ଼ିୟ୍‌ |
+| trachea,wind pipe | Noun        | କି ଆଙ୍ଗିଡ଼୍‌ |
+| trader          | Noun           | ଲାବାମ୍‌ ସେଙ୍କେ ଆମ୍‌ ମାନୋନ୍‌, GIF ମାନୋନ୍‌ |
+| tradition       | Noun           | ମୁନ୍ନେଟର୍‌ ନିୟାମ୍‌ |
+| traditional     | Adjective      | ମୁନ୍‌ ନେଟ୍‌ |
+| tramp of feet   | Noun           | ଟିପ୍‌ ଟାପ୍‌ |
+| transformation  | Noun           | ମାରି ,ମାଲ୍‌ A ତା ଜୀୱାମ୍‌, 6G କାମ୍‌ |
+| translate       | Noun           | 68Q ଗଟି ତେ, ମାଲ୍‌ ସି କେତାନାଦ୍‌ |
+| transplant      | Verb           | AIG ଉର୍‌ ଶ୍‌, ତିତୋର୍‌ |

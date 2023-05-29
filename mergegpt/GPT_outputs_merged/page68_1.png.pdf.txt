@@ -1,0 +1,34 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| a            | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly  | Adverb         | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| ace          | Noun           | ଆଣ୍ଡୁକ ଟୁଣ୍ଢି |
+| axe          | Noun           | ମେୟ୍‌ ତାନ୍‌ |
+| burning      | Noun           | ଡକା |
+| cows         | Noun           | କୁଟ୍ଟାମ୍‌-କୁଟା |
+| fruit        | Noun           | ଟେକା |
+| pain         | Noun           | କାନ୍‌ ସ୍‌ କା |
+| pith         | Noun           | ଟେକା |
+| plantain tree | Noun          | ଟେକା |
+| rock         | Noun           | ଗୁଣ୍ଡୁମ୍‌ |
+| seed         | Noun           | ଟେକା |
+| sharpening stone | Noun     | ମେୟ୍‌ ତାନ୍‌ |
+| smoking      | Verb           | ଉନ୍‌ ମା |
+| stick        | Noun           | ତୁଡ଼, ତୁଡି |
+| stick        | Verb           | ଏୟେର୍‌ ପୟ୍‌ ତ୍‌ |
+| stone        | Noun           | କାଲ୍‌ |
+| stomach      | Noun           | ବଭା |
+| stench       | Noun           | କାରାବ୍‌ ଗାବ୍‌ ବୁ |
+| stop         | Verb           | କଟ୍‌ |
+| stool        | Noun           | ପୀ, ପେଲା |
+| stones separate from rice | Noun | ଗର୍ବ ତରପାନାଦ୍‌ |
+| vehicle      | Noun           | ଆଟୋମୋବାଇଲ୍‌ |
+| ulcers       | Noun           | ଡକ୍‌ କା ତା |
+| word         | Noun           | କୋଡ଼େଲ୍‌ |
+| sting        | Noun           | ଏଙ୍ଗୁ କୋଡ଼େଲ୍‌ |
+| stir         | Verb           | କେଲ୍‌ କାନାଦ୍‌ |
+| stomach ache | Noun           | କା ନପ୍‌ |
+| stomach burning | Noun       | ଡକା |
+| stomach pain | Noun          | କାନ୍‌ ସ୍‌ କା |
+    
+Note that I removed some errors from both outputs that did not match with any known Odiya word or did not make any sense in context, such as "@Q" or "AQ AIA".

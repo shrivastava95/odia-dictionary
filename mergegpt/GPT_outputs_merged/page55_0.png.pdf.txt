@@ -1,0 +1,29 @@
+| Word in English | Part of Speech  | Odiya Translation |
+|---|---|---|
+| plaintive | Noun | ଦୁକାମ୍‌ |
+| plaited hair | N/A | N/A |
+| plaiting of hair | Noun | ଜାଡା, ଜାଟେଲ୍‌ |
+| plan | Noun | ଉପାୟାମ୍‌ |
+| plane | Noun | ମଲେ, ତୁଞେମ୍‌ |
+| planet | Noun | କାକ୍‌ |
+| plant | Verb | ମଡ଼ତାନାଦ୍‌ |
+| plant the tree | Verb | କାନାଦ୍‌ |
+| plant to spring up | Intransitive Verb | ତାନାଦ୍‌ |
+| plantain | Noun | ମାଡ଼ା |
+| planting | Verb | କାନାଦ୍‌ |
+| plants | Noun | ଏଟୁ |
+| plate | Noun | ପ୍ଲେଟ୍‌, ଗିନ୍ନା ଗିନି |
+| play | Verb | କାରା |
+| play false | Verb | ବଲ୍‌ ଲିସାନାଦ୍‌ |
+| play out | Verb | କାର୍ସି ଆୟ୍‌, ଆନ୍ଦାନାଦ୍‌ |
+| playmate | Noun | କାର୍ସାନ୍‌ ଜାଭା |
+| please | Verb | ସାୟାମ୍‌ ତୁଗିଂ, ମାଡ଼ି |
+| pleasure | Noun | QEAM, AIG |
+| pleats | Verb | ଢେଙ୍ଗ୍‌ |
+| plenty | Adjective | ଓା, ନାର୍ଗେ, ଦିବେଡ଼ |
+| pleurisy | Noun | ଆଣଡ|ରୋକାମ୍‌ |
+| plough | Noun | ଉତୁଦାନାଦ୍‌ |
+| plough share, stick | Noun | କାର୍ରା(ନାଙ୍ଗେଲ୍‌ GI) |
+| pluck out | Verb | ପୂଙ୍କା ଦେତ୍‌ ତାନାତ୍‌ |
+| plucking flowers | Verb | କଯିଂ ତାନାଦ୍‌ |
+| plunder | Verb | ଡୋଦାନାଦ୍‌ |

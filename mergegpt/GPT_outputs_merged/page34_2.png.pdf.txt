@@ -1,0 +1,27 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| heart, mind | Noun | ହୃଦୟ |
+| heartburn | Verb | ମାଣ୍ଡୋମିନ୍ଦେ |
+| hearty laugh | Noun | ସାୟ୍‌ |
+| heat | Noun | ସେର୍‌ |
+| heat boil | Noun | ବାମ୍‌ ବଗ୍‌ ଗା, ବଣ୍ଠିୟା |
+| heat of the sun | Noun | ଏଦ୍‌ |
+| heat the water | Verb | ଏର୍‌ କାପା |
+| heaven | Noun | ପରା, ମାବ୍‌, ସ୍ବାର୍ଗାମ୍‌ |
+| heaven( opened) | Noun | ମାବ୍‌ ବାଙ୍ଗ୍‌ ମିନ୍ଦେ |
+| heavenly bodies | Noun | ଲିଙ୍ଗ |
+| heavenly body to rise | Intransitive verb | ପେତାନାଦ୍‌ |
+| heavy | Adjective | ଭାରି |
+| hedge | Noun | ଆଡାମ୍‌ |
+| heel | Noun | ମାଡ଼ମେ |
+| height | Noun | ଡେଙ୍ଗା |
+| height, tall | Adjective | ଡେଙ୍ଗା |
+| hell | Noun | କିଶ୍‌ କୁଣ୍ଡା, ନାର୍କାମ୍‌ |
+| hen | Noun | ପେଟା କର୍‌ |
+| hence, from here | Adverb | ଇଗ୍‌ ଗା, ନୁଞ୍ଜିକକୁଞ୍ଚି |
+| henceforth | Adverb | ଅବସରେ |
+| her | Pronoun | ତାଙ୍କ |
+| her self | Pronoun | ଆପଣ |
+| here | Adverb | ଇଗେ, ଏଠାରେ |
+| here and there | Adverb | ଆଗେ, ଏକ ଦୁଇ ଠରୁ |
+| here with | Adverb | ଏଥିରେ |

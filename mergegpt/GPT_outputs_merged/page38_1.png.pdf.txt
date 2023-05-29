@@ -1,0 +1,24 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| a | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| indirectly | Adverb | କେଉା ମାଟା ମାଲ୍‌ |
+| ardent | Adjective | ଅର୍ତ୍ଧଣ୍ଟ କିଙ୍କ୍‌ କେତାନାଦ୍‌ |
+| industrial | Noun | ମିଲ୍‌ ପାଢ଼ିୟ୍‌ |
+| industrious | Adjective | କାଷ୍ଠାମ୍‌ ତେ |
+| interest | Noun | ଇଷ୍ଟୀମ୍‌ |
+| infamy | Noun | ପାପ୍‌ |
+| infancy | Noun | ଚିନ୍ନା, ଚୁଢୂଲା ଲେ |
+| infatuated | Adjective | ଜୋଙ୍କୋ ମିନ୍ଦୋର୍‌ |
+| infertile | Adjective | ପୀନ୍ଦୋ ବୂମ୍‌-ଏାଞ୍ଜି |
+| inflammation | Noun | ଡକ୍‌ କା |
+| inflammation of the pharynx | Noun | ଲେଙ୍୍‌ ଉରିତ୍‌ |
+| inform | Verb | କାବୂର୍‌ କେଢିମ୍‌ |
+| information | Noun | ମାଟା |
+| inhabitant | Noun | ଦେସେମ୍‌ ତ୍‌ |
+| inherit/inheritance | Verb | ଟାମ୍‌।ମାଣୁସୁଣ୍ଡ |
+| iniquity | Noun | ପାପ୍‌ |
+| initially | Adverb | ତ୍‌ |
+| injection | Noun | କଟାନାଦ୍‌ |
+| injurious | Adjective | କାରାପ୍‌, ନାଷ୍ଟାମ୍‌ |
+| injury | Noun | ପୁଣ୍, ଦେବା |

@@ -1,0 +1,31 @@
+| Word in English | Part of speech     | Odiya Translation |
+| --------------- | ------------------ | ----------------- |
+| 6ag             | Noun               | ମା               |
+| ସାରଗ୍‌         | Noun               | ମାଡ଼ା            |
+| kind of watery place | --                 | --                |
+| ତରି-ଗୋୟ୍‌     | Noun               | --                |
+| kindle the fire | Verb               | @Q                |
+| ନିର୍ଶ୍‌         | AAA, Ss           | ପିତ୍ତାନ୍‌          |
+| kindly          | Adverb             | ଉଚୁର୍ମାଲାମ୍‌     |
+| kindness        | Adjective          | ଉସୁରମାଲାମ୍‌     |
+| ସାୟାମ୍‌        | --                 | ମାଡ଼ି            |
+| kind of jungle root | Noun               | କେଶ୍‌            |
+| କା ମାଟି        | --                 | --                |
+| king            | Noun               | ରାଜାଲ୍‌          |
+| king cobra      | Noun               | ନେୟ୍‌            |
+| ତାଡା,ତାରାଶ୍‌  | --                 | --                |
+| king fisher     | Noun               | ଏର୍‌ କିକାଡ଼       |
+| king vulture    | Noun               | ଡାମୋର୍‌          |
+| kingdom         | Noun               | ରାଜ୍ୟେମ୍‌         |
+| kingdom of God  | Noun               | ପାରାମେଶ୍ରାରିନ୍‌ |
+| ରାଜ୍ୟାମ୍‌      | --                 | --                |
+| kingdom of heaven | Noun               | ଶୃ|ଗାଁରାଜ୍ୟାମ୍‌ |
+| kinship         | Noun               | କୁଟୁମ୍‌         |
+| kiss            | Verb               | ବୁରାଁ            |
+| kitchen         | Noun               | ସାଣ୍ଟା ତୁଙ୍ଗାନାକ୍‌ |
+| ଗାଦ୍‌,ଆଟାନାଙ୍କ୍‌ ଗାଦ୍‌ | --                 | --                |
+| kitchen knife   | Noun               | ପନିକି କାଚ଼େର୍‌ |
+| kite bird       | Noun               | ମାଲ୍‌ ସୁରିୟାଡ଼୍‌  |
+| knavery         | Noun               | ତାନ୍ରାମ୍‌ ବଲିସାନାଦ୍‌ |
+| knead mixing flour | Noun               | ପିସକାନାଦ୍‌     |
+| knee            | Noun               | ବଟମିଣ୍ଡା         |

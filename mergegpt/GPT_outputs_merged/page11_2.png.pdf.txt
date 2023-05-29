@@ -1,0 +1,23 @@
+| Word in English   | Part of speech      | Odiya Translation |
+| --- | --- | --- |
+| black pepper      | Noun                | କମାଟ୍‌ ଗିଞ୍ଜା          |
+| black soil        | Noun                | କାରି ମାଣୁଲ୍‌             |
+| blacksmith        | Noun                | କାମ୍ମାର୍‌                |
+| blame             | Verb                | ନେରାମ୍‌ ଭଦାନାଦ୍‌          |
+| blanket           | Noun                | ଦୁପ୍‌ ଡି କମ୍ବଲ             |
+| blaspheme        | Verb                | ଦାର୍ମାମ୍‌ ଇଲୁକ୍‌           |
+| blazing fire     | Adjective           | କିସ୍‌                     |
+| bleeding         | Verb                | କାରାନାଦ୍‌, ପଙ୍ଗାନାଦ୍‌       |
+| bless            | Verb                | ଆସୀର୍ଧାଦାମ୍‌             |
+| blew away        | Verb                | ତୁୱ୍‌ ତାନାଦ୍‌              |
+| blew up          | Verb                | ପିଟେ ପାରିସାନାଦ୍‌          |
+| blot,spot        | Noun                | ପାଲ୍‌ ଜୂର୍ଭା                |
+| blouse           | Noun                | ରେୟ୍‌ କ୍‌ କେ                |
+| blow as the wind | Verb                | ଗାଲ୍‌ ତୋଲାନାଦ୍‌            |
+| blood            | Noun                | ନେତୂର୍‌, ନେଉୁର୍‌           |
+| blood pressure   | Noun                | ଜୀୱା ତାଗେ ଆଦ୍‌ ମାନାଦ୍‌, ନାର୍କେ କାମ୍‌ ଆଦାନ୍‌ ରୋଗାମ୍‌ |
+| blossoming       | Verb                | ଭା, Q&IQ, QQ               |
+| blister          | Noun                | ଗାଡା ପେୟ୍‌ ତ୍‌             |
+| blind lady       | Noun                | ଗୁଡ଼ିଲ୍‌ ନାଟାଡ଼, JER        |
+| blind-man        | Noun                | ଗୁଡ଼ି ଏଣ୍ଡ                   |
+| bloke            | Noun                | କାର୍କା AGI, ମକାମ୍‌ ତା କାର୍ରି ବଣ୍ଢିଆ, କାର୍କାର୍‌ ମାଡ଼ାনାଦ୍‌ |

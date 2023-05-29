@@ -1,0 +1,23 @@
+| English Word     | Part of Speech    | Odiya Translation |
+|------------------|-------------------|-----------------------|
+| scales           | Noun              | ନିକ୍ତି                |
+| scales of fish   | Noun              | କ୍ଲାଉଞ୍ଜି, କିକ୍‌ କେ   |
+| scaly ant eater  | Noun              | ଝାଡୁ ମ୍‌             |
+| scandalize       | Noun              | ନେରାମ୍‌ ମାଡ଼ାନାଦ୍‌      |
+| scanty           | Adjective         | ସୁମାର୍‌ AGM          |
+| scar             | Noun              | ମାର୍ରା               |
+| scare            | Verb              | ପିସା                |
+| scarf            | Noun              | ସାଲ୍‌ କାଲାମ୍‌ ତେ     |
+| scatter          | Verb              | ଲୀକାନାଦ୍‌           |
+| scent            | Noun              | ଗନ୍‌ଧ, ମେଲ୍‌ ତା ଗାବ୍‌, ଓାସ୍ନାମ୍‌ |
+| scholar          | Noun              | ନାର୍ଗେ କାର୍‌ ଶ୍‌     |
+| scholarship      | Noun              | ସାଧାରଣ ଛାତ୍ରାବାସ      |
+| school           | Noun              | ଇସୁକୁଲ୍‌ -ବିଦୟାଲୟ     |
+| scissors         | Noun              | କାତ୍ରି               |
+| scold            | Verb              | ଡିମ୍ମା ଦେଇବା, ଡୁଙ୍ଗା ଦେଇବା, ଞେର୍‌ ପିସା |
+| scolding         | Noun              | ତେନ୍‌ ଶ୍‌            |
+| scoop up (flowers)| Verb             | ପୂର୍ଗା              |
+| scorching        | Adjective         | ସିଲେଟାନ୍‌, ଅଗନ୍‌-ବଶିଷ୍ଟ |
+| scorpion         | Noun              | ବିଛା                |
+| scrape off       | Verb              | ନାଦେଇବା, ଆହାର ଅଛାଳିବା |
+| scrape, grate    | Verb              | ଗବେର୍‌ କାୟା          |

@@ -1,0 +1,25 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| not | Adverb | ନାହିଁ |
+| good | Adjective | ସୁନ୍ଦର |
+| road | Noun | ସଡକ |
+| known | Verb | ଜାଣିଲେ ନାହିଁ |
+| listen | Verb | ଶ୍ରୁତି କରିବା |
+| make known other's | Adjective | ପରମାଣବିକ |
+| only | Adverb | କେବଳ |
+| but also | Subordinating connective | ଏବଂ ଯେତେବେଳେ |
+| wash | Verb | ଧୋଓନା |
+| note paper | Noun | ନୋଟ କାଗଜ |
+| nothing | Adjective | କିଛିନ୍ୟା |
+| known-innocent | Noun | ବିନା ଜ୍ଞାତ |
+| notice | Noun | ଲେଖ |
+| notorious | Adjective | ଖରାପ |
+| nourish | Verb | ପାଳନ |
+| novelty | Noun | ନୂଆକଲାପ |
+| now | Adverb | ଏହିବର୍ତା |
+| now it self | Adverb | ସ୍ୱଯଂ ଏହିବର୍ତା |
+| nowhere | Adverb | କୌଣସି ଜାଗା ନାହିଁ |
+| numbers, to count | Verb | ଗଣନା |
+| nursery | Noun | ନର୍ସେରୀ |
+| observation | Noun | ମନ୍ଦିର |
+| observe | Verb | ଦ୍ୱାରା ଦେଖାଇଥିବା |

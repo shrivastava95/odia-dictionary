@@ -1,0 +1,39 @@
+| English Word | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| a | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| already | Adverb | ମୁନ୍ନେ |
+| also | Coordinating connective | ମାଲା |
+| altar | Verb | ବୀଡ଼ା |
+| alter | Noun | ବୀଡ଼ା, ଗୁଡ଼ଇୟ୍‌ |
+| although | Coordinating connective | ମାତକେ ବା |
+| always | Adverb | ସାମାୟାମ୍‌ |
+| ambassador | Noun | ରାଜାନ୍‌ କାବୂର୍‌ ମୋସାନୋଣ୍ଟ |
+| ambiguously | Adverb | ଅନ୍ଧାରେ |
+| ambition | Noun | ନାର୍ଗେ ଇଷ୍ଟାମ୍‌ ମାଡ଼ାନାଦ୍‌ |
+| ambush | Verb | ଭାନାଦ୍‌ |
+| amen | Interjection | ଆଲେ |
+| amiable | Adjective | କୋରାନାଦ୍‌ |
+| amicable | Adjective | କାମ୍‌ ଭଦାନୋର୍‌ |
+| among | Preposition | ଲପେ |
+| amongst | Preposition | ନାଡ଼ ମେ |
+| ample | Adjective | ଉପଯୋଗୀ |
+| an auspicious day | Noun | ମେଲ୍‌ ତା ରୋଜ୍‌ |
+| anaemia | Noun | ନେଉର୍‌ ରୋଗାମ୍‌ |
+| analysis | Noun | ସାୟା ଉଡ଼ାନାଦ୍‌ |
+| ancestors | Noun | ପୂର୍ବଜରୁ ଆସିଥିବା ମନୁଷ୍ୟ |
+| ancestral property | Adjective | ନେଟୋର୍‌ ବୁମ୍‌ |
+| ancient age | Adjective | ପୁରୁଣା ଯୁଗ |
+| and | Coordinating connective | ଏବଂ |
+| anger | Noun | ରୁଗଣଗୀତ |
+| animal | Noun | ପଶୁ |
+| ankle | Noun | କାଲି |
+| announce | Verb | ଘୋଷଣା |
+| announcement | Noun | ଘୋଷଣା |
+| another | Adjective & pronoun | ଅନ୍ୟ |
+| answer | Noun & verb | ଉତ୍ତର |
+| ant | Noun | ପିପିଳି |
+| antelope | Noun | ସାରଙ୍ଗ |
+| any | Adjective & pronoun | ଯେଉଁଠି |
+| anyone | Pronoun | କୌଣସି |
+| anywhere | Adverb | କୌଣସି

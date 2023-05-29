@@ -1,0 +1,26 @@
+|Word in English|Part of Speech|Odiya Translation|
+|---|---|---|
+|bright|Adjective|GONG|
+|shine|Verb|NA|
+|brightness|Noun|ଜିଗ୍‌ ଜାଗ୍‌|
+|brim with tears|Noun|କିଡ଼୍‌ କାଡ଼୍‌|
+|bring|Verb|ତାରାଁ|
+|bring about|Verb|ଜାର୍ଗିସାନାଦ୍‌|
+|bring back|Verb|ମାଲ୍‌ ସି ତାଭାନାତ୍‌|
+|bring in|Verb|ଓାଟାନାଦ୍‌|
+|bring on|Verb|ତେୟାର୍‌ ମାଡ଼ାନାଦ୍‌|
+|bring out|Verb|ତୋପିସାନାଦ୍‌|
+|bring round|Verb|ରୋଗାମ୍‌ କୁଞ୍ଜୁ ସାୟାମ୍‌ ମାଡ଼ାନାଦ୍‌|
+|bring under|Verb|ଗାର୍ରେ ତାନ୍‌ ae ପେ ତାଭାନାଦ୍‌|
+|bring up|Verb|ପେର୍‌ ପିସି ପୋର୍‌ ପାନାଦ୍‌|
+|brinjal|Noun|GIG କାୟା, ଆପନା କୁଚିର୍‌|
+|brisk|Adjective|ଚାଲାକ|
+|broad|Adjective|ଞେଲ୍‌ ପ୍‌|
+|brocade silk|Noun|ଜୀର୍‌ ଗେଲ୍‌ ଗୁଡ଼ା|
+|broken|Verb|ଭରଙ୍ଗ୍‌ ତା|
+|broken pot|Noun|କିଲ୍‌ ଡୋକ୍‌|
+|bronchitis|Noun|ଡାଗ୍‌ ପାଣ୍‌ ସେମ୍‌ ନେଲାନାଦ୍‌ ନେସ|
+|bronze|Noun|ପିତାଲ୍‌ କାଞ୍ଚ୍‌|
+|broom|Noun|ଏପୁରି|
+|brother-in-law|Noun|SIGIR|
+|brown colour of hair|Noun|ରାଗ୍‌ କେଲ୍‌ କୁ ଆତ୍‌|

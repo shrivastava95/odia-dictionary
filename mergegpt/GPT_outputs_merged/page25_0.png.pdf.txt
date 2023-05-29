@@ -1,0 +1,26 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| elder        | Adjective      | ବେଡ଼ିୟାଣ୍ଟ     |
+| elder        | Noun           | ଦାଦାଲ୍‌         |
+| elder        | Noun           | ଦାଦାଲର         |
+| elder father | Noun           | ପେପି, ବେଡ଼ିୟା, ଭ୍ୟାନ୍‌ |
+| elder mother | Noun           | ବେରିୟାୟାୱ୍‌     |
+| elder sister | Adjective      | ୟାକା             |
+| elder sister | Noun           | କା, ନାନୋ         |
+| elder sister's husband | Noun | ବାଟୋ         |
+| elders       | Adjective      | ବେଡ଼ିୟାତୋର୍‌     |
+| elect        | Verb           | ଏନ୍‌ ଚାନାଦ୍‌    |
+| election     | Noun           | ଏନ୍‌ GIGI AIGQ    |
+| elephant     | Noun           | ଏନ୍‌             |
+| elephantiasis diseases | Noun | ତୋୟ୍‌ ତ୍‌ କାଲ୍‌, ତା କାଲ୍‌ |
+| eleven       | Noun           | ଅଣ୍ଡୋୟ୍‌         |
+| elicit       | Verb           | ବାୟ୍‌ ଦେ ପେପି ସାନାଦ୍‌ |
+| eligible     | Adjective      | ମେଲ୍‌ ତା         |
+| elopement    | Noun           | ମୁଭି             |
+| elopement    | Noun           | ତୋଡ଼େ ଆଣ୍‌ କି, ଦେଙ୍ଗାନ୍ଦାନାଦ୍‌ |
+| else         | Coordinating   | connective. ଇଲୁକୁଟେ, ଇଲକୁ |
+| embarrass    | Verb           | ନାମ୍‌ କାମ୍‌ ଓାଟି, ମାନ୍ଦାନୋନିନ୍‌ GE ସି ଦାନାଦ୍‌ |
+| emblic myrebalan tree | Noun | ନେଲ୍‌ ମାଡ଼ା, ନେଲ୍‌ FG! |
+| emblicmyrobalan the fruit and its tree | Noun | ନେଲ୍‌ କାୟା |
+| embrace      | Verb           | କାର୍‌ ମୁର୍‌ଚ୍ଚାନାଦ୍‌ |
+| emerge       | Verb           | ବାୟ୍‌ ଦେ ପେତ୍‌ ତାନାଦ୍‌ |

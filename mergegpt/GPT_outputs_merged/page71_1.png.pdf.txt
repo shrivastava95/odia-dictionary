@@ -1,0 +1,22 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| tell (word) | Verb | କେଲ୍‌ ମ୍‌ ,କେଲାଟ୍‌ |
+| tella lie | Verb | ବଲିସାନାଦ୍‌ |
+| tell against | Verb | ତେନ୍‌ ସ୍‌ |
+| tell apart | Verb | ତେଡ଼ା ତୋପିସାନାଦ୍‌ |
+| tell over | Verb | ଲେ କ୍‌ କା ଆଟାନାଦ୍‌ |
+| tell upon,on | Verb | ନାଷ୍ଠାମ୍‌ ମାଡ଼ାନାଦ୍‌ |
+| tell(story) | Verb | ସେୟ୍‌,କେଲା |
+| temper | Noun | କୋପାମ୍‌, ଆଲାମ୍‌ |
+| temperature | Noun | କାଙ୍କା,ଦାଗା |
+| temple | Noun | ଗୁଡ଼ିୟ୍‌,ମନ୍ଦିର, ବଟୁ ଚୁକା |
+| temporary | Noun | ବେସ୍‌ କେ ବାରେ, ମାନ୍ରୋ |
+| tempt | Noun | ଇଷ୍ଟାମ୍‌ ବେଗା ମିନ୍ଦେ, ଇଞ୍ଜୋ ପରିକ୍ଷ୍ୟା ମାଡ଼ି |
+| temptation | Verb | ସଦାନା, ପରୀକ୍ଷା, ତୁଙ୍ଗି ଉଡ଼ାନାଦ୍‌ |
+| teeth | Noun | ତିତ୍‌, ଖୁସେ |
+| ten | Numeral | AIG, ପାଦି, ଦାଶ୍‌ |
+| ten paisa | Noun | AIG A ଇସା, ପାଦି A ଇସା |
+| ten past nine | Adverb | ତମିଦି, CAG |
+| ten to nine | Adverb | ଗାଣ୍ଟାଆଦାନାଙ୍କ୍‌ AG ନିମିସ, CAG, ଗାଣ୍ଟାପାଦି FAQ |
+| tender | Noun | ଆର୍‌ ଓ ତୀସାନାଦ୍‌, କଡ଼୍‌ ସାନ୍‌ Ale |
+| tension | Noun | କପାମ୍‌ ନାରୁଣ୍ଡ |

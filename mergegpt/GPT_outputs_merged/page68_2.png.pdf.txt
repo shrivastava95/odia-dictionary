@@ -1,0 +1,27 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|-------------------|
+| stopping     | Verb           | ବାନ୍ଦ୍‌ ମାଡ଼ା        |
+| work         | Noun           | ସେବା, କାମ        |
+| store        | Verb           | ସୋସିରିଞ୍ଚାନାଦ୍‌     |
+| stork        | Noun           | କଙ୍ଗା             |
+| storm        | Noun           | ଗାଲ୍‌              |
+| cyclone      | Noun           | ଗାଲ୍‌              |
+| stormy       | Adjective      | ଦୁମାମ୍‌, ତୁପାମ୍‌   |
+| day          | Noun           | ଦିନ               |
+| story        | Noun           | କାହାଣୀ, ଞେଚୁଡ଼୍‌  |
+| straight     | Adjective      | ପାଇପୁର୍ଣ୍ଣ, ଓଜଳ  |
+| reply        | Noun           | ଜବାବ              |
+| road         | Noun           | ସଡ଼କ              |
+| up           | Adverb         | ଉପରେ             |
+| strainer     | Noun           | ଜାଲଡ଼            |
+| sieve        | Noun           | କାଭାନା            |
+| straining    | Verb           | ଛାଛୁଁଛୁଁ ହେବା   |
+| stranger     | Noun           | ଅପରିଚିତ ବ୍ୟକ୍ତି |
+| straw        | Noun           | ଖସରା, ତାଡ଼, ହାଟ୍‌ |
+| stream       | Noun           | ନଦୀ               |
+| rose         | Noun           | ଗୋଲାପ             |
+| street       | Noun           | ସଡ଼କ              |
+| strength     | Noun           | ଶକ୍ତି             |
+| strict       | Adjective      | ସୂକ୍ଷ୍ମ, ସ୍ଥିର   |
+| strike       | Noun           | ଧବଳ              |
+| matchstick   | Noun           | ଆଟା, ରେୟ୍‌         |

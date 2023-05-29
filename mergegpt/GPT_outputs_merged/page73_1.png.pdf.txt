@@ -1,0 +1,24 @@
+| Word in English      | Part of Speech | Odiya Translation |
+|----------------------|----------------|------------------|
+| tie with rope        | Noun           | ତାଡତୁମ୍‌ ତେ, ତତାନାଦ୍‌ |
+| tiger                | Noun           | ସେଙ୍ଗ ସାଲାମ୍‌, ଓେଙଇ୍‌ ଓାଲାମ୍‌ |
+| tight                | Adjective      | ଟେଙ୍ଗ୍‌ ମିନ୍ଦେ |
+| tiles                | Noun           | ପେଙକ୍‌ |
+| tiles house          | Noun           | GIR ଲୋନ୍‌ |
+| till                 | Connective     | ବେଚ଼ଟ୍‌ AR, 6B@OQ GI |
+| tillage              | Noun           | ବୂମ୍‌ @E, ବୂମ୍‌ AY ତାନାଦ୍‌ |
+| tilt,slant           | Verb           | ଅଡ଼ସ୍‌ ଆସମିନ୍ଦାନ୍‌ |
+| time and again       | Adverb         | ଏକ୍‌, ସୋୟ୍‌, ଏକ୍‌ କା |
+| time, season         | Transitive verb| କାଲାମ୍‌ ସାମାୟାମ୍‌ |
+| timid                | Adjective      | କଞ୍ାଲ୍‌, ସେର୍ଦାନୋଣ୍ଡ, IQ AB |
+| tincture             | Noun           | ରାଲ୍‌ ତାସୁଙ୍କ୍‌ ନେଉୂର୍‌ |
+| tiny parts           | Adjective      | QAIR |
+| tip                  | Noun           | ଭଜେ, ଉଜେ |
+| tip of the tongue    | Noun           | କଣ୍ଡା ନାଲ୍‌, କଣ୍ଡା ନାଲ୍‌ କ୍‌ |
+| tired                | Adjective      | UlQ |
+| tired of saying      | Adverb         | କେସ୍‌, କେସ୍‌ ଓଡ଼ି, ଆୟ୍‌ ଞି |
+| tissue               | Noun           | ମେନ୍ଦୁଲ୍‌ ତା ତଲ୍‌ କା, ଆଡୁ ଗେ ମାନ୍ଦାନାଦ୍‌ |
+| 10                   | Preposition    | କିଙ୍କ୍‌ |
+| to boil              | Transitive verb| ଓେଚ଼ାନାଦ୍‌, କାଚ଼ାନାଦ୍‌, କେୟ୍‌ ପିଚାନାଦ୍‌ |
+| to cause to cry      | Transitive verb| କେୟ୍‌ ପଚାନାଦ୍‌ |
+| to fall down senseless| Verb         | ସାମ୍‌ କ୍‌ ଆସ୍‌, ରାଲାନାଦ୍‌ |

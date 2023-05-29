@@ -1,0 +1,27 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| a | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| by | Adposition | ଦାତାନ୍‌ |
+| bus | Noun | ବାସ୍ତେ |
+| play | Verb | କାର୍ସିତାନ୍‌ |
+| played | Verb | କାର୍ସ୍‌ ତାନ୍‌ |
+| see | Verb | ଉଡ଼ିତ୍ତାନ୍‌ |
+| was playing | Verb | କାର୍ସ୍‌ ମାତାନ୍‌ |
+| will be playing | Verb | କାର୍ସ୍‌ ମାନ୍‌ ତାନ୍‌ |
+| ice | Noun | ଆଜୁର୍‌ ଗାଡା |
+| identify / recognise | Verb | ଆନାଞାଲ୍‌ |
+| idle / sluggish | Adjective | ମେ |
+| idol / image | Noun | ବଡ଼୍‌ ପେମ୍‌, ବମ୍‌ |
+| idolatry | Noun | ବୋମ଼ମି ପୂଜା |
+| if | Connective | ଅକଞ୍ଚେଲାନ, ଯଦି |
+| if drink | Connective | Aq କେ |
+| if (condition) / in case | Subordinating connective | ଯଦ, ଅକାଞେଲେ |
+| ignite | Verb | କିଚିମାସ |
+| ignorance | Adjective | ପୁନୁକଟ୍‌ ମାନ୍ଦାନାଦ୍‌ |
+| ignorant | Noun | ପୁନୁକଟ୍‌ ମାନ୍ଦାନୋଣ୍ତ |
+| ignore / hate | Verb | ତୁର୍ସାନାଦ୍‌, ପାସ୍‌, କାନାଦ୍‌ ଞ୍ଜିର୍ସ ପାନାଦ୍‌ |
+| iguana | Noun | ଉର୍ପାଲ୍‌ |
+| ill will | Noun | ଇଷ୍ଟୀମ୍‌ ଓ |
+| illegible | Noun | କାସମାଲାମ୍‌, ଆଡୁ ଗୋ |
+| illegitimate | Adverb | A1@1, ପିଗ୍‌ ଗା |

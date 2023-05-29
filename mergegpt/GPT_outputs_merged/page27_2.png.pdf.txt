@@ -1,0 +1,26 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| fell | Verb | ଗୁଦାଡ଼କାଲଦିନ୍‌ |
+| fell down | Adjective | ରାଲ୍‌ |
+| fell off | Verb | ଜାର୍ଗ୍‌ ଆସ୍‌ AR ତୋଣ୍ଡ |
+| female | Noun | ନାଟା, ନାଟ୍ରା |
+| female breast | Noun | ବମା |
+| female calf | Noun | ପାଡା |
+| female young of a goat | Noun | ଛୋଟ ଛଗ |
+| females | Noun | ଡାଡା |
+| fence | Noun | କୋଟା |
+| ferocious animal | Adjective | ବାୟାମାଲାମ୍‌ ଜନ୍ତୁ |
+| ferry man | Noun | ଅଡା ଡାଣସିତଣ୍ତ |
+| fertile | Adjective | ଉର୍ବୀ |
+| festival | Noun | ନାଲ ,ସାର ସାରୀ |
+| festival at the time of harvest | Noun | କୁର୍ମୀ ପାଣ୍ତୁମ୍‌ |
+| festival of hunters | Noun | ଷ୍ଟେଣ୍ଟାପାଣ୍ଡୁମ୍‌ |
+| festival of pea | Noun | ଶିକୁଡ଼୍‌ ପାଣ୍ତମ୍‌ |
+| festive day | Adjective | ପାଣ୍ଡୁ ମ୍‌ ରୋଜ୍‌ |
+| festoon | Noun | ଆର୍ଦିନ୍‌ ମୁନ୍ନେ |
+| fever | Noun | ଏତୂକ୍‌ |
+| fever gets down | Verb | ଏଡ଼କୁ |
+| feverish | Adjective | ଗରମ ଲାଗୁଥିବା |
+| few | Adjective | କେଉଁ |
+
+Note: There were some errors that were not common in both outputs, and we had to remove them to generate a more accurate table.
