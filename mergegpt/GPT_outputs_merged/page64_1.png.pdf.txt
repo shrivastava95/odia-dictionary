@@ -1,0 +1,20 @@
+| English Word | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| shine | Verb | ତପାନାଦ୍‌ |
+| ship | Noun | ଏର୍‌ ଜାହାଜ |
+| shirt | Noun | ସକ୍ତା, କୁସାମ୍‌, ଚକା |
+| shirtless | Adjective | ଦୁଙ୍ଗ୍‌ ଦୁଙ୍ଗ୍‌ |
+| shivering | Verb | ଜାଡ଼ିସାନାଦ୍‌ |
+| shock | Noun | ସେଦୁ |
+| shoes | Noun | ଜୁତା |
+| shoot | Verb | ଗପିଟ୍ଟେର୍‌ ରେଭାନାଦ୍‌, ତୁପାଇ ତିସି, ଶୁଟ୍‌ |
+| shop | Noun | ଦୋକାନ |
+| shopkeeper | Noun | ଦୋକାନୀ |
+| short | Adjective | ମୋଟା |
+| short man | Noun | ଗୁଟୁଡ଼୍‌ କ୍‌ |
+| short sight | Noun | ଦୂର ଦୃଷ୍ଟି |
+| short time | Adjective | ଛଟା |
+| shots | Noun | ଗୋଲି, ଗୁଲି |
+| should | Modal Verb | ଆବଶ୍ୟକ |
+| shoulder | Noun | କନ୍ଧ |
+| shout | Noun | ଚୀକିବା |

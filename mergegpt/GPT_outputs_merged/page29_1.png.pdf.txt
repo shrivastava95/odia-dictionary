@@ -1,0 +1,27 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| for the sake of | Preposition | ସେଙ୍ଗେ |
+| forbidden | Adjective | ଆଡ଼ାମ୍‌ ଆସି |
+| force | Noun | ନାର୍ଗେ ପୋଲିଶିର୍‌ |
+| force | Verb | ବାସ୍‌ ମିଲ୍‌ ଲି ମାଡ଼ାନାଦ୍‌ |
+| forcefully throwing | Noun | ଗାଟି |
+| forearm | Noun | କାୟ୍‌, ଡାଣ୍ଡା |
+| forefathers | Noun | ପୂର୍ବବଂଶୀ |
+| forehead | Noun | ନୁଦୁର୍‌ |
+| foreigner | Noun | ପରଦେଶୀ |
+| foreknow | Verb | ପୂର୍ବଦୃଷ୍ଟି କରିବା |
+| forest | Noun | ବନ୍ଦର |
+| forest honey | Noun | ମହୁଆ |
+| forever | Adverb | ସଦା |
+| forget | Verb | ବିରାମ ନାହିଁ |
+| forgive | Verb | କ୍ଷମା କରିବା |
+| forgiveness | Noun | କ୍ଷମା |
+| forehead | Noun | ଗୁଡୁମ୍‌ |
+| fork | Noun | କାଁତି |
+| formerly, ago | Adverb | ପୂର୍ବତଃ |
+| fort | Noun | କିଲା |
+| fortunately | Adverb | ସୁଖବର୍ତ୍ତି |
+| fortune | Noun | ଭାଗ୍ୟ |
+| forty | Numeral | ଚାଳିଶ |
+| forward | Adverb | ଆଗାମୀକାଲରେ |
+| foul tooth | Noun | ଦୁର୍ଦନ୍ତ |

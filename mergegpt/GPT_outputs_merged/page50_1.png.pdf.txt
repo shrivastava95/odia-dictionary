@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| nod | Verb | ତାଲା ଗୁଞ୍ଜାନାଦ୍‌ |
+| noised | Noun | ରାମ A RECA |
+| noiselessly | Adverb | ଚାମ୍‌ |
+| non vegetarian | Noun | କ୍ଲ |
+| non violence | Adjective | କୋପାମ୍‌, ଆଲ୍‌ |
+| non-co-operation | Noun | କାଲିୟ୍‌ କଟ୍‌ ଞରାନାଦ୍‌ |
+| noon | Noun | ମାଦ୍‌ ନାମ୍‌ |
+| normally | Adverb | ବେଶ୍‌ କେ ବା, ନିୟାମ୍‌ ତେ, ରଲ୍‌ ତେ |
+| nose | Noun | ମସର, ମୋସରି |
+| nosering | Noun | ମସର୍‌ ମୁଦା କାମ୍ମେ |
+| nostrils | Noun | ମସେର୍‌ - ନେଶ୍‌ କାଡ୍‌ ତ୍‌ ପଡ଼ିୟ୍‌ |
+| not | Noun | ଆୟ୍ୟୋ, ଇଲ୍‌ ଲେ |
+| not properly functioning | Adjective | ନାଡ଼ତାଟାମ୍‌ ଇଲେ |
+| not accept | Verb | ଅପ୍‌ ପୋର୍‌ |
+| not available | Adjective | ANGI |
+| not clear(water)impure | Noun | କାଲ ସ୍‌ |
+| not digest | Adjective | ଆଦିଲ୍ଲେ |
+| not enough space | Adjective | ପଡ଼ିୟ୍‌ ପୟ୍‌ |
+| object | Noun | ଆଲ୍‌, ଆର୍ଦାମ୍‌, ମାଟା |
+| obscenity | Noun | ଆଡୁଗୋଲ୍‌, କାସି |
+
+
+In the merged table, I have considered only the common errors in both outputs and excluded the non-common errors.

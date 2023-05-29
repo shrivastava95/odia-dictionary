@@ -1,0 +1,25 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|---------------|------------------|
+| a            | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| Preposition  | Noun | ନେଟା , ନାଟା |
+| wall         | Noun | ଦାଡ଼ିୟ୍‌, ନାଟ୍ଟାତ୍‌, ଦାଡିୟକ୍‌, ଗୋଡ଼ା |
+| fall         | Verb | କେୟ ମାଭା |
+| lamp         | Noun | ଲାନ୍ତାର୍‌ |
+| walnut       | Noun | ମାଡ କାୟା |
+| want         | Verb | କାର୍‌, କେଉଭାନାଦ୍‌ |
+| war          | Noun | ରାମ୍‌, ଗତୃଞା, MEG |
+| clothing     | Noun | କାଙ୍କା |
+| heat         | Verb | କିଶ୍ଆରାନାଦ୍‌ |
+| warming      | Adjective | QIK |
+| warrior      | Noun | ପୋଲେଶ୍‌ ନାରୁଣ୍ଡ |
+| wart         | Noun | ବୁଡ଼୍‌ ଦି କାୟା |
+| be           | Verb | ମାରା |
+| cry          | Verb | କେୟ ମାଭା |
+| give         | Verb | ଇସ ମାଭା |
+| know         | Verb | ପୁଞ୍ଜ ମାରା |
+| rear         | Verb | @AAI@Y, କେରସମାରୋଣ |
+| watch/protect | Verb | କାପ୍‌ ମାଭା, ରାକ୍‌ କା, କାପ୍‌ AAI AIR କା ମିନ୍ଦେ |
+| wash         | Verb | ସାୟ ଞେଡ୍‌ ତା, ଭକ୍‌ କା, କା, କୁସାମ୍‌ |
+| washerman    | Noun | GEER, GE!, AR କାନୋର୍‌ |
+| washing      | Verb | FAQ |

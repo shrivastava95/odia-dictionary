@@ -1,0 +1,20 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| fruit-stone  | Noun           | ପାଣିନ୍‌ ଟେକା         |
+| fry          | Noun           | ତଲ୍‌ କା ପଡ଼୍‌ AIR   |
+| frying pan   | Noun           | କଡ଼େଇ, କିଲା, କାଡ଼େଲ୍‌   |
+| sauce fan   | Noun           | କଡ଼େଇ, କିଲା, କାଡ଼େଲ୍‌   |
+| fulfillment | Noun           | ସୁମାର୍‌ ଆତ୍‌, ଆତା      |
+| full         | Adjective     | ନିଟ୍‌ ଟାତ୍‌ GIA, ଗୁମ୍‌ କେ, କାଡ଼ କେ |
+| full hand shirt | Noun       | ଡାଣ୍ଡା             |
+| full saree  | Noun           | ଓାଟିତା             |
+| fullness     | Noun           | ମାନ୍ଦାନାଦ୍‌ $4,89 |
+| garlic       | Noun           | କର୍‌ ଉଲି, ମାତ୍‌ ଭଲ୍‌, ପାୟା, ଞେଲ୍‌ ଉଲୁପାୟା |
+| gas          | Noun           | ଗାଲ୍‌             |
+| gas trouble  | Noun           | କା ପସ୍‌, ଆସ୍‌ ମାନ୍ଦାନାଦ୍‌-ଗୁଣ୍ଡି ଡେୱା, ମିନ୍ଦେ, ଦୋଡ଼ା ଆଗୁଁଣ୍ଟେ |
+| gastric      | Adjective      | AGAR, ତା, ଉବ୍ରାଙ୍ଗ୍‌ ମିନ୍ଦେ |
+| gate         | Noun           | ଲୋନ୍‌ ମୁନ୍ନେ, ବେର୍‌ ଫେର୍‌ ମାନ୍ଦାନ୍‌, ଗୁମ୍ମାମ୍‌ |
+| gatekeeper   | Noun           | ଗୁମ୍ମାମ୍‌ ତା ନିଲ୍‌ ସ୍‌, ମାଞ୍ଜ୍‌ କାପ୍‌ ଉଡ଼ାନୋଣ୍ଟ |
+| gaze         | Noun           | AIG କି ଉଡ଼ୋମିନ୍ଦେ        |
+| gecko        | Noun           | ଡକେ              |
+| genealogy    | Noun           | ଦାଦୋଡ଼୍‌ ପେପୀଡ଼୍‌, ଲୋତା ପେଦେର

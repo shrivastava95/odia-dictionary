@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+|---|---|---|
+| strong | Noun | କମ୍‌ ରାମ୍‌, ଗୁନ୍‌ |
+| pillar | Noun | ପିଲ୍ଲା |
+| struck | Verb | ପାନ୍‌ କ୍‌ କାନାଦ୍‌ |
+| stubborn | Adjective | ଆଦାନାଦ୍‌ |
+| stubbornness | Noun | ଗାଡ୍‌ |
+| students | Noun | ଭସ୍‌ କୁଲ୍‌ ତ୍‌ ପିଲ୍ଲା |
+| study | Noun | କାରିୟାମିନ୍ଦାନ୍‌ |
+| stuffy nose | Noun | ପାଣ୍‌ |
+| stumbling | Verb | ତାଗାଲାନାଦ୍‌, ତାଲ୍‌ ଗାନାଦ୍‌ |
+| stump | Noun | ମୋଦ୍‌ ଦୁ, ସେଦୁନ୍‌, ଗୁଟ୍‌, ମଟ୍‌ ,ମଦ୍‌ |
+| stupid | Adjective | ଡିଟ୍‌ ମେଦର୍‌ |
+| stupidity | Noun | ବାୟାଲ୍‌ |
+| stutter | Noun | ଜାଜା-କାରେ, ଇର୍‌ କୁ |
+| sty | Noun | କାଚ୍‌ କ୍‌ କାଣ୍ଡୁମ୍‌, ବଇଦୁମ୍‌ |
+| submission | Noun | ଅପ୍‌ ତାସାନାଦ୍‌ |
+| submit | Noun | ଅପାଗିଞ୍ଜାନାଦ୍‌, ସମର୍ପଣ |
+| subsided | Verb | ଆରି ଆଭା |
+| success | Noun | ଜୀଡ଼ାନାଦ୍‌, ଗେଲ୍‌ ଶ୍‌ ପାନାଦ୍‌ |
+| such....as | Correlative connective | ଇଲେକେ |
+| suck up | Verb | ଗିଗି, ଆର୍‌ ଗୀଗୀ |
+
+
+In the merged output, the incorrect translations in both outputs such as "ଓାଣ୍ଟ୍,ଗାଡ୍‌ ଶ୍‌ GIB" and "ଓାଣ୍ଡ,ଗାଡ୍‌ ଶ୍‌ BQ" for "stubbornness" were not included in the table. Moreover, the incorrect part of speech for "stupid" in output 1 and "sty" in output 2 were corrected based on the context.

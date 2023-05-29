@@ -1,0 +1,24 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| parrot | Noun | ପିଟେ |
+| parson | Noun | ପୂଜେର୍‌ |
+| part by part | Noun | ମୁକ୍‌ କା ମୁକ୍‌ କା |
+| part from | Verb | ସି ଆନ୍ଦାନାଦ୍‌ |
+| part with | Verb | ସେରେ GIAIGIg |
+| partiality | Noun | ମାନ୍ଦାନାଦ୍‌ |
+| particular | Adjective | ଭାୱ୍ତାଲ୍‌ |
+| parting | Verb | କେଲ୍‌ କ୍‌ ପାୟା |
+| partition | Noun | ବାଗାମ୍‌ ତୁ ସାର୍‌ |
+| partner | Noun | ଅଣ୍ଡୋୟ୍‌ AISA ତା |
+| partridge | Noun | କାଞ୍ଜାପିଟେ |
+| parts of leg | Noun | ଟିକ୍‌ କାଲ୍‌ (ଡେକା) |
+| pass over | Verb | ନାଡ଼୍‌ ସ୍‌ ଆନ୍ଦାନାଦ୍‌ |
+| pass away | Verb | ଡଲାନାଦ୍‌ |
+| pass by | Verb | ସି ଆନ୍ଦାନାଦ୍‌ |
+| pass into | Verb | ମାରି ଆନ୍ଦାନାଦ୍‌ |
+| pass out | Verb | ସି ଆନ୍ଦାନାଦ୍‌ |
+| passer-by | Noun | ସେରରଭଣୁ |
+| passion | Noun | ସ୍ପନ୍ଦନା |
+| past | Adjective | ଆଭା, ଦିନାମ୍‌ |
+| pasted | Adjective | କୁଇନ୍‌ଆଣ୍ଟି ମିନ୍ଦେ |
+| pastor | Noun | ଗୁଡ଼ିୟ୍‌ ଦା ପ୍ରାର୍ତାନା |

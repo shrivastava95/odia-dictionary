@@ -1,0 +1,24 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| to spread | Transitive verb | ସାମ୍ମା ତାରା | 
+| to spread the bed sheet, mat | Transitive verb | ସାମ୍ମା ତାରା | 
+| to sprinkle water | Transitive verb | କ୍ରିଶାନାଦ୍‌ | 
+| to sprout | Intransitive verb | ମଦୃତାନାଦ୍‌ | 
+| to stand | Intransitive verb | ତାନାଦ୍‌ | 
+| to stop | Intransitive verb | ତାନାଦ୍‌ | 
+| to strike off the name | Verb | ପେଦେର୍‌ ତାନାଦ୍‌ | 
+| to sweep | Transitive verb | ଏୟ୍‌ ତାନାଦ୍‌ | 
+| to swell | Intransitive verb | ତାନାଦ୍‌ | 
+| to swim | Intransitive verb | ତାନାଦ୍‌ | 
+| to swing a cradle | Transitive verb | ଉଶି ୟିମ୍‌, ଉଙ୍ଗା, ଉମ୍‌ | 
+| to take, to buy | Transitive verb | ତୀସାନାଦ୍‌, ଆସ୍‌ | 
+| to take away | Transitive verb | ଡୋଦାନାଦ୍‌ | 
+| to teach | Transitive verb | ସାନାଦ୍‌ | 
+| to tell | Verb | କେଲା | 
+| to them | Pronoun | ଅରୋଟ୍‌, ଆର | 
+| to thresh | Transitive verb | ଓନ୍‌ ଜି ୱଚାନାଦ୍‌ | 
+| to throw | Transitive verb | ଏଶ୍‌ ଶିପାଦେଙ୍ଗାନାଦ୍‌ | 
+| to tie | Transitive verb | ତତାନାଦ୍‌ | 
+| to tight | Intransitive verb | ଗୀରା ନାଦ୍‌ | 
+
+Note that some of the entries do not match in the two outputs, and hence, they have been omitted from the final table.

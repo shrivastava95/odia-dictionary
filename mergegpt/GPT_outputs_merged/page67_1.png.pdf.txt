@@ -1,0 +1,32 @@
+| English Word | Part of Speech | Odiya Translation |
+|---|---|---|
+| spider-web | Noun | ବାଲେ |
+| spill | Verb | ଜିରୀ ବରି ଆତ୍‌ |
+| scatter | Verb | ଜିରୀ ବରି ଆତ୍‌ |
+| drop down | Verb | ଜିରୀ ବରି ଆତ୍‌ |
+| spin | Verb | ଓଡିୟିସିଭଣୁ |
+| spinal column | Noun | ମାର୍‌କଟା |
+| back bone | Noun | ମାର୍‌କଟା |
+| spirit | Noun | ଆତ୍ମା, ଜୀୱାମ୍‌ |
+| spit | Verb | ଉଚାନାଦ୍‌ |
+| spittle | Noun | ଆରଣ |
+| splash up | Verb | ଅଭ୍ୟନ୍ତରୀଣ |
+| splits | Noun | କାଂଛା |
+| clefts | Noun | କାଂଛା |
+| spoon | Noun | ସାମ୍‍ |
+| spotted deer | Noun | ଚୀତଳ |
+| spotted hyena | Noun | ମାଡ଼ା ନେୟ୍‌ |
+| spouse | Noun | ପତି/ପତ୍ନୀ |
+| spouse's elder sister | Noun | ବୌଣୀ |
+| spouse's younger sister | Noun | ସାଳିକ |
+| spray | Noun | ଛିଡ଼ା |
+| spread | Verb | ସାରିବା |
+| talk | Verb | ବୋଲିବା |
+| matter | Verb | ବୋଲିବା |
+| umbrella | Noun | ଛତ୍ରି |
+| go | Verb | ଚଳିବା |
+| spring forth | Verb | ଉଦ୍ଭଟ ହୋଇଥିବା |
+| spring season | Noun | ବସନ୍ତ |
+| springs | Noun | ଛିନା | 
+
+Please note that there were some differences in the Odiya translations in both inputs, so I picked the best translation based on my knowledge of the Odiya language. Also, some parts of speech were missing in one of the inputs, so I added them based on their context in the sentence.

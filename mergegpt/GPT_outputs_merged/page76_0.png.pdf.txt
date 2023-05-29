@@ -1,0 +1,23 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| to dig well | Transitive verb | ଡେଞାନାଦ୍‌ |
+| to do | Transitive verb | ତୁଙ୍ଗାନାଦ୍‌ |
+| to doze | Intransitive verb | କୁର୍କାନାଦ୍‌ |
+| to draw out water | Transitive verb | ଲସ୍‌ କାନାଦ୍‌ |
+| to draw water-up | Transitive verb | ତୋରାନାଦ୍‌ |
+| to dream | Transitive verb | କାଲାଦ୍‌ |
+| to drink | Transitive verb | ଉଣା ନାଦ୍‌ |
+| Adposition | N/A | ଭଣ୍ଡାନାଙ୍କ୍‌ |
+| to drive | Verb | ତୋଲା, ନାତୁସ୍‌, ଅୟ୍‌ ମ୍‌ |
+| to dry | Transitive verb | ଓଡ଼ା |
+| to dry the body | Transitive verb | ତୁଲ୍‌ ପାନାଦ୍‌, ତୁଲା |
+| to eat | Transitive verb | ତିନ୍ଦାନାଦ୍‌ |
+| to enter | Transitive verb | ନିଗାନାଦ୍‌, ନେଙ୍ଗାନାଦ୍‌ |
+| to extinguish fire | Transitive verb | କସ୍‌ ପୀତାନାଦ୍‌ |
+| to fall | Intransitive verb | ଆମାଇଆ |
+| to fear, be afraid | Intransitive verb | ଦେର୍‌ ତାନାଦ୍‌, ଞେର୍‌, ଗିଗି |
+| to fell down | Intransitive verb | ମିଭାନାଦ୍‌, ସାଟ୍‌, ମିତାନାଦ୍‌ |
+| to fill | Transitive verb | ଫିବିଗିର |
+| to fix up a day | Adjective | ରୋଜ୍‌ ତତିକା |
+| to fly into a rage | Verb | କୋପାମ୍‌ ଆସ୍‌ ତେଭୋଣ୍ଟ |
+| to forget | Transitive verb | ମାରଙ୍ଗାନାଦ୍‌ |

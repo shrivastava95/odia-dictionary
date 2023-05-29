@@ -1,0 +1,29 @@
+| Word in English | Part of speech | Odia Translation |
+|:---------------|:--------------|:----------------|
+| viper          | Noun          | ଉସ୍‌           |
+| virgin         | Noun          | ପେଲ୍‌ ଆଦିଲ୍‌ ଓ ଓଢ୍‌ |
+| ନାଟାଡ଼୍‌         | Noun          | -                |
+| ଜୀଶୁନ୍‌         | Noun          | -                |
+| ମାରିୟାମ୍‌         | Noun          | ମା              |
+| virtue         | Noun          | ପୁଣ୍ୟାମ୍‌, ସାୟାମ୍‌ |
+| vitality       | Noun          | ଜୀଞାମ୍‌ ତ୍‌ ସାତ୍‌ |
+| vixen          | Noun          | ଡାଡା            |
+| vocal card     | Noun          | ବୋଣ୍ଡ           |
+| voice          | Noun          | -                |
+| voluntarily    | Adverb        | ଲାବାମ୍‌          |
+| କଟେ ତାନ୍‌ ସନ୍ତା ଇଷ୍ଟାମ୍‌ ତେ | Adverb        | -                |
+| volunteer      | Noun          | ଲାବାମ୍‌          |
+| କଟେ ତାନ୍‌ ସନ୍ତା ଇଷ୍ଟାମ୍‌ ତେ | Adverb        | -                |
+| ମାଲ୍‌          | Noun          | କିଙ୍କ୍‌ ସେୱା     |
+| ମାଡ଼ାନୋର୍‌      | Noun          | -                |
+| vomiting       | Verb          | କାକିତଣ୍ଡ, ଗାଟ୍ଟି |
+| ପର୍ଟୋମିନ୍ଦୋଣ୍ଡ    | Noun          | -                |
+| vulture        | Noun          | ଡାମୋର୍‌         |
+| walk in        | Verb          | ଲୋପାଲ୍‌ ଆନ୍ଦାନାଦ୍‌ |
+| walk off       | Verb          | କୋପାମ୍‌, ଆଲ୍‌ |
+| ଆସ୍‌ ଦାୟାନାଦ୍‌     | Noun          | ଆନ୍ଦାନାଦ୍‌       |
+| walk with stick| Noun          | ର               |
+| Connective     | Noun          | ତୁଡ଼୍ଉର୍ସ୍‌ କୋର୍‌ |
+| ଉଶ୍‌ ଶୋଆଞ୍ଜୋମିନ୍ଦୋଣ୍ତ  | Noun          | -                |
+| walks          | Noun          | ନାଡ଼ୂସା, ତାକି ତାକି |
+| wall           | Noun          | ନାଟା, ଦାଡ

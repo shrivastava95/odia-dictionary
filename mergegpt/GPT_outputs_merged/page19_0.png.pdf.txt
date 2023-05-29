@@ -1,0 +1,22 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| credit | Noun | ଗୁଢୃପ୍‌ ତା ଡ଼ାବ୍‌ କଞ୍ଚା |
+| creditor | Noun | ବାକି ଭଦାନୋଣ୍ୁଡ |
+| creep through | Verb | ଗେବା |
+| creeper | Noun | ଏଟ୍‌ |
+| cremation | Noun | ପଡ଼୍‌ ସୀଦାନାଦ୍‌ |
+| crest | Noun | କୋର୍‌ ପୂୃର୍ଗାର୍‌ |
+| cried | Verb | ଆଙ୍ଗ୍‌ ଲିଭୋନ୍‌ |
+| cries out | Noun | କେୟ୍‌ କେୟ୍‌ |
+| critical situation | Adjective | କାଷ୍ଟାମ୍‌ ତ୍‌ ତିପ୍‌ ପାଲ୍‌ |
+| criticize | Verb | ପିସାନାଦ୍‌ |
+| crocodile | Noun | AAR |
+| crop | Noun | ପେସିଲି |
+| Cross | Noun | ଆଡ଼ାମ୍‌ |
+| cross beam | Noun | ବାଲା |
+| cross road | Noun | ଆର୍‌ କା |
+| crow | Noun | କାରାଗୁଟ୍‌ |
+| crowbar | Noun | ଗୁନ୍‌ ପାଲ୍‌ ଗାଡ଼୍‌ |
+| crowd | Noun | ମୁଲ୍‌ |
+| crown | Noun | କିରିଡ଼ାମ୍‌-ମୁକୁଟ୍‌ |
+| crows-fight | Noun | କୋର୍‌ ପାନ୍ତେ |

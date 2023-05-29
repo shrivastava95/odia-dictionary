@@ -1,0 +1,27 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|-----------------|-----------------------|
+| hire         | Verb            | ଆଦ୍‌ ତିସାନଦ୍‌, ବଡ଼ା        |
+| his          | Pronoun         | ଇନାଦ୍‌, ଉନାଦ୍‌              |
+| hissing      | Noun            | ଓାସିତ୍‌                    |
+| hit          | Verb            | ତାନାନାଦ୍‌                   |
+| hit          | Verb            | ଦାଗଲ୍‌ ମିନ୍ଦେ               |
+| hive         | Noun            | GAGA ଲୋନ୍‌                 |
+| hoard        | Noun            | ଗୁଡୁପ୍‌ ତା ସମ୍‌            |
+| hoisting     | Verb            | ଜାଣା ପାର୍‌ ତିସାନାଦ୍‌        |
+| hold         | Verb            | AQ ତାନାଦ୍‌ GIGI           |
+| hold         | Verb            | ଦୂରାମ୍‌ ମାଡ଼ାନାଦ୍‌         |
+| hold out     | Verb            | ଏଦୁରେ AA ତାନାଦ୍‌ NIGER AD GIGI |
+| hold tightly | Adjective       | ଗାଟିଙ୍ଗ(ଟେଙ୍ଗ) ପୟ୍‌ ସମିନ୍ଦେ     |
+| hold up      | Verb            | ତେସ୍‌ AQ ତାନାଦ୍‌            |
+| hole         | Noun            | ବୋକ୍କ, ବ ଛା              |
+| hole and corner | Adjective   | ଇର୍ତାନାଦ୍‌                |
+| hole of tree | Noun            | ଦର୍ରାତା, ବଚଛା             |
+| holidays     | Noun            | ଚୁଟି ରୋଜ୍‌                |
+| hollow       | Noun            | ପୋନ୍‌ ଦେ, ଦରା             |
+| holster      | Noun            | ତଲ୍‌ କା ସାନ୍‌ ସ୍‌          |
+| holy basil   | Noun            | ଦୁଲୋସ୍‌ ଏଟୁ, ପଦାଲା         |
+| holy spirit  | Noun            | ପାଞତ୍ରା ସୁବ୍ରାଙ୍ଗ୍‌, ଆତ୍ମା  |
+| holy/holiness | Adjective      | AIGGI, AGI ମାନ୍ଦାନାଦ୍‌, 6A    |
+| homosexual   | Adjective       | MI& AIGA ଦା AAUP]           |
+
+Note: In the first output, some of the Odiya translations were ended with "ଲେକେ", which doesn't seem to be a valid word in Odiya. Therefore, I have removed that part from the translation. Similarly, in the second output, there were some non-English characters and typos that I have removed or corrected while merging the two outputs.

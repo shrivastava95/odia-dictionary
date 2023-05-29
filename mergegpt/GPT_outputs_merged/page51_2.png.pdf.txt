@@ -1,0 +1,22 @@
+| Word in English | Part of Speech | Odiya Translation |
+|-----------------|----------------|------------------|
+| Onion           | Noun           | ଭଲ୍‌ ଲି, ଉଲ୍‌ ପାୟା|
+| Only            | Adverb         | ମାଟୁଗେ |
+| Adjective       | Adjective      | ସେରୋନ୍‌, ଅରୋଟ୍‌, MGEA, AUG, AS |
+| One             | Adjective      | ଓରୋଟ୍‌, ଅଣ୍ଡୋୟ୍‌ |
+| Son             | Noun           | ଅରୋଣେେ |
+| Consent         | Verb           | ଅପାନାଦ୍‌, ଏତାନାଦ୍‌ |
+| Oozing          | Verb           | ଉରୋ ମିନ୍ଦେ |
+| 0893            | Verb           | କୁଲା, ତୀସା |
+| Open            | Verb           | ବାୟ୍‌ ଦେ |
+| Operation       | Noun           | ରୋଗାମ୍‌ ସାୟା |
+| Opinion         | Noun           | ଓସରେ ଞେରେ ମାଟା |
+| Oppose          | Verb           | ସିରୋଦାମ୍‌, ତୁଙ୍ଗାନାଦ୍‌ |
+| Oppress         | Verb           | ଭଦାନାଦ୍‌, GIF SQ ପାଲ୍‌ |
+| Optimist        | Noun           | ଆଶା ମାଡ଼ାନୋଣ୍ତ |
+| Optional        | Adjective      | ଇଷ୍ଟାମ୍‌ ତେ, PER |
+| Or              | Coordinating  | ଇଲୁକ୍‌ |
+| Orally          | Adverb         | ଗଟିତେ |
+| Orange          | Noun           | ଦେବା କାୟା |
+| Orange tree     | Noun           | ଦେବାମାରା |
+| Orator          | Noun           | କେତାନୋର୍‌, ଞେତାନୋଣ୍ଟ, IG |

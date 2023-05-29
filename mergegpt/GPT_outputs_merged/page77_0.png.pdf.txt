@@ -1,0 +1,20 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| to mix | Transitive verb | ପୀରାନାଦ୍ |
+| to mix hot and cold water | Transitive verb | କାଲପାନାଦ୍ |
+| to offer food | Transitive verb | ଏର ମାନ୍ତାନାଦ୍ ସିଜା |
+| to open eyes | Transitive verb | ସିଜା ପାଣ୍ଡୁମ୍ ତା ରେତାନାଦ୍ |
+| to overflow | Intransitive verb | ପୀମା |
+| to pain | Intransitive verb | ଉସୋମନ୍ଦେ ପୋଙ୍ଗାନାଦ୍ |
+| to pass away time | Verb | ନଅତା ପାୟାଲ୍ |
+| to pass urine | Intransitive verb | ତେରି ଆନ୍ଦାନାଦ୍ |
+| to peel | Transitive verb | କାନାଦ୍ |
+| to peep | Intransitive verb | ଶ୍ପା, ମାଡ଼କି |
+| to pierce | Verb | ଉଡ଼ା ବାୟ୍‌ ପାନାଦ୍ |
+| to pinch | Transitive verb | କଟାନାଦ୍ |
+| to pitch the tent | Verb | AIRE ଓଟାନାଦ୍ |
+| to play | Intransitive verb | କାର୍‌, ସାନାଦ୍‌ |
+| to plough | Intransitive verb | ସାନାଦ୍‌, ଉଡ଼ଦାନାଦ୍‌ |
+| to pluck | Transitive verb | ଭଡ଼ଦାନାଦ୍‌, ପୁଙ୍ଗାକୟତାନାଦ୍‌ |
+| to pound | Transitive verb | ଉସ୍‌ ଶା, ଉଛାନାଦ୍‌, ମୁଦୁମ୍‌ ଉସ୍‌ ତା ପେର୍କେ ଞେଡ଼ସାନାଦ୍‌ |
+| to pour out water | Transitive verb | ଉଡ଼ା ବାୟ୍‌ ପାନାଦ୍‌ |

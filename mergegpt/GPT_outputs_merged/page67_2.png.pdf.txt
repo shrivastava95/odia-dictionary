@@ -1,0 +1,27 @@
+| English Word | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| sprinkle | Verb | ଏର୍‌ ଜାଲ୍‌ ଲାନାଦ୍‌ |
+| sprout from earth | Noun | ପିର୍‌ |
+| Ase | N/A | N/A |
+| sputum | Noun | ଉଛୁଲ୍‌ |
+| spy | Noun | କେଭାନାଦ୍‌ |
+| square | Noun | ନାଲୁ |
+| squeeze | Noun | ପୀରା |
+| squeezing | Verb | ପିଶ୍‌ କାନାଦ୍‌ |
+| squint eyed, one eyed | Noun | କାଣ୍ଡ-ସିରାଲ୍‌ |
+| squirrel | Noun | ଆସେ |
+| stable for horses | Noun | ଗୁର୍ରା ମାନ୍ଦାନାଦ୍‌ |
+| staff | Noun | Se |
+| stale | Noun | ଆୱ୍‌ ତା, କାଡ଼ିୟ୍‌ ତାଦ୍‌ |
+| stall fed animal | Adjective | ତଭା ବାକ୍‌ କା |
+| stammerer | Noun | କେତଣ୍ଟ-ତକାଲ୍‌, ମୁକାଲ୍‌ |
+| stand | Verb | ସି ମାନ୍ଦାନାଦ୍‌ |
+| stand against | Verb | ଏଦୁରେ ନିଲ୍‌ ସ୍‌ ମାନ୍‌ |
+| stand back | Verb | ଦୂରାମ୍‌ ସ୍‌ ମାନ୍ଦାନାଦ୍‌ |
+| stand by | Verb | ତେୟାର୍‌ ଆସ୍‌, କାଦିଲି ମାନ୍ଦାନାଦ୍‌ |
+| stand off | Verb | ଦୂରାମ୍‌ ମାନ୍ଦାନାଦ୍‌ |
+| stand out | Verb | ଲାବାମ୍‌ ମାଡ଼ାନାଦ୍‌ |
+| stand with | Verb | ଯାତା, ସାଙ୍ଗୋ ଆଦାନାଦ୍‌ |
+| standing | Verb | ନିଲସ୍‌ ମିନ୍ଦଣ୍ତ |
+| star | Noun | ଉକ୍ତାମ୍‌ |
+| stationary | Noun | ଟେଙ୍ଗ୍‌ ମାନ୍ଦାନାଦ୍‌ |

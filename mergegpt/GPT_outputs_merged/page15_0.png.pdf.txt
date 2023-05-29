@@ -1,0 +1,27 @@
+| English Word     | Part of Speech | Odia Translation |
+|------------------|----------------|-----------------|
+| ag               |                | ଅଗ୍‌            |
+| according to     | Adverb         | ଅନୁସାରେ        |
+| catch            | Verb           | ପୟ୍‌ ମ୍‌       |
+| caterpillar      | Noun           | ବୁଇନ୍ଦେ କୀଡ଼ା  |
+| caterpillar, worms | Noun         | ଚୁଡ଼ୂଲାପୁଡି    |
+| cattle           | Noun           | ଗୋଷ୍ଠୀ         |
+| cauldron         | Noun           | କଡ଼େଇ           |
+| cauliflower      | Noun           | ଫୁଲକୋବି         |
+| cause to get out | Verb           | ପେସ୍‌           |
+| cause to move    | Verb           | ହରକେଲା         |
+| cause to move by hand | Noun      | ହସ୍ତଗତି       |
+| caution, reason, cause | Noun    | ସତର୍କତା, କାରଣ, ବାବାଙ୍କ୍‌ |
+| cautiously       | Adverb         | ଜାଗ୍ରତେପରେ      |
+| cave             | Noun           | ଗୁହା            |
+| caves            | Noun           | ଗୁହା            |
+| cement wall, boundary | Noun      | ପାରିଗୋଡ଼ା      |
+| centipede        | Noun           | ଜିନ୍ନାଳି        |
+| ceremony         | Noun           | ଉତ୍ସବ           |
+| certain day      | Noun           | ନିଶ୍ଚିତ ଦିନ    |
+| certainly, positively | Adverb | ନିଶ୍ଚିତଭାବେ     |
+| chaff            | Noun           | ପୋଷ୍ଟକୁଡ଼ା      |
+| chain, necklace  | Noun           | ଗଲୁସୁ          |
+| chair            | Noun           | ଚୈକି            |
+| chalk            | Noun           | ଶାଲିମଣି        |
+| chalk paddy (ten)| Noun           | ପୁଟ୍ଚେନ୍‌       |

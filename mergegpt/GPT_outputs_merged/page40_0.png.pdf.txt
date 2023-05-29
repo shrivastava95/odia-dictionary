@@ -1,0 +1,24 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| a            | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly  | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| jug          | Noun | ମାଡ଼ାନୋଣ୍ଟ |
+| juice        | Noun | ଜୁସ୍‌, ସାର୍‌, ଜୃଶ୍‌ |
+| jujube       | Noun | ରେଙ୍ଗା ମାଡ଼ା |
+| jump         | Verb | କୁଦି, ଲାଙ୍ଗୁଡ଼ା, ତୁଲି |
+| junction     | Noun | ନାଲୁ ପାକ୍‌ କା, ରୋଡ଼୍‌ କାଲିୟାନାଦ୍‌ |
+| keep account | Verb | ଇସାବ୍‌ ଗୁଣି |
+| keep away    | Verb | ଦୂରାମ୍‌ ମାନ୍ଦାନାଦ୍‌ |
+| keep in      | Verb | ମାନ୍ଦାନାଦ୍‌, ତାସାନାଦ୍‌ |
+| keep in mind | Verb | ଏର୍କି କୀମ୍‌ |
+| keep in with | Verb | ମେଲ୍‌ ତା, ସାମ୍ବାନ୍ଦାମ୍‌ ତାସାନାଦ୍‌ |
+| keep off     | Verb | ସାରେ |
+| keep on      | Verb | ନାଡୃପିସାନାଦ୍‌, ଆସମି, ନ୍ଦେ |
+| keep safely  | Adjective | ସାୟା ତାସାଟୁ, All ତାସାଟୁ |
+| keep to      | Verb | ମାଟା ପୟ୍‌ ସି ପାଡ଼ିୟ୍‌, ମାଡ଼ାନାଦ୍‌ |
+| keep up      | Verb | ଇତା ମାଟା ତାସାନାଦ୍‌, ଅସରିସାନାଦ୍‌ |
+| kept silence | Verb | AIA ମିନ୍ଦଣ୍ତ |
+| kerosene oil | Noun | କେରୋସ୍‌, GAIR |
+| kettle       | Noun | କାପ୍‌ ସାଟାନ୍‌, ମାଡ଼ାନ୍‌ |
+| key          | Noun | ତାଲାତ୍‌ କାୟ୍‌ କ୍‌, ତାଲାମ୍‌, ଚେୟ୍‌, ତେମୁଁ |
+| kick         | Verb |

@@ -1,0 +1,28 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| a | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| cover | Verb | ମୁଚଢାନାଦ୍‌, କାପଡ୍‌ |
+| cover of vessel,cover-pot | Noun | ସିପେମୁନ୍ତା |
+| cow dung | Noun | ପେଣ୍ଠ |
+| cow dunk cake | Noun | ଗୋମେରା |
+| cow herd | Noun | ଗଡ଼୍‌ କ୍‌ ବାକ୍‌ କା, ମେତାନୋଣ୍ଡ |
+| cow lows | Noun | ଗୋଡ଼କି ଭା ଭା |
+| cow milk | Noun | ଗଡ଼୍‌ ପାଲ୍‌ |
+| cows | Noun | ବାକ୍‌, ଗଡ୍‌ |
+| coward | Noun | ସାଣ୍ତ |
+| cowardice | Noun | ସେର୍ଦାନୋନ୍‌ |
+| cowardly | Adjective | ବାୟାଲ୍‌ |
+| cowherd | Noun | ଗଲାଲ୍‌ |
+| cowshed | Noun | ଡ଼ଡ୍‌-କଟ୍ରାମ୍‌ |
+| crab | Noun | ଏଟି |
+| crack, fissure | Verb | କାଲ୍‌ ତା |
+| cracks | Noun | ଟାପାକାୟା |
+| craftiness | Noun | ବଲିସାନାଦ୍‌ |
+| crane | Noun | ଗାଣ୍ଡି କଙ୍ଗା |
+| craving | Noun | ନାର୍ଗେ ଇଷ୍ଟାମ୍‌ |
+| crawl, creep | Intransitive verb | ଆକୋମିନ୍ଦେ(ପେଭେ), ମିନ୍ଦେ, ଆନ୍‌ ଜ ମିନ୍ଦେ |
+| create | Verb | ତାୟାର୍‌ ତୁଙ୍ଗା, ମାଡ଼ା |
+| creator | Noun | ଦେହୁନ, ବାଗାୱାନ୍‌, ଦେ | 
+
+Note: The entries with different translations in both raw outputs have been left out of the merged table.

@@ -1,0 +1,14 @@
+| English Word     | Part of Speech            | Odiya Translation   |
+| ---------------- | ------------------------ | ------------------ |
+| young            | Adjective                 | ଲେୟ୍‌ କାର୍‌        |
+| young            | Noun                      | ଯୁବକ               |
+| young bull calf  | Noun                      | ପେୟାପିଲ୍ା         |
+| young man        | Noun                      | ଯୁବକ               |
+| young stage      | Adjective                 | ପେକର୍‌             |
+| pen              | Noun                      | କାଲାମ୍‌           |
+| younger brother  | Noun                      | ତାମୁଣ୍ଡ           |
+| younger brothers | Noun                      | ତାମୁର୍‌            |
+| younger sister   | Noun                      | ଦିଦି               |
+| zero             | Noun                      | ସୁନା               |
+
+It can be observed that the output 1 has some errors, like "young" has been classified as an adjective, whereas it's a noun. Similarly, "younger sister" has been classified as an adjective, but it's a noun. Output 2 has some additional entries, like "pen" and "younger sister's husband," which were not present in output 1. Therefore, after merging both the outputs, the errors have been reduced.

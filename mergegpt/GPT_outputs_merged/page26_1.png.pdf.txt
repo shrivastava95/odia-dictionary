@@ -1,0 +1,23 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| exhibition   | Noun           | କଭା ପଡ଼ିୟ୍‌          |
+| exhort       | Verb           | ସାୟାମ୍‌ ତ୍‌ ମାଟା        |
+| exhortation | Noun           | କାଟି ସାର୍ଦା           |
+| exile        | Verb           | ତସ୍‌ ଞ୍ଚେରେ ନାର୍‌        |
+| expanding    | Verb           | ପାର୍ଲୁଭା-ପୂଙ୍ଗା, ଏଓ୍‌ |
+| expect       | Verb           | ଉଡୋମିନ୍ଦେ, ନାମ୍‌ କାମ୍‌, ଆଶା |
+| expenditure  | Noun           | କାର୍‌ସ୍‌           |
+| experience   | Noun           | ଆଲ୍‌ ଓଟ୍‌          |
+| experiment   | Noun           | ପରୀକ୍ଷା            |
+| expert       | Noun           | ଆଲ୍‌ GIS, QR    |
+| expose       | Verb           | ତୋପିସାନାଦ୍‌        |
+| expression   | Noun           | ମାଟା କିଙ୍କ୍‌         |
+| fair         | Noun           | ବଢ଼ା,ଆଦ୍‌ ସର୍‌   |
+| faith        | Noun           | ନାମ୍‌ କାମ୍‌, ଞଶବାସାମ୍‌ |
+| falcon       | Noun           | ଓେସେରା ଗାଦା        |
+| fall         | Verb           | କାଲ୍‌ ଦା            |
+| fallin       | Verb           | ମାଟା ଅପାନାଦ୍‌        |
+| fall out     | Verb           | ସ୍‌                |
+| fallto       | Verb           | ତେ ଆରାମ୍ଭ         |
+
+Please note that there are still some errors, such as "ସ୍‌" in "fall out" and "AIG]" in "fallto," which cannot be resolved without additional context.

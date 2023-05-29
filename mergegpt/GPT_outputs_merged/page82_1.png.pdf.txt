@@ -1,0 +1,26 @@
+| Word in English                  | Part of Speech        | Odiya Translation |
+|----------------------------------|----------------------|------------------|
+| a                                | Adjective&Article    | ଅରୋଟ୍‌           |
+| accordingly                      | Adverb               | ଆଦିଙ୍କ୍‌ ଲେକେ       |
+| very small species of plantain   | Noun                 | କାନ୍ଦି           |
+| tree                             | Noun                 | କାନ୍ଦ            |
+| very tasty                       | Adjective            | ରୁଣ୍ାମ୍‌        |
+| vessel                           | Noun                 | ତେପ୍‌ ଲାମ୍‌      |
+| vessel with a narrow neck        | Noun                 | କାଶ୍‌ ଲାଂବିନ୍ଦି   |
+| vessels blacken by burning       | Verb                 | ତେପ୍‌ ଲାମ୍‌ ମାସ୍‌ ଆତ୍‌ |
+| vice                             | Noun                 | ପାପ୍‌ ପାମ୍‌      |
+| vice president of village        | Noun                 | ଚିନ୍ନା ପେଦା       |
+| victory                          | Noun                 | ଜୀଡ଼ାନାଦ୍‌       |
+| village                          | Noun                 | ନାଟେ             |
+| village meeting                  | Noun                 | AS               |
+| village street name              | Noun                 | ଗୁଡ଼ିୟେମ୍‌       |
+| village chief                    | Noun                 | ପେଦା             |
+| vine                             | Noun                 | ATR ଏଟ୍‌         |
+| vine tree                        | Noun                 | UTA NG ଟୁ, ମାଡ଼ା |
+| violence                         | Noun                 | କୋପାମ୍‌, କୂୱାମ୍‌ |
+| violent                          | Adjective            | କାୱ୍‌             |
+| wake,rise                        | Verb                 | ତେଦା             |
+| wakeup(suddenly)                 | Verb                 | ଡିଗ୍‌            |
+| walk                             | Verb                 | ନାଢୁମ୍‌, ତାକା   |
+| walk about                       | Verb                 | ଆଶ୍‌             |
+| ତାନାଦ୍‌                        | N/A                  | N/A              |

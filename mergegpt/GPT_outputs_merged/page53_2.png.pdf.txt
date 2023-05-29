@@ -1,0 +1,30 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| Gaia | Noun | ତୋପ୍‌ ପିଶାନ୍‌ |
+| patch | Noun | ଗାଣ୍ଡଲ୍‌ AIF କୁଟାନାଦ୍‌ |
+| path,way | Noun | ଆର୍‌ |
+| patience | Noun | ଦେୟ୍‌ Ale |
+| patient | Adjective | ନେମ୍‌ ଲା |
+| patriot | Noun | ଦେସାମ୍‌ ମାୟ୍‌ ଦିଙ୍କ୍‌ |
+| love | Noun | ପ୍ରେମା ମାଡ଼ାନୋନ୍‌ |
+| patronize | Noun | ସାୟାମ୍‌ |
+| pay reverence | Verb | କାୟ୍‌ କ୍‌ |
+| pay(return) | Verb | ମାଲ୍‌ ସି |
+| pea | Noun | ସେଲୁ ଘା |
+| peace | Noun | ସୁକାମ୍‌ |
+| peace agreement | Verb | ରାଜ୍‌ ଜି |
+| peacock | Noun | ପୋତ୍‌ ମାଲ୍‌ |
+| peacock screams | Verb | ମାଲ୍‌ କେୟିତା |
+| peacock's feather | Noun | ପୂରି |
+| peahen | Noun | ଡାଡା ମାଲ୍‌ |
+| pearl | Noun |  |
+| pedalling | Verb | ପିଡ଼ିବେ |
+| peel | Noun | ପୁଛାନାଦ୍‌ |
+| peel,husk | Noun | ତଲ୍‌ କା ,ଟୋଟେ |
+| peel-off | Verb | ତୀସାନାଦ୍‌,ଟେଣ୍ଢାନାଦ୍‌ |
+| peevish,jealous | Adjective | ଏରାଙ୍ଗ୍‌ |
+| pen | Noun | ପେନ୍‌ |
+| pendant | Noun | ଜୋଡ଼କ୍‌ |
+
+Note: Some entries in the Odiya Translation column have multiple values separated by commas. This is because both outputs have provided different translations for the same word. In such cases, both translations have been included to provide a more comprehensive understanding of the word.

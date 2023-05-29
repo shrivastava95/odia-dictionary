@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| defect | Noun | କାମ୍‌, ତାପ୍‌ ପୁ |
+| defend | Verb | ଗେଲ୍‌ ସାନାଦ୍‌ |
+| defensive | Adjective | ଜୀଞାମ୍‌ ଗେଲ୍‌ |
+| deference | Noun | ମାରିୟାଦା |
+| deforme | Adjective | ଇଦିଲି |
+| defraud | Verb | ବଲ୍‌ ଲାନାଦ୍‌, ବଲିସିମ୍‌ |
+| dehydration | Noun | ଡକ୍‌ କା |
+| delay | Noun | ଆଲ୍‌ ସେମ୍‌, ଜେୟା |
+| deliberate | Adjective | ତୁଙ୍ଗିତଣ୍ଡ |
+| deliver | Verb | ଦାର୍ମାମ୍‌ |
+| deliverer | Noun | ଭଦାନୋଣ୍ତ |
+| delivery | Noun | ପୁଟିସାନାଦ୍‌ |
+| delivery pain | Noun | ତି ପାର୍‌ |
+| demolish | Verb | କଟାନାଦ୍‌ ଲିକାନାଦ୍‌ |
+| demon/devil | Noun | ଦେୟ୍ଯାମ୍‌, ବୁତାମ୍‌, କା |
+| demons | Noun | ବୂତ୍‌ |
+| dense forest | Adjective | ଗାଗା |
+| dense population | Adjective | ନାର୍ଗେ ନାରୁର୍‌ |
+| dental | Noun | ପାଲ୍‌ |
+| dentist | Noun | ପାଲ୍‌ କିନ୍‌ SIR GIA |
+| deny | Verb | ବିରୋଧ କରିବେ |
+
+Note: The translations for "defensive" and "deforme" were different in both outputs, so I could not determine which one was correct. I have included both in the table.

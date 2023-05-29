@@ -1,0 +1,27 @@
+| English Word  | Part of Speech | Odiya Translation |
+| ------------- | ------------- | ------------- |
+| pile up | Verb | ବା |
+| piles | Noun | କା |
+| pilgrim | Noun | ବାଗାୱାନ୍‌ |
+| pill | Noun | ମାତ୍‌ |
+| pillar | Noun | ତାମ୍‌ ଗୁଞ୍ଜୋ |
+| pillow | Noun | ଗାଡ଼୍‌ |
+| pillowcase,bag | Noun | ତାଲ୍‌ ପା |
+| pimples | Noun | ମଟ୍‌ ମେ |
+| pin | Noun | ଗେ |
+| pinch | Transitive verb | କିଚ଼ାନାଦ୍‌ |
+| pineapple | Noun | ସପୁରି |
+| pious | Adjective | ଦେଉଡୁ ନାମ୍‌ କାମ୍‌ ତେ ମାନ୍ଦାନୋର୍‌ |
+| pirate | Noun | ଏର୍‌ ତା ମାନ୍ଦାନ୍‌ ଡଙ୍ଗା |
+| pit, a cavity | Noun | ଦା |
+| pitch darkness | Noun | ସିକାଡ଼ ଆତା |
+| pitcher | Noun | କୁଣ୍ଡା |
+| pity, kindness | Noun | ଜୀୱାମ୍‌ |
+| place between the hands | Noun | ସ୍ତୋଦାନାଦ୍‌ |
+| place for feast | Noun | ପାନ୍ଦୁଲ୍‌ |
+| place for palm stone | Noun | ଦିବା |
+| place for preparing toddy | Verb | ସାଟ୍‌ |
+| placenta | Noun | ପୁଙ୍ଗା |
+| plain area | Adjective | ଭୁଲ୍‌, ବାୟ୍‌ | 
+
+Note: The second output has an extra comma in "pinch" that is absent in the first output. I've assumed that the absence of the comma in the first output is correct. Therefore, I've removed the comma in the second output while merging the two outputs.

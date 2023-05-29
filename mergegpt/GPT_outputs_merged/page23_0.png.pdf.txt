@@ -1,0 +1,31 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|-----------------|------------------------|
+| a            | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly  | Adverb          | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| don't tell   | Verb            | କେଲ୍‌ ମା |
+| don't want   | Interjection    | ଦର୍କାର୍‌ |
+| don't you drink? | Verb      | ଉନିନା |
+| don't you go? | Verb           | ଆନ୍‌ a |
+| donkey       | Noun            | ଗାଡ଼୍‌ ଦେ |
+| donor        | Noun            | ମେଲ୍‌ ତା ପାଡ଼ିୟ୍‌, ମେଲ୍‌ Gl AIGA |
+| door         | Noun            | ତାଲୁପୁ, ମାର୍‌, ଗୁମ୍ମାମ୍‌ |
+| dose         | Noun            | ମାତ୍ରା, ଗୋଲି |
+| dot          | Noun            | ବଟ୍‌ ଓାଟା, ଚୂକ୍‌ |
+| dot's        | Noun            | ଏାନେ ଓନେ, ଆନେ ଓନେ |
+| doubt        | Noun            | ଞେରେ ଆଲ୍‌ ପ୍‌, ଡ଼ାୱ |
+| doubtful     | Noun            | ସେରେ ଆଲ୍‌ ପ୍‌, ଡ଼ାୱ, ସନ୍ଦେହ, ନାମ୍‌, ଜାଲ୍‌, ନାମ୍‌ କାମ୍‌ |
+| dove         | Noun            | ପଡ଼େପିଟେ |
+| dove star    | Noun            | ପଡ଼େ AR la |
+| dove,pigeon  | Noun            | ପଡ଼େ-ପିଟେ |
+| dove-hole    | Noun            | dial ପିଟେନ୍‌ ଗୃଡ଼ା |
+| down         | Adverb          | ଇଡ଼ିପେ |
+| down fall    | Noun            | MIE AGIA |
+| down,floor   | Noun            | ନେଲ୍‌ |
+| dowry        | Noun            | କାଟନାମ୍‌ |
+| drag,pull    | Verb            | MAGI, MIS CB |
+| dragging     | Verb            | ମେଲ୍‌ ଲି ମେଲ୍‌ ଲି, ଲାଗମିନ୍ଦୋର୍‌, ଜୋଦାନାଦ୍‌ |
+| dragon bird  | Noun            | ଆସ୍‌ ପିଟେ |
+| dragon fly   | Noun            | ଗୁଗେ ବିଭୋ |
+``` 
+
+Please note that some entries still hold multiple translations.

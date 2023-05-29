@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| transplant seedling | Noun | ପାଲା |
+| transplantation | Verb | ନାରା |
+| trapped | Noun | ଇର୍ଗାନାଦ୍‌ ଆର୍ତ ତା |
+| travel | Noun | ଆଦାନ୍‌ |
+| traveller | Noun | ଉଡ଼ାନାଙକ୍‌ ଞେଲ୍‌ |
+| treading | Verb | ଗାନାଦ୍‌ |
+| tree | Noun | ମାଡା |
+| trees | Noun | ମାଡ଼ାକ୍‌ |
+| tree-to bear fruit | Intransitive verb | ଆଦ୍‌, ଆଦୁ ପାଣି ଆଦିତ୍‌ |
+| tremble | Transitive verb | କଂପନ୍ତୁ |
+| trials | Noun | ତିପ୍‌ ପାଲ୍‌ |
+| triangle | Noun | ମୁଣ୍ତ ପାକା |
+| tribal doctor | Noun | ଏଁଡ଼ଡେର୍‌ |
+| tribulation, difficulty | Noun | କାଷ୍ଠାମ୍‌ |
+| trick | Verb | ତାନ୍ଦ୍ରାମ୍‌, ବୁସା, ବଲିସାନ ଦ୍‌ |
+| trickle | Verb | ଜୋଡ଼୍‌ ଗି ଆତ୍‌ |
+| trim | Verb | ବାଡ଼ସିତେଏକ୍‌ କାନାଦ୍‌ |
+| triumphantly | Adverb | ଗେଲ୍‌ ଶ୍‌ ତା, ଜୀଡ଼୍‌ ତା |
+| trouble | Noun | ସିକ୍‌ କାକ୍‌, ବାଦାକୁ |
+| troublesome | Adjective | ଶ୍‌ ଓଶ୍‌ ଆଦାନାଦ୍‌ |
+| trousers | Noun | ଲାଙ୍କ |
+| trout(a large variety of fish) | Noun | ଓାଡତ଼ୂକୀକେ |
+| true | Noun | ସାରି, ନିଜାମ୍‌ |

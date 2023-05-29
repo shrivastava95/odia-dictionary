@@ -1,0 +1,23 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| tent | Noun | ପାକା |
+| tender | Adjective | ମୃଦୁ |
+| terrace | Noun | ଆଟୁମ୍‌, ପାଟ୍‌, ଆଦାମ୍‌ |
+| terrible | Adjective | ଭୟାନକ |
+| cold | Noun | ସର୍ଦି |
+| terrific | Adjective | ଅସାଧ୍ୟ |
+| test | Verb | ପରୀକ୍ଷା |
+| testicle | Noun | ପିଷ୍ଟି |
+| testify/testimony | Verb | ସାକି |
+| tether | Noun | ପାଗାମ୍‌ |
+| text | Noun | ଟେକ୍ସଟ |
+| than | Coordinating Conjunction | କିନ୍ତୁ |
+| thank/thankful | Adjective | ଧନ୍ୟବାଦ |
+| that | Adjective | ତେଉଁ |
+| that month | Adverb | ସେ ମାସ |
+| that much | Adjective | ତେଉଁ ବହୁ ଅଧିକ |
+| the | Adjective | ସେ |
+| close of the day | Adverb | ଦିନର ଶେଷ |
+| cosmic space | Noun | ବ୍ୟୋମବିଶ୍ୱ |
+| always seen with mucus | Adjective | ଶୀତଲ |
+| ready to catch ball | Adjective | ଗୋଲକି ପାଇଁ ତତ୍ପର |

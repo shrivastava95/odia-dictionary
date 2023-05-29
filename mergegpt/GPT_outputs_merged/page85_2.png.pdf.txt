@@ -1,0 +1,23 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| winner       | Noun           | ଗେଲସତଣ୍ଡ        |
+| winnowing fork | Verb         | ଵେ                |
+| winter       | Noun           | ଶାଲ୍କାଲାମ୍‌       |
+| wipe,scrape  | Verb           | ତୁୟାନାଦ୍‌, ତାଡ଼୍‌ |
+| wipe,shake   | Verb           | ଉମ୍‌             |
+| wisdom       | Noun           | ଗ୍ୟାନାମ୍‌        |
+| wisely       | Adverb         | ଗ୍ୟାନାମ୍‌ ତେ     |
+| wish         | Noun           | ଇଷ୍ଟାମ୍‌ ତେ ଆଲ୍‌ |
+| witchcraft   | Noun           | ଜାଦୁ             |
+| with         | Postposition   | ତୋଡ଼େ, ଆକେ, ତୋଣ୍ଡି |
+| with hands   | Pro-form       | କାଇକ୍‌          |
+| with me      | Preposition    | ନାୟାଗା          |
+| with stick   | Verb           | ଡଣ୍ଡା            |
+| with them    | Connective     | ଉର୍ତଡେ           |
+| withdraw, retreat | Noun      | ପେରେ             |
+| wither       | Verb           | ପୂଙ୍ଗା ାରାନାଦ୍‌ |
+| withered flower | Noun        | କାଢ଼ିୟ୍‌ ତ୍‌     |
+| wither,drop off | Verb        | ପଡେ, ରାଲ୍‌     |
+| wither-shrink(fingers) | Noun | କାୟ୍‌ ଓାଙ୍ଗ୍‌ ତା, ଏାରା |
+| within       | Adposition     | ମାଜେନେ, ନାଡ଼୍‌, ମେ |
+| without      | Adposition     | ଇଲୁକୁଣ୍ଢାମ୍‌, ଇଲୁକ୍କଟେନ୍‌ |

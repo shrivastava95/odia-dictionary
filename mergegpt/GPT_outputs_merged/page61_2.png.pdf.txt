@@ -1,0 +1,15 @@
+| Word in English | Part of Speech | Odiya Translation |
+|---|---|---|
+| run | Verb | ଦାୟୂଟ୍‌ |
+| run after | Verb | ପେର୍‌ କେ ପେର୍‌ କେ |
+| run out | Verb | ତେରି ଆନ୍ଦାନାଦ୍‌ |
+| run over | Verb | ଅଗିଦାନାଦ୍‌ |
+| salary | Noun | ଜୀତାମ୍‌ |
+| saliva | Noun | ସେଲ୍‌ ତୁ, ବୁଗା |
+| salt | Noun | ଓୱର୍‌ |
+| salted and dried fish | Noun | ସେନ୍‌ କିକେ,ଗର୍ସା |
+| saltiness | Adjective | ସାର୍‌ କାର୍କ୍‌ |
+| rumour | Noun | ତାପୁତେ ବୁକ୍‌ କାର୍‌ |
+| run down | Verb | ରି ମିର୍‌ ରି ଆୟ୍‌ |
+
+Note: The entries "run about", "runat", "run away", "runs", "rust", "rustling of leaves", and "ଉସାନାଦ୍‌" could not be merged into the table since the translations in both outputs were different and unclear.

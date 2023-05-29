@@ -1,0 +1,19 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| injustice | Noun | ନାୟାମ୍‌ |
+| inner seed | Noun | ଜେ, ଜ୍‌ |
+| innocent | Adjective | ତାପ୍‌ ପୁ, ପାପ୍‌ |
+| insert | Verb | ଗେବାନାଦ୍‌, ଲୋପାଲ୍‌, ନିଗିସାନାଦ୍‌ |
+| insipid | Adjective | ରୁଚ୍‌ ଇଲେ |
+| insistence | Noun | ଜିଦ୍‌ |
+| insomnia | Noun | ଉଶ୍ଣ IE ARES, ମାନ୍ଦାନୋଣ୍ଡ ରୋଗାମ୍‌ |
+| inspiration | Noun | ସାର୍ଦା ତେ, ଇଷ୍ଟାମ୍‌ ତୁଙ୍ଗୀସାନାଦ୍‌ |
+| instantly | Adverb | ଆଦେ ସାମାୟାମ୍‌, ତେ |
+| instead | Adposition | ବାଦଲାଇ, ବାଦାଲା |
+| instruction | Noun | ମାଟା, କେତଭାନାଦ୍‌ |
+| instruments | Noun | ଡ଼ାଲା, ମଇରା, ବାଜା |
+| insult | Verb | ପେର୍‌, ଲାନାଦ୍‌, ଚ଼ାଡିସାନାଦ୍‌, ନେରାମ୍‌ |
+| insurance | Noun | ଡ଼ାବ୍‌ ତୋରାନୋର୍‌, କିଙ୍କ୍‌ ପେର୍‌ କେ ଏକୁୱା, ନାର୍ଗେ ଡ଼ାବ୍‌ ଦର୍କିତ୍‌ |
+| intelligence | Noun | ମେଲ୍‌ ତା ବୁଦି |
+| intelligent | Adjective | ଡିଟ୍‌ ମେଦର୍‌ |
+| intelligently | Adverb | ଗ୍ୟାନାମ୍‌ ତେ |

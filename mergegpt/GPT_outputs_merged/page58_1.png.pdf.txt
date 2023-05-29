@@ -1,0 +1,25 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| quit | Verb | ସି ଆନ୍ଦାନାଦ୍‌ |
+| quite | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| Rani sings | Verb | ପାଟା ପାରିତ୍‌ |
+| ransom | Noun | ଜେଲ୍‌ ଦା ମାନ୍ଦାନୋଣ୍ତ |
+| SAI | Unknown | ଆଦାନାକିଙ୍କ୍‌ |
+| ଭଦାନାଦ୍‌ | Unknown | Unknown |
+| rapidly | Adverb | ସିଟ୍‌ ପାଟ୍‌, ଗାବା |
+| rarely, seldom, occasionally | Adverb | ବେସ୍‌ କେ, ବେସ୍‌ କେ |
+| rascal | Noun | ଗାଡ଼୍‌ ସାନାମ୍‌, ନେରାମ୍‌ |
+| ମାଡ଼ାନୋଣ୍ଡ | Unknown | Unknown |
+| rashness | Noun | ପୀନା, ନାର୍ଗେ |
+| rat | Noun | ଡୁକୁର୍‌, ଉପ୍‌ ପେ |
+| rather ... than | Correlative connective | ଇଦିଙ୍କାନ୍ନା, ମାରି |
+| raw fruit | Noun | ପଦାଲା ପାଣି |
+| raw meat | Adjective | ପାଚି ଆଙ୍ଗି |
+| raw rice cooked without draining the alter | Noun | ପୁଙ୍ଗଲାମ୍‌ |
+| raw, green | Adjective | Unknown |
+| ray, beam | Noun | ଞେନେଲ୍‌ |
+| razor | Noun | ଗେଟ୍‌ ଟା |
+| reach | Verb | ଏଏତାନାଦ୍‌ |
+| read | Verb | ତେ ସାଦ୍‌ |
+| read into | Verb | ଆଲ୍‌ ସି ଉଡ଼ାନାଦ୍‌ |
+| read off | Verb | କାର୍‌ ସ୍‌ ପି ତେର୍‌ |

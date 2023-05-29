@@ -1,0 +1,27 @@
+| English Word      | Part of Speech       | Odia Translation      |
+|------------------|---------------------|----------------------|
+| a                | Adjective&Article   | ଅରୋଟ୍‌              |
+| accordingly      | Adverb              | ଆଦିଙ୍କ୍‌ ଲେକେ         |
+| merchant         | Noun                | କାରାମ୍‌             |
+| merchant-store   | Noun                | ମାଡ଼ାନୋର୍‌           |
+| shop             | Noun                | ଦୁକାନ୍‌             |
+| mercilessly      | Adverb              | -                    |
+| mercy            | Noun                | ତା ସାୟାମ୍‌, ଦୟା     |
+| merciful         | Adjective           | ମେଲ୍‌               |
+| merry making     | Noun                | ସାର୍ଦା, କୁସେଲ୍‌       |
+| messenger        | Noun                | ଜୋଡ଼ା କାବୂର୍‌        |
+| Messiah          | Noun                | ଞୋଦୋନୋର୍‌            |
+| metals           | Noun                | ପିଭାଲ୍‌, ଇଲୁମ୍‌, ବାଙ୍ଗାମ୍‌ |
+| method           | Noun                | ଲେକେ, ପରାକାରାମ୍‌    |
+| mice             | Noun                | ପର୍‌ କି              |
+| middle child     | Adjective           | ନାଡୁପ୍‌            |
+| middle finger    | Noun                | ପାଲ୍‌               |
+| middle room      | Adjective           | ନାଢୁଓଟ୍ଟା           |
+| midnight         | Noun                | ନାଢ୍‌ ଜାଲ୍‌ ନାର୍କା |
+| mien             | Noun                | ରୂପାମ୍‌            |
+| might have happened | Verb            | ଆଦାକୋର୍‌,ଆଲେ       |
+| migraine         | Noun                | ଅର୍‌ ଗବା ଲାଗାନାଦ୍‌   |
+| mike             | Noun                | ମାୟ୍‌ କା             |
+
+
+In this merged table, some errors have been removed, such as "6868" and "midnight ` .4⁄/€//‰" from the first output, and "AQ" and "SIG Q" from the second output, because they were not common in both outputs.

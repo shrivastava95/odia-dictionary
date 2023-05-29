@@ -1,0 +1,28 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| a            | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| find         | Transitive Verb | ଦର୍କାନାଦ୍‌, ମେକାନାଦ୍‌, ମେଙ୍ଗାନାଦ୍‌ |
+| fine         | Noun | ସାୟ୍‌ ମିନ୍ଦେ |
+| fine flour   | Noun | ମାୟ୍‌ ଦା ପିଣ୍ୃ |
+| fine linen cloths | Noun | ରାଜାଲୋର୍‌ ଭର୍ଶାନାଦ୍‌ |
+| fine money for defeated cock | Noun | ଡାପ୍‌ କ୍‌, କାସାନାଦ୍‌, କାସିକା |
+| finger       | Noun | ଓଡ଼ଞା୍‌ |
+| finger nail  | Noun | ଗୋରୁ, ଇଡୁଞ୍ଜ କ୍‌ |
+| finished     | Verb | ତେଉାଁ, ଆକାରାତା |
+| fire         | Noun | @Q |
+| fire fly, glow worm | Noun | ମିଡ଼କସ୍‌ |
+| fire wood    | Noun | କିସ୍‌ ମାସାନ୍‌ ଞେର୍‌, କି, କିସ୍‌ କୁଟ୍‌ |
+| firm         | Adjective | ୮୮୮୮, ଟେଙ୍ଗ୍‌, 6S |
+| first        | Noun | ମୁନ୍ନେ, ମଦଲ୍୍‌, ୧୨୮୧/୮ |
+| firstly      | Adverb | OR AR,AY, AOR, AER |
+| fish         | Noun | କୀକେ, କୀକି, ଦାନୋଣ୍ଟ, କୀରା |
+| fish basket  | Noun | MR କେ ବୁଟୁଲ୍‌ |
+| fish catcher | Noun | @16@ AA |
+| fish curry   | Noun | କୀକେ କୁଚିର୍‌ |
+| fishing rod  | Noun | ଗାଲାମ୍‌ |
+| fist of hand | Noun | JQ ପୟ୍‌ ଭା |
+| fit          | Adjective | AD, IQ, 6GQ, S" ଟାମ୍‌ |
+| fits, convulsions | Noun | କୁନ୍ଦେଲ୍‌, ଞ୍ଚେର୍‌, ଟିପ୍‌ ଟାମ୍‌ |
+| five         | Noun | ଆୟ୍‌ ଦୁ, ଓନ୍ଦା |
+| five hundred | Noun | ଏଇଙ୍ଗ-ଆୟ୍‌ ଦୁ |

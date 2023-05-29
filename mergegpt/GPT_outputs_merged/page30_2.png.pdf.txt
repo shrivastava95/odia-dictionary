@@ -1,0 +1,24 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| funeral ceremony | Noun | ଡଲ୍‌ ତା |
+| furnace | Noun | କିଶ୍‌ କୁଣ୍ଡା |
+| furniture | Noun | ଲୋତା ଇସେ ସାମାନ୍‌ |
+| further | Adverb | ମେଣ୍ତେ |
+| futile | Noun | ମେରେ ଆପୁନାମେ |
+| future | Adjective | କାଲାମ୍‌ ନାରୁଶ୍ତ |
+| gentle | Noun | ମେଲ୍‌ ତା, ସାୟା GEIR |
+| gentle breeze | Noun | ଆଲ୍‌ ଲାଙ୍ଗ୍‌ ଗାଲ୍‌ |
+| gentle lady | Noun | ନେମ୍‌ ଲାଦ୍‌ ନାଟାଡ଼୍‌ |
+| gentleman | Noun | ନେମ୍‌ ମାନୁଷୁଣ୍ଢ |
+| genuine | Adjective | ମେଲ୍‌ ତା, ସାୟ୍‌ |
+| germinate | Noun | ପୁପେ, ଲେନ୍ତା |
+| get | Verb | ଦରକିତାନ୍ଡାନ, ଏ୬ାନାଦ୍‌ |
+| get energy | Verb | ମିନ୍ଦାନ, ଭସାର୍‌ @q |
+| get ahead | Verb | ମୁନେ, ଆନ୍ଦାନାଦ୍‌ ଆନ୍ଦାନାଦ୍‌ |
+| get at, reach | Verb | ଏୱ୍‌ ତାନାଦ୍‌ |
+| get away | Verb | ମାଲ୍‌ ସି ଆନ୍ଦାନାଦ୍‌ |
+| get caught | Verb | ଇର୍କି ମାଭା |
+| get down | Verb | ଡିଗାନାଦ୍‌ |
+| get in | Verb | ଲୋପାଲ୍‌ ଗେବମିନ୍ଦର୍‌(ଗଡ଼୍‌) | 
+
+Note: Some values couldn't be merged as they were too different from each other.

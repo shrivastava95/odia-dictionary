@@ -1,0 +1,25 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|-----------------|------------------|
+| astutely | Adverb | ଚାଲାକି ତେ |
+| at | Preposition | ତାଗା |
+| at 1am | Noun | ନାର୍କା |
+| at 1 pm | Noun | ପାୟାଲ୍‌ AS ଗାଣ୍ଟାଙ୍‌ |
+| at 10 am | Noun | ପାଦି ଗାଣ୍ଡାଙ୍କ୍‌ |
+| at intervals | Adverb | ମାଜେମ୍‌ |
+| at once | Adverb | ଆସ୍‌ କେ ଆସ୍‌ |
+| at such an early age | Adverb | ଇଚୋଟ୍‌ ସୁଡ଼ୂଲା |
+| at the point of | Noun | ଆଦାନ୍‌ |
+| atheism | Noun | କାମ୍‌ AR ଞ୍ଜୋର୍‌ |
+| atmosphere | Noun | ସାର୍ରେ ପାକ୍‌ କା |
+| atone | Noun | ସେଙ୍ଗେ ଦୁକ୍‍ କାମ୍‌ |
+| attachment | Noun | ପ୍ରେମା |
+| attack | Verb | ବାର୍ଦାନାଦ୍‌ |
+| attentively | Adverb | AQ GIA |
+| attract | Verb | ମାନ୍‌ କୀଭାନ୍‌ |
+| attraction | Noun | କୋରାନାଦ୍‌ |
+| attractive | Adjective | ଇଷଟାମ୍‌ ତେ |
+| audacity | Noun | ଗାଟ୍‌ ଟି ଦାୟାଙ୍ଗ୍‌ |
+| audible breath | Adjective | ପସ୍‌ ପସ୍‌ |
+| audience | Noun | ଉଡ଼ାନୋର୍‌ ଡୁଟ୍‌ |
+| aunt | Noun | ପୋୟେ |
+| auspicious | Adjective | ମେଲ୍‌ ତା |

@@ -1,0 +1,33 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| share | Verb | ସାର୍ଦିଞ୍ତୋଦାନାଦ୍‌ |
+| sharp | Adjective | ମାନ୍ଦାନାଦ୍‌, ପାଦୁମ୍‌ |
+| sharp | Adjective | AG, AQ |
+| sharp sword | Noun | ସୂର୍‌ କାଚେର୍‌ |
+| sharpening | Adjective | JQ@l ଓାଟି |
+| sharpening stone | Noun | ଗୁଣ୍ଡ ରାମ୍‌ |
+| shave | Transitive verb | କୋର୍‌ |
+| shawl | Noun | ସୁନ୍‌ ନି |
+| she goat | Noun | ଡାଡାମେକ୍ନା |
+| she is going | Verb | ଆନ୍‌ ଜ @ Ase |
+| she near | Pronoun | ଇଦ୍‌ ଦୁ |
+| she plays | Verb | ଆଦ୍‌ କାର୍ସିତ୍‌ |
+| she said | Verb | 6@@l |
+| she sees | Verb | ଆଦ୍‌ ASS |
+| she was | Verb | ଆଦ୍‌ lal |
+| she was saved | Verb | ଗେଲ୍‌ ସା |
+| she went | Verb | ଆଭା |
+| she will come | Verb | ଓଆାତା |
+| she will not come | Verb | ଏଆଁରୋ |
+| she,it | Pronoun | ଆଦ୍‌ |
+| she( far) | Pronoun | ଆଦ୍‌ ଦୁ,ଉଦ୍‌ |
+| shed | Noun | ୮୮୮. ପୋଙିଂସ୍ତଣ୍ତ |
+| shed drop | Verb | ଚଟ୍‌ ଚଟ୍‌ -ଲାର ମିନ୍ଦେ -କାରମିନ୍ଦେ |
+| sheep | Noun | ମେଣ୍ଟା |
+| sheep bleats | Noun | ମେକ୍‌ କା କେଇତ୍‌ |
+| sheep pen | Noun | ମେକାନ୍‌ ପାକା |
+| shellfish | Noun | AIG A କୀକେ |
+| shepherd | Noun | ଗଲାଲ୍‌ |
+| shield | Noun | Algae | 
+
+Please note that I have removed some erroneous values such as numeric codes and symbols. Also, there were two different spellings for "shellfish" in the two raw outputs, so I have chosen one of them. Please let me know if you have any questions or revisions.

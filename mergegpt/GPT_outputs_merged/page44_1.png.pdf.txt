@@ -1,0 +1,21 @@
+| English Word | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| lively | Adjective | ଜୀଞାମ୍‌, ବାତ୍‌ କ୍‌ |
+| liver | Noun | ଦର୍ବା |
+| living | Verb | ଜୀବାମ୍‌ |
+| lizard | Noun | ଗିଲେକ ଡ଼କା |
+| load | Noun | ମୋସିମ୍‌ |
+| loan is wet | Adjective | ଲୋନ୍‌ ନାନ୍ଦି |
+| loan, credit | Noun | ଉଦାର୍‌, ଆପ୍‌, ବାକି |
+| lock the door | Noun | ଗୁମାତାକାପାନକା, ତା ଗର କାୟ୍‌ ଦେ ତାଲେମ୍‌, ଓଟ୍ଟା |
+| locker | Noun | ତାଲାକାୟି, କାପ୍‌ ପା |
+| locusts, grasshopper | Noun | ଇଟ୍‌ କେ |
+| lofty mountain | Adjective | ଏତୁଗ୍‌, ମେଟା |
+| log of wood | Noun | ମଦ୍‌ |
+| loin cloth, body cover with piece of cloth | Noun | ଉତ୍‌ ଗୋଶ୍‌, ମାତୋଣ୍ଡ, ଉଦ୍ଦାଡ଼୍‌ |
+| lonely | Adjective | ଉଗେ, ଅଗେସ |
+| long narrow wooden comb for clearing the hair of nits and lice | Noun | ପାଡ଼ିୟାମ୍‌ |
+| long teeth | Noun | କୀସ୍‌ ପାଲ୍‌ |
+| long vacation | Adjective | ନାର୍ଗେ ରୋଜ୍‌ ଛୁଟି |
+| longing | Noun | କୋରାନାଦ୍‌, ନାର୍ଗେ ଇଷ୍ଟାମ୍‌ ଆଦାନାଦ୍‌, ନେଚାନାଦ୍‌ |
+| look about | Verb | ନାଲୁ ପାକ୍‌ କା, ଉଡ଼ାନାଦ୍‌ |

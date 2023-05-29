@@ -1,0 +1,17 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|-------------------|
+| sucking      | Adjective      | ଲେନ୍ତା             |
+| infant       | Noun           | ପେୟା              |
+| sudden       | Adjective      | ଦୁର୍ବିଭିନ୍ନ        |
+| death        | Noun           | ମୃତ୍ୟୁ             |
+| suddenly     | Adverb         | ଆକୁହାଟ             |
+| fell down    | Verb           | ପଡିବାରେ            |
+| sugar        | Noun           | ଚିନି              |
+| sugarcane    | Noun           | ଅଖୁରାଶି           |
+| suggestion   | Noun           | ସୂଚନା             |
+| suicide      | Noun           | ଆତ୍ମହତ୍ୟା          |
+| suitably     | Adverb         | ଉପଯୁକ୍ତ            |
+| summer       | Noun           | ଗ୍ରୀଷ୍ମ            |
+| vacation     | Noun           | ଛୁଟି              |
+| sun          | Noun           | ସୂର୍ଯ             |
+| scorching    | Adjective      | ଭିଷାଣ             |

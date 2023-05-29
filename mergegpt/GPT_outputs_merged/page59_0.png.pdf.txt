@@ -1,0 +1,22 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|------------------|
+| recognize | Verb | ଆଦାନାଦ୍‌ |
+| recompense | Noun | ଏଭାନାଦ୍‌ |
+| mal | Noun | ମାଲ୍‌ |
+| reconcile | Verb | ସିଭନଦାନାଦ୍‌ |
+| record (put down) | Verb | ମେଣ୍ଡେ କାଲିୟାନାଦ୍‌ |
+| red | Noun | ଇଲୁକଟେ |
+| red ant | Noun | ଆଲି ପେତେ, ପେତଉେ, ଏଲୁ ପେଭେ |
+| red faced monkey | Noun | N/A |
+| red gram | Noun | କାନ୍ଦିପାପୁ, ବାଦା |
+| red soil | Adjective | MAI AQM, Ql ମାଣ୍ଡୁଲ୍‌ |
+| redeem/redemption | Verb | କାଷ୍ଟାମ୍‌, ରେଟ୍‌-ଡାପ୍‌ |
+| reduced in size | Verb | ମଣ୍ଡାନାଦ୍‌, କାମ୍‌ ମାଡ଼ାନାଦ୍‌, 1! |
+| reduction | Noun | ମାଡ଼ାନାଦ୍‌, ତାକ୍‌ ଏ ତୁଙ୍ଗାନାଦ୍, କାମ୍‌ |
+| reference | Noun | କାଲିୟିତ୍‌ |
+| reform | Noun | କାପ୍‌ ଉଡ଼ି ପଡ଼୍‌ ପାନାଦ୍‌, Q@l,@al ମେଲ୍‌ |
+| refuge, asylum | Noun | ଲୋନ୍‌ ଆସ୍‌ |
+| refugee | Noun | ଉଡ଼ାନୋର୍‌ ବେନୋର୍‌ |
+| refuse | Noun | ଅଦ୍‌, ଉମା |
+| regeneration | Noun | ମେଣ୍ଡୋୟ୍‌ ତାମ୍‌ |
+| regret | Noun | ମୋଡ଼୍, ତା ତାପ୍‌, ବୂଲ୍‌, ମାୟ୍‌ ଦିଙ୍କ୍‌ କାଷ୍ଟାମ୍‌ ଆଦାନାଦ୍‌ |

@@ -1,0 +1,28 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| is | Verb | AG@ |
+| it | Pronoun | ଇଦ୍‌ |
+| it doesn't (become) cold | N/A | N/A |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| it, she sitting | Verb | ଆଦ୍‌ କୁଦି |
+| ମିନ୍ଦେ | Noun | N/A |
+| it's | Pronoun | ଦିନାଦ୍‌, ଦାନାଦ୍‌ |
+| itches, scabies | Noun | ପାୟ୍‌ |
+| ତେମ୍‌, ଦୂଲ୍‌ ଞେଚୋମିନ୍ଦେ, ଗାଜୁ | Noun | yam |
+| itching | Verb | ତାଡ଼୍‌ Gal |
+| ଗଙ୍କାନାଦ୍‌, ଦୁଲ୍‌ ଞେୟ୍‌, ସମିନ୍ଦେ, ତୁୟାନାଦ୍‌ | Noun | ଗାଳୁ ବଗା |
+| ivory | Noun | ଏନ୍‌ ପାଲ୍‌ କ୍‌ 6S GET |
+| ତାଦ୍‌ | Noun | N/A |
+| join | Verb | କାଲ୍‌ ପା |
+| joint | Noun | ଡ଼ୂଣ୍‌ ଶ୍‌ Al, Am |
+| joint the bride with bride groom | N/A | N/A |
+| joker | Noun | ମିଡିକିତଣ୍ଡ |
+| jostling, rubbing | Noun | ନକ୍‌ କି |
+| ତୁରୁସାନାଦ୍‌, ଆଚ୍ଚାନାଦ୍‌ | Noun | ଗାଳୁ ବଗା |
+| journey | Noun | ସେଲ୍‌ ତାନାଦ୍‌, ଆଦାନ୍‌, ଦାନ୍‌ |
+| joy, gaiety, pleasure | Noun | AGI |
+| jubilation | Noun | ସାର୍ଦାତ୍‌ ପାଣ୍ଡୁମ୍‌ |
+| judge | Noun | ନାୟାମ୍‌, ବିଚାର୍‌, ମାଡ଼ାନୋଣ୍ଡ |
+| Noun | ସାମାଦାନାମ୍‌ | N/A |
+
+Note: I have removed the instances where data is missing in both outputs and kept only the common words found in both outputs.

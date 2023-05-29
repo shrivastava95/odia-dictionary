@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+|---|---|---|
+| labour | Noun | କୂଲି, ଜୀତାମ୍‌ ପାଢ଼ିୟ୍‌, ମାଡାନୋଣ୍ଟ, AISA, ମାଡ଼ାନୋଣ୍ଡ, କୋଭି, ଜୀତା, ନାରୁଣ୍ଢ, AIGA |
+| labourer | Noun | କୂଲି, ମାଡ଼ାନୋଣ୍ଡ, କୋଭି, ଜୀତା, ନାରୁଣ୍ଢ, AIGA |
+| lack | Noun | ଲୋ, 2 |
+| lack respect,shame | Noun | ସିଗାଲ୍‌, ମାଲାମ୍‌, ସିକ୍‌ ଇଭୋର୍‌ |
+| ladder | Noun | ତା ମ୍ା, ତାପା, ଗାଣି, ଟେଡ଼୍‌ |
+| ladle | Noun | ଗାଣି, ଟେଡ଼୍‌ |
+| lady | Noun | ନାଟା |
+| lady's finger | Noun | ସୁକାର୍‌ ବେଣ୍ଡି, କାୟା |
+| lake | Noun | LQG, ଏର୍‌ g |
+| lamb, young sheep | Noun | ମେଣ୍ଡା ପଲା, GAGA RIAA ପିଲ୍ଲା |
+| lame person or man, handicapped | Noun | କୁଟାଲ୍‌ |
+| lame woman | Noun | କୁଟୋଲ୍‌ |
+| lament | Verb | କେୟାନାଦ୍‌ |
+| lamp | Noun | ଡିବିରି, ଦିପେମ୍‌ |
+| lamp stand | Noun | ପିତା, ଦିପେମ୍‌, ଓାଟାନ୍‌ ବାଲ୍‌ ଲା |
+| land documents | Noun | ବୂମ୍‌ Ale!, ବୂମ୍‌ ନାର୍ଗେ ମାନ୍ଦାନ୍‌ |
+| land festival | Noun | ଭୀମୁଡ଼ି ପାଣ୍ଡୁମ୍‌ |
+| land lord | Noun | ବୂମ୍‌ ନାର୍ଗେ MAIR, AIGHIO |
+| land slide | Noun | ମେଟା ଜାର୍‌ ଜାର୍‌, AIR ତା |
+| language | Noun | ଗୋଟୁ, ମାଟା |
+| lantern | Noun | AIF ତାର୍‌ |
+| lap | Noun | ବୋରା |
+| large house | Noun | ବା

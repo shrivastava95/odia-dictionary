@@ -1,0 +1,25 @@
+| English Word   | Part of Speech  | Odiya Translation |
+|----------------|----------------|------------------|
+| palm root      | Noun           | ଏଡ଼ଙ୍ଗା ମାଟି        |
+| palm tree      | Noun           | ତାଡ଼ା ମାଡ଼ା        |
+| palm-branch    | Noun           | ତାଡ଼ ବାଲ୍‌ ଗା      |
+| palmyra leaf   | Noun           | ପଦାଲା, ରୋଟା        |
+| pan            | Noun           | ଏତ୍‌              |
+| pandal         | Noun           | କୁପି-ପାନ୍ଦିଲ୍‌      |
+| panic          | Verb           | ପେଦିରିସାନାଦ୍‌, ଞେର୍‌, ପିସାନାଦ୍‌ |
+| pant           | Noun           | ଛେଡ୍‌ ଡି           |
+| panties        | Noun           | ଡାୟାର୍‌           |
+| pantry         | Noun           | ସାମାନ୍‌, ଗାତ୍‌        |
+| papaya         | Noun           | ବପଡ଼             |
+| papaya tree    | Noun           | ମାଡ଼ା, ବପଡ଼ ମାଡ଼ା |
+| paper          | Noun           | କାଗୋଜ୍‌, ସିଟାକ୍‌      |
+| parable        | Noun           | ମେଲ୍‌ ତା ମାଟ୍‌ ଟା ତ୍‌ |
+| paradise       | Noun           | ଶବାଗାଁମ୍‌, ସୁକ୍‌ କାମ୍‌, ଦର୍କାନ୍‌ ପଡ଼ିୟ୍‌ |
+| paralysis      | Noun           | ରୋଗାମ୍‌, ଓାୟ୍‌        |
+| paralytic      | Noun           | କାୟ-କାଲ୍‌ କ୍‌, ରୋଗାମ୍‌ |
+| paralyzed      | Verb           | କାୟ୍‌ କ୍‌ କାଲ୍‌ କ୍‌, ଓାରୋ |
+| paralyzed man  | Noun           | କାୟ୍‌ କାଲ୍‌, ମେଦୁଲୋ ଦୃକ୍କାତୋନ୍‌ |
+| parbal vegetables | Noun        | ପଟ୍ଲା            |
+| pardon         | Noun           | ତାପ୍‌ ଓତୁସିଦାନାଦ୍‌     |
+| pare           | Verb           | ସ୍‌ କାନାଦ୍‌, ଗୀଶ୍‌, କାନାଦ୍‌ |
+| parents        | Noun           | ତାଲ୍‌ ଲୁଡ୍‌, ତାପ୍‌  |

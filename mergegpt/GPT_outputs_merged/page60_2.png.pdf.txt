@@ -1,0 +1,23 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| Mundāy | N/A | କୀୟାନାଦ୍‌, ଗଢ଼ୁଞା |
+| ripeness | Adjective | ପାଣ୍ଡ |
+| rise | Verb | ତେଦା |
+| rise and fall | Noun | ପୋ ଡାପ୍‌ |
+| risk | Noun | ତାନାଲାଡ଼ା |
+| rite, ritual | Noun | ଦାର୍ମାମ୍‌ ତ୍‌ ନିୟାମ୍‌, ମାଟା |
+| river | Noun | ସାୱ୍‌ର୍‌, ପଟେଡ଼୍‌, ଗଦାର, ଭଲେର୍‌ |
+| river in Sukma | Noun | Algal |
+| rivulet | Noun | Gig |
+| road | Noun | ରୋଟ୍‌ |
+| roaming | Transitive verb | ସେଲ୍‌, CaM |
+| roast, to burn | Intransitive verb | ପୋଡ଼ସା |
+| robber | Noun | ଡଙ୍ଗାନୋର୍‌ |
+| rock, chips | Noun | ARR YBa |
+| roll | Noun | ୮୮୮, ନୁଙ୍କା, ତୁରୁସାନା |
+| roll as a ball | Verb | କୁଣ୍ତ୍ରୀସା |
+| roll over | Verb | ପୋଲୌ ମିନ୍ଦୋଣ୍ଡ, ଶ୍‌ ପୟ୍‌ ଶ୍‌ ଭକ୍‌ କାନାଦ୍‌ |
+| roll over in sleeping | Adjective | ଆସମିନ୍ଦର୍‌, ପାସୁର୍‌ |
+| rolling pin | Noun | ବାଲୁତା ରୁଟି, ରାକା |
+| rolling wheel | Verb | ବାଣି ସାକା |
+| rolling, pushing | Verb | g@, ନୁଙ୍କା |

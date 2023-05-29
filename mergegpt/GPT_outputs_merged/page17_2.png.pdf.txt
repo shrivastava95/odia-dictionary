@@ -1,0 +1,18 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| Confusing    | Verb           | ଆଦାନାଦ୍‌          |
+| Confusion    | Noun           | ଅବିବକ୍ତି         |
+| Congratulation | Noun         | ଅଭିନନ୍ଦନ         |
+| Conjunctivitis | Noun         | ଆଖୀ ଆଘାତ          |
+| Connection   | Noun           | ସଂଯୋଗ            |
+| Conscience   | Noun           | ସମ୍ବିଧାନସ୍ଥିତି    |
+| Conscious    | Adjective      | ସମ୍ବୁଦ୍ଧ          |
+| Consider     | Verb           | ବିଚାରକୁ ନିର୍ବଚନା |
+| Constipation | Noun           | କୋଷ୍ଠ ବନ୍ଦି         |
+| Construction | Noun           | ନିର୍ମାଣ           |
+| Constructive | Adjective      | ନିର୍ମାଣାତ୍ମକ       |
+| Consumption  | Noun           | ଖାଦ୍ୟ ଗ୍ରହଣ         |
+| Contemplation | Noun          | ଚିନ୍ତା            |
+| Content      | Noun           | ବିଷୟାରେ ଜାଣନ୍ତୁ   |
+| Contentment  | Noun           | ସନ୍ତୋଷାମୃତ        |
+| Continually  | Adverb         | ଦିନରେ ଦିନ        |

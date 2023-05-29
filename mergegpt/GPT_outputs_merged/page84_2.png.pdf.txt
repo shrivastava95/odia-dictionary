@@ -1,0 +1,24 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| whenever | Adverb | ବେସ୍‌ କାନା, ବେଶ୍‌ |
+| where | Interjection | ବେଗା |
+| where had gone? | Interjection | ବେ ଆଭା |
+| where it will be | Verb | ବେଗା ମାନ୍‌ ତା |
+| where so,where soever | Adverb | ବେନ୍‌ ASA ତା ବା |
+| whereas | Adverb | ଆଲେଆକେ |
+| which | Adjective | ବେନ୍‌ |
+| while | Subordinating connective | ବେଶ୍‌ |
+| while going | Adjective | ଆଞ୍ୋରେ |
+| whirlpool | Noun | ସୁରିଉତମିନ୍ଦେ |
+| whirlwind | Noun | ସୂର୍ଗାଲ୍‌ |
+| whisperer | Noun | କେୱକିନା, କେତାନାଦ୍‌ |
+| whispering | Verb | JQ ଗୁସ୍‌, ପୁଟ୍‌ ରୁ, ବୃଦ୍ଧାନାଦ୍‌ |
+| whistle | Noun | Q6AIE QAR ଇଞ୍ଜୋ, ଉଦାନାଦ୍‌ |
+| white ant | Noun | ପେତେ, ଚେଦି, ପେତେ |
+| white colour | Noun | ତେଲାରାଗ୍ଗ, ପାଣି, CORA, AT RIE |
+| white gourd | Noun | ବୁର୍‌ କା କାୟ୍‌, ବୁରୁକା ତଣ୍ଡା |
+| white patches | Noun | ସବେମ୍‌ |
+| whitlow | Noun | ଗୋର୍‌ କାଢ଼ିୟାନାଦ୍‌ |
+| who | Interjection | ବେନ୍‌? |
+| who are they? | Interjection | ବେ ନୂର୍‌ |
+| whoever | Pronoun | ବେନୋଣ୍ଡ ବା |

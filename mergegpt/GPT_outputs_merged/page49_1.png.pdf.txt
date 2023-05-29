@@ -1,0 +1,24 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| nearly | Adjective | AIGA ଗାରେ |
+| neat | Noun | ସାୟା ମାନ୍ଦାନାଦ୍ |
+| necessary | Adjective | ସାରାମ୍, କାଞାଲ୍ |
+| neck | Noun | ଡେଡେର୍ କୁତ୍ କି |
+| necklace | Noun | ନେଙ୍କ |
+| need | Adjective | AIGIA |
+| needle | Noun | ସୁଦ୍ |
+| neem tree | Noun | ମାରା |
+| neighbour | Noun | ଲୋତା ଗାରେତଣ୍ତ |
+| neither..nor | Correlative connective | ଇଦ୍ ବା ଆୟ୍ୟୋ ଆଦ୍ ବା ଆୟ୍ୟୋ |
+| nephew | Noun | ଏଣ୍ତଡା ମାର୍ |
+| nepotism | Noun | କୋରାନାଦ୍‌, ନେଚାନାଦ୍ |
+| nerve | Noun | ନାର୍ସ କ୍ |
+| nervous | Adjective | ଓାଣ୍ କ୍ ତୋଣ୍ଡ |
+| nervous debility | Noun | ନାର୍‌ ସ୍ କ୍ ତେଡ଼ାନ୍ ରୋଗାମ୍‌ |
+| nervous, agitated | Adjective | ପାଣାମ୍ ଗାଦ୍ ଗାଦ୍ ଆତା |
+| nest | Noun | ତୁପା |
+| net | Noun | ଆଲୁ |
+| never | Adverb | ବେଶ୍ କେ ବା, ବେପ୍ ପୋଡ଼୍ ଆୟ୍ୟୋ |
+| nevertheless, still | Coordinating connective | ମାତ୍ କେ ବା |
+| new | Adjective | କତା, ପୂନା |
+| newborn | Adjective | ପୁନା |

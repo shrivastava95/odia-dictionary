@@ -1,0 +1,27 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| good | Adjective | ନାଲ୍ଲୋଡ଼ାଦ୍‌-ଆର୍‌, ମେଲ୍‌ ତା ଆର୍‌, AIR ଚି, ମେଲ୍‌ ତା, ନାଲ୍ଲା, ସାୟା |
+| fruit | Noun | ଫଳ |
+| yielded | Verb | ଉତ୍ପାଦିତ ହୋଇଥିବା |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| path | Noun | ପଥ |
+| goose | Noun | ହଂସ |
+| gospel | Noun | ଇଂଜିଲ |
+| gossip | Verb | ଗପ୍ପ କର-ଅନ୍ତର୍ବେଦନା କର-ଚାଟା କର |
+| wet | Verb | ଭିଜିବା |
+| gourd | Noun | ଲାଉ |
+| government | Noun | ସରକାର |
+| officer | Noun | କର୍ମଚାରୀ |
+| worker | Noun | ଶ୍ରମିକ |
+| governor | Noun | ରାଜ୍ୟପାଳ |
+| grabbed | Verb | ହେଲା ପକଡ଼ିବା |
+| choke | Verb | ବାଧା ଦେବା |
+| him | Pronoun | ତାଙ୍କ |
+| gracious | Adjective | ସଜାଳି |
+| grace | Noun | ଦଯା |
+| gradual | Adjective | କ୍ରମଶଃ କମି ହୋଇଯାଏ |
+| sinking | Verb | ଡୁବି ଗେଲି |
+| grains | Noun | ଅନାଜ |
+| grand children | Noun | ନାତିଆ |
+| grand daughter | Noun | ପୌତ୍ରି |
+| son's daughter | Noun | ସୁତେଇ ପୌତ୍ରି |

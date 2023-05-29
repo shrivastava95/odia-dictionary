@@ -1,0 +1,26 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|--------------------|
+| according to | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| lecture | Noun | ଗାଟି ମାଟା କେଭାନାଦ୍‌ |
+| leech | Noun | ଜେଡିୟା |
+| left | Verb | ରଡା ପାକା, ଞିଡ଼୍‌ ସ୍‌ ତୋଣ୍ଟ |
+| left hand | Noun | ରଡାକାୟ୍‌ |
+| left leg | Noun | ରଡାକାଲ୍‌ |
+| leg | Noun | କାଲ୍‌ |
+| leg of a cot | Noun | କୋସୁଲ୍‌, କାଳୁଲ୍‌, କସୁଲ୍‌ |
+| legend | Noun | ମୁନ୍ନେଟୋର୍‌ ମାଟା, ଗଟି |
+| leopard | Noun | କୁକାଲ୍‌ ଗୋଣ୍ଣ୍ରାସ୍‌ |
+| leopard roars | Noun | କୁକାଲ୍‌ ଢୁର୍କ୍‌, ଡୁର୍କ କେୟିତା |
+| lemon tree | Noun | ରିମା ମାରା |
+| lemon juice, lime | Noun | ରିମାକାୟା, ପିରାନାଦ୍‌, ରିମ୍‌ ମା ଏର୍‌ |
+| lend | Noun | ବାକି ଭଦାନାଦ୍‌ |
+| less | Adjective | ତାକୱଁ, କାମ୍‌ |
+| lesson | Noun | ପାଠ୍‌ |
+| lest | Connective | ଅକାଞେଲେ, ଅକାଓେଲେ |
+| lengthwise | Adjective | GAG |
+| gummy | Adjective | ଗୁମାମ୍‌ |
+| morat | Verb | ମୋରଟ, Ale |
+| go | Noun | @Q Go, ମିନ୍ଦେ |
+| lengthened | Preposition | କାଡତୁଞେଲ୍‌ ତାଙ୍କ |
+| leprosy | Noun | କୁସ୍‌ ଟି, ମାଢା ରୋକାମ୍‌ |
+| leisurely | Adjective | ଆୟେ, ARI, @S ମିନ୍ଦାନ୍‌ |

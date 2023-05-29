@@ -1,0 +1,26 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| lapā | Adjective | ଲାପା |
+| sit | Noun | ସିଟ୍‌ |
+| quickness | Adjective | ପାଡା |
+| quiet | Noun | କାଟ୍‌ଟୋ, ସାମ୍‌ କ୍‌ |
+| rabbi | Noun | ଜିହୁଦା ନାରିନ୍‌ ଦାର୍ମାମ୍ |
+| त्कुर। | Noun | ତ୍‌ ଗୁରୁ |
+| rabbit, hare | Noun | ଅମ୍‌ |
+| radish | Noun | ମୂଲା, ପାଣ୍ଡେରା, ପୀଙ୍କା ମାଟି |
+| rafter | Noun | ପାଟ୍‌ ଟି, ତୁଲାମ୍‌ |
+| rag | Verb | ପା |
+| ragi | Noun | ଗରା |
+| ragi porridge | Noun | ଗରଜାୱା |
+| rain | Noun | ଓନା |
+| rain sound | Noun | ଆଦିରି ଓନା, ଓାସମିନ୍ଦେ |
+| rain cloud | Noun | ମେଗାମ୍‌, ମୟେଲ୍‌, ମୁସୁର୍‌ AQ ତା |
+| raindrops | Intransitive verb | ବଟକ୍‌, ଓନା |
+| rain stopped | Verb | ସନା ଞର୍ଗତ୍‌ |
+| rainbow | Noun | ବୀମିନ୍‌ ଞିଲ୍‌ |
+| rainbow appears | Verb | ବୀମିନ୍‌ EQ ତେଡ଼ତା |
+| raining | Verb | ଓନା ମୁଶୂଡ଼୍‌, ବର୍ଷା କାଲୀ, କାଲାମ୍‌ |
+| rainy, winter season | Noun | ଓନା କାଲାମ୍‌ |
+| raise | Verb | ପର୍ର ଏତାନାଦ୍‌ |
+| ram | Noun | ପୋତ୍‌ ମେଣ୍ଡା ପିଲ୍ଲା, ୬୮୦୮ |
+| Rani is singing | Verb | ରାନି ପାଟା ପାର ମିନ୍ଦେ |

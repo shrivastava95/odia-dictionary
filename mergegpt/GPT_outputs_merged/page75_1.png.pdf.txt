@@ -1,0 +1,23 @@
+| Word in English | Part of Speech | Odiya Translation |
+|-----------------|----------------|------------------|
+| to cause to sprinkle water | Transitive verb | ଇଲକୁିସାନାଦ୍, ଶ୍, କାନାଦ୍ |
+| to cause to stand | Transitive verb | ପିସାନାଦ୍, FR |
+| to cause to swallow | Transitive verb | ମିନୁଙିସାନାଦ୍, ନାଲ୍‌ ମାନାଦ୍ |
+| to cause to sweep | Transitive verb | ଏୟ୍‌ ସିଦାନାଦ୍, ଏଇଦିସାନାଦ୍‌, ପାତାନାଦ୍‌ |
+| to cause to swing | Transitive verb | ଉତାନାଦ୍‌, AGIAI |
+| to cause to tell | Transitive verb | ଏପିସାନାଦ୍, ତ୍ରିୟ୍‌, ପିସାନାଦ୍‌ |
+| to cause to turn | Transitive verb | ଉଡ଼ିପିସାନାଦ୍‌ |
+| to cause to wash | Transitive verb | ନର୍ଦିସାନାଦ୍‌ |
+| to cause to wash clothes | Transitive verb | ଉକିସାନାଦ୍‌ |
+| to cause to wear | Transitive verb | କେର୍ପିସାନାଦ୍‌ |
+| to cause to weave | Transitive verb | ଆଲ୍‌ NAIR |
+| to cause to win | Transitive verb | ଗେଲ୍‌ AAA |
+| to chew | Transitive verb | ନାଲ୍‌ ମାନାଦ୍ |
+| to chop wood | Verb | କି ପାତାନାଦ୍‌ |
+| to clean the rice | Transitive verb | ପାନାଦ୍‌ FQ |
+| to climb | Transitive verb | ତାରାନାଦ୍‌ |
+| to climb up | Verb | ତାର୍ରାନାଦ୍‌, AAI |
+| to collect | Transitive verb | ପେକାନାଦ୍‌ |
+| to comb hair | Transitive verb | N/A |
+
+Please note that there was no common error in the "to comb hair" entry, so it couldn't be included in the final table.

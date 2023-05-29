@@ -1,0 +1,19 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| a | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| illicit | Noun | ତାପ୍‌ ପୁ, କାରାପ୍‌ |
+| illustration | Noun | କାଭା, ଞେସୋଡ଼୍‌, କାରା |
+| immature in behaviour | Adjective | ଆୟ୍‌ |
+| image | Noun | PEA, QEMIA, AQ ତି |
+| immediately | Adjective | ଞେଣ୍ଟ୍େନେ |
+| imminent | Noun | ଦାଗେର୍‌ |
+| immoral | Noun | ଗାଲ୍‌ ଗାଲ୍‌, ଉଡାନୋନ୍‌, ଗାଲି, ପାପ୍ ପାମ୍‌ |
+| immoral/immorality | Adjective | କାରାପ୍‌ |
+| immortal | Adjective | ବେସ୍‌ କେ, ବାରେ ବାତ୍‌ କାନାଦ୍‌ |
+| immovable | Adjective | ଗାଟିଙ୍‌, ଉଙ୍ଗ କଟେ, ମେଦୁଲା କୁଟେ, ଆଙ୍ଗ୍‌, କଟେ ମାନ୍ଦାନାଦ୍‌ |
+| impatient | Adjective | ଦେୟିରାଙ୍୍‌, ଇଲୁକୁଟାମ୍‌ |
+| impediment | Noun | ଆଡାମ୍‌ |
+| implements | Noun | କାୟ୍‌ ଦେ ତା ସାମାନ୍‌, ଭାନାଦ୍‌ |
+| impolite | Adjective | ନେମ୍ MIG, ଇଲୁକୁଣ୍ଟାମ୍‌, ଦାନ୍ଦା ପୟ୍‌ |
+| impure | Adjective | ଆଡ଼ଗୋଲ୍୍‌, ସାୟ୍‌, MER, NQY Sle ପେରୀ |

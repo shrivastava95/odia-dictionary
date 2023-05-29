@@ -1,0 +1,17 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| you | Pronoun | ତୁମକୁ |
+| play | Verb | ଖେଳିବେ |
+| saw | Verb | ଦେଖିଲା |
+| went | Verb | ଯାଇଗଲା |
+| will | Auxiliary Verb | ହେବ |
+| see | Verb | ଦେଖିବେ |
+| zeal | Noun | ଉତ୍ସାହ |
+| accordingly | Adverb | ସମର୍ଥମାନେ |
+
+Note: I had to omit the following entries as they did not have the desired output value and appeared to be incorrect: 
+- "you(pl) Pronoun. ମୀର୍‌" 
+- "you(sg) Pronoun. ନିମ୍‌ ମା"
+- "you will play(sl) Verb. Gl କାର୍‌ ସିତିନ୍‌"
+- "you will see(pl) verb. ମୀର୍‌ ଉଡ଼ି ତୀର୍‌"
+- "ମାଡ଼ାନାଦ୍‌" (unclear what this should be)

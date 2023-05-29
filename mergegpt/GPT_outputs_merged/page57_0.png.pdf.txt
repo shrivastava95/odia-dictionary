@@ -1,0 +1,25 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| connective   | Noun           | ଜୋଡ଼କା          |
+| public       | Noun           | ସାର୍ଵଜନିକ         |
+| public       | Noun           | ସାର୍ଵଜନିକ ସ୍ଥାନ   |
+| publicly     | Adverb         | ସାର୍ଵଜନିକରୂପରେ   |
+| published    | Verb           | ପ୍ରକାଶିତ         |
+| puffed       | Adjective      | ଫୂଲିବାରା         |
+| grain        | Noun           | ଅନାଜ             |
+| pull         | Verb           | ଖେଳିବା           |
+| pull about   | Verb           | ଆଁକି ଖେଳିବା       |
+| pull off     | Verb           | ଖେଳିବା ବାହାରରେ   |
+| pull on      | Verb           | ପରିଧାନ କରିବା     |
+| pull out     | Verb           | ବାହାରିବା         |
+| pulsating    | Adjective      | ଧରଣୀକୁ ଖଟିଆହେଉଥିବା |
+| wrist sound  | Noun           | କର ସ୍ଵର          |
+| pulse        | Noun           | ନାଡିର ଧବଳ       |
+| pulses       | Noun           | ଖଟାଳ             |
+| pumpkin      | Noun           | କୁମ୍ଳା କାନ୍ଦ        |
+| pumpkin      | Noun           | ଗର୍ଭିତ କୁମ୍ଳା କାନ୍ଦ |
+| pumpkin creeper | Noun        | କାନ୍ଦା କାରି      |
+| quail        | Noun           | କୁଇ              |
+| quarrel      | Noun           | ଝଗଡ଼ା            |
+| quarter past nine | Adverb   | ନବମି ଘଣ୍ଟାର ପାଇଁ ପାଣି ପଡ଼ିଛି |
+| quarter to nine | Adverb     | ନବମି ଘଣ୍ଟାର ପୂର୍ବରୁ ପାଣି ପଡ଼ିନାହିଁ |

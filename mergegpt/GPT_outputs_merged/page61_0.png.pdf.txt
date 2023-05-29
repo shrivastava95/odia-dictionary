@@ -1,0 +1,22 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|-----------------|------------------|
+| romantic love | Adjective | ସୋକ୍‌ |
+| romantic love | Noun | ଉଡ଼ି ଏାଦାନ୍‌ ପ୍ରେମା |
+| roof leak | Verb | ଲୋନ୍‌ BIE ସମିନ୍ଦେ |
+| roofing with bamboo | Noun | ସାସାକ୍‌ |
+| room | Noun | ଗାତ୍୍‌,ଗାତି |
+| room-mate | Noun | ତୋଡ଼େ ଅଣ୍ଡୋୟ୍‌ |
+| AEA | Unknown | ତା ମାନ୍ଦାନୋନ୍‌ |
+| root | Noun | ସେର୍‌, ମାଡ୍‌ |
+| root vegetable,yam | Noun | କେସ୍‌, କାମାଟି, ନାଙ୍ଗେଲମାଟି |
+| rope | Noun | ଏର୍‌ ଗାଟ, କାନ୍ନେମ୍‌, ମୋକୁମ୍‌ |
+| rope for tying plough | Noun | କାନ୍ନେମ୍‌ |
+| rope shelf | Noun | ଆର୍ପୁ-ତାଡୁମ୍‌,ଉଟ୍‌ |
+| rope weave | Noun | ଡ଼ାଣ୍ତେମ୍‌ |
+| rose | Noun | ଗୁଲାପ୍‌ ପୁଙ୍ଗାର |
+| rotten food | Unknown | ଭା ସାକ୍‌, ପିନେ ମାନ୍ତୋଣ୍ଡ |
+| sack | Noun | ବୋରା, ବାସ୍ା |
+| sacred writings | Adjective | CASQ, AGI, ARIF ଗଟ୍ଟି, ନୀତିଗ୍‌, ମାଟ୍ଟା, ମେଲ୍‌ ତା ମାଟ୍ଟା |
+| sacrifice | Noun | ତିରାମ୍‌,ବାଲିଦାନ୍‌ |
+| sad | Adjective | ଦୁକ୍‌ କାମ୍‌,ଆଲ୍‌ |
+| Sadducee | Noun | ଯୀଶୁ ଖ୍ରୀଷ୍ିନ୍‌, କାଲାମ୍‌ ତ୍‌ ଅରୋଟ୍‌ କୁହ୍ୂଦି |

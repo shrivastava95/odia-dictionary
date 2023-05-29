@@ -1,0 +1,27 @@
+| English Word | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| a | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| ale | Noun | *no common value* |
+| by reason of | Preposition | ଆଦକ୍‌ |
+| in behalf of | Preposition | ପେଦେର୍‌ |
+| in the sky | Adposition | ମାବି ନାଗ୍‌ |
+| old age | Noun | ମୁନ୍ନେଟ୍‌ କାଲାମ୍‌ |
+| old friend | Noun | ମୁନ୍ରେଟ୍‌ ଯାଭା |
+| old man | Noun | ମୁୟ୍‌ ତୋଣ୍ଡ |
+| old woman | Noun | ମୁକାଦ୍‌ |
+| on | Preposition | ପୋର |
+| on account of | Adverb | ଏଡାକ୍‌ ଓତ୍‌ |
+| on holidays | Adverb | ଛୁଟିତେ |
+| once | Adverb | ଅଣ୍ଡୋୟ୍‌ ତାମ୍‌, ଅର୍‌ଚୁଟ୍୍‌ |
+| once again | Adverb | ମେଣ୍ଡନ୍‌ ତାମ୍‌ ସୁଟ୍‌-ମେଣ୍ଡୋନ୍‌ ତାମ୍‌-ମାଲ୍ଲା ଅର୍‌ ସୁଟ୍‌ |
+| one | Numeral, Adjective | ଅରଟ୍‌, ଅ୍ୟବିଆକ୍‌, ଉଗ୍‌ବି, ସେକା |
+| one another | Pronoun | ଅସାଙ୍ଗତେ, କିଙ୍କ୍‌, ଆପନମେଁ |
+| one day | Noun | ଅକ୍‌ କା ଦିନାମ୍‌, ରୋଜୁ |
+| one fourths | Noun | ନାଲୁ ମୁକା |
+| one kg | Adjective | ଓର୍‌ କେଜ୍‌, ଅଣ୍ଟୋୟ୍‌ କେଜ୍‌ |
+| one place | Noun | ଓରପେ |
+| one rupee | Noun | ରୁପାଇ |
+| one side head pain | Noun | ଅର୍‌ ଗୋବା |
+| one who possessed by a spirit | Noun | ସାଲାମ୍‌ ଉଡାନର୍‌, ଏଁଲାମ୍‌ ଉଡାନର୍‌ |
+Note: *no common value* indicates that there was no common value in both outputs for that particular entry.

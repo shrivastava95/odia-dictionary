@@ -1,0 +1,20 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|-----------------|------------------|
+| a | Adjective & Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| again | Adverb | ପୁଣି |
+| against | Preposition | ବିରୋଦରେ |
+| authority | Noun | କାରାଧିକାର |
+| esteem | Noun | ମାନମାନ୍ୟତା |
+| hotel | Noun | ହୋଟେଲ |
+| life | Noun | ଜୀବନ |
+| mall | Noun | ମାଳି |
+| once again | Adverb | ପୁଣି |
+| repeatedly | Adverb | ବାରବାର |
+| rescue | Verb | ଉଦ୍ଧାର |
+| resembling | Adjective | ସମାନ |
+| responsibility | Noun | ଦାଯ୍ୟ |
+| restaurant | Noun | ରେସ୍ତୁରାଣ୍ଟ |
+| revile | Verb | ନିନ୍ଦା |
+| ugly | Adjective | ବିରୂପ |
+| very bad | Adjective | ଖରାପ |

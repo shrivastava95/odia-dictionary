@@ -1,0 +1,27 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|-----------------------|-----------------------|
+| a | Adjective & Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| wild boar | Noun | ଆଡ଼୍‌ ଓ ତା Ale |
+| wild cat | Noun | ବାୟ୍‌ କ୍‌ |
+| wild fruit | Noun | ପଟୋଶ୍‌ କାୟା |
+| wild life | Noun | ଗୁପାତ୍‌ ମାନ୍ଦାନ୍‌ ଜୀୱାମ୍‌ |
+| wild lime | Noun | ତାପା, ରିଜ୍ମା କାୟା |
+| wilderness | Noun | ାଭି ମାନ୍ଦାନ୍‌ ବୂମ୍‌ |
+| wile | Noun | - |
+| wilful | Adjective | ଇଷ୍ଟାମ୍‌ ତେ |
+| will | Noun | ଇଷ୍ଟାମ୍‌ |
+| will | Verb | ଆତା।ମାନ୍ତା |
+| will not accept | Interjection | ଓପ୍‌ ପର୍‌ |
+| will see | Verb | AG OQ |
+| will you come?, you will come | Verb | ଓାତିନା? ତିନ୍‌ |
+| will you drink? | Interjection | ଉଣ୍ଡିନା |
+| willingly | Adverb | ଇଷ୍ଟାମ୍‌ ତେ |
+| win | Verb | ଜିଡ଼ାନାଦ୍‌ |
+| wind | Noun | ଗାଲ୍‌ |
+| wind blowing | Verb | ଗାଲ୍‌ ତଲମିନ୍ଦେ |
+| wind dropsy | Noun | ଡକ୍‌ କା କାଲି |
+| wind, to fan | Intransitive verb | ଏରସକାନାଦ୍‌, ଗାଲ୍‌ ତଲୋମିନ୍ଦେ |
+| window | Noun | କିଡ଼କେ, ଜର୍‌ କା |
+| windpipe | Noun | ବଣ୍‌ କି, ନେସ୍‌ କାଡ଼ ନାଡ଼ତାନ୍‌ ଗଣ୍‌ କ୍‌ |
+| wing | Noun | ରେକା |

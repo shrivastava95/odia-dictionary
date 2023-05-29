@@ -1,0 +1,24 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| add | Verb | କାଲ୍‌ ପାନାଦ୍‌ |
+| adjacently | Preposition | ମୋୟି ମିନ୍ଦେ |
+| administrator | Noun | DISA ସାରେ |
+| admission | Noun | ପ୍ରବେଶ |
+| admit | Verb | ପ୍ରବେଶ କରାନ୍ତୁ |
+| adopted son | Noun | ଗୋଡ଼ା ପୋଷିତ ପୁତ୍ର |
+| adoption | Noun | ଗୋଡ଼ା ଦାନ |
+| pillage | Noun | ଲୁଠ |
+| adulterous | Adjective | ଅନୈତିକ |
+| adultery | Noun | ଅନୈତିକତା |
+| advantage | Noun | ଉପକାର |
+| advice | Noun | ସଲାହ |
+| Aegle marmelous tree | Noun | ବେଲ ଗଛ |
+| aeroplane | Noun | ବିମାନ |
+| affect | Noun | ପ୍ରଭାବ |
+| affectionately | Adverb | ପ୍ରେମ ପୂର୍ବକ |
+| affliction | Noun | ଯାତନା |
+| afraid | Adjective | ଭୟପାଇଁ |
+| afresh | Adverb | ପୁଣି |
+| after | Adposition | ପଛରେ |
+| after a long time | Preposition | ଉଭରେ ଖୁବ ଦୀର୍ଘ ସମୟ ପଛରେ |
+| after birth | Noun | ଜନ୍ମ ପରେ ପଛରେ |

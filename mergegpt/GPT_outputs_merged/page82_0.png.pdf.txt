@@ -1,0 +1,22 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| variety | Noun | ରେକା,ୱେରେ |
+| vegetables | Noun | କାୟା |
+| vehicle,cart | Noun | - |
+| vehicles running | Adjective | ନାଡ଼୍‌ |
+| a | Article | ଏକ |
+| veil | Noun | କେଲ୍‌ କ୍‌ ଗାମ୍‌ କ୍‌, ମୁଚାନ୍‌ ଗୁଡ଼ା |
+| ventilator | Verb | କା, ଗାଲ୍‌, ଓାଦାନ୍‌ ବଶ୍‌ ଶା, SAG, GGQ |
+| veracity | Noun | ନିଜାମ୍‌ |
+| veranda | Noun | ଗଡ଼ା |
+| vertebra,back | Noun | ବୁଲା |
+| vertical | Adjective | FQO, AGL |
+| very | Adjective | ପିନା, ନାର୍ଗେ, ଗାଟି, କେନ୍ନା |
+| very much | Adjective | ଗାଟି, ନାର୍ଗେ, ଦିବେଡ଼୍‌, ନାର୍ଗେ |
+| very often | Adverb | ବେଚଟ୍‌ ସୁଟ୍‌ |
+| very serious | Adjective | ତିପ୍‌, ପାଲ୍‌ ବାର୍‌ ତାନାଦ୍‌ |
+| very slow | Adjective | AQ, FAY |
+| waist | Noun | କାନ୍ତିର୍‌, ଟିକିଡ଼, ତୋତାନାଦ୍‌ ଉଭ୍ଭିତୋର୍‌ |
+| wait | Verb | କେପା |
+| wait a little period | Adverb | ଜେଲ୍‌, କାଲାମ୍‌, ଜାମ୍‌ |
+| wait a while or little | Adverb | ମାନ୍‌ -ସେନ୍‌, ନାଲ୍‌ ମାନ୍‌ |

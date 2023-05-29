@@ -1,0 +1,30 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| marriage party | Noun | କୋକୋଣ୍ଡ |
+| routine | Noun | ଡୁଟିନ୍ |
+| mash, pound | Verb | କାନାଦ୍ |
+| mason | Noun | - |
+| massage | Noun | ଆସ୍‌ କିମ୍ |
+| master | Noun | କୁମାର |
+| car, boat | Noun | କାର୍‌, ନାଡ଼୍‌ |
+| pisanoṇḍa | Noun | ପିସାନୋଣ୍ଡ |
+| mat | Noun | ସାପା |
+| match | Noun | ମାଡିଭା |
+| matchbox | Noun | ପେଟି |
+| matchstick | Noun | ପୁଲା |
+| matching | Noun | - |
+| matted lock of hair | Noun | ଜାଟେଲ୍‌, ଜାଡ଼େଲ୍‌ |
+| matter | Verb | ମାଟା |
+| matured, age attend | Noun | ସ୍ରାଲ୍‌ ଆତା |
+| maxim | Noun | ନିୟ୍ୟାମ୍‌ ତ୍‌ |
+| maximum | Adjective | ନାରଗେଁ, ଗାଟି |
+| me | Noun | ନାନିନ୍‌, ନାକିଙ୍କ୍‌ |
+| means | Noun | ଉପାୟାମ୍‌ |
+| meanwhile | Adverb | ନାତୃମେ |
+| measles | Noun | ମେଡ଼ା ଗାଡ଼ା, ତାଲ୍‌ |
+| Mr. | Noun | ପେୟ୍‌ ତ୍‌ |
+| measure | Verb | କଲ୍‌ ସିଭୋର୍‌ |
+| measuring glass for rice | Noun | ସୋଲା |
+| measuring glass for grain | Noun | ତାଓାଁ, କାଡ଼୍‌ କ୍‌ |
+| meat | Noun | ଆ ଓ, ଆଙ୍ଗି |
+| meat stick | Noun | ଜୂର୍‌ |

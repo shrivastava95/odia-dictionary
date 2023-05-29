@@ -1,0 +1,34 @@
+| Word in English        | Part of speech | Odiya Translation |
+|------------------------|----------------|---------------------|
+| a                      | Adjective&Article | ଅରୋଟ୍‌                 |
+| according to           | Adverb         | ଆଦିଙ୍କ୍‌ ଲେକେ             |
+| entrance               | Noun           | ଆର୍ଦ ଗୁମାମ୍‌             |
+| entrapped              | Verb           | AIG AB ଉଶ୍‌           |
+| envelop                | Verb           | ମୁଢ୍ାନାଦ୍‌              |
+| envelope cover         | Noun           | ଲପାପା                |
+| paper sheet            | Noun           | କାଗାଜ୍‌ ସୀଟ୍‌         |
+| envy                   | Noun           | AIG ଉଡ଼ାନାଦ୍‌           |
+| equal                  | Adjective      | AINR                |
+| equally                | Adverb         | ସାମାନ୍‌ ତେ            |
+| escort                 | Noun           | BAR SR CAN          |
+| companion              | Noun           | ପିସାନୋଣ୍ତ             |
+| especially             | Adverb         | ମୁକ୍ୟମ୍‌              |
+| admission              | Noun           | ଆଦାନାଦ୍‌             |
+| essay                  | Verb           | ୱଷାୟାମ୍‌ ମାଟା          |
+| eternal                | Adjective      | ବେଶ୍‌ କେ ବାରେ          |
+| slow                   | Adjective      | ମାନ୍ଦାନ୍‌             |
+| eternity               | Noun           | ବେସ୍‌ କେ ବାରେ          |
+| euphony                | Noun           | କେଞ୍ଜାନାଙ୍‌ ମେଲ୍‌      |
+| that of                | Conjunction    | ତା GA              |
+| even a little          | Adjective      | ଚୁଡ଼ୂଟ୍‌ ବା           |
+| even NOW               | Adverb         | ARCH ଦାକ୍‌            |
+| evening                | Noun           | ମୁଲ୍‌ Qe            |
+| ever                   | Adverb         | ବେସ୍‌ କେ             |
+| ever-lasting bliss     | Adjective      | ବେସ୍‌ କେ ବାରେ ସୁକ୍‌ କାମ୍‌ |
+| ever new               | Adjective      | ବେସ୍‌ କେ             |
+| evergreen              | Adjective      | ବାରେ ପୁନା ମାନ୍ଦା     |
+| every alternate day    | Adjective      | UR କା ରୋଜ୍‌            |
+| every alternate day    | Adjective      | ସି ଅକ୍‌ କା ରୋଜ୍‌      |
+| every day, daily       | Adverb         | ରୋଜ୍‌              |
+| every hour             | Adverb         | ସାର୍ରେ Sal          |
+| every minute           | Adverb         | ସାର୍ରେମିନିଟ୍‌         |

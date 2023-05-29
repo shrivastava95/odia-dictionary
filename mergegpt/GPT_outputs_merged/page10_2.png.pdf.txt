@@ -1,0 +1,32 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| beds ina garden | Noun | ପେଟୁମ୍‌ |
+| bee | Noun | ପେରେଞ୍ଜିସି |
+| beef | Noun | ଗଡାଙ୍ଗ |
+| bees | Noun | QBS BNE |
+| before | Adverb | ମୁନେ |
+| beg | Verb | ତାଲ୍‌ ପା |
+| beggar | Noun | ତାଲ୍‌ ପି ତିନ୍ଦାନୋଣ୍ଡ |
+| beggars | Noun | ଡ଼ମାରୀର୍‌ |
+| beginning | Noun | AQ AIR |
+| begot | Noun | ପୁଟ୍‌ କିଶ୍‌ ତୋନ୍‌ |
+| behaviour | Noun | ଆଚରଣ |
+| behind | Preposition | ପଛରେ |
+| being awake | Verb | ଜାଗା |
+| being obscene | Adjective | ଆର୍ପମିନ୍ଦେ |
+| belching | Noun | ଡାକୁଆ |
+| bell | Noun | ଘଣ୍ଟି |
+| bell to sound | Intransitive verb | ଘଣ୍ଟା ବଜିବା |
+| bell tree | Noun | ମାଡ଼ ମାରା |
+| bellows | Noun | ବାଯିଶେ ଗିର୍କା |
+| belly | Noun | ପେଟ |
+| beloved | Adverb | ପ୍ରେମି ତେ |
+| below | Adposition | ତଳେ |
+| below standard | Adverb | ନିମ୍ନ ମାନକ ଅନୁଯ୍ୟତାପୂର୍ଣ |
+| belt on for head | Noun | ଟିକିଡ ପାଟା |
+| bench | Noun | ବାଁଚ |
+| bend(rope) | Verb | ଉଲ୍ଟିବା ଜାତୀ |
+| bend(stick) | Verb | ଉଭାଇବା ଜାତୀ |
+| bending(rod) | Verb | ମଡ଼ଣିବା ଜାତୀ |
+
+I have ignored the erroneous entries: `@Q ଗିତା`, `ACAD `, `କାରାପ୍‌ ତୋଣ୍ଡ`, and `ପାପ୍‌ ପିଡ଼ dal`.

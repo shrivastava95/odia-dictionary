@@ -1,0 +1,21 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| profession   | Noun           | ଏଓ୍‌            |
+| professor    | Noun           | ସାଦ୍‌           |
+| profit       | Noun           | ଲାବାମ୍‌         |
+| programme    | Noun           | ACA              |
+| promise      | Noun           | ମାଟା            |
+| pronunciation| Noun           | ଗଟି, ଟୀକ୍‌        |
+| properly     | Adverb         | ଆଚ଼ାଲ୍‌          |
+| property     | Noun           | ସମ୍, ସାନ୍‌ ସ୍ରାମ୍‌, ବୂମ୍‌|
+| prophecy     | Noun           | ନାଡ଼୍‌ ଦିନା ମାଟ୍ଟା |
+| prophet      | Noun           | ପାରାମେଶ୍ରାରିନ୍‌ |
+| propriety    | Noun           | ଆଦିକାରାମ୍‌       |
+| prosperity   | Noun           | ମେଲ୍‌ ତା ନୁ      |
+| prostitute   | Noun           | ଲାଞ୍ଜି AIGA     |
+| prostitute lady | Noun        | ବୋଗା            |
+| protect      | Verb           | କାପାଡିଭୋଣ୍ୁ      |
+| protein      | Noun           | ସକ୍‌ ତି ଦର୍‌ କାନାଙ୍କ୍‌|
+| proud        | Adjective      | ଆତଣ୍ଡ, କୁଶ୍‌ ତାମ୍‌ |
+| provided     | Subordinating |                  |
+| teeth molars | Noun           | ଗଗୋ ଗାୱ୍‌ ଗା     |

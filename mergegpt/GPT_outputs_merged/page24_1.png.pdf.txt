@@ -1,0 +1,22 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| dung of sheep | Noun           | ଗଦେ             |
+| during the time | Preposition  | ନାଡ଼ତାନ୍‌        |
+| dusk         | Noun           | ମାସ୍‌ ମାସ୍‌ ସିକାଡ୍‌ |
+| dust         | Noun           | ଧୁମ୍‌(ଓାଞ୍ଜାନ୍‌) ତେଲିତ୍‌ |
+| dust bin, carrier, basket | Noun | ତଗ୍‌ |
+| duster       | Noun           | ଉମାନାଦ୍‌        |
+| earth        | Noun           | ବୂମ୍‌            |
+| earthworm    | Noun           | ଏଡ଼ା ପୁଡ଼ିକ୍‌       |
+| earthenware  | Noun           | ସାମାନ୍‌          |
+| earthquake   | Noun           | ବୂମ୍‌ AFR        |
+| ear-wax      | Noun           | କର୍‌ ଞୋଲ୍‌       |
+| easily       | Adverb         | ଏଦ୍‌ ଲାମ୍‌ ତେ    |
+| east         | Noun           | ପଡ଼୍‌ ଦ୍‌ ପେୟ୍‌ ହ୍‌ |
+| easy         | Adjective     | ସୁଖଦ             |
+| easy chair   | Noun           | ମେତାଙ୍ଗ୍‌ ମାନ୍ଦାନ୍‌ |
+| eat          | Verb           | ଖାଇବେ            |
+| eatable items | Noun          | ଖାଦ୍ୟ ପଦାର୍ଥ     |
+| eater        | Noun           | ଖାଦିଞ୍ଚିର୍ଗା ତିନ୍ଦାନାଦ୍‌ |
+| ebony fruit  | Noun           | ତୁମି Ald        |
+| ebony tree   | Noun           | କାଳିମରିଚା       |

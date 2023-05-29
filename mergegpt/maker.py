@@ -30,5 +30,5 @@ rows_to_remove = data[(data[data.columns[0]].str.contains('-')) & (data[data.col
 data = data.drop(rows_to_remove)
 
 # save the dataframe
-full_output_location = os.path.join(source_dir, output_name, index=None)
+full_output_location = os.path.join(output_dir, output_name)
 data.to_csv(full_output_location, index=None)

@@ -1,0 +1,26 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| chameleon    | Noun           | ନେୟ୍‌           |
+| chamomile    | Noun           | ବାନ୍ତି ପୁଙ୍ଗାର       |
+| change       | Verb           | ପରିବର୍ତ୍ତନ        |
+| channel, canal | Noun         | ଚେନେଲ, କ୍ଯାନାଲ୍     |
+| chapel       | Noun           | ଛାପେଲ୍‌          |
+| char         | Verb           | ଚାର୍‌           |
+| character    | Noun           | ଲେଖାରେଖା        |
+| charcoal     | Noun           | କୋଳା            |
+| chariot      | Noun           | ରଥ             |
+| charity      | Noun           | ଦାନାଦାନି       |
+| charming appearance | Adjective | ମୋହକ ରୂପ       |
+| chase        | Verb           | ପେଟେଇ ଲଗାଇବା     |
+| chatter box  | Noun           | ବାକରୀ ଛାତ୍ର    |
+| chattering   | Adjective      | ବାକବାକ ସହି    |
+| cheap        | Adjective      | ସହଜ ମୁଲ୍ୟ       |
+| cheat        | Noun           | ପ୍ରମାଣିକ ନାହିଁ |
+| check        | Noun           | ପରୀକ୍ଷଣ         |
+| checking     | Verb           | ପରୀକ୍ଷା କରନ୍ତୁ  |
+| cheerful     | Adjective      | ଆନନ୍ଦମୟ         |
+| cheetah      | Noun           | ଚିତା            |
+| chest        | Noun           | ପେଟ, ଛାତି       |
+| chewing      | Verb           | ଚୋଷଣ କରିବା      |
+| chicken curry | Noun          | ଚିକେନ ମସାଲା    |
+| chicken pox  | Noun           | ଚିକେନ ପକ୍ଷପାତ   |

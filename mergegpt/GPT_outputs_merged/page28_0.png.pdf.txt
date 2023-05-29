@@ -1,0 +1,24 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|-----------------|-----------------|
+| a            | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly  | Adverb          | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| few          | Adjective       | ଦ୍‌, ଇଚୁଟ୍‌ |
+| few number   | Adjective       | କୁକ୍‌ |
+| fibre made from Palmyra stalk | Noun | ହିଲାନାଦ୍‌ |
+| fickle       | Adjective       | RQ AIG |
+| fiddle       | Noun            | @ ATR |
+| fie          | Interjection    | ଛି, ସାୟା |
+| fields ripe for harvest | Adjective | ଆୟ୍‌ ତା ଏୀଜା ତା ଓାୟା |
+| fiery furnace | Adjective       | G4 QQ |
+| fifteen      | Noun            | ପାଦିଏୟ୍‌ ଙ୍‌, ପାଦି ଏନ୍‌ |
+| fifty        | Noun            | ରେଣ୍ତୁ କୋଡି ଦାଶ୍‌, ଏବେୟ୍‌ |
+| fig tree     | Noun            | ତୋୟା ମାଡ଼ା |
+| fight        | Noun            | ଗଢ଼ୁା, ମୁଣ୍ଡାୟ୍‌ କିୟାମୁନ୍ଦୋର୍‌ |
+| fighting     | Verb            | ଭକ୍‌ କାନାଦ୍‌ |
+| file         | Noun            | QII¢ |
+| fill up      | Verb            | ତାର୍ରା, ନିଣ୍ଡି, ମିନ୍ଦେ |
+| filly        | Noun            | ଡାଡା ଗାଡ଼୍‌ ତା ପିଲ୍‌ ଲା, ଡାଡା ଗୁରା ପିଲ୍‌ ଲା |
+| filtration, distillation | Noun | ଏଞ୍ଜୋମିନ୍ଦେ |
+| final        | Adjective       | AIBA |
+| finally      | Adverb          | ମାରେଙ୍ଗ୍‌, କାଦୂଞେଲ୍‌ |
+| find fault with | Verb        | ତାପ୍‌ ପୁ aa, ତାନାଦ୍‌ |

@@ -1,0 +1,24 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| CAA | Noun | କାରାମ୍‌ |
+| curry-stuff | Noun | କାରାମ୍‌ |
+| grinding | Noun | କାରାମ୍‌ |
+| grinding | Noun | କାମ୍‌ କା କାଲ୍‌, ପାସ୍‌ ପ୍‌ |
+| grinding stone | Noun | କାମ୍‌ କା କାଲ୍‌, ପାସ୍‌ ପ୍‌ |
+| grindstone | Noun | ଗର୍‌ କାଲ୍‌ |
+| griping pain | Noun | ପିଭ୍ତାନାଦ୍‌, ପିଜ ମିନ୍ଦେ |
+| gripper | Noun | ଡକା(ଡଙ୍କା) କାଚାନାଦ୍‌ |
+| grocery shop man | Noun | ନୁଙ୍କା |
+| habit | Noun | ରୋଜିନ୍‌ ଆଲ୍‌ ଓଟ୍‌ |
+| had come | Verb | ୱାସ୍‌ ମାତ୍‌ ତର୍‌ |
+| hail | Interjection | ଜେୟ୍‌ ERA |
+| hailstone | Noun | ଆଜୁରଗାଡା, ଆଦୁରଗାଡା, ଆଦୁର୍କ୍‌ |
+| hair | Noun | କେଲକ୍‌ |
+| hair become grey | Intransitive verb | କେଲ୍‌ କ୍‌ Al ତା |
+| hair do | Noun | କୂପ୍‌ ପାର୍‌ |
+| hair lengthened | Adjective | କେଲ୍‌ କ୍‌ ଜାରିଭା, FAN |
+| hair loosened | Adjective | କେଲ୍‌ କ୍‌ ଆାଭାନାଙ୍କୁ Q ପାନାଦ୍‌, କେଲ୍‌ |
+| hair not combed | Verb | କେଲ୍‌ କ୍‌ |
+| hair of the body | Noun | ରୋମା |
+| hair of witchdoctor | Noun | ଜାଟ୍‌ |

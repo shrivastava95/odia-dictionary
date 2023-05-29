@@ -1,0 +1,28 @@
+| Word in English | Part of speech | Odiya Translation |
+|-----------------|----------------|-------------------|
+| a | Adjective & Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| some one | Pronoun | ବେନୋ |
+| somewhat | Adverb | ବେଶ୍‌ ଶୋଟ୍‌ |
+| fly | Verb | ଉଡ଼ |
+| someday | Adverb | ବେସ୍‌ କ୍‌ ଆନା |
+| somersault | Noun | କୋଡ଼ି ଓଦାନାଦ୍‌ |
+| sometime | Adverb | ବେଶ୍‌ କ ବେଶ୍‌ କ |
+| sometimes | Adverb | ବେଶ୍‌ କେ ବେଶ୍‌ |
+| somewhere | Adverb | ବେଗ୍‌ ଗା ବା |
+| son | Noun | ମାର୍‌ |
+| son-in-law | Noun | ବାଣାଞ୍ଜାଲ୍‌ |
+| Son of Man | Noun | ଜୀଶୁ ଖ୍ରୀଷ୍ଟ, ପାରାମେଶ୍ବାରିନ୍‌ ମାର୍‌ |
+| song | Noun | ପାଟା |
+| soon, quickly | Adverb | ର ମିଡ |
+| sorcerer | Noun | ପୂଜାରୀ |
+| sorcery | Noun | ପାର୍ଚେଗା ନୋର୍‌, ରେଡିର୍‌ |
+| sore mouth | Noun | ବର୍କ୍‌ କାଭା |
+| sorry | Adjective | କାଷ୍ଠାମ୍‌ ଆଦାନାଦ୍‌ |
+| soul | Noun | ଜୀୱାମ୍‌, ଜୀୱା ଆତ୍ମା |
+| sound | Noun | ଲେଙ୍ଗ |
+| sound of thunder | Noun | ଗୁତୁଞ୍ଜାନାଦ୍‌ |
+| sour | Noun | ପୁଲସ୍‌ ତା, ପୁଲ୍‌ ଲା |
+| south | Noun | ତିନ୍ନା ପାକ୍‌ କା, ଉତ୍ତାନା |
+| sow | Noun | ଏ଀ତାନାଦ୍‌ |
+| sowing festival | Noun | ଓିଜା |

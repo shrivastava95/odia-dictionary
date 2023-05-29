@@ -1,0 +1,23 @@
+| English Word        | Part of Speech    | Odiya Translation |
+|---------------------|----------------------|-----------------------|
+| the patient         | Noun                 | ରୋଗୀ                   |
+| is unable to        | Verb                 | ରୋଗିନୋଣ୍ଡ, ବାଟେଇନୋଣ୍ଡ       |
+| sit up              | Verb                 | ଉଠିନାହିଁ, ତେଦାଲୋଣ୍ଟ         |
+| the place between two houses | Noun | ପାୟନ୍ଦା ମନ୍ଦେ ସାନ୍ଦ୍‌    |
+| theft               | Noun                 | ଡଙ୍ଗାନାଦ୍‌              |
+| their (far)(possessive) | Pronoun       | ଭରାଦ୍‌, ଓରାଦ୍‌, ଆଇ, ବାଇ |
+| theirs (near)(possessive) | Pronoun     | ଭରାଦ୍‌, ମାଇ             |
+| them                | Pronoun              | QO, AIR               |
+| them(near)          | Pronoun              | RAGE, AAG            |
+| themselves          | Pronoun             | ଉରେ ନିଜେ, ସନ୍ତା ତାମ୍‌, ତାମ୍‌ |
+| then                | Coordinating connective | ଆ ସୁଟେ, ଆସ୍‌, କେ |
+| thence forth        | Adverb               | ଆ ସାମାୟାମ୍‌, କୁଞ୍ଚିନନୁଞ୍ଚି |
+| thence, there from  | Adverb                | ଆଗା, କୁଞ୍ଚିନନୁଞ୍ଚି |
+| there               | Adverb               | ଆଗେ, ୮୦୮୨             |
+| thereafter, thereby | Adverb               | ଦାନ୍‌, ପେର୍କେ          |
+| therefore           | Connective          | ଦାନ୍‌, ସେଗେଂ, ଆନ୍ଦ୍‌ କେ, ଆଦିଂ, ମାଇଦିଂ |
+| therein             | Adjective           | ନାଡ଼ୂମେ, GIR           |
+| thereof             | Adverb               | ଆଞିଷାୟାମ୍‌ ତେ        |
+| therewith           | Adverb               | ଦାନ୍‌, ଟୋଡ଼େ, ଟୋଣ୍ଟେ, ସାଙ୍ଗେ |
+| thermometer         | Noun                 | ମେନ୍ଦୁଲ୍‌ ଞେଡ଼୍‌, ଏଡ଼୍‌ କ୍‌ ବେଚୋଟ୍‌, କଲୁସାନାଦ୍‌ |
+| these all           | Adjective           | UlG ସାରେ              |

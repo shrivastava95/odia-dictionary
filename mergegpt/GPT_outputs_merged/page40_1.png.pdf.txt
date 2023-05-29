@@ -1,0 +1,23 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| jungle deer | Noun | ଗରି |
+| jungle roots | Noun | ମାଟ୍‌ ଟି |
+| junior | Adjective | ଇଡ଼ିପାଟୋର୍, ସୁଧୁ ଲୋର୍‌ |
+| just at the time | Adverb | ସାମାୟିକ ଦେ |
+| kidnap | Verb | ନାରିନ୍‌ ଡଙ୍ଗା |
+| kidney, urinary bladder | Noun | କେରି ଗୋଣ୍ଡାମ୍‌ |
+| 1005 | Noun | ତାମୁସ୍୍‌, ସୂତୁଲୋର୍‌, ପିଲ୍‌ ଲାର୍‌ |
+| killer, murderer | Noun | ଆୱ୍‌ କାନୋଣ୍ଟ |
+| killing | Verb | ଆୱ୍‌ କାନାଡ୍‌ |
+| kilt the belt | Adjective | ଆର ନାଡ୍‌ ଓଟ୍ଟା |
+| kind of a deer | Noun | ମେଣ୍ଟ, ମେଣ୍ଢେ |
+| kind of frog in hollow | Noun | ତଣ୍ଡ କମ୍‌ ରେଲ୍‌ |
+| kind of frog in house | Noun | ଗନ୍ଧ ଗୟେଲ୍‌ |
+| kind of insect | Noun | ପୁଡି |
+| kind of spider | Noun | ତୁଏବାଲେ |
+| kind of vegetable | Noun | କୁଚିର୍‌, ମାଚିର୍‌ |
+| ରି ଡଣା କାୟା | Noun | କାୟା |
+| kind of disease | Noun | ମୁଟ୍ଟା |
+| ଲାଗମାନ୍ଦାନାଦ୍‌ | None | None |
+
+Note: The last entry doesn't seem to have a valid translation, so it is marked as None in the table.

@@ -1,0 +1,22 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| tamarind tree | Noun | ଇତା, ମାଡ଼ା, ପୁଲା ମାରା |
+| tangle | Verb | ମାନ୍ଦାନାଦ୍‌, ସିକ୍‌, ମାତ୍‌, ଆଇନା, କାଟ୍‌, ତତାନାଦ୍‌ |
+| knot | Noun | କାଟ୍‌ |
+| tank | Noun | ଏର୍‌ ଟେଙ୍କ୍‌, ତେଙ୍କ୍‌ ଏର୍‌ |
+| pond | Noun | ଟେଙ୍କ୍‌ ଏର୍‌, ତଳାବ |
+| tar | Noun | ତାର୍‌ |
+| pitch | Noun | ତାର୍‌, ପିଚ୍‌ |
+| taste | Noun | ରୁଚ୍‌ |
+| taste | Verb | ନାକ୍‌ ଉଡା |
+| tasteless | Adjective | କୁହ୍ମ୍‌ ରୁଚି ନାହିଁ, ରୁଚିଶୂନ୍ୟ |
+| tattered cloth | Adjective | ଭଂଗାରଫୁଟିଆ |
+| AT | Noun | ତା ଗୁଡ଼ା |
+| taught | Verb | ନେର୍‌ ପିସିତୋମ୍‌, ସାଦ୍‌, ୱସିତୋମ୍‌ |
+| tax | Noun | ସାର୍‌ କାର୍‌ କୁ, ଟାକ୍ସ |
+| tax collector | Noun | ଡ଼ାବ୍‌ କ୍‌ ଏାସୁଲ୍‌, ତୁଙ୍ଗାନୋଣ୍ଡ |
+| tea plant | Noun | କାପ୍‌ ପୁ, ଚା ଗଛ |
+| teach | Verb | ନେର୍‌ ପିସାନାଦ୍‌, ପୋଦିସାନାଦ୍‌, ୮୮୧୮ |
+| teacher | Noun | ପାନ୍ତୁଲ୍‌, ଗୁରୁ, ମାସ୍ଟର୍‌, ଜୀର୍‌ ମିନ୍ଦେର, ମାଶ୍‌, ଟାରୀର୍‌, ପାନ୍ତିଲିର୍‌ |
+| teachers are there | Noun | ଗୁରୁ ଜୀର୍‌ ମିନ୍ଦେର, ମାଶ୍‌ |
+| teak tree | Noun | ତେକା ମ

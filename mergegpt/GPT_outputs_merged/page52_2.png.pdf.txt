@@ -1,0 +1,22 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|-------------------|-------------------|
+| oven, hearth | Noun | ଅଜେଲ୍‌, ଚୁଲ୍ଳୀ |
+| over | Preposition | ସେଙ୍ଗେ |
+| headache | Noun | ମସର ପୁଣ୍ତ |
+| sinuses | Noun | ନାଲ୍‌ କିନ୍‌ AAl, ଜୁରୀତ୍‌ |
+| pairs of bulls ploughs | Noun | ଲାଙ୍କେ |
+| overjoy | Adverb | ସାର୍ଦା |
+| overload | Verb | ଟିକା |
+| over loud, noise | Noun | ଗାଟି ଆଦି, ଆଦାନାଦ୍‌ |
+| overjoy | Adjective | ଗାଲ୍‌ ଗାଲ୍‌, କାଲାକାଲା |
+| overtake | Verb | ପୟ୍‌ ତାନାଦ୍‌ |
+| owing to | Preposition | AER |
+| owl bird | Noun | କୁଞ୍ଜୋ ଗୂପ୍‌ ପିଟେ |
+| own relation | Adjective | ସାହା, ସିନୋର୍‌ |
+| owner | Noun | ଆଦିକାରି |
+| ozena | Noun | ମସର ପୁଣ୍ତ |
+| pair of bullock | Noun | ଆର୍‌ କା |
+| pale | Adjective | ଜୁରୀତ୍‌, ସୱକତା |
+| palm | Noun | ଲାବାକାୟ୍‌, କାଲ୍‌ |
+| palm fruit, palm stone | Noun | ମୁଞ୍ା alg, ମାନ୍ଦାନ୍‌ |
+| palm leaf | Noun | ତାଡ଼ ମେଟା |

@@ -1,0 +1,27 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------------|----------------------|
+| austerity | Noun | ବାୟାମ୍‌ ମାଲାମ୍‌ |
+| author | Noun | ବଇ AIAG |
+| authority | Noun | ଆଦିକାରାମ୍‌ |
+| autumn | Noun | ପେଦା ମାଣି କାଲାମ୍‌ |
+| avoid | Verb | ଏଗ୍‌ ଦେଙ୍କାନାଦ୍‌ |
+| babbler | Noun | ଏକ୍‌ ଓ ତ୍ରୀୟ୍‌ ନୋନ୍‌ |
+| baby | Noun | ପାପାଲ୍‌ |
+| bachelor | Noun | ମାଣୁଷୁଣ୍ତ |
+| bachelor's buttons | Noun | ମାଡ଼ା ମାଲି ପୁଙ୍ଗାର୍‌ |
+| back biting | Noun | ସୁକ୍‌ ଲି FAQ |
+| back bitter | Noun | ପେଲ୍ଲାନାଦ୍‌ |
+| back of the body | Noun | ଜେବା।ମୁର୍ସୁଲ୍‌ |
+| backbite | Verb | ଆୟ୍‌ କ୍‌ ତୀରିୟ୍‌ ପେର୍ଲାନାଦ୍‌ |
+| backward | Adjective | ପେର୍କେ |
+| backyard of house | Noun | ଲୋନ୍‌ alg ପେର୍କ |
+| bacteria, virus | Noun | କାଣ୍ଡ O@ ତପ୍‌ ପିଲ୍‌ ପୂଡ଼ିକ୍‌ |
+| bad idea | Adjective | ପୁ ଆଲ୍‌ ପୁ CID |
+| bad luck | Adjective | କାରାପ୍‌ ଆଡୁଷ୍ଟାମ୍‌ |
+| bad name | Noun | କାରାବ୍‌ ପେଦେର୍‌ |
+| bad smell | Noun | କାରାବ୍‌ ଗାବ୍‌ |
+| bad tempered | Adjective | କୋପାମ୍‌ |
+| bad word | Noun | ସେଡା ମାଟା ପୀନ୍ଦ ପାର୍‌ ନ୍ଦୁ ଲ୍‌ ଗଟି |
+| bad, vice | Noun | ପୀନ୍ଦ, କାରାପ୍‌ | 
+
+For the entries where both outputs have different translations, I have included both translations in the table. For the entries where only one output has the desired value, I have considered that output. I have also removed the non-common errors in both outputs while merging.

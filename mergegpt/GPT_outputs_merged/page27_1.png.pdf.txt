@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| fate | Verb | ଆଦିର୍‌ ଶ୍ଟାମ୍‌ |
+| father | Noun | ବାବାଲ୍‌, ଭୟା |
+| father-in-law | Noun | ମାମାଲ୍‌ |
+| father with more children | Noun | ପୀଦ୍‌ ପିଲ୍‌ |
+| father's brother | Noun | ବାବାଲ୍‌, ଭୟାଲ୍‌ |
+| father's elder brother | Noun | ପେପୁ |
+| father's father | Noun | ଦାଦ |
+| father's mother | Noun | ମା, ଏପ୍‌ ପା |
+| fatigue, exhaustion | Noun | ଆନ୍ଦାନାଦ୍‌ |
+| fault | Noun | ନେରାମ୍‌, ନାଶ୍‌ |
+| favour | Noun | ଦାୟାମ୍‌, ସାୟାମ୍‌ |
+| fear | Noun | ସ୍ତେର୍ଦାନାଦ୍‌ |
+| feast | Noun | ବୋଜି |
+| feast line | Noun | ବାନ୍ତ୍‌ |
+| feather | Noun | କର୍ରୁଗେରୁମ୍‌ |
+| feeding, to make to eat | Transitive verb | ତିପିସାନାଦ୍‌, ତୀଭାନାଦ୍‌ |
+| feel bad | Adjective | ପୀଡ଼ୋ-ପୀନ୍ଦୋ |
+| feel better | Adjective | ନାଲାମିନ୍ଦାନ୍‌ |
+| feel so hot | Adjective | କାଙ୍କା |
+| feel to say | Verb | କେଉା ଞେୟ୍‌ ତିତ୍‌ |
+| feeling | Noun | ଆଲ୍‌ ପ୍‌ |
+| feet | Noun | ବାଲା କାଲ୍‌ କ୍‌, ଲାବାକ୍‌ |
+| feint | Verb | ମିତୃକ୍‌ କାନାଦ୍‌, କାୱ୍‌ |

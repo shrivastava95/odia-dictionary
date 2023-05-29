@@ -1,0 +1,24 @@
+| English Word        | Part of Speech  | Odiya Translation |
+| ------------------ | -------------- | ---------------- |
+| mild diarrhoea      | Noun           | ଚୁଡୂଟ୍‌ CR     |
+|                     |                | କା ଆନ୍ଦାନାଦ୍‌    |
+| mildly, tenderly    | Adverb         | ମେତାଙ୍୍‌ ଲେକେ   |
+| milk                | Noun           | ପାଲ୍‌           |
+| milk teeth          | Noun           | ପାଲ୍‌ ପାଲ୍‌ କ୍‌ |
+| milk tooth          | Noun           | ଲେନ୍ତା ପାଲ୍‌ କ୍‌ |
+| milky way           | Noun           | ସୁକାର ବିଡ଼ାମ୍‌ |
+| mill                | Noun           | ମିଲ୍‌           |
+| millipede           | Noun           | ତେରେଲ ପେତେ     |
+| mind                | Noun           | ବୁଝି, ମାନ୍‌, ଆଲ୍‌ ପ୍‌, ଜୀଓା | 
+| mine                | Pronoun        | ନାଓାଁକୁ        |
+| miner               | Noun           | କାଲ୍‌ କ୍‌ ଡେୱାନ୍‌, କୂଲିନୋର୍‌ |
+| minerals            | Noun           | ବୂମ୍‌ @@6a ମାନ୍ଦାନାଦ୍‌ କାଲ୍‌, ରାୟ୍‌,ଓୱାର୍‌ |
+| minimum             | Adjective      | କାମ୍‌          |
+| minister            | Noun           | ନେତା, AG       |
+| minnow              | Noun           | କାଙ୍କା କୀକେ    |
+| minor               | Adjective      | କାମ୍‌ ଓାୟ୍‌ ସ୍‌, ନାରୂର୍‌ |
+| minute              | Noun           | ନିମିସା         |
+| minutely            | Adverb         | ଜେୟ୍‌ ୟା ସାୟା, ଉଡ଼ାନାଦ୍‌ |
+| miracle             | Noun           | ଉଡ଼ି ସେଦ୍‌ ଞେଦା, ଆଦାନାଦ୍‌, ଦାଦ୍‌, ରେଲାନ, ମେଲ୍‌ ତା ପାଡ଼ିୟ୍‌ |
+| mirror              | Noun           | ଆଦାମ୍‌         |
+| misappropriation    | Noun           | ବୋଲସଭଦାନାଦ୍‌, ଞୌୋ ଦାନାଦ୍‌, ପିଲ୍‌ ଲା ଡଙ୍କା, ଡକାତା କାର୍‌ ପ

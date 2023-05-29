@@ -1,0 +1,31 @@
+| English Word     | Part of Speech | Odia Translation |
+|------------------|------------------|-------------------|
+| axe              | Noun             | ଗଡ଼େଲ୍‌            |
+| ayurveda         | Noun             | ମାଡ଼ା ଆକି ପଦାଲା        |
+| କୋଞ୍ଚି           | Noun             | ୱାଦାନ୍‌ ମାତ୍‌      |
+| bank of river    | Noun             | ଓଡିନାଗା           |
+| banner           | Noun             | ସୀଲେ ତା ମାଟା AIG |
+| ମାନ୍ଦାନ୍‌         | Noun             | ଜେଣ୍ଡା               |
+| banticoot        | Noun             | କକୁ                |
+| banyan tree      | Noun             | ମାରି ମାଡ଼ାମ୍‌      |
+| baptise          | Noun             | ଏର୍‌ ଦା ମୁଣୁଙିଂସି        |
+| AM FF            | Noun             | ଖ୍ରୀଷ୍ଟ ଦାର୍ମାମ୍‌    |
+| ନାମ୍ମାନାଦ୍‌      | Noun             |                   |
+| barber           | Noun             | ମାଙ୍ଗେଲ୍‌           |
+| bard             | Noun             | ପାଟା AIAIGI        |
+| bark             | Noun             | ମୋରୁମ୍‌            |
+| bark of tree     | Verb             | କୋମା              |
+| ଏରାନାଦ୍‌         | Noun             |                   |
+| barking          | Verb             | ନେୟ୍‌ GIR କା,ଭୁ,ଭୁ |
+| ବୁସ୍ତା           | Noun             |                   |
+| barns, barnyard  | Noun             | ସଜାତ୍‌            |
+| ଲୋନ୍‌            | Noun             |                   |
+| barren           | Noun             | ଓାଞ୍ଜା ନାଟା         |
+| barren land      | Adjective        | ଓାଉା ବୂମ୍‌         |
+| barrier          | Noun             | ଆଡାମ୍‌            |
+| basement         | Noun             | @Ql¢]             |
+| bashfulness      | Adverb           | ବାର୍ଶୋରେ           |
+| ଦୁକ୍‌ କାମ୍‌ ଆଦାନାଦ୍‌ | Noun             |                   |
+| basil leaves     | Noun             | ତୁଲ୍‌ ସି          |
+| basin            | Noun             | ଦୋଡ଼ା ତାସାନ୍‌      |
+| ବେଡ଼ିୟା ଗିନି     | Noun             |                   |

@@ -1,0 +1,20 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| nail | Noun | ମଲେ |
+| nail(of hand) | Noun | ଗୋକ୍‌, ଗୋର୍‌, ଏନ୍‌ ଶ୍‌ |
+| nailed, pierced, hammer | Adjective | କୂଟ କଟଭୋର୍‌ |
+| naked | Adjective | ଦୁଙ୍ଁ ଦୁଙ୍ଗା |
+| name | Noun | ପେଦେର୍‌ |
+| naming ceremony | Noun | ପୂରୁକ୍‌ |
+| nape | Noun | ଚେମ୍ପା, ପିଟ୍‌ ଗୁତୁମ୍‌ |
+| narrow | Adjective | ଆଙ୍ଗ |
+| narrow place of stem of tree(houses) | Noun | ସାରା |
+| narrowness winding lane,alley,nook | Noun | ପାଇନ୍ଦ୍‌ |
+| native spade | Noun | କୋଦାଳ |
+| natural | Adjective | ଆଦାନାଦ୍‌, ବେସ କେ ବାରେ, ନାଢ଼ୂତାନାଦ୍‌ |
+| nature | Noun | ମାବ୍‌ ନୁ ବୂମ୍‌ |
+| nausea, retching | Noun | ତେମ୍ା, ଓାଟାନାଦ୍‌ |
+| navel | Noun | ବହୁ |
+| navy | Noun | ନୋର୍‌ କ୍‌ |
+| naxals | Noun | ଆନାଲୋର, ଗୁପ୍‌, ପାଲୋର୍‌, ନାର୍କାଟ୍ଟୋର୍‌ |
+| near | Adposition | ଦେଗେର୍‌, ସୋପ୍‌, ପେ, ଗାରେ |

@@ -1,0 +1,28 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| guava | Noun | ଲାଙ୍କା ଜେମ୍‌ ମା |
+| guava tree | Noun | ଜାମା ମାଡ଼ା |
+| guest vessel | Noun | ଚୁଟୁମିର୍‌ |
+| guitar | Noun | କୀଙ୍କୋର୍‌, କୀଙ୍କୀର୍‌ |
+| gum | Noun | ପାଲ୍‌ ଦ୍‌ ଅଓ୍‌, ଆଙ୍ଗ୍‌ |
+| gum from tree | Noun | ଏଞେର୍‌ |
+| gun | Noun | ତୁପାୟ୍‌ |
+| hand on | Verb | ଦେ AGIFIE |
+| hand full | Noun | ପିଡ଼କେଡ଼୍‌ ମୁଟେଡ଼ |
+| hand over | Verb | ଅପିଭଦାନାଦ୍‌ |
+| handcuffs | Noun | ଲେମ୍‌ |
+| handicapped | Noun | କୁଟାଲ୍‌- କୁଟଲ୍‌ |
+| handicraft | Noun | କାୟ୍‌ କିନେ ମାଡ଼ାନ୍‌ ସାମାନ୍‌ |
+| handle | Noun | କୋଲା, ସାତ୍‌ GIAl |
+| hands down | Verb | କାଇକ୍‌ ନେଲ୍‌, ଓାଟାନାଦ୍‌ |
+| hands up, raise hands | Verb | କାୟ୍‌ ତେଦାନାଦ୍‌ |
+| handsome | Adjective | ସୋକ୍‌ ମାନ୍ଦାନ୍‌, ନାରୂଣ୍ଡ |
+| hang | Verb | ସିଂ, ଞେମ୍‌, ପରା ଞେଡ଼ ସିଂ ମ୍‌ |
+| hang up shirt | Verb | କୁସାମ୍‌ ଞେମ୍‌ | 
+
+As you can see, some entries in output 1 were corrected using the corresponding entries in output 2, while keeping the correct entries from both outputs. The corrected entries are:
+
+- guava: ଜାମ୍‌ ପାଶୃ (output 2) was selected instead of ଲାଙ୍କା ଜେମ୍‌ ମା (output 1)
+- guilty: ୮୧/୮୮ ଦାଡ଼ ଦାଡ଼ AISI (output 2) was selected instead of IG ଦାଡ଼ ମାନ୍ତା (output 1)
+- gum: ପାଲ୍‌ ଦ୍‌ ଆଓ୍‌, ଆଙ୍ଗ୍‌ (output 2) was selected instead of ପାଲ୍‌ ଦ୍‌ Al, AGL (output 1)
+- handsome: ସୋକ୍‌ ମାନ୍ଦାନ
