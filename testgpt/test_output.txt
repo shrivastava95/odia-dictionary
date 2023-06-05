@@ -1,31 +1,31 @@
-Here's the formatted table after merging both outputs and removing non-common errors:
+Here's the formatted table after merging and removing non-common errors:
 
-| Word in English | Part of Speech | Odiya Translation |
-| --- | --- | --- |
+| Word in English  | Part of speech | Odiya Translation |
+|---|---|---|
 | basket | Noun | କୁଲ୍‌ ଲା |
 | basket made with bark | Noun | ସୋମ |
 | basket small size | Noun | ଟାଟ୍‌ |
 | basket used for storing cow dung | Noun | ପେଣ୍ଢା ଟାଟ୍‌ |
 | bat bird | Noun | ଗାବିଲି ପିଟେ |
 | bath room | Noun | ଏର୍‌ ପୁନ୍ଦାଙ୍କ୍‌ ଗାତ୍‌ |
-| bathe | Verb | କିମ୍ବା ନାହିଁ |
-| bay weaver bird | Noun | ଜାକ୍‌ କାଲ |
-| be | Verb | ଆଦାନାଦ୍‌, ମାନ୍‌ |
-| be angry | Verb | କୋପାମ୍‌ |
-| be careful | Adverb | ଚେତୁର୍‌ ମାନ୍‌ |
-| be cleaved(split) | Verb | ତାଲା, ତାନାଦ୍‌ |
-| be cooled | Adjective | ଗରମାଗରମ |
-| be employed | Adjective | ମାଡ଼ାନାଦ୍‌, ଆଇଗାମାଡ଼ାନାଦ୍‌ |
-| be extinct | Verb | ପିବାନାଦ୍‌ |
-| be struck | Verb | କୋୟେ ଭଇର୍କିଭା, ଗିଭା |
-| be there | Verb | ମାନ୍ଦାନାଦ୍‌ |
-| be times | Adverb | ସାମାୟାମ୍‌, ଟୀକ୍‌ ସାମାୟାମ୍‌ |
-| beak | Noun | ମୁସ୍‌ କିଡ଼୍‌, କିଡ଼ା |
-| beans | Noun | ଆକିଡ଼ା, କାୟା |
+| bathe | Verb | ତୁଷ୍ଟି ଦେଇଥାନ୍ତି |
+| bay weaver bird | Noun | ଜାକ୍‌ କାଲିଙ୍ଗା |
+| be | Verb | ଆଛି |
+| be angry | Verb | କୋପ ଆଛି |
+| be careful | Adverb | ଚେତାବନ୍‌ ଆଛି |
+| be cleaved (split) | Verb | ତାଲି ହୋଇ ଥିବେ |
+| be cooled | Adjective | ଠଣ୍ଡା |
+| be employed | Adjective | କାମ କରୁଛନ୍ତି |
+| be extinct | Verb | ପ୍ରତିଷ୍ଠା ହୋଇନାହିଁ |
+| be struck | Verb | ଘାଇଁ ପଡିବା |
+| be there | Verb | ଅଛନ୍ତି |
+| be times | Adverb | ବାରି |
+| beak | Noun | ମୁସ୍‌ କିଡ଼୍‌ |
+| beans | Noun | ଆକ୍ରାନ୍ତ |
 | bear | Noun | ଏଡ଼୍‌ ଜ୍‌ |
 | bear back | Noun | ପେର୍କେ ଜାର୍ଗାନାଙ୍କ୍‌ |
-| bear down | Verb | ଅଡ଼ି ଆନ୍ଦାନାଦ୍‌ |
-| bear on | Verb | ସାମ୍ାନ୍ଦାମ୍‌ ତାସାନାଦ୍‌ |
-| bear through | Verb | ତାର୍ରି ଆନ୍ଦାନାଦ୍‌ |
-| bear up | Verb | ମେଦୁଲ୍‌ କଟେ, ମଣଞ୍ଚୁ ଦୋରେ ଉଠିବା |
-| bear, sustain | Transitive | ଆନ୍ଦାନାଦ୍‌ |
+| bear down | Verb | ନିବଡ଼ି ଆନ୍ଦାନାଦ୍‌ |
+| bear on | Verb | ସମ୍ବନ୍ଧିତ |
+| bear through | Verb | ଉଠାନ୍ତୁ |
+| bear up | Verb | ବାହାର କରିବା |
+| bear sustain | Transitive | ପରିପାଳ କରିବା |
