@@ -15,6 +15,7 @@ This repository is for the purposes of building a parser that is able to read th
 5. [FTFY - Fixes Unicode]: run `pip install ftfy`
 6. `pip install opencv-python`
 7. [Enchant setup](contour_boxing/src/c-images_to_text/SETUP.md)
+8. DuckDB Python API setup - `conda install python-duckdb -c conda-forge`
 
 ## How to run
 To parse the Odia Dictionary pdf:
