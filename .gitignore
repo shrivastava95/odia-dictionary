@@ -1,2 +1,5 @@
 .env
 scoring_parser*
+azure_api_test.py
+odia_pests.json
+azure_api_testing*

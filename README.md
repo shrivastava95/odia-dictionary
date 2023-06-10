@@ -13,6 +13,8 @@ This repository is for the purposes of building a parser that is able to read th
 3. [PyPDF2 PDF Reader setup](src/d-read_pdfs_with_text/SETUP.md)
 4. [OpenAI API setup](src/e-gpt_api_sender/SETUP.md)
 5. [FTFY - Fixes Unicode]: run `pip install ftfy`
+6. `pip install opencv-python`
+7. [Enchant setup](contour_boxing/src/c-images_to_text/SETUP.md)
 
 ## How to run
 To parse the Odia Dictionary pdf:
