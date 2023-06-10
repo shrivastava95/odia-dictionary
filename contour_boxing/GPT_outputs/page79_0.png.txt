@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| tooth pain | Noun | ପାଲ୍ କୁ |
+| tooth stick, brush | Noun | ପାଲକାର୍ |
+| top | Adjective | ପରଁ, ଜୂଟ୍ |
+| top | Noun | ମେଟ୍ଟାତ୍ ପରା-ଜୂଟ୍ଲୁ |
+| torrent | Noun | ତୋଲ୍ କ୍ |
+| tortoise | Noun | ଏମ୍ୁଲ୍, ଢଡୂର୍ |
+| torture, anguish | Noun | ଷ୍ଟାମ୍ |
+| to-split | Verb | ବାଦାପାତାନାଦ୍ |
+| total up | Adjective | ଗୁଡ଼ଶ୍ ପା |
+| touch | Noun | କେଟାନାଦ୍, ଇଟାନାଦ୍ |
+| touch me not | Noun | ଭଟ୍ କିନ୍, କେଟ୍ କିନ୍ ଜାମ୍ ନି, ନି, ଥାଣ୍ କି |
+| alee | ଏଟୁ |
+| towards | Adposition | ଆ ପାକ୍ କା |
+| towel | Noun | ତାଲା ଗୁଡ଼ା, ଡୁଓାଲ୍ |
+| town, city | Noun | ଗାଡ଼ିୟ୍ |
+| trachea, wind pipe | Noun | ଗଲସ୍ କି ଆଙ୍ଗିଡ଼୍ |
+| trader | Noun | ଲାବାମ୍ ସେଙ୍କେ ଥାମ୍ |
+| tradition | Noun | ମୁନ୍ନେଟର୍ ନିୟାମ୍ |
+| traditional | Adjective | ମ୍ବନ୍ ନେଟ୍ କାଲାମ୍ ନୁଞ୍ଜ ଓାଦାନ୍ ନିୟାମ୍ |
+| tramp feet | Verb | ଟାପ୍ ଞେଲ୍ ତିତୋର୍ |
+| transformation | Noun | ମୋକ୍ କାମ୍ |
+| translate | Noun | ଞେରୁ ଗଟି ତେ ମାଲ୍ ସି କେତାନାଦ୍ |
+| transplant | Verb | ପୀଙ୍କି ଉର୍ ଶ୍ |

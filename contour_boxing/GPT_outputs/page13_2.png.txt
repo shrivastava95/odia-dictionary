@@ -1,0 +1,28 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| bundle | Noun | ଅଟ୍କଳିଆ |
+| a | Noun | ଞେକନ୍ ମୋପ୍ |
+| bundle up | Verb | ଆବର୍ତ୍ତନ |
+| wrap | Verb | ଆବର୍ତ୍ତନ |
+| encircling | Verb | ଆବର୍ତ୍ତନ |
+| bungalow | Noun | ମେଢା ଲୋନ୍ |
+| burned up | Verb | ଜ୍ବାଲାଆଚଳ |
+| burning | Verb | ତେଜ |
+| burning coal | Noun | ତାଡ଼କୁସୁଆ |
+| burning (fire) | Adjective | ଜ୍ବାଲାମୟ |
+| burst | Verb | ଫୁଟିବା |
+| burst forth | Verb | ପ୍ରକାଶିତ |
+| burst out | Verb | ଉଠିବା |
+| burst upon | Verb | ଅକ୍ରମ |
+| bury | Verb | ଦଫନାଇବା |
+| bus | Noun | ବସ |
+| bush, shrub | Noun | ପୋଦାଳା |
+| business | Noun | ବ୍ୟବସାୟ |
+| busy | Adjective | ବିଭିନ୍ନ କାମରେ ନିରତ |
+| but | Coordinating connective | ତାହାଲେ |
+| butcher | Noun | ମାଂସ କଟାର |
+| butt | Verb | ଟାକୁ ମାରିବା |
+| buttermilk | Noun | ଘିଆ ଦୁଧ |
+| butterfly | Noun | ଫୁଲପଖି |
+| butting, charging | Verb | ଠୋକା ମାରିବା |
+| buttocks | Noun | ପାକରା |

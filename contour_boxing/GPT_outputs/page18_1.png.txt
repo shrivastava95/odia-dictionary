@@ -1,0 +1,31 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| ପେଣ୍ଡୁ କ୍       | Noun           | ଜନ୍ ନା ଓାୟା, ଞେଡ଼ା               |
+| Com          | Noun           | ନା ପାଣ୍ଡ କାଲ୍, ପ୍ପ ପାଡ଼ିୟ୍, ବଲ୍ ବଳେ ଲିଶ ଡ଼ାବ୍ |
+| ପେଶ୍ଟାକ୍        | Noun           | ଓାୟା, ଞେଡ଼ା                          |
+| Com          | Noun           | ମଲା ଓ ମ୍ଲା କାଲ୍, ପାଣ୍ଡ ତ୍ କାଲ୍         |
+| COMmMer      | Noun           | ପାଡି                               |
+| COMmMer      | Noun           | ମ୍ଲା କାଲ୍, ପାଣ୍ଡ ତ୍ କାଲ୍            |
+| ତ୍ କାଲ୍       | Noun           | ସୈନୁକ୍ ଡ଼ଟ୍                          |
+| ୯୦11         | Noun           | ପିନୁମ୍                             |
+| correct      | Verb           | ସାରି, ଟୀକ୍, ନିଜାମ୍                    |
+| correction   | Verb           | ଟୀକ୍ ତୁଙ୍ଗା                          |
+| corruption   | Adjective      | ଲାଞ୍ଚାମ୍, ତାପ୍ ପାଡ଼ିୟ୍, ବଲ୍ ବଳେ ଲିଶ ଡ଼ାବ୍ |
+| ତାଳ         | Noun           | ତାଲ୍ କାନାଦ୍                         |
+| corset       | Noun           | ପାଡି                               |
+| cost         | Verb           | ଦାମ୍, ରେଟ୍                          |
+| cot          | Noun           | କାଟୁଲ୍                            |
+| cotton       | Noun           | ଦୁଦ୍, ତୂତୁଲ୍, ପା୍ପୁ ମାଡ଼ା ର୍ପ ମାଡ଼ା |
+| cotton tree  | Noun           | ପୁ ମାଡ଼ା, ଦୃଦ୍ ୬? ¿ ମାରା         |
+| cough        | Verb           | ଡ଼ାଗାନାଦ୍                          |
+| counsellor   | Noun           | ମାଟ୍ଟା QUAI                        |
+| MUGS         | Noun           | ଲେକାଟ                              |
+| couple       | Noun           | ଆଡି ରୂଞ୍ଚର୍                        |
+| ୯୦1{(1ୂ48୯   | Noun           | ଦାୟାଙଗ୍                            |
+| Course       | Noun           | ଅ । ନ୍ଦାନାକ୍ ଥାର୍, ନାଡ଼ଦା ଥାର୍      |
+| court        | Noun           | କୋର୍ଟ୍                            |
+| courtesy     | Noun           | EMIT ଓାଦାନର୍ କିଙ୍କ୍                  |
+| QUAI         | Noun           | ପ୍ରେମାତେ ଉଡ଼ାନାଦ୍                   |
+| courtyard   | Noun           | ଏହେଶ୍ଟା, ଥା ଙ୍ଗାଡ଼୍                 |
+| covenant    | Noun           | ଭର୍ ଞ୍ପର୍ ଲୋପେ                     |
+| ମାନ୍ଦାନ୍    | Noun           | ମାଟଙ୍ଟା MONG                       |

@@ -1,0 +1,31 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|-------------------|---------------------|
+| variety      | Noun              | ରେକା, ଞେରେ       |
+| ଡଓେରେ         |                   |                     |
+| vegetables   | Noun              | କାୟା              |
+| ₹୮101,୦୯&1୮  | Noun              | ବାଣ୍ଡ             |
+| vehicles     | running Adjective | ନାଡ଼୍              |
+| ସ            | ମିନ୍ଦେ          |                     |
+| veil         | Noun              | କେଲ୍ କ୍ ଗାମ୍ କ୍  |
+| Pole         |                    | ଗୁଡ଼ା              |
+| ventilator   | Verb              | ଗିର୍କ୍ କା, ଗାଲ୍   |
+| ଓାଦାନ୍       |                   | ବଶ୍ ଶା            |
+| veracity     | Noun              | ନିଜାମ୍            |
+| veranda      | Noun              | ଗଡ଼ା              |
+| ₹୦୮୮୯୬୭14,୦୬ଥ୦୯1୮ | Noun | ମ୍ର୍ସୁଲ୍ ବୁଲା    |
+| vertical     | Adjective         | ନିଲୁଗ୍ ମିନ୍ଦେ      |
+| Very         | ଏ                |                     |
+| Adjective    |                   | ଏନା, କେନ୍ବା       |
+| Very much    | Adjective         | ଗାଟି, ନାରଗେଁ      |
+| ,            |                   | ଦିବେଡ଼୍           |
+| Very often  | Adverb            | ବେଚଟ୍ ସୁଟ୍        |
+| Very Serious | Adjective         | ନାରଗେଁ ତିପ୍ ପାଲ୍ ବାର୍ ତାନାଦ୍ |
+| Very slow    | Adjective         | ପସ୍ କିଭଣ୍ଡ        |
+| waist        | Verb              | କାନ୍ତିର୍, ଟିକିଡ଼   |
+| ତୋତାନାଦ୍  | ଉତଭ୍ଭିତୋର୍      |                     |
+| Verb         |                   | ଟିକିଡ଼, ଟିକିର୍    |
+| wait         | Verb              | କେପା              |
+| wait         | ୮୬ ୯୪ little period |                     |
+| Adverb       |                   | ଜେଲ୍, କାଲାମ୍, ଜାମ୍ |
+| wait ଓଠ     | while OT little   |                     |
+| Adverb       |                   | ସୁଡ଼ଟ୍ ମାନ୍ -ସେନ୍ ନାଲ୍ ମାନ୍ |

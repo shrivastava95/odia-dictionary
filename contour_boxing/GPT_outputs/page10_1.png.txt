@@ -1,0 +1,26 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| verb | Noun | ଏଡ଼ସ୍ ମାନ୍ଦାନାଦ୍ |
+| beard | Noun | ଗାଡମ୍ |
+| bearded | Unknown | ଗାଡମ୍ମାନ୍ଦାନୋଣ୍ଡ |
+| beast | Noun | ଗାଗା ଜୀୱା ଜନ୍ତୁ |
+| beat the drum | Verb | ଡଲା ଏଥନ୍ଦାଟ୍ ଓାଡ଼ ସାନାଦ୍ |
+| beating, slap | Noun | ଓାଡ଼ସ୍ ପାନାଦ୍ |
+| beatitude | Noun | ନାଗେଁ ସୁଵକ୍ କାମ୍ |
+| beautiful | Adjective | ସୋକ୍ ସାୟାମ୍ |
+| beauty mark | Noun | ବଟ୍ୁ |
+| became tired | Adjective | ଥ୍ୟ୍ ତା |
+| because | Connective | ବାତ୍ କ୍ ଭଚ୍ କେ |
+| because | Subordinating connective | ଥାଦକ୍ ମାଇଦଂ ୦୮ |
+| become | Verb | ଆସ ମିନ୍ଦେ |
+| become contracted | Adjective | ମକ୍ କାମ୍ ମୁର୍ ତୁଙ୍ଗାନାଦ୍ |
+| become flat | Noun | ଲୋଟ୍ ଥାତ୍ |
+| become weak | Adjective | ଭର୍ ଓରି ଥାନ୍ଦାନାଦ୍ |
+| become wormy | Verb | ପାଣ୍ଡକୁଲି ଥାତ୍ |
+| becoming fat | Adjective | ବାଲସ୍ ଡଣ୍ଡ |
+| bed | Noun | ପୋଲକ୍ କାଟୁଲ୍ |
+| bed | Noun | ପାଡ଼୍ କାତ୍ GAGE (୦୪୦୪) |
+| bed sheet | Noun | ଦୁପୋଡ଼୍ |
+| bed stead | Noun | ବାଲାନ୍ ବେଡ଼ିୟା କାଟୁଲ୍ |
+| bedding | Noun | ପାଡ଼୍ ସାମ |
+| bedroom | Noun | ପାଟ୍ଟାନାକ୍ ଗାତ୍ |

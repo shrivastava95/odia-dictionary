@@ -1,0 +1,24 @@
+| Word in English | Part of Speech | Odiya Translation |
+|---|---|---|
+| quit | Verb | ତ୍୍ଡ଼୍ ସି ଥାନ୍ଦାନାଦ୍ |
+| quite | Adverb | ମତ୍ତାମ୍ ପୂର୍ତିକ୍, ସାରେ |
+| Rani sings | Verb | ରାନି ପାଟା ଆଲେ |
+| Tansom | Noun | ଜେଲ୍ ଦା ଫୁରିଏସ୍ |
+| SAIN | Noun | ଆଦାନାକିଙ୍କ କକ |
+| MAGI | None | ମାଗି |
+| rapidly | Adverb | ସିଟ୍ ପାଟ୍, ଗାବା |
+| rarely, seldom, occasionally | Adverb | ବେସ୍କେ ଥରୁ ସ୍ଟ୍, ବେସ୍କେ ବେସ୍କେ |
+| rascal | Noun | ଗାଡ଼୍ ସ୍ତାନାମ୍ (ନେରାମ୍ ମାଡ଼ାନୋଣ୍ତ) |
+| rashness | Noun | ପୀନା, ନାରଗେଁ ଦାୟାଙ୍ଗ, ଦୂର୍ସ୍ |
+| rat | Noun | ଡ଼କୁର୍, ଉପ୍ ପେ |
+| rather than | Correlative connective | ଦଳ ନା, ମ୍ମାର |
+| Taw fruit | Noun | ପଦାଳା ପାଣ୍ଡ |
+| Taw meat | Adjective | ପାଚି ଆଙ୍ଗି |
+| Taw rice cooked without draining the water | Noun | ପୁଙ୍ଗଲାମ୍ |
+| Taw green | Adjective | ପାଚିଦ୍ |
+| ray, beam | Noun | ଞେନ୍ନେଲ୍ |
+| 60 | Noun | ଗେଟ୍ ଟା ରିକମ୍ |
+| reach | Verb | ଏଏଓତାନାଦ୍ |
+| read | Verb | ପାୟୁର୍ ତେ ସାଦ୍ ଓାନାଦ୍ |
+| read into | Verb | ଥାଲ୍ ସି ଉଡ଼ାନାଦ୍ |
+| read off | Verb | କାର୍ ସ୍ ପି ତେର୍ ପିସାନାଦ୍ |

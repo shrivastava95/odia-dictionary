@@ -1,0 +1,28 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| heart | Noun | ଜୀୱା |
+| heartburn | Verb | ଗୁଣ୍ଡ ମାଣ୍ଡୋମିନ୍ଦେ |
+| hearty laugh | Noun | ସାୟ୍ କାଞ୍ୃତାନାଦ୍ |
+| heat | Noun | ଏସ୍ ସେର୍, କାପ୍ ପାନାଦ୍, କାଶ୍ ରା ଏ୍ର୍ |
+| heat boil | Noun | ବାମ୍ ବଗ୍ ଗା, ଣ୍ଟିଯ଼ା |
+| heat the Sun | Noun | ଏ୍ଦ୍ |
+| heat the water | Verb | ଏର୍ କାପା |
+| heaven | Noun | ମାବ୍ ସ୍ବାର୍ଗାମ୍, ସ୍ବାର୍ଗାରାଜ୍ୟାମ୍ |
+| heaven(0829899) | Noun | ମାବ୍ |
+| aloof | Verb | ମିନ୍ଦେ |
+| heavenly bodies | Noun | ଲିଙ୍ଗ |
+| heavenly body to rise | Intransitive Verb | ପେତାନାଦ୍ |
+| heavy | Adjective | AGGIE |
+| hedge | Noun | ଥାଡାମ୍ ଓାଟା |
+| heel | Noun | ମାଡ଼ମେ |
+| height | Noun | ଡେଙ୍ଗା ଏତାନାମ୍, ଡେଙ୍ଗା, ଏତ୍ |
+| hell | Noun | କିଶ୍ କୁଣ୍ଡା, ନାର୍କାମ୍ |
+| hen | Noun | ପେଟା କର୍ |
+| hence, from here | Adverb | ଭଗ୍ ଗା, ନୁଞ୍ଜିକକୁଞ୍ଚି |
+| henceforth | Adverb | ଭଞ୍ଜେୋ କୁଞ୍ଚି, ନିଞ୍୍ |
+| her | Pronoun | ଦାନାଦ୍ |
+| herself | Pronoun | ଆଦେ ଥାସ୍ |
+| her, it's | Pronoun | ଦାନି ନ୍ ଦାନାଦ୍ |
+| here | Adverb | ଇଗେ |
+| here and there | Adverb | ଆଗେ ଇଗେ, ଲଗେ ଆଗେ |
+| here with | Adverb | ଇଦିନ୍ |

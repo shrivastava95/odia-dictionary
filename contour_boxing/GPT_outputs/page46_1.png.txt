@@ -1,0 +1,28 @@
+| Word in English | Part of Speech | Odia Translation |
+| --------------- | -------------- | ---------------- |
+| marriage party | Noun | କୋକୋଣ୍ଡଠ |
+| dutin narunda | Noun | ଡୁଟିନ୍ ନାରୁଣ୍ଡ |
+| mash, pound | Verb | ଉକ୍ MIME |
+| mason | Noun | ମେସ୍ତ୍ରୀ |
+| massage | Noun | ଥାସ୍ କିମ୍ |
+| master | Noun | କୁମାର |
+| saw car, nar | Noun | ସାୱ୍ କାର୍, ନାଡ଼୍, ପିସାନୋଣ୍ଡ |
+| mat | Noun | ଚିନ୍ନା ସାମ୍ପା, ସାପା |
+| match | Noun | ୱାର୍ସା ଥାତ୍ ଜୋମ୍, ମାଡିରା |
+| match box | Noun | କିଶ୍ ପେଟି, ଆଗ୍ ॥ଗ୍, ପେଟି |
+| match stick | Noun | କିଶ୍ କାରାଁ -ଆଗ୍, ପୁଲା |
+| matching | Noun | Gale |
+| matted lock | Noun | ୦୮ hair, ଜାଟେଲ୍, ଜାଡ଼େଲ୍ |
+| matter | Verb | ମାଟା |
+| matured, age attend | Noun | ଥାନ୍ ସ୍ରାଲ୍ ଆତା |
+| maxim | Noun | ଠ୍ ମାଟା, COMICS |
+| maximum | Adjective | ନାରଗେଁ, ଗାଟି |
+| me | Noun | )ନିନ୍, MOG |
+| means | Noun | ଉପାୟାମ୍ |
+| meanwhile | Adverb | ଇଦିଙ୍କ୍ ନାଡ଼ମେ |
+| measles | Noun | ମେଡ଼ା ଗାଡ଼ା, ତାଲ୍ ଲ୍ଲଡ଼୍ ପେୟ୍ ତ୍ |
+| measure | Verb | କଲ୍ ସିଭ୍ତୋର୍ |
+| measuring glass for rice | Noun | ସୋଲା |
+| measuring glass for grain | Noun | ତାଞ୍ଜା, କାଡ଼୍ କ୍ |
+| meat | Noun | ଅ ଓଁ ଆଙ୍ଗି |
+| meat stick | Noun | ଜୂର୍ |

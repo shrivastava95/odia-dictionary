@@ -1,0 +1,21 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| turn upon | Verb | ସାଟ୍ କେ |
+| turning | Verb | ଓଁରି ଥାନ୍ଦାନାଦ୍ |
+| turning around (look) | Verb | ମିଡ଼୍ ନ୍ଦ ଉଡ଼ା |
+| tusk | Noun | ଏନ୍ ପାଲୁ |
+| tut | Interjection | ତୂ |
+| tutor | Noun | ଲୋତା ଗୁରୁ IS |
+| twelve | Noun | ପାଦିରେଣ୍ଡ |
+| twenty | Numeral | ଭର୍ |
+| twenty-five | Numeral | ଇଞେଁ |
+| ugly | Adjective | କାସିମାଲାମ୍, ଆଡ଼କୋଲ୍ |
+| ulcer | Noun | ଡକାତା ପୁଣ୍ତୁ ମିନ୍ଦେ |
+| ulcer in the mouth | Noun | ପାୱ୍ଵର୍ ୱ ସ୍ ଡା |
+| 11098, $019 | Noun | ଘା ultimately cells ମାରେକ୍ ଦାକ୍ |
+| umbrella | Noun | ଛାତା, କଡ଼ୁକ୍ |
+| umbrella made with bamboo | Noun | ଏରେକ୍ |
+| button the shirt | Verb | କୁସାମ୍ ତ୍ ବିଲ୍ଲା ତୀସାନାଦ୍ |
+| CONSIOUS | Adjective | oral କ୍ ଥାଦାନାଦ୍ |
+| interested, bored | Adjective | ମଣ୍ଡ ପେତ୍ |
+| unanimously | Adverb | ଅରୋଟ୍ |

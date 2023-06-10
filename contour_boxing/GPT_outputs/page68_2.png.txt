@@ -1,0 +1,26 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| stopping | Verb | ବାନ୍ଦ୍ ମାଡ଼ା |
+| work | Verb | ଜୋସିରିଞ୍ଚାନାଦ୍ |
+| stork | Noun | କଙ୍ଗା |
+| storm, cyclone | Noun | ଗାଲ୍ ମୁରୁଗ୍, ଦୁମାମ୍ |
+| stormy day | Adverb | ତୁପାମ୍ ଦୁମ୍ରାମ୍ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍ ଲେକେ ମାନ୍ଦାନ୍ ରୋଜ୍ |
+| story | Noun | କାତା, ଞେଚୁଡ଼୍ |
+| straight | Adjective | ତିନାଙ୍ଗ୍ କାମ୍ କାସ୍ଵମ୍ |
+| straight reply | Adjective | ତିନାଙ୍ଗ୍ କେଉଶାନାଦ୍ |
+| straight road | Adjective | ଥାର୍ ଏମ୍ ବାଡ଼୍ |
+| straight up | Verb | ଥାନ୍ ଜି ତେମ୍ |
+| strainer, sieve | Noun | ପିଶ୍ଚ କାରାନାଦ୍ ଜାଲଡ଼ |
+| straining | Verb | ମୁଭିତ୍ତର୍ |
+| stranger | Noun | ନେଲ୍ ୱବ, ପୁନ୍ଦ୍ ଭଲ୍ ଓା ନାରୂଣ୍ଡ |
+| straw | Noun | ସଲ୍, ଡ଼, ହାଟ୍, ମେ ଝ୍ା, କାର୍ କୟେ |
+| stream | Noun | ବୁଡ଼େର୍ |
+| streams | Noun | ନିଣ୍ଡ (୭୯) TEAS |
+| street | Noun | ପାୟା |
+| strength | Adjective | ବାଲାମ୍ |
+| strict | Adjective | ସାୟା କାପ୍ ଉଡ଼ାନାଦ୍ |
+| strike | Noun | ବାନ୍ଦ୍ |
+| strike matchstick | Verb | ଥାକ୍ ପେଟି ଥାତାନାଦ୍, SO ଭାନାଦ୍ |
+| string | Noun | ଦଉଡ଼ି |
+| strong | Adjective | ମା ଟିଙ୍ଗ, ଟେକ୍ |

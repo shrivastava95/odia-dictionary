@@ -1,0 +1,24 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| dung | Noun | ଗଦେ |
+| during | Preposition | ନାଡ଼ତାନ୍ ସାମାୟାମ୍ବ.ଆଶ୍ କାଶ କେ-ଥାସୁକ୍ |
+| dusk | Noun | ମାସ୍ ମାସ୍ ସିକାଡ୍ |
+| alae | N/A | ଞେଲା |
+| dust | Noun | ଧୁ ମ୍( ସାଞ୍ଜାନ୍) ତଲିତ୍, ଡ଼କ୍ ଡ଼ଲ୍ |
+| dust bin,carrier, basket | Noun | ତଗ୍ ଏଛାନାଦ୍,ଡୀକ୍ ଏଛ୍ଥାନାଦ୍,ଡୀକ୍, ଆର୍କଡ଼ିକ୍ ଆଆର୍କଡ଼ିକ୍ |
+| duster | Noun | ACIS |
+| earning | Noun | ଡାପ୍ କ୍ ଗୁଡ଼ପାନାଦ୍ |
+| earth | Noun | ବୁମ୍ |
+| earth Worm | Noun | ଏଡ଼ା ପୁଡ଼ିକ୍, ଏରାପୁଡିୟ୍ |
+| earthen Ware | Noun | ମାଣ୍ଡୁଲ୍ ତ୍ ସାମାନ୍ |
+| earthquake | Noun | ବୁମ୍ ଉଙ୍ଗିତ୍ |
+| Car-Wax | Noun | କର୍ ଞ୍ଜେଲ୍ |
+| easily | Adverb | ଏଦ୍ ଲାମ୍ ତେ |
+| east | Noun | ପଡ଼୍ ଦ୍ ପେୟ୍ ହ୍ ତାନାଦ୍ -ପାକ୍ କାମ୍ |
+| 9542 | Noun | ଏ୍ଦ୍ ଲାମ୍ |
+| 9542, chair | Noun | ମେତାଙ୍ଗ୍ ମାନ୍ଦାନ୍ କୁସ୍ସି |
+| eat | Verb | ତିନ୍ |
+| eatable items | Noun | ତିନ୍ଦାନ୍ ଟିଣ୍ଡ |
+| eater | Noun | ନାଡିଡୱ୍ବର୍ଗା ତିନ୍ଦାନାଦ୍ |
+| ebony fruit | Noun | ତୁମ୍ରି ପାଣ୍ଠି |
+| ebony tree | Noun | ତୁମିର୍ ମାରା |

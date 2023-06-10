@@ -1,0 +1,22 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| to anoint | Transitive verb | ଓକାନାଦ୍ |
+| clean | Transitive verb | ପା,ତାଲ୍ MIME |
+| with | Preposition | ସହ |
+| hand | Noun | ହସ୍ତ |
+| to bark | Transitive verb | ମାରା ତ୍ରାଗାନାଦ୍ ନେୟ୍ୟ |
+| to be available | Intransitive verb | ଦର୍କାନାଦ୍ |
+| to be boiled | Intransitive verb | ମାଗେ |
+| to be born | Intransitive verb | ପୁଟାନାଦ୍ |
+| to be broken | Verb | ଓନା ତ୍ରିରଗାନାଦ୍, ଏଡୂକ୍ ଞେରର୍ଗାନାଦ୍, ଓରିତ୍, ଓର୍ତାନାଦ୍, ତେଗାନାଦ୍ |
+| to be charred | Intransitive verb | କାୱ୍ ଥାନ୍ଦାନାଦ୍ |
+| to be cooked | Intransitive verb | ଞେଦାନାଦ୍ |
+| to be extinguished-fire | Verb | ଅସୀଅ |
+| to be fierce | Intransitive verb | ଏଦ୍ ତେର୍ତାନାଦ୍ |
+| sun's heat | Noun | ତେଜ |
+| to be filled | Intransitive verb | ନିଣ୍ଡି ଏପ ନାଦ୍ |
+| to be fried | Transitive verb | ଓାତାନାଦ୍ ପଡ଼୍ ସାନାଦ୍ |
+| to be known | Transitive verb | ତେଲିୟାନାଦ୍, ପୁନ୍ଦାନାଦ୍ |
+| to be loosened, untied | Intransitive verb | ଲେଙ୍ଗାନାଦ୍ |
+| to be lost, to be healed | Intransitive verb | ମାୟାନାଦ୍ |
+| to be not | Intransitive verb | ଲଇଲେ |

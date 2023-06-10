@@ -1,0 +1,24 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| parrot | Noun | ରାମ୍ବା ପିଟେ, ରାମେ |
+| parson | Noun | ପୂଜେର୍ |
+| part by part | Noun | ମୁକ୍ କା ମୁକ୍ କା |
+| part from | Verb | ୱଡ଼୍ ସି ଥାନ୍ଦାନାଦ୍ |
+| part with | Verb | ଡଓେରେ ୱଓରାନାଦ୍ |
+| partiality | Noun | ସାମାକ୍ ଭଲ୍ଲକୁଟେ, ମାନ୍ଦାନାଦ୍ |
+| particular | Adjective | ଅରଙ୍ଟେ, ମାଵୁମ୍ ଆଣ୍ଠେୟ୍, ଯୁ୍ପ୍ ପୟ, ଶାଞଜଲ୍ |
+| parting | Verb | କେଲ୍ କ୍ ପାୟା, ତୀସାନାଦ୍ |
+| partition | Noun | ବାଗାମ୍ ତୁଙିଂ ସାର୍, ଦିଭଦାନାଦ୍ |
+| partner | Noun | ଅଣ୍ଡୋୟ୍ ପାଡ଼ିୟ୍ ଡା, କାଲିୟି ମାଡ଼ାନୋର୍ |
+| partridge | Noun | କାଞ୍ଚିପିଟେ |
+| parts 08 leg | Noun | ଟିକ୍ କାଲ୍ (ଡେକା) |
+| pass | Verb | ତାଣ୍ଟ ନାଡ଼୍ ସ୍, ଥାନ୍ଦାନାଦ୍ |
+| pass away | Verb | ଡଲାନାଦ୍ |
+| pass by | Verb | ଗାରୈ ଦାୟାନାଦ୍, ନାଡ଼୍ ସି ଥାନ୍ଦାନାଦ୍ |
+| pass into | Verb | ମାରି ଥାନ୍ଦାନାଦ୍ |
+| pass out | Verb | ପେୟ୍ ସି ଥାନ୍ଦାନାଦ୍ |
+| passer-by | Noun | ଷ୍ଚେରର୍ଣ୍ତ |
+| passion(bear) | Verb | ଆର୍ସାନାଦ୍ ଏ ସାମାଲିଉ ନ୍) |
+| past | Verb | ଥାରା, ଦିନାମ୍ |
+| pasted | Adjective | ଟେକ୍, କୁଇ ନ୍ଆଣ୍ଠ ମିନ୍ଦେ |
+| pastor | Noun | ଗୁଡ଼ିୟ୍ ଦା ପ୍ରାର୍ତାନା |

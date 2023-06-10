@@ -1,0 +1,27 @@
+| Word in English | Part of speech | Odiya Translation |
+|---|---|---|
+| profession | Noun | ତୁଙ୍ଗାନଣ୍ଡ |
+| ଏଓ୍ | Noun | ସାୟାମ୍, ପ୍ାଡ଼ିୟ୍ |
+| professor | Noun | ସାଦ୍ |
+| ଞ୍ତସାନୋର୍, କାର୍ ମ୍, ପାନୋର୍ |  | 
+| profit | Noun | ଲାବାମ୍ |
+| programme | Noun | ପାଡ଼ିୟ୍ ଦ୍, ସାମାୟାମ୍ |
+| promise | Noun | ମାଟା |
+| ଞିଡ଼ସାନାଦ୍, ଭଦାନାଦ୍, ନିଜାମ୍ |  | 
+| pronunciation | Noun | ଗଟି, ଟୀକ୍ |
+| ତେ ମାଟା ଲେଙ୍ଗ |  | 
+| properly | Adverb | ଥଆଚ୍ଚାଲ୍ |
+| property | Noun | ସ୍ମ, ଘ୍ନରାନ୍ ସ୍ରାମ୍, ଧୀ ଦୁମ୍, ଡ଼ାବ୍ କ୍ |
+| prophecy | Noun | ନାଡ଼୍ ଦିନା ମାଟ୍ଟା |
+| ମୁନ୍ନେ କେରାନୋନ୍ |  | 
+| prophet | Noun | ପାରାମେଶ୍ରବାରିନ୍, ଇଭଷ୍ଟାମ୍ ପୁନ୍ ଜ୍ ମାନ୍ଦା |
+| ତ୍ତ ନାରୂଣ୍ଡ |  | 
+| propriety | Noun | ଆଦିକାରାମ୍ |
+| prosperity | Noun | ମେଲ୍ ଡା ନୁ ସାୟାମ୍ |
+| prostitute | Noun | ଲାଞ୍ଚ ପାଡ଼ିୟ୍, ନାଟାଡ଼, ଲାଞ୍ଚ୍ ନାଟା ?ାଟା |
+| prostitute lady | Noun | ବୋଗା |
+| protect | Verb | କାପାଡିଭୋଣ୍ତ |
+| protein | Noun | ସକ୍ ତି ଦର୍ କାନାଙ୍କ, ତିନ୍ଦାନାଦ୍ |
+| protruding teeth molars | Noun | ଗଗୋ ଗାୱ୍ ଗା ପାଲ୍ କ୍ |
+| proud | Adjective | ଗାର୍ ଓାମ୍, ଥାତଣ୍ଡ, କୁଶ୍ ଶି ତାମ୍ |
+| provided | Subordinating  | |

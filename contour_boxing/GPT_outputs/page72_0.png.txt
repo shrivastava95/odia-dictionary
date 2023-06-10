@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| the patient | Verb | ରୋଗନୋଣ୍ତ |
+| unable | Adjective | ତେଦାଲୋଣ୍ଡ |
+| to sit up | Verb | ମିନ୍ଦେ |
+| the place | Noun | ପାୟନ୍ଦା ମନ୍ଦେ, ସାନ୍ଦ୍ |
+| between | Preposition | ମଧ୍ୟରୁ |
+| 800 houses | Noun | ୮୦୦ ମନ୍ଦେ |
+| theft | Noun | ଡଙ୍ଗାନାଦ୍ |
+| their (far) (possessive) | Pronoun | ରାଦ୍, .$ ରାଦ୍ |
+| theirs (near) (possessive) | Pronoun | ଭରାଦ୍ |
+| them | Pronoun | ଉକିଙ୍କ |
+| them (near) | Pronoun | ଭରକିଙ୍କ |
+| themselves | Pronoun | ଉରେ ନିଜେ, ସନ୍ତା ସନ୍ତା ତାମ୍ ତାମ୍ |
+| then | Coordinating Connective | ଥସୁଟେ, ଆସ୍କେ |
+| thence forth | Adverb | ଆ ସାମାୟାମ୍, କୁଞ୍ଚି, ନୁଞ୍ଚି |
+| 1101099,1989 | Adverb | ଆଗା କୁଞ୍ଚି, ନୁଞ୍ଚି |
+| there | Adverb | ଆଗେ 110୦ 1୯], 11୯୮୯୨୪୨ |
+| therefore | Coordinating Connective | ଦାନ୍ ସେଗେଂ, ଥାନ୍ଦ୍ କେ, ଆଦିଂ ମାଇଦିଂ |
+| therein | Adverb | ଦାନ୍ ନାଡ଼ମେ |
+| thereof | Adverb | ଆୱିଷାୟାମ୍ ତେ |
+| therewith | Adverb | ଦାନ୍ ତୋଡ଼େ, ଟୋଏଣ୍ଟେ, ସାଙ୍ଗେ |
+| thermometer | Noun | ମେନ୍ଦୁଲ୍ ଞେଡ଼୍ ଏଡ଼୍ |
+| 1, ବେଚୋଟ୍, ଭଞ୍ଜୋ | Noun | କଲ୍ଲସାନାଦ୍ |
+| these all | Adjective | ଥାୱ୍ ସାରେ |

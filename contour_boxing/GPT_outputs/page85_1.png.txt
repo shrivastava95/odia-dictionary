@@ -1,0 +1,28 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| Mandan | Noun | ପାସୱନ୍ |
+| Pitē, aḍuwā jivā | Noun | ପିଟେ, ଆଡୁୱଁ ଜିୱା |
+| Wild boar | Noun | ଥାଡ଼୍ ଓ୍ ଡା ପାଦ୍ |
+| Wild cat | Noun | ବାୟ୍ କ୍ |
+| Wild fruit | Noun | ପଟୋଶ୍ କାୟା |
+| Wild life | Noun | ଗୁପାତ୍ ମାନ୍ଦାନ୍ |
+| Jīñām | Noun | ଜୀଞାମ୍ |
+| Wild lime | Noun | ତାପାଂରିମ୍ମା କାୟା |
+| Wilderness | Noun | ଓରି ମାନ୍ଦାନ୍ ବୁମ୍ |
+| Wile | Noun | ଡ଼ିଟ୍ଟା |
+| Wilful | Adjective | ସନ୍ତା ଇଭଷ୍ଟାମ୍ ତେ |
+| Will | Noun | ଇଷ୍ଟାମ୍ |
+| Will be | Verb | ଥାତା। କମାନ୍ତା |
+| Will not accept | Interjection | ଓପ୍ ପର୍ |
+| Will see | Verb | ଉଡ଼ି ତଣ୍ଡ |
+| Will you come? | Verb | ତିନା? ଏୀତିନ୍ |
+| Will you drink? | Interjection | ଉଣ୍ଟାନା |
+| Willingly | Adverb | ଇଷ୍ଟାମ୍ ତେ |
+| Win | Verb | ଜିଡ଼ାନାଦ୍ |
+| Wind | Noun | ଗାଲ୍ |
+| Wind blowing | Verb | ଗାଲ୍ ତଲମିନ୍ଦେ |
+| Wind dropsy | Noun | ଡକ୍ କା କାଲି ଇଗେ ଥାଲ୍ ଲାଙ୍ଗ୍ ମାନ୍ଦାନାଦ୍ |
+| Wind, to fan | Intransitive verb | ସକାନାଦ୍, ଗାଲ୍ ତଲୋମିନ୍ଦେ |
+| Window | Noun | କିଡ଼କେ, ଜର୍ କା |
+| Windpipe | Noun | ବଣ୍ କି, ନେସ୍ କାଡ଼ ନାଡ଼ତାନ୍ ଗଣ୍ କ୍ |
+| Wing | Noun | ରେକା |

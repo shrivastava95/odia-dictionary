@@ -1,0 +1,38 @@
+| Word in English | Part of Speech | Odiya Translation |
+|-----------------|----------------|------------------|
+| ତୋଡ଼୍           | Adverb         | ତୋଡ଼୍            |
+| ଟୋଣ୍ଟେ         |               | ଟୋଣ୍ଟେ          |
+| hereafter       | Adverb         | ଇଦିନ୍ କ୍ଷଣିକ    |
+| hereby          | Adverb         | ଇଦିନ୍            |
+| ଟୋଣ୍ଟେ         |               | ଟୋଣ୍ଟେ          |
+| ଇଦିନ୍           |               | ଇଦିନ୍            |
+| herein          | Adverb         | ଇଦିନ୍ ନାଡ଼ମେ     |
+| hereto          | Adverb         | ଭଙ୍କାଦାକ୍       |
+| hereupon        | Adverb         | ଇଦିଙ୍କ୍ ପରୈ      |
+| hero            | Noun           | ସାକ୍             |
+| ମାନ୍ଦାନୋଣ୍ଡ       |               | ମାନ୍ଦାନୋଣ୍ଡ      |
+| heroine         | Noun           | ମାନ୍ଦାନ୍ ନାଟ୍    |
+| heroism         | Noun           | ସାକ୍ତି          |
+| ମାନ୍ଦାନୋଣ୍ଡ       |               | ମାନ୍ଦାନୋଣ୍ଡ      |
+| heron           | Noun           | କୋଙ୍ଗା          |
+| hesitation      | Noun           | ରାଣ୍ଟ, ଥଣ୍ବାର୍ |
+| =ଓରେ            |               | =ଓରେ            |
+| ଓାଟ୍ଟିଭୋର୍      |               | ଓାଟ୍ଟିଭୋର୍       |
+| hibiscus        | Noun           | ମାନ୍ଦାର ପୂଙ୍ଗାର୍ |
+| hiccup          | Noun           | ଉଟ୍ କ୍ ରେଙ୍ଗିଂତା  |
+| hidden          | Verb           | ମିଞ୍ଜାନାଦ୍      |
+| hieratic        | Noun           | ଗୁରା            |
+| ଗାଟ୍            |               | ଗାଟ୍            |
+| high status     | Noun           | ବେଡ଼ିୟା ପଡ଼ିୟ୍  |
+| ଡା             |               | ଡା              |
+| high, lofty    | Adjective      | ବାରା, ବେଡ଼ିୟା  |
+| higher education | Adjective      | ବେଡ଼ୟା ସାଦ୍ ଧୂ |
+| highway robber  | Noun           | କାୟ୍            |
+| ଆଡାମ୍ ଓାଟି ୍ଠାଟି ଡ଼ଙ୍ଗାନୋଣ୍ଡ |               | ଆଡାମ୍ ଓାଟି ୍ଠାଟି ଡ଼ଙ୍ଗାନୋଣ୍ଡ |
+| hill            | Noun           | ଗୁବାଲ           |
+| him             | Pronoun        | ଇକିଙ୍କ୍         |
+| କିଙ୍କ୍           |               | କିଙ୍କ୍          |
+| himself         | Pronoun        | ଉଣ୍ଡେ ଥାସ୍      |
+| hind            | Noun           | ଡାଡା ଗରି       |
+| hinder          | Noun           | ଥାଡାମ୍ GIGS    |
+| hippopotamus    | Noun           | ଏବାରା           |

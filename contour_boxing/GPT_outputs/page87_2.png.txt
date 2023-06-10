@@ -1,0 +1,9 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| Noun | ଏରୁଣ୍ଡ | ଏରୁଣ୍ଡ |
+| Pronoun | ମୀୱାଦ୍ | ତୁଙ୍ଗ |
+| Pronoun | ନୀଞାଦ୍ | ତୁମ୍ |
+| Pronoun | ମୀରାଦ୍ | ତୁମ୍ରା |
+| Pronoun | ନୀଞାଦ୍ | ତୁମ୍ |
+| Noun | ଲେୟା, ଲେୟୋନ୍, ଲେୟର୍ | ଯୁବକ |
+| Interjection | ୟର୍ | ୟର୍ |

@@ -1,0 +1,23 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| fold your hands | Verb | ମୁଟା |
+| fold, heap | Verb | ବୁଣ୍ଡା |
+| folding | Adjective | କୁଚ୍ |
+| folding hands to rest | Verb | ଗୁଗ୍ |
+| follow | Verb | ପେର୍କେ ପେର୍କେ ଡ଼ା |
+| fomentation | Noun | ଥଞ୍ଜାର୍ |
+| fondness | Noun | ଇଷ୍ଟାମ୍ |
+| food | Noun | ଦୋଡ଼ା, ସାକ୍ କୂର୍ |
+| food become rotten | Adjective | ଥାୱ୍ ତା |
+| food to be charred | Intransitive verb | ମାଣ୍ଡୱାଟାନାଦ୍ |
+| foolish | Adjective | ପାନ୍ଦି, ବୁଦ୍ଦି ୁ୍୍ଦି ଭଲ୍ |
+| foot | Noun | ଲାବାକ୍ କାଲ୍ କ୍ |
+| foot print | Noun | ଥ୍ାଡ଼ଗୁଲ୍, alley ଗୁମ୍ |
+| for | Preposition | ସିଙ୍ଗଂ ଠାର |
+| fora while | Verb | ଜାମ୍ |
+| for | Noun | ବେଶ୍ କେ ବାରେ |
+| for fathers | Noun | ଦାଦୋ ର୍ ପେପିଡ଼୍ |
+| for me | Preposition | ନା ସେଙ୍ଗ |
+| for me only | Preposition | ଥରନ୍ |
+| for one day only | Preposition | ରୋଜନ୍ ମାଟୁଗ୍ |
+| for some day | Preposition | ବେସର୍ ରୋଜିନ୍ ମାଟ୍ଦୁକ୍ |

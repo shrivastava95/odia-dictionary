@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| inter | Verb | ଲୋପାଲ୍ ଡା ଥାଲ୍ ପ୍ ତୁରୁୱି |
+| palate | Noun | ମିନ୍ଦର୍ ପକୁ |
+| insert | Verb | ଇନ୍ଟେକ୍ସ ସାଡ଼ୁଞ୍ଜନ୍ |
+| intestine | Noun | ପକୁ |
+| finger | Noun | ଇନ୍ଟେକ୍ସ ମଟା |
+| intimacy | Noun | ପେର୍କେଟାଦ୍ କାଲିୟ୍ ମେଲିୟ୍ |
+| intoxication | Noun | ମାନ୍ଦାନାଦ୍ ଓଶ୍ ପୟ୍ ତିତ୍ |
+| invention | Noun | କତା, ପୂନାଦ୍ |
+| fly | Noun | ଉଡ଼, ତାୟାର୍ ମାଡ଼ |
+| investigate | Verb | ତୋପିସାନାଦ୍ ଓଠ ଅପରାଧ ନେରାମ୍ ମାଡ଼୍ |
+| tal | Noun | ତୋନାଗା ମାଙ୍ଟଗା ତାଲ୍, କାନାଦ୍, -ତାଲ୍ ପାନାଦ୍ |
+| invite | Verb | କାରୁଙ୍ଗାନା ସାନାଦ୍ ୍ଦ |
+| jackal | Noun | କଭଲା |
+| jackfruit-tree | Noun | ପାଞ୍ଚ ସେ |
+| jaggery | Noun | ମାଡ଼ା, ଧନ୍ ବେଲ୍ ଲାମ୍ |
+| jam | Noun | ଜିନ୍ ନେଣ୍ଡ ପାଣ୍ଡି, ନା ପାଣ୍ଡ |
+| jar | Noun | କୁଣ୍ଡା |
+| jasmine | Noun | ମାଲି ପୁଙ୍ଗାର୍ |
+| jaundice | Noun | ପାଚ୍ଚା ଆଇଏସିଏସ୍ |
+| java | Noun | ଲିର୍ଚ୍ଚତାଚାକୁର, ଗେଞ୍ଜ |
+| jawbone | Noun | ଗାୱଗା |
+| jealous | Adjective | ରାଗ କଣ୍ଡା ଏରାଏ ରାଁ ତେ ଉଡ଼ାନାଦ୍, ରୋଷେମ୍, କୂଡ୍ |
+| Ram | Noun | ରାମ୍ |

@@ -1,0 +1,23 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| ଲାକୀଦାନାଦ୍ | Noun | ଲାକୀଦାନାଦ୍ |
+| TUMOUT | Noun | ତାପୁତେ ବୁକ୍ କାର୍ |
+| କେଚ୍ଚିଦାନାଦ୍ | Noun | କେଚ୍ଚିଦାନାଦ୍ |
+| run | Adjective | ମିରାଁନାଦ୍ |
+| Tun about | Verb | ବୂମି ପାରଁ ତୁଲ୍ ଲି |
+| ମରାନାଦ୍ | Verb | ମରାନାଦ୍ |
+| Tun after | Verb | ପଷେର୍ କେ ପଷେର୍ କେ ମିର୍ ରି ଥାନ୍ଦାନାଦ୍ |
+| ମାନାଦ୍ | Verb | ଓାଡ଼୍ |
+| tun away | Adjective | ମିରି ଦାୟୁଟ୍ |
+| Tun down | Verb | ମିର୍ ରି ମିର୍ ରି ଥ୍ୟ୍ ତ୍ତ ଥାନ୍ଦାନାଦ୍ |
+| Tun out | Verb | ତେରି ଥାନ୍ଦାନାଦ୍ |
+| Tun ୦୪୦୮ | Verb | ଅଗିଦାନାଦ୍ |
+| TUNS | Verb | ମିରମିନ୍ଦେ |
+| rust | Verb | କାଙ୍କଁ ଇତା |
+| rustling ୦୮ leaves | Verb | ଥାକ୍ (ତାଟ ଲିନେଙ୍କିତା) ତାଲୁ ଗିଭା ତାଳୁ ଗିରା ମେଲ୍ ୠା ନାରୂଣ୍ଠ |
+| salary | Noun | ଜୀତାମ୍ |
+| saliva | Noun | ସେଲ୍ ତୁ ବୁଗା ଉସାନାଦ୍ |
+| salt | Noun | ଓୱର୍ |
+| salted and dried fish | Noun | ସେନ୍ କକେ ଗସା କିକେ ଓାଶ୍ ରା କିକେ |
+| saltiness | Adjective | ଥଞ୍ଚାର୍ କାର୍କ |
+| ଆତା | N/A | ଆତା |

@@ -1,0 +1,26 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| teeth | Noun | ଓଠ |
+| pig | Noun | ଖ୍ବସେ |
+| tell | Verb | କେଲ୍‌ ମ୍‌ ସେମିସ |
+| tell a lie | Verb | ବଲିସାନାଦ୍ |
+| tell against | Verb | ତେନ୍‌ ସ୍ |
+| tell apart | Verb | ତେଡ଼ା ତୋପିସାନାଦ୍ |
+| tell ଝି 8 ଝା | Verb | ଲେ କ୍ କା ଓାଟାନାଦ୍ |
+| tell upon, on | Verb | ନାଷ୍ଟାମ୍ ମାଡ଼ାନାଦ୍ |
+| tell (story) | Verb | ଞେୟ୍ କେଲା |
+| temper | Noun | କୋପାମ୍ ଆଇଲ୍ଲାମ୍‌ |
+| temperature | Noun | ଓଲ୍‌ ଦା କାକା ଦାଗା |
+| temple | Noun | ଗୁଡ଼ିୟ୍ ମନ୍ଦିର |
+| Noun | Noun | ବଟୁ ଚୁକା |
+| temporary | Noun | ବେସ୍ କେ ବାରେ ମାନୋ |
+| tempt | Verb | ଇଷ୍ଟାମ୍ ବେଗା ମିନ୍ଦେ ଭଞ୍ଜୋ ପରିକ୍ଷ୍ୟା ମାଡ଼ି |
+| It ତୋପିସାନାଦ୍ | Verb | ଉଡ଼ାନାଦ୍ ଥଶା |
+| temptation | Noun | ସଦାନା ପରୀକ୍ଷା ଏକ ତୁଙ୍ଗି ଉଡ଼ାନାଦ୍ |
+| ten | Numeral | ପାଦି ଦାଶ୍ |
+| ten paisa | Noun | ପାଦି ପ ଇସା |
+| ten past nine | Adverb | ତମିଦି ଗାଣ୍ଟାପାଦି ନିମିସ୍ |
+| ten to nine | Adverb | ତମିଦି ଗାଣ୍ଟାଥାଦାନାକ୍ ପାଦି ନିମିସ |
+| tender | Noun | ଥାର୍ ଆ ତୀସାନାଦ୍ |
+| tender leaf | Noun | କଡ଼୍ ଆକି IR |
+| tension | Noun | କପାମ୍ MISS |

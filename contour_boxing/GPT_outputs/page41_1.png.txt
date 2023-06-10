@@ -1,0 +1,27 @@
+| Word in English | Part of Speech | Odiya Translation |
+|---|---|---|
+| Noun | ଞେ୍ଡ଼୍ ମା | ଞେ୍ଡ଼୍ ମା |
+| Noun | ସାର ମାଡ଼ା | ସାର ମାଡ଼ା |
+| Kind | ୦୮ watery place | ଜଳିଷ୍ଠ ସ୍ଥାନ |
+| Noun | ତର-ଗୋୟ୍ | ତର-ଗୋୟ୍ |
+| Kindle the fire | Verb | କିସ୍ ପିଭ୍ତାନ୍ |
+| Kindly | Adverb | ଉଚୁମ୍ମାଲାମ୍ ତେ |
+| Kindness | Adjective | ଉସ୍ରମାଲାମ୍ |
+| - | - | ସାୟାମ୍ ମାଡ଼ି |
+| Kind of jungle root | Noun | କେଶ୍ କା ମାଙ୍କି |
+| King | Noun | ରାଜାଲ୍ |
+| King cobra | Noun | ନେୟ୍ ତାଡା, ତାରାଶ୍ |
+| Kingfisher | Noun | ଏ୍ର୍ କିକାଡ଼ |
+| King vulture | Noun | ଡାମୋର୍ |
+| Kingdom | Noun | ରାଜ୍ୟେମ୍ |
+| Kingdom | ୦୮ God | ପାରାମେଶ୍ବାରନ୍, ରାଜ୍ୟାମ୍ |
+| Kingdom | ୦୮ heaven < | ଶ୍ବାଗାରାଜ୍ୟାମ୍ |
+| Kinship | Noun | କୁଟୁମ୍ ଉତର୍ |
+| Kiss | Verb | ବୁରାଁ |
+| Kitchen | Noun | ଓଆଣ୍ଟଡା ତୁଙ୍ଗାନାକ୍, ଗାଦ୍, ଆଟାନାକ୍ ଗାଦ୍ |
+| Kitchen knife | Noun | ପନିକି କାଚ଼େର୍ |
+| Kite bird | Noun | ମାଲ୍ ସୁରିୟାଡ଼୍ |
+| Knavery | Noun | ତାନ୍ଦ୍ରାମ୍ ବଲିସାନାଦ୍ |
+| Knead mixing flour | Noun | ପିଶ୍ଚ ପିସକାନାଦ୍ |
+| Knee | Noun | ବଗଟମିଣ୍ଡା |
+| L | । | - |

@@ -1,0 +1,29 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| after wards | Adverb | ରାଲାନ ଥାଦ୍ |
+| afternoon | Noun | ପାୟା ମାଦ୍ ନାମ୍ |
+| again | Connective | ମେଣ୍ଡେ ମେଣ୍ଡୋନ୍ ଦାମ୍ |
+| against | Adposition | ୱରୋଦାମ୍ ତେ |
+| agreement | Noun | ରାଜି ଥାଦାନାକ୍ ମାଟା |
+| ague | Noun | ଆଣ୍ଡ କାନ୍ ଏଡ଼୍ କ୍ |
+| ah pain | Interjection | 3 ଯୟାୟ |
+| ahead | Adverb | ମୁନ୍ନେ |
+| aim | Noun | ସୂପ୍ ପୟ୍ ସି ପାଡ଼ିୟ୍ ମାଡ଼ାନାଦ୍ |
+| qr force | Noun | ମାବିନ୍ ସ୍ୟ୍ଭ ନୁର୍କ |
+| alack | Interjection | ଆଲେ |
+| alcoholic | Adjective | ଓଶ୍ |
+| alert | Adjective | ଚ଼େତ଼ୂର୍ |
+| alive | Noun | ବାତ୍ କାନାଦ୍ |
+| all | Adjective | ତୁଡ଼କେ ଥାନ୍ଦର୍ |
+| all | Noun | ସାରେ |
+| all hail | Interjection | ମେଲ୍ ଡା ଆୟି |
+| all in all | Adjective | ସାରେ |
+| all right | Adjective | ସାରି QUAI ଥାତ୍ |
+| all that | Noun | ସାରେ |
+| allopathy | Noun | ଡାକ୍ ଟାର୍ ମାତ୍ ତିନ୍ଦାନାଦ୍ |
+| allotment | Noun | ବାଗାମ୍ ସାର୍ଦୀଦାନାଦ୍ |
+| almirah | Noun | ଥାଲ୍ ମିରା, ରୋ |
+| almond | Noun | ବାଦାମ୍ ସେଲେ ଙ୍ଗା |
+| almost | Adverb | ବେଚୋଟ୍ ସୁମାରେ ଥାଦାନାଦ୍ |
+| aloe | Noun | ପାଦ୍ କୟ୍ ୟେ |
+| aloft | Adverb | ପରୁ |

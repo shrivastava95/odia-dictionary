@@ -1,0 +1,19 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --------------- | -------------- | ---------------- |
+| pillā  | Noun | ତାପ୍ ତେ |
+| illicit | Noun | ତାପ୍ ପୁ, କାରାପ୍ |
+| illustration | Noun | କାରା, ଞେସୋଡ଼୍, କାରା ନାରା କେଚ୍ଚୋରେ ମାଟା ବୋଦିସାନାଦ୍ |
+| image | Noun | ବକ୍ମେ, ପୁତଲାମ୍, ମୂର୍ ତି |
+| immature in behaviour | Adjective | ସୁଦୁର୍ ଆୟ୍ |
+| hae | Noun | ଚୟ୍ ସ୍ ଲେକେ ବୁଦ୍ଦି ଭଲ୍ ଣ୍ଡ |
+| immediately | Adjective | ଞେଣ୍ଟୋେନେ ଥାସ୍ କେ ଥାସ୍ କେ |
+| wnominent | Noun | ଦାଗେର୍ ଏୱ୍ସୋମିନ୍ଦେ |
+| immoral | Noun | ଗାଲ୍ ଗାଲ୍ ଉଡାନୋନ୍, ଗାଲି, ପାପ୍ ପାମ୍ ପାପ୍ ପାମ୍ |
+| ତାପ୍ ପ୍ପ ମାଡ଼ାନୋଣ୍ଠ | Noun | immoral/immorality Mola |
+| ummortal | Adjective | ବେସ୍ କେ ବାରେ ବାତ୍ MIME |
+| iuwnmovable | Adjective | ଗାଟିଙ୍ଗ, ଉଙ୍ଗ କଟେ, ମେଦୁଲା କୁଟେ, ଥଆଙ୍ କଟେ ମାନ୍ଦାନାଦ୍ |
+| impatient | Adjective | CODA ଭଲ୍ଲକୁଟାମ୍ |
+| impediment | Noun | ଥାଡାମ୍ implements | Noun | କାୟ୍ ଦେ ମାଡ଼୍ |
+| ତା ସାମାନ୍ | Noun | impolite | Adjective | ନେମ ୮ ତ୍ ଭଲୁକୁଣ୍ଟୀମ୍, ଦାନ୍ଦା ପୟ୍୍ ଭାନାଦ୍ |
+| impure | Adjective | ଥାଡ଼ଗୋଲ୍, ସାୟ୍ ଇଲ୍ଲେ |
+| impure water in pond | Noun | ଏରୁୱ ଗାଙ୍ଗ ପେରୀ |

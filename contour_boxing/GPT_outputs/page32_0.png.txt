@@ -1,0 +1,23 @@
+| Word in English | Part of Speech | Odia Translation |
+|----------------|----------------|-----------------|
+| good           | Adverb         | ମେଲ୍            |
+| fruit          | Noun           | ଡାକୁଳି          |
+| yielded        | Verb           | ଥାରେ            |
+| good           | Adjective      | ନାଲ୍ଲୋଡ଼ାଦ୍-ଆର୍ |
+| path           | Noun           | ମେଲ୍ ଡା ଥାର୍      |
+| good, nice     | Adjective      | ମାନ୍ ଚି,ମେଲ୍ ତା,ନାଲା,ସାୟା |
+| 20009          | Noun           | ଥାଡତୁଞ୍ ବାଙ୍କ୍     |
+| gospel         | Noun           | ମେଲ୍ ଡା କାବୁର୍    |
+| gossip         | Verb           | ଥାପୁନାମେ ଗଟି ଞେଟଚାନାଦ୍ |
+| got            | Verb           | ବୃନୁ୦୮ ନାନ୍ଦିଆତା |
+| gourd          | Noun           | ଗୁମଡ଼ି କାୟା      |
+| government     | Noun           | ୦୮୮୯୯, WAIN vorker ପାଡ଼ିୟ୍ ତୁଙ୍ଗାନୋର୍ |
+| 20988308       | Noun           | ଅଡ଼ି 6 ଲକେ ଦେସାମ୍ ତିନ୍ ସାଲାକୀଦାନୋଣ୍ଡୁ |
+| him            | Verb           | ସାଟ୍ କେ ଗନ୍ କିନ୍ ପୟ୍୍ ସି ନୋକିତୋର୍ |
+| gracious, grace| Noun           | ସାୟାମ୍, ସାୟ୍ ଉଡ଼ାନାଦ୍ |
+| gradual sinking| Verb           | ଓଡି ଥାନ୍ ମିନ୍ଦେ     |
+| gradually      | Adverb         | ଜେୟ୍ ଜେୟ୍ ତାର୍ରାନଦ୍ |
+| grains         | Noun           | ଏନପେଣ୍ଟକ୍, ପେଡେକ୍, ଓାଞ୍ଜାଏନ୍ କ୍ |
+| grand children| Noun           | ନାରି, ମାନ୍ ମାର୍ ମାୟାଡ୍ |
+| granddaughter son's daughter| Noun | ଏଲାଡ଼୍, ପେପନ୍ ମାୟାଡ଼୍ |
+| granddaughter, sons| Noun      | ବାଡ଼ିଓନ୍ ପୋତେଇଳେଇଥିବେ |

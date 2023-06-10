@@ -1,0 +1,30 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| mole | Noun. | ଆନା ସୁକା, ଥନାଲ୍  | 
+| ଭଟ୍ | Noun. | ରଭୋଣ୍ଡ | 
+| moment | Noun. | ସାମାୟାମ୍  | 
+| Monday | Noun. | ସୋମ୍ ଓାରାମ୍ | 
+| money | Noun. | ଡାବ୍ କୁ କୁ | 
+| money | Noun. | ଡାବ୍ଲ୍ ପାଇସା | 
+| money | Noun. | ମୁନା ସାଞ୍ଚ୍ | 
+| moneylender | Noun. | ଡାବ୍ କ୍ ବାକି ଇଦାନୋର୍ | 
+| Mongoose | Noun. | ବେଷ୍ଟ ଉପେ | 
+| monitor lizard | Noun. | ନେଇନଥଞ୍ଚୀ | 
+| monkey | Noun. | ମୃଞ୍ଜା | 
+| monkey chatters | Noun. | ମୂଞ୍ଜା ହମ୍ ହୂମ୍ ଇଭଞ୍ଜୋ Camel | 
+| monotone | Noun. | ସାମାଙ୍ଗ୍ ଲେଙ୍ଗ | 
+| month | Noun. | ନେଲ୍ଲା | 
+| moon | Noun. | ନେଲ୍ଲା | 
+| moon day | Noun. | ଲେନ୍ତା ନେଲ୍ଲା | 
+| moonlight night | Noun. | ନେଲାଞ୍େେନ୍ରେଲ୍ ତ୍ ନାର୍କା | 
+| moral | Noun. | ନିୟାୟାମ୍ ତ୍ଵ ମାଟା | 
+| morally worst | Adjective. | ଲାଞ୍ଜାତାନାମ୍ | 
+| MOTE | Adjective. | ଦିବେଡ଼୍ | 
+| MOTCOVET | Adverb. | ମେଣ୍ଡେ ବା | 
+| morning | Noun. | ସେନାଙ୍କ | 
+| morning Star | Noun. | ଞ୍ପିୟ୍ ଉକ୍ କାମ୍ | 
+| mortal | Adjective. | ଡଲ୍ MITE | 
+| mortar | Noun. | ସିମେଣ୍ଟ୍ ମାସାଲା | 
+| mosquito | Noun. | ନୁଲ୍ଲେ | 
+| mosquito net | Noun. | ନୁଲ୍ଲେ ଓଲା | 
+| moss | Noun. | ନାସ୍ |

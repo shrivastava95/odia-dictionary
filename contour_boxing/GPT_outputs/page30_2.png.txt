@@ -1,0 +1,22 @@
+| Word in English | Part of Speech | Odia Translation |
+|----------------|----------------|-----------------|
+| funeral ceremony | Noun | ଡଲ୍ ଡା ରୋଜ୍ ୱଶ୍ କ୍ ଞୋଦାନାଦ୍ |
+| furnace | Noun | କିଶ୍ କୁଣ୍ଡା |
+| furniture | Noun | ଲୋତା ଇସ୍ରେ ସାମାନ୍ |
+| further | Adverb | ଇଙ୍କା ମେଣ୍ଡେ |
+| futile | Noun | ମେରୈ ଥାପୁନାମେ |
+| future | Adjective | ଓାଦାନ୍ କାଲାମ୍ ନାରୁଣ୍ଡ |
+| gentle | Noun | ମେଲ୍ ତା, ସାୟା ନେମ୍ଲାତ୍ |
+| gentle breeze | Noun | ଥାଲ୍ ଲାଙ୍ଗ୍ ଗାଲ୍ |
+| gentle lady | Noun | ନମ୍ ମଦ୍ Mole |
+| gentleman | Noun | ନମ ଦ୍ ମାନୁଷ୍ୁଣ୍ତ |
+| genuine | Adjective | ମେଲ୍ ଡା, ସାୟ୍ |
+| germinate | Noun | ପ୍ପେ, ଲେନ୍ତା |
+| get | Verb | ଦରକିତାନ୍, ଏନ୍ତାନାଦ୍ |
+| get 9398432 | Verb | ଦୁର୍ସ୍ ମିନ୍ଦାନ୍, ଭସାର୍ |
+| get ahead | Verb | ମୁବନ୍ନେ ମୁନ୍ନେ ଥାନ୍ଦାନାଦ୍ |
+| get at, reach | Verb | ଏଓ୍ ତାନାଦ୍ |
+| get away | Verb | ମାଲ୍ ସି ଥାନ୍ଦାନାଦ୍ |
+| get caught | Verb | ଇଙ୍କି ମାରା |
+| get down | Verb | ଡିଗାନାଦ୍ |
+| £9811 | Verb | ଲୋପାଲ୍ ଗେବମିନ୍ଦର୍ (ଗଡ଼) |

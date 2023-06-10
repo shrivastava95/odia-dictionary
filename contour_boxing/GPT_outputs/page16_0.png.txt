@@ -1,0 +1,26 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| circle | Adjective | ଡ଼ଟ୍ |
+| circumcision | Noun | ଆଡୁକୋଲ୍, ସାୟ୍ ଭଲ୍ |
+| ଲେ | N/A | N/A |
+| citizen | Noun | ନିଜ ଦେଶେମ୍୍ ତ୍ ତ୍ ନାଟେନ୍ ନାରୂଣ୍ଡ |
+| city | Noun | କାଡ଼ିୟ୍, ହାର |
+| clan, cast | Noun | କୁଲାମ୍ |
+| clapping | Verb | କାୟ୍ ତାଲ୍ ସାନାଦ୍, ଓଡ଼ ସାନାଦ୍ |
+| clash | Verb | ତାଗାଲାନାଦ୍ |
+| class | Noun | କିଲାସ୍ |
+| classmate | Noun | ତୋଡ଼େ ସାଦ୍ ଓାନୋଣ୍ଡୁ, କାର୍ ୫ ପାନୋନ୍ |
+| clay | Noun | ବୁର୍ଦା Clam |
+| clean | Adjective | ଞେ୍ଡ଼୍ ତା, ନର୍ଦାନାଦ୍, ନାଲା ମାନ୍ତା, ଏଡ଼ି |
+| cleanliness | Noun | ସ୍ବାଙଗ୍ |
+| cleanse | Verb | ନର୍ ତାନାଦ୍ |
+| clear | Noun | ଞେଡିସାନାଦ୍ ଥାରାଷେରତ୍ ତା |
+| clear answer | Adjective | ମେଲ୍ ଡାଟିକ୍ ଜାଞାବ୍ |
+| clear water | Adjective | ଏ୍ର୍ ଟାଡ଼୍ କ୍ ମିନ୍ଦେ |
+| clever | Noun | SOME |
+| cleverness | Noun | ଚାଲାକ୍ |
+| climb | Verb | ତାରା |
+| climb down | Noun | ଡିଗା |
+| cling | Verb | ଗାଟି ପୋୟ୍ ସ୍ ମାନ୍ଦାନାଦ୍ |
+| clock striking | Verb | ଗାଣ୍ଠା ନେଙ୍କାନାଦ୍, ୱାଡ଼୍ ହାଡ଼ ସାନାଦ୍ |
+| close | Noun | କେଉାନାଦ୍, ମୁଚାନାଦ୍ |

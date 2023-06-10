@@ -1,0 +1,23 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| 04983,10th11th | Noun | ଥଜେଲ୍ ଚୁଲ୍ୟୀ |
+| 0408 | Noun | headache sinuses |
+| ଗାଟ ତାଲ୍ ଏତ୍ କେ | Noun | ଆଡ଼ କ୍ ଆଡ଼ କ୍ ଥାତ୍ର, ତାଲା |
+| ନୋତ୍, ଆଞା ଲାଗମିନ୍ଦେ | N/A | N/A |
+| 0408 | Adverb | ଗାଟ୍ଟି ସାର୍ଦା |
+| 0408 | Verb | ଟିକା ଟାକା ଥାଦାନାଦ୍ |
+| 0408 | Noun | loud, noise ଗାଟି ଆଦ୍ରି ମାଭୋର୍, ମରା ଓଟିତର୍ |
+| overjoy | Adjective | ଗାଲ୍ ଗାଲ୍, କାଲାକାଲା |
+| overtake | Verb | ପୟ୍୍ ତାନାଦ୍ |
+| owing to | Preposition | ଇଦିନ୍ ସେଙ୍ଗେ |
+| bird | Noun | କୁଞ୍ଜେୋ IC । ପିଟେ |
+| Own relation | Adjective | ସାହା । ସୁଙ୍ଗୁମୀର୍, lm ସିନୋର୍ |
+| 04811008 | Noun | ଆଦିକାରି |
+| 0080 | Noun | ମସର ପୁଣ୍ଡ |
+| pair | Noun | ଥାର୍ କା, ଲାଙ୍କେ |
+| pairs | Noun | bulls ploughs ଲାଙ୍କେ |
+| palate | Noun | ନାଲ୍ କିନ୍ ପରା ମାନ୍ଦାନ୍ ପଡ଼ିୟ୍ |
+| pale | Adjective | ଞେଲ୍ ଶିତ୍ Gale ସିୱକିତା |
+| palm | Noun | ଲାବାକାୟ୍, କାଲ୍ |
+| palm fruit, palm stone | Noun | ମୁଞ୍ଜା ପାଣ୍ଡ |
+| palm leaf | Noun | ତାଡ଼ ମେଟା |

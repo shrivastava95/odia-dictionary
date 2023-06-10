@@ -1,0 +1,26 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| pile up      | Verb           | ଦିବ୍ ବା ମାଡ଼ାନାଦ୍, ତୁଙ୍ଗାନାଦ୍ |
+| piles        | Noun           | SHARE ଡକ୍ କା |
+| pilgrim      | Noun           | ବାଗାଞ୍ଜନ୍ ଉଡ଼ାନାକ୍ |
+| ସେଙ୍ଗେ       | N/A            | ବାରାଁ ବାରାଁ ପଡ଼ିୟ୍ ଉଡ଼ାନୋର୍ |
+| pill         | Noun           | ମାତ୍ |
+| pular        | Noun           | ଗୁଞ୍ଚା, ମୂରୁ ତାମ୍ ଗୁଞ୍ଜେ |
+| pillow       | Noun           | ତାଲ୍ ପା ଗାଡ଼୍ |
+| ୮111077୦ଥ85୦୯,୭ଥ£ | Noun           | ତାଲ୍ ପା ଗାଡ଼୍ ସାନ୍ ଶ୍ ମୂଣା |
+| pimples      | Noun           | ମଟ୍ ମେ |
+| pin          | Noun           | ଏନିସ୍, କୁଡ଼୍ |
+| pinch        | Transitive verb | କିଚ଼ାନାଦ୍ କିର୍ଶାନାଦ୍ |
+| pineapple   | Noun           | ସପୁରି |
+| pious        | Noun           | ଦେଉଡ଼ୁ ନାମ୍ କାମ୍ ତେ ମାନ୍ଦାନୋର୍ |
+| pirate       | Noun           | ଏ୍ର୍ ଡା ମାନ୍ଦାନ୍ ଡଙ୍ଗା |
+| pit, cavity  | Noun           | ଗାଙ୍ଟଗା ଗୁୟ୍ ଦା |
+| pitch darkness | Noun         | ଗାଟି ସିକାଡ଼ ଆତା |
+| pitcher      | Noun           | କୁଣ୍ଡା |
+| pity, kindness | Noun         | ଉସ୍ବର୍ ଜୀୱାମ୍ |
+| place between the hands | Noun | ଏଙ୍୍ ରେକାନ୍ ପୟ୍ ସଞୋଦାନାଦ୍ |
+| place for feast | Noun        | ପାନ୍ଦୁଲ୍ |
+| place for palm stone | Noun  | ମାଟନ୍ ଦବା |
+| place for preparing toddy | Verb | କାଲ୍ ଓାଟ୍, କାଲ୍ ଓଟ୍ଟେ |
+| placenta     | Noun           | ପ୍୍ଙ୍ଗା |
+| plain area   | Adjective     | ପାୟ୍ ରଲ୍, ବାୟ୍ ୟଯୁଲ୍ |

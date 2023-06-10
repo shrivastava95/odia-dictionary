@@ -1,0 +1,26 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| VANS         | Noun.          | ମାନ୍ଦାନାଦ୍,ପାରାମେଶ୍ରାର୍  |
+| ମାନ୍ଦାନାଦ୍   | Noun.          | ମାନ୍ଦାନାଦ୍                    |
+| ମାନ୍ନାକ୍       | Noun.          | ଇଦାନାକ୍  ତାଶି              |
+| pregnancy    | Noun.          | ଏ୍ର୍  ପୁନ୍ଦିତ୍-ପଟ୍ଟା ଥାତ୍  ,ଡ଼ଙ୍କା  ୩ 12  ମିନ୍ଦେ |
+| prescription | Noun.          | ନିଜାମ୍  ବେଲେ                   |
+| ମିନ୍ଦେ        | Noun.          | ଭଞ୍ଜୋ  ରାସି  ଭଦାନାଦ୍          |
+| presence     | Noun.          | ମାନ୍ଦାନାଦ୍,6  ତ଼ାପାନାଦ୍       |
+| present      | Adverb.        | ଭଞ୍ଜେଟ୍  କାଲାମ୍              |
+| presentation | Noun.          | ମେଲ୍  ତା ସେଙ୍ଗେ  ସାମାନ୍  MAGI |
+| presently    | Adverb.        | NOW             |
+| ଭଞ୍ଜେୋ         | Adverb.        | ଭଞ୍ଜେୋ                       |
+| preservation | Noun.          | ଞୋସ୍  ରିଞ୍ଚି ତାସାନାଦ୍          |
+| preserve     | Verb.          | QUAI  ତାଶି  ମାନ୍             |
+| president    | Noun.          | ଇନ୍ଦିୟା  ଲେକେ ଦେସାମ୍          |
+| ସାଲାକୀଦାନୋଣ୍ଡ | Noun.          | ସାଲାକୀଦାନୋଣ୍ଡ,  ସାଲାକୀଦାନୋଣ୍ଡ, ଉଡ଼ାନୋଣ୍ଡ  ଡ଼ାନୋଣ୍ଡ |
+| prespiratin  | Noun.          | କୁମ୍  Gale  ପେୟ୍ ତାନାଦ୍ |
+| press        | Noun.          | ମାଟା  ରାସାନାଦ୍ Gala      |
+| press down   | Verb.          | ନକ୍  କା                     |
+| press        | Verb.          | ପଗୁ ଡ଼ରୁ  ତୁ  ଶ୍  କାନାଦ୍     |
+| press out    | Verb.          | PIMA            |
+| pressed      | Noun.          | ବିନ୍ଦେ  ପାଇସାତ୍           |
+| prevent      | Verb.          | କାଷ୍ଟାମ୍  ଓାଦାନ୍  ମ୍ବନ୍ ନେ  ଥାଡ଼ାମ୍  ଓାଟି  କାପ୍ ଉଡ଼ାନାଦ୍ |
+| prevention   | Noun.          | କାଷ୍ଟାମ୍  ଓାଦାନାଙ୍କ ମୁବନ୍ନେ  ଥାଡ଼ାମ୍  ଓାଟାନାଦ୍ |
+| previous     | Adverb.        | ତଲ୍  ଲିନ୍  କୁଞ୍ଚି            |

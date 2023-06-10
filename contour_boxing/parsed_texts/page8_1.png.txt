@@ -1,37 +1,37 @@
-Line Number | OCR English | OCR Odia
- ଓାଟାନ୍  ଗୋଣ୍ଠାମ୍ 
- aruml    Noun.  ହେମା  ମାଟି 
- ଠି  Coordinating 
+
+ ଞାଟାନ୍  ଗୋଣ୍ଟାମ୍ 
+ arm    Noun.  ହେମା  ମାଟି 
+ ଥିକ  Coordinating 
  connective.  ବେନ୍  ଲେକାନ୍ 
- ଠି  4 result  ୦୮  Noun.  ଓତ୍  କାଡ଼, ସାତ୍ 
+ ଥିକ  a result  ୦୮  Noun.  ଞାତ୍  କାଢୁ, ଜାତ୍ 
  କେ 
- ଠି  if  Subordinating 
+ ଥିକ  if  Subordinating 
  connective.  ବେଲେ  ଆଲେ 
- ଠି  Soon  ଠି  Correlative 
- connective.  ଥାଶ୍  କେ  ଥାଶ୍ 
+ ଥିକ  soon  ଥିକ  Correlative 
+ connective.  ଆଶ୍  କେ  ଆଶ୍ 
  କେ 
- ଠି  well  Subordinating 
+ ଥିକ  well  Subordinating 
  connective.  ମେଣ୍ଡେ  ବା 
- ଓିଭ,, 0“    Correlative 
+ ଥିଲ, ଥିଏ    Correlative 
  connective.  ଆଲେକେ 
  ascent    Verb.  ତାର୍  ରାନାଦ୍ 
  ash  Noun.  ବୁଡ୍  ଦି 
  ashame  Adjective.  ସିଗ୍  ବାର୍ତୋନାଦ୍ 
- ashes  Noun.  ଥାକାର୍  ମାଡ୍ଜି ଆତ୍  ॥ତ୍ 
+ ashes  Noun.  ଆକାର୍  ମାଡ୍ଜି ଆତ୍  ାତ୍ 
  aside  Adverb.  ଅଣ୍ଡୋୟ୍  ପାକ୍  କା 
  ask  Verb.  କେସ୍  ଉଡ଼ାନାଦ୍ 
- ask  about  ଓଠ  person  Verb.  ଦାର୍କା 
+ ask  about  ଧି  person  Verb.  ଦାର୍କା 
  ତୁଙ୍ଗା 
- ask  for  Verb.  ମାନ୍ଦ୍  MAGI 
- ଓଇ  Noun.  ଗାଡ଼୍  ଦେ 
+ ask  for  Verb.  ମାନ୍ଦ୍  MARIE 
+ ଥିଲ  Noun.  ଗାଡ଼୍  ଦେ 
  assemble  Verb.  ଗୁଡାନାଦ୍ 
- association  Noun.  ସର୍ରାତୋକିଙ୍କ 
- ସାୟାମ୍  ଉଡ଼ାନ୍  ସାଙ୍ଗାମ୍ 
- asthma  Noun.  ନେସ୍  MIME  କାଷ୍ଟାମ୍ 
- ଥାଦାନାଦ୍ 
+ association  Noun.  ସର୍ରାତୋର୍କିଙ୍କ୍ 
+ ସାୟାମ୍  ASIA  ସାଙ୍ଗାମ୍ 
+ asthma  Noun.  ନେସ୍  କାନାଦ୍  କାଷ୍ଟୀମ୍ 
+ ଆଦାନାଦ୍ 
  astonishing  Adjective.  ସ୍ତ ସିନ୍ଧ୍ରାମ୍ 
- Sale  Gales 
- astringent  Noun.  ଥଗର୍ 
- astronomer  Noun.  ମୁନ୍ନେଟ୍  ପଷେର୍ 
+ Gala  ରୋଣ୍ଡ 
+ astringent  Noun.  ଅଗର୍ 
+ astronomer  Noun.  ମୁନ୍ନେଟ୍  ପେର୍ 
  କେଟ୍  ମାଟା  କେତାନୋର୍ 
- astronomy  Noun.  ପାଞ୍ଚେଗା 
+ astronomy  Noun.  ପାଞ୍ଚଗା 

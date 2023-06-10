@@ -1,0 +1,23 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|-----------------|---------------------|
+| to mix | Transitive verb | ପୀରାନାଦ୍ |
+| to mix hot and cold water | Transitive verb | କାଲପାନାଦ୍ |
+| to offer food | Transitive verb | ଏରମାନ୍ତାନାଦ୍ |
+| sand | Noun | ଞ୍ଧିଜା ପାଣ୍ଡୁମ୍ |
+| to open | Transitive verb | ରେତାନାଦ୍ |
+| bamboo stick | Noun | କଣ୍ଡା କୁତେମ୍ |
+| to flow | Intransitive verb | ପୀମା୦୪୦୮ |
+| to pain | Intransitive verb | ଉସୋମନ୍ଦେ ପୋର୍ଗାନାଦ୍ |
+| to pass away time | Verb | ନଅଥତା |
+| to pass urine | Intransitive verb | ପାୟାଲ୍ ତେରି ଥାନ୍ଦାନାଦ୍ |
+| to peel | Transitive verb | ଉଡି MIME |
+| to peep | Intransitive verb | ତଲ୍ କ୍ ଉୟ୍ ଶ୍ ପା ଟୋଟି ଓମ୍।ପୁଛା |
+| to pierce | Verb | ମାଡ଼କି ଉଡ଼ା ବାୟ୍ ପାନାଦ୍ |
+| to pinch | Transitive verb | କଟାନାଦ୍ |
+| to pitch the tent | Verb | କିଚ଼ାନାଦ୍ |
+| to play | Intransitive verb | ପାନ୍ଦିଡ଼୍ ଓାଟାନାଦ୍ |
+| to plough | Intransitive verb | କାର୍ AMIE |
+| to pluck | Transitive verb | ଉଡ଼ଦାନାଦ୍ |
+| to pound | Transitive verb | ପୁଙ୍ଗାକୟତାନାଦ୍ |
+| case | Noun | ଉସ୍ ଶା, ଉଛାନାଦ୍, ମୁଦୁମ୍ ଉସ୍ ତା ଞେଡ଼ସାନାଦ୍ |
+| to pour out water | Transitive verb | ପୋର୍ଗାନାଦ୍ |

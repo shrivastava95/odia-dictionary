@@ -1,0 +1,26 @@
+| Word in English | Part of speech | Odia Translation |
+|-----------------|----------------|------------------|
+| very            | Adverb         | ଅତିବଳି           |
+| small           | Adjective      | ଛୋଟା             |
+| species         | Noun           | ପ୍ରଜା            |
+| plantain tree   | Noun           | କାନ୍ଦ            |
+| very            | Adverb         | ଅତିବଳି           |
+| tasty           | Adjective      | ସ୍ୱାଦିଷ୍ଟ         |
+| vessel          | Noun           | ତବ              |
+| vessel with narrow neck | Noun | କାଶ୍ଥଲାବିନ୍ଦୀ |
+| vessels blacken by burning | Verb | ତେପ୍ଲାମ୍ ମାସ୍ ଥାତ୍ |
+| vice            | Noun           | ଦୁଷ୍ଟତା          |
+| vice president  | Noun           | ପ୍ରଧାନାଧ୍ୟକ୍ଷ     |
+| village         | Noun           | ଗ୍ରାମ            |
+| victory         | Noun           | ବିଜୟ            |
+| village meeting | Noun           | ପଞ୍ଚାୟତ          |
+| village street name | Noun      | ଗଲିର ନାମ        |
+| village chief   | Noun           | ଗ୍ରାମପଞ୍ଚ        |
+| vine            | Noun           | କାଣ୍ଟାଳି         |
+| vine tree       | Noun           | ମାଡ଼ାଗଛା        |
+| violence        | Noun           | ହିଂସା            |
+| violent         | Adjective      | ଉଗ୍ର             |
+| wake,rise       | Verb           | ଜାଗା             |
+| wakeup(suddenly)| Verb           | ହେଉଛନ୍ତି         |
+| walk            | Verb           | ହାଟିବା           |
+| walk about      | Verb           | ଘୁମାଇବା          |

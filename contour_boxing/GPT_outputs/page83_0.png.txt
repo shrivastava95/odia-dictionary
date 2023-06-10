@@ -1,0 +1,30 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| gaNa, gaDi | Noun | ଗାଣ୍ା, ଗାଡ଼ି |
+| wall | Noun | ୱଲ୍ |
+| about | Preposition | ନେଟା |
+| to | SIG | SIG |
+| fell | Verb | ଲୁ |
+| down | Adverb | ଓଲା ମିନ୍ଦେ |
+| wall lamp | Noun | ଦାଡ଼ିୟ୍ ଲାନ୍ତାର୍ ଡିୱରି |
+| wall, fort | Noun | ଦାଡିୟକ୍, ଗୋଡ଼ା |
+| walnut | Noun | ମାଡ କାୟା |
+| want, need | Verb | କାଞାଲ୍, ଦର୍ କାର୍ |
+| War | Noun | ରାମ୍ପ୍ ଗଡ଼ସ୍ା |
+| Warm clothing | Noun | ଉବ୍ କାଙ୍କା |
+| warm, heat | Verb | କିଶ୍ଆରାନାଦ୍ |
+| warming under earth | Adjective | ଉବାଙ୍ଗ୍ |
+| Warn | Verb | ଚେଡୁର୍ ମାନ୍ ଭଞ୍ଜୋ କେଶାନାଦ୍ |
+| Warrior | Noun | ପୋଲେଶ୍ ନାରୂଣ୍ତ |
+| wart | Noun | ବୁଡ଼୍ ଦି କାୟା |
+| killed | Verb | ହୃହରୟ ମାରା |
+| crying | Verb | ହୃହରୟ କେୟ ମାରା |
+| giving | Verb | ହୃହରୟ ଇସ ମାରା |
+| known | Verb | ହୃହରୟ ଞ୍ଜ ରା |
+| rearing | Verb | ହୃହରୟ ବର୍ପିମାରଣ୍ଡ |
+| watching, protect | Verb | ହୃହରୟ କାପ୍ ମାରା, ରାକ୍ କାମିନ୍ଦେ |
+| wearing | Verb | ହୃହରୟ କେରସମାରୋଣ |
+| wash neatly | Adjective | ସାଯ୍ ଞେଡ୍ ତା, ଉକ୍ କା |
+| washed, cleaned cloth | Adjective | ଉକ୍ ଡା ସକ୍ କା, କୁସାମ୍ |
+| washerman | Noun | ଓଆଟ୍ଟେଲ୍ ଗୁଡ଼ା ଉକ୍ କାନୋର୍ |
+| washing (pound) | Verb | ସୁପ୍ରୁ |

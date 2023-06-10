@@ -1,0 +1,29 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| ମିନ୍ଦେ | Preposition | ଲୋପାଲ, ତାଗେ |
+| in | Preposition | ଓଠ |
+| consequence | Noun | ଥାତ୍‌ |
+| କାଡ଼ୁ, ଆତ୍ କେ | Adjective | ଓଠ ଡ଼ଲ୍‌ |
+| dying | Adjective | ଲାକ୍‌ |
+| stage | Noun | ଆସମିନ୍ଦେ |
+| in | Adverb | ମେନ୍ତାରଜ୍ ତେ |
+| an | Adverb | ରଜ୍ ତେ |
+| evil | Adjective | ସାମାଙ୍ଗ୍‌ |
+| day | Noun | ଲେକେ |
+| in | Preposition | ଇ ମାଟଙ୍ଟା ତନ୍‌, ଇ ୱଷାୟାମ୍ ସେଙ୍ଗେ |
+| with | Preposition | ସାମାଙ୍ଗ୍ ଲେକେ |
+| in | Preposition | ଲଇଲେ |
+| consideration | Noun | ମାନ୍ଦାନାସ୍ଟ୍,ଇସାବ୍ ତେ,ଥେଲ୍‌ |
+| in | Preposition | ଆଲେ ଆଲେ, ଥାଶ୍ ତେ ଥାଶ୍ ତେ |
+| 9198 | Adverb | ବେସ୍ କେ |
+| age | Noun | ବାରେ |
+| in | Adposition | ମୁନେ |
+| no | Adverb | ବେନ୍ ଲେକ୍ କେ |
+| Ways | Adverb | ବା ଆପ୍ୟେୋ |
+| in | Preposition | 1୦, ମାୟ୍ ଦିଙ୍କ୍‌ |
+| outside | Preposition | ବାୟ୍ ଦେ |
+| skirt | Noun | ଲାଙ୍ଗା |
+| that | Adposition | ଆଗା |
+| place | Preposition | ଆ ପଡ଼ିୟ୍ ଦା |
+| the | Adverb | ମୁଟେଡ଼ |
+| lump | Noun | 11, ଲଟ୍ସ |

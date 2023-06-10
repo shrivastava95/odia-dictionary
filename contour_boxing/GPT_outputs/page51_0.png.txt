@@ -1,0 +1,16 @@
+| English Word | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| obstacle | Noun | କେଞ୍ଜାନାଦ୍ |
+| obstinacy | Noun | ଥାଡାମ୍ |
+| occasionally | Adverb | ପାସ୍ କିତଣ୍ଡ |
+| OCCURRENCE | Noun | ଗାୟିରେମ୍ |
+| offal | Noun | ଥାଦାନାଦ୍ |
+| otter | Verb | ଅପିଦାନାଦ୍ |
+| offering | Noun | ଚାନ୍ଦା |
+| oil | Noun | ନିୟ୍ |
+| oil-press | Noun | ନିୟ୍ ନେସ୍ |
+| oil | Noun | ସିତର୍-ଗେରାନିୟ୍ |
+| oil | Noun | କେଲ୍ କ୍ ଗାଲ୍ |
+| oiling | Verb | ନୀ ନେଶା ନାଦ୍ |
+| ointment | Noun | ରାସାନାକ୍ ମାତ୍ |
+| old | Noun | ଓାୟାଶ୍ |

@@ -1,0 +1,40 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| verb. | N/A | ଥାଣକାନାଦ୍  ମିଞ୍ଜାନାଦ୍ |
+| to | Transitive | 11110,1୧୦୯7୮ |
+| verb. | N/A | ତାସାନାଦ୍ |
+| jump | Intransitive | N/A |
+| verb. | N/A | ତୁଲାନାଦ୍ |
+| keep | Transitive | N/A |
+| verb. | N/A | ଓାଟାନାଦ୍ |
+| kiss | Transitive | N/A |
+| verb. | N/A | ବୁର୍ରାନାଦ୍ |
+| know | Transitive | N/A |
+| verb. | N/A | ପୁନ୍ଦାନାଙ୍କ |
+| laugh | Intransitive | N/A |
+| verb. | N/A | କାୱ୍ ସାନାଦ୍ |
+| leak [water] | Transitive | N/A |
+| verb. | N/A | କାରୋମିନ୍ଦେ |
+| leave | Transitive | abandon |
+| verb. | N/A | ୱଡ଼୍ ସାନାଦ୍ |
+| lick | Transitive | N/A |
+| verb. | N/A | ନାକ୍ କାନାଦ୍ |
+| lie down, sleep | Intransitive | N/A |
+| verb. | N/A | ପାଟାନାଦ୍ |
+| lose | Transitive | N/A |
+| verb. | N/A | ମାପାନାଦ୍ |
+| make fire, kindle fire | Transitive | N/A |
+| verb. | N/A | କିସ୍ ମାସାନାଦ୍ |
+| make something upside-down | Transitive | N/A |
+| verb. | N/A | କାପ୍ ମୁତ୍ତାନାଦ୍ |
+| make to dry | Transitive | N/A |
+| verb. | N/A | ଓାତିସାନାଦ୍ |
+| make to sleep | Transitive | N/A |
+| verb. | N/A | ପାର୍ଟିସିନାଦ୍, ଉନ୍ ମନ୍ ଜିସନାଦ୍, ଉନ୍ ଶ୍ ପାନାଦ୍ |
+| make | Transitive | ବୃନୁ୦୮ |
+| Gale | N/A | ନାନ୍ଦି ମିନ୍ଦେ |
+| me | Pronoun | PARA କୁ |
+| meet, join | Transitive | N/A |
+| verb. | N/A | କାଲ୍ୟାନାଦ୍ |
+| melt | Verb | MOBS |
+| milk | Transitive | ପାଲ୍ |

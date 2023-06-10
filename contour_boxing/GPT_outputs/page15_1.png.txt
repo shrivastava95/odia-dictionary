@@ -1,0 +1,27 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| chameleon    | Noun.          | ନେୟ୍୍ ନଞ୍ଚି     |
+| chamomile    | Noun.          | ବାନ୍ତି ପୁଙ୍ଗାର    |
+| change       | Verb.          | ରେଡିୟ ମିକ୍       |
+| ତାନାଦ୍         |                | ତାନାଦ୍, ମାର୍ସାନାଦ୍ ମାର୍ସାନାଦ୍ |
+| channel, canal | Noun.          | ଭଲ୍ କ୍ କା       |
+| chapel       | Noun.          | ଏରପୁମ୍        |
+| char         | Verb.          | MAGI            |
+| character    | Noun.          | ବୁଦ୍ଦି         |
+| charcoal     | Noun.          | ଞେର୍ କିନ୍ ମାସ୍ ବୁଗ୍ ଗା |
+| chariot      | Noun.          | ରାତାମ୍        |
+| charity      | Noun.          | ଡାପ୍ କ୍ ନୁ ASIA ମେଲ୍ 1 ପାଡ଼ିୟ୍ ସେଙ୍ଗେ ଆୟେ MAGI |
+| charming     | Adjective.     | ମେଲ୍ ଡା ମୋକ୍ କାମ୍ |
+| chase        | Verb.          | ଗେର୍ମି ପୟ୍ ସି ତାର୍ ରା |
+| chatter box  | Noun.          | ପିଚ୍ ଆଣ୍ଡ      |
+| chattering   | Adjective.     | ୱଚ୍ ୱଚ୍ ଥାଦାନାଦ୍ |
+| cheap        | Adjective.     | ତାକ୍ ଓାତେ, କାମ୍ ପାୟ୍ ସା ତେ |
+| cheat        | Noun.          | ବୁଷା           |
+| check        | Noun.          | ବୁଗ୍ ଗା ଗା     |
+| checking     | Verb.          | ତାଂ ୯ ପୁ ମିନ୍ଦେ କି ଇଲ୍ଲେ ଭଞ୍ଜୋ ମେକ୍ କାନାଦ୍ |
+| cheerful     | Adjective.     | ସେଲ୍, an      |
+| cheetah      | Noun.          | କୁକାଲ୍        |
+| chest        | Noun.          | ଆଦାମ୍୍ ଗୁଣ୍ଡ     |
+| chewing      | Verb.          | ନାମ୍ MITE       |
+| chicken CUITY | Noun.          | କର୍ କୁଚିର୍     |
+| chicken pox  | Noun.          | ମେନ୍ଦୁଲ୍ ତା କୁରୁପ୍ ପୁଣ୍ଡ ତେଡ଼ତା |

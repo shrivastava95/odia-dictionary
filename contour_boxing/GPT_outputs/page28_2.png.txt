@@ -1,0 +1,26 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| five rupee | Verb | ଏଇ ଙ୍ଗ ରୂପି |
+| five[males| | Numeral | ଏ୍ୟ୍ ୱ୍ବ୍ର୍ -ଆଇଏୱର |
+| fix | Verb | ଉର୍ ସ୍ PAIR |
+| fixed rate | Adjective | ତ୍ରିୟ୍ ତ୍ ରେଟ୍ |
+| flat | Adjective | ଚାପ୍ ଡ଼ି ଚାପ୍ ଡ଼ି ସାୟ୍ ମ୍ବନ୍ ମିନ୍ଦେ |
+| flesh | Noun | ଆ ସ୍,ଥାୱ୍ |
+| flies buzz,hum | Noun | ବୁଙ୍ଗୁରି ବୁଗ୍ ବୁକ୍ କେଇମିନ୍ଦେ |
+| float | Verb | ଜିୱା ମାନ୍ଦା ମେଦୁଲମିନ୍ଦେ, ଏର୍ ଡା ଥାଦାମ୍ ଥାନ୍ ମିନ୍ଦେ |
+| flood | Noun | ବୁରେମ୍ |
+| flour,powder | Noun | ଅଟା । ପିଣ୍ଡ |
+| flow | Verb | ପୋଙ୍ଗୋମିନ୍ଦେ ପାରଲମନ୍ଦେ ପୃଙ୍ଗା ଇତା |
+| flower blossoms | Verb | ପୂଙ୍ଗାର୍ ପାରଲମନ୍ଦେ ପୃଙ୍ଗା ଇତା |
+| flower in red colur | Noun | ମନ୍ଦାର୍ ପ୍ଙ୍ଗାର୍ |
+| flower tree | Noun | ପୂର୍ଗାର୍ ମାଡ଼ା |
+| flowerbed | Noun | ପରଙ୍ଗାନ୍ କୁଣ୍ଡା  |
+| flowering | Adjective | ପୂଙ୍ଗାର୍ ଆରା |
+| flowing | Noun | ପଙ୍ଗାନାଦ୍ |
+| flute | Noun | ଓଶୋତ଼୍ |
+| flute players | Noun | ଓସୋଡ଼୍ ଉଦାନୋର୍ |
+| 32 | Verb | ପାର୍ ତିତ୍ |
+| fly 08 goat | Noun | ଗରେ ପୁଡ଼ୟ୍ |
+| fly with fluttering-wing's | Verb | ପଟ୍ଟେ GEOG କା ଟାଟିସି |
+| fly(insect) | Noun | ୱଁସି |
+| foal foot | Noun | ଟଗର୍ ପ୍ଙ୍ଗାର୍ |

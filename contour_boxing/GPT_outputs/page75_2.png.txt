@@ -1,0 +1,21 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| comb out nits | Transitive verb | ଦୁସାନାଦ୍, ଇଡ଼୍, ସାନାଦ୍ |
+| GAIA | Intransitive verb | ପାଡ଼ିୟାମ୍ ତେ |
+| come | Intransitive verb | ଦାନାଦ୍ |
+| come out | Start journey Intransitive verb | ଆଗାମି ହେବା |
+| console | Transitive verb | ସାମାତ୍ ତୁଙ୍ଗାନାଦ୍ |
+| cook | Transitive verb | ତୁରାଶା ତିଆରି କରିବା |
+| cook food | Transitive verb | ଖାଦ୍ୟ ରାନ୍ଦାନାଦ୍ |
+| roof (house) | Transitive verb | ସଲେ |
+| close | Transitive verb | ଲୋନ୍ ଞେସାନାଦ୍ |
+| crawl | Intransitive verb | ମୁଚଢାନାଦ୍ |
+| crush | Transitive verb | ଡାଣ୍ଟାନାଦ୍ |
+| curse | Transitive verb | ଥଗାନାଦ୍, ରାକାନାଦ୍ |
+| dawn, early morning | Intransitive verb | ସାମ୍ପ୍ରିସାନାଦ୍, ନେରାମ୍, ମାଡ଼ାନାଦ୍ |
+| dawn, open (day break) | Intransitive verb | ପାଲ୍ ପାଲ୍ ଞ୍ଚୟାନାଦ୍ |
+| deduct money | Transitive verb | ବାଙ୍ଗ ଥାଦାନାଦ୍, ଡାପ୍ କ୍ କ୍ କୟ୍ ତାନାଦ୍ |
+| defeat | Transitive verb | ଡୋଲାନଦ୍ |
+| defecate | Intransitive verb | ଆର୍ଘିସାନାଦ୍ |
+| die | Intransitive verb | ପେଲାନାଦ୍ |
+| dig | Transitive verb | କାମ୍ |

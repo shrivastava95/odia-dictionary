@@ -1,0 +1,28 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| plunderer    | Noun.          | ବେଦିରିସି ଲାଗି    |
+| ଞୋଦାନୋଣ୍ତୁ           |                |                 |
+| pneumonia    | Noun.          | ନେଲ୍ଲା ଲା ଡା ମାନ୍ତାନ୍ ଡାଗ୍ ରୋଗାମ୍ |
+| poison       | Noun.          | ସ୍ତଷାମ୍           |
+| poke         | Verb.          | ତାର୍ଶ୍ କିରା        |
+| polar bear   | Noun.          | ତେଲା ଏଡ଼ଜ୍         |
+| pole Star    | Noun.          | ରାଜ ଉକ୍ କାମ୍      |
+| police       | Noun.          | ପୋଲିଶିର୍         |
+| station      |                |                 |
+| politeness   | Noun.          | ନେମ୍ ଲାତ୍        |
+| polka dots   | Noun.          | ଚୁକ୍ କା ଚୁକ୍ କା ମାନ୍ଦାନ୍ କୁଡ଼ା |
+| pollen       | Noun.          | ପ୍ଙ୍ଗାର୍ ଗୁହ୍ଦେଲ୍ |
+| pomegranate  | Noun.          | ଥାନାର୍, ଡାଲମ୍ବ, ପୁଢୁ |
+| pond         | Noun.          | ଏରୁୱ             |
+| pond heron   | Noun.          | ଗୁଣ୍ଟକଙ୍ଗା       |
+| ponder       | Verb.          | ଥାଲ୍ ସାନାଦ୍       |
+| pool         | Noun.          | କୁଟା             |
+| poor         | Noun.          | RAGS FERIA        |
+| pop          | Com Noun.      | ପିର୍ କି          |
+| popular      | Noun.          | ନାରୂର୍ ନେସ୍ ତାତ୍ଵି, ପ୍ରେମ୍, ଇଷ୍ଟାମ୍ ଆଦାନାଦ୍, ସାରେତୋର୍ ତାର୍ EMOTE |
+| popularity   | Noun.          | MISO ନାଡ଼ମେ ମେଲ୍ ଡା ଥାଦାନାଦ୍ |
+| population   | Noun.          | ମତ୍ତାମ୍ ଜାନାମ୍       |
+| porcupine    | Noun.          | ଥୟ               |
+| porridge     | Noun.          | ଗେଞ୍ଚାଜାୱ୍       |
+| porter       | Noun.          | ବାର୍ ଓ୍ ଞଷୋସି, ମୋସି ଞୋଦାନୋଣ୍ତୁ   |
+| possibly     | Adverb.        | ଥାସ୍ ମାନ୍ତା      |

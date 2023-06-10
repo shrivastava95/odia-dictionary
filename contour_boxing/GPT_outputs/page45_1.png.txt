@@ -1,0 +1,19 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| low jungle,thicket | Noun | ରିସିତ୍ |
+| low status | Adjective | ପଦାଲା, ମାରାମାନ୍ଦାନାଦ୍ |
+| low, heap, mountains | Noun | ଡାମାନ୍ଦାନୋର୍, ଗୁବ୍ |
+| lower | Adjective | ବାଲ୍ |
+| lower back tooth | Noun | ଇଡ଼ିପା |
+| lower lip | Noun | ପାଲ୍ କ୍ ପାଲ୍ କ୍ |
+| lower the head | Adjective | ଆଡ଼ିଗି, ଭଡ଼ପାମାଡ଼୍କ୍ କାନାଦ୍ |
+| Lucifer | Noun | ଶୟତାନ୍ |
+| make | Verb | ମାଡ଼ାନାଦ୍, ତେଆର୍, ବଛା ତୂଲ୍, ପୋସ୍ କ୍ କେତାନାଦ୍, ସିଟ୍ ପାଟ୍ ମିରାନାଦ୍, ପୁଞ୍ଚା ଥାଦାନାଦ୍, ଏଦୁରେ ଥାନ୍ଦାନାଦ୍, ମାଟା ତାସାନାଦ୍, ବୁଝାକତଣ୍ଡ, ବୁଜାୟ୍ |
+| make hole | Verb | ଓଠ |
+| make kissing sound | Noun | ପୋସ୍ କ୍ କେତାନାଦ୍ |
+| make after | Verb | ପେର୍କେ ମିର୍, ରାନାଦ୍ |
+| make correct | Verb | ପୁଞ୍ଚା QUAI |
+| make for | Verb | ଏଦୁରେ ଥାନ୍ଦାନାଦ୍ |
+| make good | Verb | ମାଟା ତାସାନାଦ୍ |
+| make known | Adverb | ବୁଝାକତଣ୍ଡ, ବୁଜାୟ୍ |
+| this ocean | N/A | ଆର୍ଦାମ ଏ ସମିନ୍ଦେ |

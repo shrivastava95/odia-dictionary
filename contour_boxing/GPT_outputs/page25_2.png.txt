@@ -1,0 +1,22 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|-----------------|----------------------|
+| entrance         | Noun          | ଆର୍ଦ ଗୁମାମ୍ |
+| entrapped       | Verb          | ସାଟ୍ ମାଞ୍ଚା ଉଶ୍ |
+| envelop          | Verb          | ମୁଚ୍ଛାନାଦ୍ |
+| envelope         | Noun          | ଲପାପା କାଗାଜ୍ ସୀଟ୍ ୯୮1୪ ଏରାଙ୍ଗ୍ ଉଡ଼ାନାଦ୍|
+| equal              | Adjective   | ସାମାନ୍ |
+| equally           | Adverb      | ସାମାନ୍ ତେ |
+| escort             | Noun         | ମେନ୍ଦୁଲ୍ ତିନ୍ ଗେଲ୍ |
+| especially      | Adverb      | ମୁକ୍ୟମ୍ ଥାଦାନାଦ୍ |
+| eternal             | Adjective   | ବେଶ୍ କେ ବାରେ ମାନ୍ଦାନ୍ |
+| eternity          | Noun         | ବେସ୍ କେ ବାରେ |
+| euphony         | Noun         | କେଞ୍ଜାନାଙକ୍ ମେଲ୍ ଡା ଲେଙ୍ଗ |
+| even                | ନୟ          | ୯ little ହୁଡ଼ଟ୍ ବା |
+| even               | NOW        | ଭନ୍ଞ୍ଜେ ଦାକ୍ |
+| evening          | Noun        | ମଲ୍ ପୁଟ୍ |
+| ଓ୪୦୧†୮           | Adverb     | ବେସ୍ କେ ଓ୪୦୧†୮ ଲାସ୍ଟିଂ ବ୍ଲିସ୍ କେ ବାରେ ସୁକ୍ କାମ୍ |
+| ଓ୪୦୧†୮           | Adjective  | ବେସ୍ କେ ପୁନା ମାନ୍ଦା |
+| ୯୧୯୮             | Adjective  | ଥକ୍ କା ରୋଜ୍ ସ୍ପଡ୍ ସି ଅକ୍ କା ରୋଜ୍ |
+| ୯୧୯୮             | Adverb    | ରୋଜ୍ |
+| ୯୧୯୮             | Adverb    | ସାରେ ଗାଣ୍ଠା |
+| ୯୧୯୮             | Adverb     | ସାରେମିନିଟ୍ |

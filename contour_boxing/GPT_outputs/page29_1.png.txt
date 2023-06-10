@@ -1,0 +1,28 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| for the sake | Preposition | ସେଙ୍ଗେ |
+| forbidden | Adjective | ଥାଡ଼ାମ୍ ଆସି ମାନ୍ତା |
+| force | Noun | ନାଗେଁ ପୋଲିଶିର୍ |
+| force | Verb | ବାସ୍ ମିଲ୍ ଲି ମାଡ଼ାନାଦ୍ |
+| forcefully throwing | Noun | ଗାଟି ଉର୍ ଗିନ୍ ଏଚ୍ଚିତର୍ |
+| fore | arin | Noun | କୁଣ୍ଡନ୍ କାୟ୍, ଡାଣ୍ଡା |
+| forefathers | Noun | ମ୍ବନ୍ ନେଟୋର୍ |
+| forehead | Noun | ନୁଦୂର୍ |
+| foreigner | Noun | ଡଓେରେ ଦେସାମ୍ ତୋଣ୍ଡ |
+| foreknow | Verb | ମୁନ୍ ନେ ପୁନ୍ଦାନାଦ୍ |
+| forest | Noun | ଗାଗା ଆଡ଼ସୁ |
+| forest honey | Noun | ଟାଟାଡ଼୍ |
+| forever | Adverb | ସାର୍ଦାମ୍, ବେଶ୍ କେ ବାରେ |
+| forget | Verb | ମାରୁଙ୍ଗାନାଦ୍ |
+| forgive | Adjective | କ୍ୟାମା, ସିମ୍ ମିଞ୍ଜା, ଞଡ଼ୃପିଞ୍ଜା |
+| forgive | Verb | ସ୍ପଡ୍ ସିଦାନାଦ୍ |
+| forgiveness | Noun | ପାପ୍ ୱଡୁସିଦାନାଦ୍ |
+| forhead | Noun | ପିଟ୍ ଗୁଡ଼ମ୍ |
+| fork | Noun | କୟ୍୍, ମାନ୍ଦାନ୍ ଉକୁଟ୍ |
+| formerly, ago | Adverb | ମୁନ୍ନେ କଞ୍ଚି |
+| fort | Noun | ଏର୍ତ୍ ଜାହାଜିନ୍ ଥଡ଼୍ ଡ଼ |
+| fortunately | Adverb | ଆଡୁଷ୍ଟାମ୍ ତେ |
+| fortune | Noun | ମେଲ୍ ଡା ଥା ଡ଼ଷ୍ଟାମ୍ |
+| forty | Numeral | ନାଲପେୟ୍ |
+| forward | Adverb | ସାରୈଦାଙ୍କ ମୁବନ୍ନେ ମାନ୍ଦାନାଦ୍ |
+| foul tooth | Noun | ଜୁର୍ ରା ପାଲ୍ |

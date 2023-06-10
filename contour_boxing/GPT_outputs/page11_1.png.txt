@@ -1,0 +1,30 @@
+| English Word | Part of Speech | Odiya Translation |
+|--------------|----------------|------------------|
+| bird         | Noun           | ପିଙ୍ଗେ            |
+| birth        | Noun           | ପୁଟାନାଦ୍         |
+| birth control | Noun         | ପୂଟ୍ଟରସାନାଦ୍      |
+| birthday     | Noun           | ପୁଟ୍ i ରୋଜ୍      |
+| birthday ceremony | Noun     | ପୁରୂକ୍             |
+| bishop       | Noun           | ଥର୍ ,ଅଣ୍ଡୋୟ୍ ଜିଲାତା |
+| ମାନ୍ଦାନ୍ ଗୁଡ଼ିୟ୍ କିନ୍ | N/A | N/A              |
+| ଆଦିକାରାମ୍ 6 ବେଡ଼ିୟା | N/A | N/A              |
+| ତ୍ନ ରୁଣ୍ଡ   | N/A           | N/A              |
+| bison        | Noun           | ପେର୍ ମାମ୍        |
+| bitch bird   | Noun           | ଡାଡା ନେୟ୍        |
+| bite         | Verb           | କାଚ୍ଚା            |
+| bitter       | Adjective      | କାୟ୍ ରା          |
+| bitter gourd | Noun           | କାଙ୍କେର୍କାୟ୍       |
+| bitter plant | Noun           | କାୟ୍ ମଲ୍         |
+| ପତାଲା       | Noun           | N/A              |
+| black ant    | Noun           | 5 ଗାଡ଼୍, ଅରୁ ପେତେ |
+| black berry  | Noun           | ଜାଙ୍ଗ ପାଣ୍ଡ      |
+| black berry-tree | Noun     | ନେଏଣ୍ଡ            |
+| black buck   | Noun           | କାରି ଗୋରି        |
+| black cloud  | Noun           | କାରୀ ମାବ୍        |
+| black colour | Noun           | କାରିରାଙ୍ଗ         |
+| black cumin seed | Noun       | ଚିନ୍ନା କାରି ଜିରା |
+| black drongo bird | Noun      | ଥାସ୍ ପିଙ୍ଗେ       |
+| black faced monkey | Noun    | ମୁନ୍ ଜୁ           |
+| black 20୦୦୦୯ | Noun        | EMIT ତ୍ ବାକ୍       |
+| black gram   | Noun           | ମିନ୍ କି          |
+| black myrobalam tree | Noun  | N/A              |

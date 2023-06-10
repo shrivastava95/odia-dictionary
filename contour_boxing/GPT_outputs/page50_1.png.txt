@@ -1,0 +1,22 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| nod | Verb | ତାଲ୍ଲା  ଗୁଞ୍ଜାନାଦ୍ |
+| noised | Noun | ଗାଟି  ରାମ୍ପ  ପ  ଇତିତର |
+| noiselessly | Adverb | ଚାମ୍  କେ  ମାଞ୍ଚା |
+| non-vegetarian | Noun | ନିଞ୍ଚ  ଭଲ୍  ଓା ଟିଣ୍ଟ |
+| non-violence | Adjective | କୋପାମ୍, ଥାଲ୍ ଲାମ୍ ଭଲ୍ ୧ଓା  ଲଳ  ଓା |
+| non-co-operation | Noun | କାଲିୟ୍ କଟ୍  ଓୀରାନାଦ୍ |
+| noon | Noun | ମାଦ୍  ନାମ୍  ଡଓେଲେ |
+| normally | Adverb | ବେଶ୍  କେ  ବା, ନିୟାମ୍  ତେ,ରଲ୍  ତେ |
+| nose | Noun | ମସର, ମୋସରି |
+| nosering | Noun | ମସର୍  ମୁଦା କାମ୍ମେ |
+| nostrils | Noun | ମସେର୍ -ନେଶ  କାଡ୍ ତ୍  ପଡ଼ିୟ୍ |
+| not | Noun | ଥାୟ୍ୟୋ, ଇଲ୍  ଲେ |
+| not properly functioning | Adjective | QUAI  ନାଡ଼ତାଟାମ୍ ଲଇଲେ |
+| not accept | Verb | ଥପ୍ ˆ ପାର୍ |
+| not available | Adjective | ଭଲଞ୍ଜାଦ୍ |
+| not clear(water)impure | Noun | କାଲ  ଙ୍ଗ |
+| not digest | Adjective | ଥାର୍  ଗୁଡ଼ ଆଦିଲେ |
+| not enough space | Adjective | ପଡ଼ୟ୍ ପୟ୍୍ |
+| object | Noun | ଥାଲ୍  ପ୍  ମୁକ୍ୟ  ଆର୍ଦାମ୍ US |
+| obscenity | Noun | ଆଡୁଗୋଲ୍, କାସି |

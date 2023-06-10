@@ -1,0 +1,24 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| CUITY        | Noun           | ସିର୍, କୁଚିର୍          |
+| CUITY        | Noun           | କାରେମ୍             |
+| ମାରା        | N/A            | N/A             |
+| CUITY        | Noun           | ଥାଙ୍ଗନ୍ କୁଚ଼ର୍      |
+| CUITY        | Noun           | କାରାମ୍ Tole       |
+| ଗୁଣ୍ତମ୍      | Noun           | କୁଚିର୍ ମାସାଲା   |
+| CUITY        | Noun           | ମୁଟା କୁଚିର୍      |
+| curry-stuff  | N/A            | burning ୦୮        |
+| stomach      | Verb           | କାରାମ୍          |
+| ମାଣ୍ଡୋମିନ୍ଦେ   | Noun           | ସାପିସାନାଦ୍     |
+| Noun.        | N/A            | ]॥ ମ୍ମିସାନାଦ୍, ଭିଶାପ୍ |
+| Curse        | Verb           | ସାମ୍ମିସାନାଦ୍, ଜାଟି ଜାଟି ମାୟ୍ ତାନାଦ୍ |
+| ୯(1୮୭୯,୪୦୭517 | Noun           | ପାଗା            |
+| ମାଡିଭୋର୍     | Noun           | ମେତାଙ୍ଗ୍ କୁସ୍ସି |
+| custard      | Noun           | ଚିଭା ପାଲେ        |
+| ପାଣ୍ଡି      | Noun           | ସୀତା            |
+| ମାଡ଼ା       | Verb           | ନାର୍ କାନାଦ୍ eh ମ୍ |
+| cut          | Noun           | ତେଗିଆତ୍          |
+| cut          | Noun           | ଏକ୍ କାନାଦ୍       |
+| ୦୯୩1୮,୯1111 | Verb           | ଗାୟାମ୍ eh       |
+| ସାନାଦ୍     | Noun           | ସୁର୍ ଗାଲ୍        |
+| cymbal       | Noun           | ଞେନ୍ ସାନ୍ ଗିନ୍ନା |

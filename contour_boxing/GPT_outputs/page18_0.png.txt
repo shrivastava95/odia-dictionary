@@ -1,0 +1,21 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| continued fever | Noun | ନାର୍କାଁ |
+| conveniently | Adverb | ସାୟ୍ ମାନ୍ତା |
+| cook | Noun | ଥାଟ୍ ଟା । ନୋଣ୍ଠ ସାଣ୍ଟା ତୁଙ୍ଗାନୋଣ୍ଡ |
+| cook | Verb | କୁଚିର୍ ଆଟା |
+| cook the CUITY | Verb | କୁଚିର୍ ଆଟା |
+| cook the rice | Verb | ଦଡ଼ା ଆଟା |
+| cooking | Verb | ଚାକୁର ଥାଟାନାଦ୍, ଦଡ଼ା ଆଟାନାଦ୍, ଓାଣ୍ଟ ତୁଙ୍ଗା |
+| cooking pot | Noun | ଓଆଣ୍ଟଡା ମାଡ଼ାନ୍ |
+| cool | Adjective | ଥାର୍ ପିସାନାଦ୍ |
+| cool water | Noun | କିଡ଼୍ ଙ୍ଗ ତାଦ୍ ଏର୍ |
+| coolie | Noun | ଜିତା-କୋତି ନାରୁର୍ |
+| COOP | Noun | କୋର୍କିନ୍ ଗୁଡ଼ା |
+| co-ordination | Noun | କାଲ୍ ପିସି ମାନ୍ଦାନୋଣ୍ଡ |
+| copious rainfall | Adjective | ଓନା ଜେଲ୍ ନାଗେଁ ଓାଦାନାଦ୍ |
+| coppersmith | Noun | GENE ମାଟ୍ ଓଟିତଣ୍ଡ |
+| 9082 | Noun | ଆଦେ ଲେକେ ତୁଙ୍ଗାନାଦ୍ |
+| cord | Noun | ତାଡ଼ମ୍ |
+| coriander leaf | Noun | ଦନିଆଆକି |
+| coriander seed | Noun | ଦାନିଆ |

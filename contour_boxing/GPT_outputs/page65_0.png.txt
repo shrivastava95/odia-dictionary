@@ -1,0 +1,29 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| silver | Noun | ଞେଣ୍ଡକ ରୂପ୍ ପା  all |
+| similarly | Adverb | ଲେକେ |
+| simple | Adjective | ଏ୍ଦ୍ ଲାମ୍ |
+| sin | Noun | ପାପାମ୍ |
+| since | Preposition | ନୁଞ୍ଚି ତୁଞ୍ଜ,କୁଞି |
+| sincere | Noun | QUAI ମାଟା କେ୍ଞ୍ଚି ପାଡ଼ିୟ୍ ମାଡ଼ାନୋଣ୍ତ |
+| sincerity | Noun | ନିଜାମ୍ ଆସି ନାମ୍ |
+| କାମ୍ ତେ ମେଲ୍ ପାଡ଼ିୟ୍ | Noun | ମାଡ଼ାନୋର୍ |
+| sinew | Noun | ନାରାମ୍ |
+| sing | Verb | ପାଟା ପାରା |
+| singer | Noun | ପାଟା ଣଚ ନୋଣ୍ଟ |
+| singers | Noun | ପାଟ୍ଟା ପାରାନୋର୍ |
+| single grain | Noun | alga |
+| sink, dive | Verb | ମୁଣୁଙ୍ଗାନାଦ୍ |
+| sink, drown | Verb | ମୁତିଭ୍ତଣ୍ଡ |
+| sinner | Noun | ପାପି |
+| sinus | Noun | ମୋସୋର୍ କୁଞ୍ଚି ଏ୍ର୍ ଓାଦାନାଦ୍ |
+| sip up | Verb | ସର୍ କ୍ , ଜୂର୍କ୍ ଉଣ୍ଡାନାଦ୍ |
+| sister | Noun | ବାୟୋ,ୟାକ୍ କା,ଏଲାଡ଼୍ |
+| sister in ଅଟ | Noun | ୟେଙ୍ଗେ |
+| sister's husband | Noun | ବାଞ୍ଜାଲ୍ |
+| sit (୦୮ row) | Verb | ସାଲ୍ ସାଲ୍ କୁଦାନାଦ୍ |
+| site | Noun | ପଡ଼ିୟ୍ ସାଲ୍ କୁଦାନାଦ୍ |
+| SIX | Numeral | ଥାରୁ |
+| six[males] | Numeral | ଆର୍ଚିର୍ |
+| sixteen | Numeral | ପାଦିଆରୁ |
+| sixty | Numeral | ଥାରୁଞ୍ଚେୟ |

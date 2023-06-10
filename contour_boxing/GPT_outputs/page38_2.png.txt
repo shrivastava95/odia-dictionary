@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| injustice | Noun | ନାୟାମ୍ ଭଲ୍ ଞା,ମାୟ୍ |
+| ତାନାଦ୍ | | |
+| inner seed | Noun | ଗିନ୍ ଜେ,ଜ୍ |
+| innocent | Adjective | ତାପ୍ ପୁ, ପାପ୍ ମାଡ଼୍ କୁଟ୍ ପ୍ରନୁକୁଟ୍ ମାନ୍ଦାନୋଣ୍ଡ |
+| inquire into | Verb | ମେକ୍ କାନାଦ୍ |
+| inquire ୦୮ | Verb | ତାଲ୍ କା ପା)ନାଦ୍ |
+| insanity | Noun | ବାୟା ରୋଗାମ୍ |
+| insert | Verb | ଗେବାନାଦ୍,ଲୋପାଲ୍ ଦ୍ ନିଗିସାନାଦ୍ |
+| insipid | Noun | ରୂଚ୍ ଲଇଲେ |
+| insistence | Noun | ଜିଦ୍ |
+| insomnia | Noun | ଉଶ୍ କାଡ଼୍ ଭଲ୍ଲକଵଟ୍ ମାନ୍ଦାନ୍ ରୋଗାମ୍ |
+| inspiration | Noun | ସାର୍ଦା ତେ ଇଭଷ୍ଟାମ୍ ତୁଙ୍ଗୀସାନାଦ୍ |
+| instantly | Adverb | ଆଦେ ସାମାୟାମ୍ ତେ |
+| instead | Adposition | ବାଦଲାଇ |
+| instead ୦୮,101 | lieu | ୦୮ Preposition ବାଦାଲା |
+| instruction | Noun | ମାଟା କେଉଶାନାଦ୍ |
+| instruments | Noun | ଡଅଲା,ମ ଲରା,ବାଜା |
+| insult | Verb | ପେର୍ ଲାନାଦ୍, ୬|ଡିସାନାଦ୍, ` ନରାମ୍ |
+| insurance | Noun | ଡ଼ାବ୍ ତୋଉରାନୋର୍ କିଙ୍କ୍ ପେର୍ କେ ଏକୁଞୱା ନାଗେଁ ଡ଼ାବ୍ ଦର୍କିତ୍ |
+| intelligence | Noun | ମେଲ୍ ୧ ବୁଦ୍ଦି |
+| intelligent | Adjective | ଡିଟ୍ ମେଦର୍ |
+| intelligently | Adverb | ଗ୍ୟାନାମ୍ ତେ |
+| intention | Noun | ଉପାୟାମ୍, କେଉଶାନାଦ୍ |

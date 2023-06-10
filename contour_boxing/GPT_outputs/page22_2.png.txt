@@ -1,0 +1,30 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| a | Adjective&Article | ଅରୋଟ୍‌ |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| ଓ | Verb. | ମାଲ୍ ଅଣ୍ଡୋୟ୍ ଦାମ୍ |
+| ମାଡ଼ାନାଦ୍ | Noun. | N/A |
+| do,(pl) | Verb. | ମାଡ଼ା, ମ୍ପାଡାଟ୍ |
+| do,make | Verb. | ତୁଙ୍ଗାନାଦ୍, ମାଡ଼ାଟ୍, କୀ |
+| ମୁବଟ୍ | Verb. | ମାଡ଼ା, କୀମ୍, ତୁଙ୍ଗା |
+| 00୦,?୯୮୮୦111 | Verb. | ମାଡ଼ା, କୀୟାମିନ୍ଦେକୀ |
+| doctor | Noun. | ଡାକ୍ ତାର୍, ଞ୍ଜ |
+| doctrine | Noun. | ନିୟାମ୍ ସାରେ |
+| doe | Noun. | ଡାଡାଲୂପ୍ |
+| does | Verb. | ତୁଙ୍ଗ ମିନ୍ଦେ, ମାଡ଼ ମିନ୍ଦେକୀୟାମିନ୍ଦେ |
+| does not | Verb. | ଆଦାଟାହମ ଲଲେ, ମାଡ଼ିଲେ, ୨ଙ୍ଗିଲେ |
+| does not apply | Verb. | ସାବ୍ ରାସ୍ତଣ୍ଡ |
+| does not hair | Verb. | ତାଲ୍ଲା ଦୁସିଲେ |
+| does not put oil | Verb. | ନିୟ୍ ରାସଣ୍ଡ |
+| ୯୦୫ | Verb. | ନେୟ୍ ବ୍ଵବୁ ବୁସିତା |
+| ୯ଓ୦୬(1୮୯11410୯ ) | Noun. | ନେୟ୍ବ, ନେୟକୁ |
+| ୯ଓ୦୫(1141୯) | Noun. | Gale ନେୟ୍ୁ |
+| doll | Noun. | ପିଲ୍ଲା କାର୍ସାନାଦ୍ |
+| domestic animal | Noun. | ନାଟେ ପଡ଼୍ ପାନାଦ୍ ଜୀଞାଜନ୍ତୁ |
+| domestic work | Adjective. | ଲୋଚ୍ ପାଡ଼ିୟ୍ |
+| don't disturb | Verb. | ଗିଜ୍ ଗିଜ୍ ଆୟ୍ ମା |
+| don't be hurry | Verb. | ଦାନ୍ଦା ପୟ୍୍ ମା |
+| don't be late | Adjective. | ନାଗେଁ ଜେଲ୍ ଥ୍ୟ୍ ମା |
+| don't beat | Verb. | ରେହ ମା, ଞାଡ଼୍ ଶ ମା |
+| don't catch | Verb. | ପଇମା |
+| don't move | Verb. | ମେଦୁଲ୍ ମା, ଜାର୍ଗ୍ |

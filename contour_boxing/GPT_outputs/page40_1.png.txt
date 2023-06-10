@@ -1,0 +1,20 @@
+| Word in English | Part of Speech | Odiya Translation |
+|---|---|---|
+| jungle deer | Noun | ଗରି |
+| jungle roots | Noun | ମାଟ୍  ଟି |
+| junior | Adjective | ଲଡ଼ପାଟୋର୍୍, ସୁଡ଼ ଲୋର୍ |
+| just the time | Adverb | ଟିକ୍ ସା., ମା.ୟା.ମ୍ ଦେ |
+| kidnap | Verb | ପିଲାନ୍ ନାରିନ୍ ଡଙ୍ଗା |
+| kidney, urinary bladder | Noun | କେର ଗୋଣ୍ଟାମ୍ |
+| kids | Noun | ତାମ୍ସ୍କ୍ସ୍ଡ଼ଲୋର୍, ପଲ୍ ଲାର୍ |
+| killer, murderer | Noun | ଥାୱ୍ MEMS |
+| killing | Verb | ଥାୱ୍ କାନାଦ୍ |
+| kilt the belt | Adjective | ପାନ୍ ନାଡି ଓସା |
+| kind | Noun | ମେଣ୍ଟେ, ମେଣ୍ଟା ୦୮ ୮୬ ୯୪ deer |
+| kind frog in hollow | Noun | ଡଣ୍ଡ କମ୍ ରେଲ୍ |
+| kind frog in house | Noun | ଗନ୍ଧ ଗୟେଲ୍ |
+| kind insect | Noun | କଣ୍ଡା ପୁଡି |
+| kind spider | Noun | ଡ଼ୱୁବାଲେ ୦୮ |
+| kind vegetable | Noun | କୁଚିର୍ ମାଚିର୍ |
+| kind kunda ri | Noun | ଡଣ୍ଡା କାୟା ଗୁଣ୍ଣୂ ମାଟି ବୁର୍କା |
+| kind disease | Noun | ମୁଟ୍ଟା ଲାଗମାନ୍ଦାନାଦ୍ |

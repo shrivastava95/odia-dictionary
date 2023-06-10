@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| tamarind tree | Noun | ଇତା ମାଡ଼ା, ପୁଲା ମାରା |
+| tangle | Verb | ମାଲିୟି ମାନ୍ଦାନାଦ୍, ସିକ୍ ମାତ୍ |
+| tangle, knot | Verb | କାଟ୍ ତତାନାଦ୍ |
+| tank, pond | Noun | ଏ୍ର୍ ଟେକ୍ , ଏଏ |
+| tar, spitch | Noun | ତାର୍ |
+| taste | Noun | ରୂଚ୍ |
+| taste it | Verb | ନାକ୍ ଉଡା |
+| tasteless | Adjective | ରୂଚ୍ ଭଲ୍ ଓସିଆ |
+| tattered cloth | Adjective | ପାନ୍ତାଦ୍ ଭଙ୍ଗ ଡା ଗୁଡ଼ା |
+| taught | Verb | ନେର୍ ପିସିତୋମ୍, ସାଦ୍ ୱସିତୋମ୍ |
+| tax | Noun | ସାର୍ କାର୍ କୁ ଡାପ୍ କୂ କୁ ତଚ୍ ତାନାଦ୍, ବୁମ୍ ସଶ୍ ତୂ ତହ୍ ତାନାଦ୍ |
+| tax collector | Noun | ଡ଼ାବ୍ କ୍ ଓାସୁଲ୍ ତୁଙ୍ଗାନୋଣ୍ଡ |
+| tea plant | Noun | ମାରା 3 |
+| teach | Verb | ନେର୍ ପିସାନାଦ୍, ପିସାନାଦ୍, ପୋଦିସାନାଦ୍, ପାଦିସାନାଦ୍ |
+| teacher | Noun | ଗୁରୁ, ମାସ୍ଟର୍ |
+| teachers are there | Noun | ଗୁରୂ ଜୀର୍ ମିନ୍ଦେର, ମାଶ୍ ଟାରୀର୍ ଟାରୀର୍, ପାନ୍ତିଲିର୍ ପାନ୍ତିଲିର୍ |
+| teak tree | Noun | ତେକା ମାରା, ଡେକ୍ କୁ ମାଡ଼ା |
+| tear | Verb | ଭଙ୍କାନାଦ୍ |
+| tear, breakup | Verb | ଭକାନାଦ୍, ପାତାନାଦ୍ |
+| tears | Noun | କାଣ୍ଡେର୍ |
+| tears | Noun | ଝି 8 ଝା କାଣ୍ଢିର ଏଜ୍ |
+| teeth | Noun | ପାକ୍ |
+| teeth | Noun | ପାଲ୍ କ୍ ପେୟ୍ |

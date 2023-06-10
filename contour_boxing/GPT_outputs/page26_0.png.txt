@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| every month | Adverb | ସାରେ ନେଲ୍ |
+| la | N/A | ଲା |
+| everyone | Adverb | ସାର୍ରେତୋର୍ |
+| everywhere | Adverb | ସାରେ ପାକ୍ କା |
+| evil | Noun | ନାଷ୍ଟାମ୍ |
+| evil spirit | Adjective | ପେତାର୍ |
+| evil work | Noun | ଚେଡିଭାନାମ୍, କାରା ପାଡି |
+| ସମା? £ ସା | Noun | ଡାଡା ମେଣ୍ଢା |
+| exactly | Adverb | ଟୀକ୍ ଆଦେ ଲେକାମ୍ |
+| exaggerate | Verb | ବୁକ୍ କାର୍ ମାଡ଼ାନାଦ୍ |
+| exalt | Verb | ମେଲ୍ ଡା ପଡ଼ିୟ୍ ଡା ଓାଟାନାଦ୍, ମେଲ୍ ତାଡ଼ଙ୍ଗାନାଦ୍ |
+| ସ୭. ଶ୍ ଝି ସା | Noun | ମିଗାଲ୍ ତ୍, ନାର୍ଗେ |
+| exchange | Verb | ମାର୍ସାନାଦ୍ |
+| ସମ. ଶି ଝିଅ 9 1 5 କ | Noun | କ୍ଷମା, ଞଡ଼ସିଦାନାଦ୍ |
+| execute | Verb | କୁଶ୍ ଥା ଡ଼ଶ୍ ତୋର୍-ପାଶି ଞ୍ୋଭୋର୍ |
+| exhaustion | Noun | ଥ୍ୟ୍ ଧୂଡ଼୍ |
+| face | Noun | ମକମ୍ |
+| face to face | Adjective | ମୋକ୍ କାମ୍ ମୋକ୍ କାମ୍ |
+| facility | Noun | ଦର୍କାନ୍ ମେଲ୍ ତା ସାମାୟାମ୍ |
+| fade | Verb | ଞେଲ୍ ସି ଥାତ୍ର, ଥଡ଼୍ ଙ୍ଗିତ୍ |
+| fail | Verb | ଆଦିଲ୍ ଲେ-ଆରିୟିତ୍-ଜୀଡିଲ୍ ଲେ |
+| failure | Noun | ଓଡ଼ି ଆତ୍, ଆରି ଥାନ୍ଦାନାଦ୍ |
+| fainting | Noun | ମୋକ ବେଦ୍ ରୋରେ |

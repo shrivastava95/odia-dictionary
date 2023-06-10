@@ -1,0 +1,32 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| ଓଠ | Adjective&Article | ଅରୋଟ୍ |
+| a few | Adjective | ଭଵୁଡ଼୍ |
+| 4 little | Adjective | ଉଚୁଟ୍ |
+| ଓଠ short time | Adjective | ସୁଡ଼ଟ୍ |
+| ସାମାୟାମ୍ | N/A | ସାମାୟାମ୍ |
+| abandon | Verb | ତ୍ୟାଗ କରନ୍ତୁ |
+| abashment | Noun | ଲଜ୍ଜା |
+| abdomen | Noun | ପେଟ |
+| abdominal | Noun | ପେଟ, ଡଙ୍ଗ୍ |
+| aberration | Noun | ଭ୍ରାନ୍ତି, ଅଚଳତା |
+| ଥାର୍ କୁଞ୍ଚି ୱଓରାନାଦ୍ | N/A | ଥାର୍ କୁଞ୍ଚି ୱଓରାନାଦ୍ |
+| abide in | Verb | ନିବାସ କରନ୍ତୁ |
+| ପାଡ଼ିୟ୍ ତୁଙ୍ଗାନାଦ୍,6 କ୍କାଡ଼େମ୍ | N/A | ପାଡ଼ିୟ୍ ତୁଙ୍ଗାନାଦ୍,6 କ୍କାଡ଼େମ୍ |
+| ଆ ଶ୍ ମାନ୍ଦାନାଦ୍ | N/A | ଆ ଶ୍ ମାନ୍ଦାନାଦ୍ |
+| abomination | Noun | ଘୃଣ୍ଣା |
+| କାନାଦ୍,ପେର୍ଲାନାଦ୍ | N/A | କାନାଦ୍, ପେର୍ଲାନାଦ୍ |
+| abortion | Noun | ଗର୍ଭପାତ |
+| ଥାନ୍ଦାନାଦ୍ | N/A | ଥାନ୍ଦାନାଦ୍ |
+| about | Adverb | ବାବଦ |
+| about to | Preposition | ଯେତେବେଳେ |
+| above | Preposition | ଉପରେ |
+| abscess | Noun | ଫୋଡ଼ା |
+| absent | Adverb | ଅନୁପସ୍ଥିତ |
+| abstinent | Noun | ଲଙ୍ଘନ କରନ୍ତୁ |
+| abundance | Adjective | ପୂର୍ଣତା |
+| abuse | Verb | ଗାଲି ଦେବା |
+| acceptance | Noun | ସ୍ୱୀକୃତି |
+| ମାଡ଼ାନାଦ୍ | N/A | ମାଡ଼ାନାଦ୍ |
+| accident | Noun | ଅସୁରକ୍ଷିତ ସନ୍ଦର୍ଭ |
+| according to | Adverb | ଅନୁସାରେ |

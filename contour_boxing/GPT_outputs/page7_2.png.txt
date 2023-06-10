@@ -1,0 +1,30 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| and | Connective | ନି |
+| accordingly | Adverb | ଆଦିଙ୍କ୍‌ ଲେକେ |
+| angel | Noun | ଦୁତ |
+| angels | Noun | ଦେୱ (ତ୍, TI ତୋର୍) |
+| angle | Noun | ମୂଲାଓ |
+| angry | Verb | ଥାଲ୍ଲାମ୍ |
+| angular gourd | Noun | ବିର୍ କାୟା |
+| animals | Noun | ଠାସ ଞ୍ରିପିଟେ |
+| ankle | Noun | କୁଣ୍ଡନ୍ ନ ୟ୍, ଗମିଣ୍ଡା |
+| anklet | Noun | କାଲ୍ ପାଟେ |
+| annoying | Verb | ଥା ଲଲାମ୍ ଥ୍ାଦାନାଦ୍ |
+| anoint | Verb | ନିୟ୍ ରାସାନାଦ୍, ତଚଚାନାଦ୍ |
+| answer | Noun | ଉତ୍ତାରାମ୍ |
+| answering | Verb | ଜାଞାବ୍ MAGI |
+| ant | Noun | ଥରୁଗ୍ ପେତେ |
+| ant eater | Noun | ସ୍ ଓସ୍ |
+| ant hill | Noun | ପୁତ୍ |
+| antelope | Noun | ଲ୍ଲପ୍ ଲେକେ ଜାଳ୍ତୁ |
+| anterior | Adjective | ମୁନ୍ନେଟ୍ ଦାନ୍ ପେର୍କେଟ୍ ଥାତ୍ |
+| anthill | Noun | ପୁତ୍ |
+| anti Christ | Noun | ଜୀଶୁନ୍ ୱରୋଦି, ଜିୱା ଜକ ଜାଳ୍ତୁ |
+| anticipate | Noun | ନାମ୍ କାମ୍ ମାନ୍ଦାନ୍ |
+| anus | Noun | ଗୁଦ୍ ପିରା |
+| anus bowel | Noun | ପେଲାନାକ୍ ପଡ଼ିୟ୍ |
+| anxiety | Noun | ସାର୍ଦା |
+| any how | Adverb | ବେଲେ ବା |
+| anyone | Pronoun | Sages ବା ଅର୍ତୁଣ୍ଟ |
+| anyway | Adverb | SEMI |

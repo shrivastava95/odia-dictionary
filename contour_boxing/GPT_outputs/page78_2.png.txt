@@ -1,0 +1,30 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| make | Transitive verb | ନରସ୍ ପାନାଦ୍ |
+| set | Transitive verb | ନରସ୍ ପାନାଦ୍ |
+| fire | Noun | ଓଗୁଡ଼୍ଡା |
+| toast | Verb | ପେଣ୍ଟ୍ କ୍ ଓାତାନାଦ୍ |
+| parch | Verb | ପେଣ୍ଟ୍ କ୍ ଓାତାନାଦ୍ |
+| tobacco | Noun | ବୀଡ଼ି ସ୍ଟା ପଗୁ |
+| tobacco plant | Noun | ପଗୁ ଏଟୁ, ଫଗ କାରା |
+| to-day | Noun | ନେଣ୍ଡି |
+| toddy | Noun | କାଲୁ ତାଡ଼ି |
+| toddy tree | Noun | ଗାର୍ବାମ୍ ମାଡ଼ା, ତାଡ଼ି ମାରା |
+| toe ring | Noun | ମାଟି |
+| toe nail | Noun | କାଲ୍ ଦ୍, ଡେକାଦ୍ ଓାଡ଼୍ ଞା୍, ଗୋର୍ |
+| together | Adjective | କାଲିୟି ଗୃଡ଼ାନାଦ୍ |
+| toilet | Noun | ପେଲାନ୍ ଗାଦ୍ |
+| told | Verb | କେରା |
+| tolerate | Adjective | ପାଲ୍ ତେ କଟ୍ଟ ମାନ୍ଦାନାଦ୍ |
+| tomato, brinjal | Noun | ଓାଙ୍ଗା କାୟା, ଆପା, ଟାମାଟି |
+| tomb, grave | Noun | ୱ ସ୍କ୍କ |
+| tomorrow | Noun | ନାଡ଼, ନାଡ଼ା |
+| tongs | Noun | ପୟ୍ ସି ତୀସାନାଦ୍ |
+| tongue | Noun | ନାଲ୍ କି |
+| to-night | Adverb | ନେଣ୍ଡୂ ନାର୍କ କା |
+| tonsils | Noun | ଗାୱଗା ବିଲା, ବୁଗ୍ ଗା ତୟ୍ ରା |
+| too | Adverb | ମିଗ୍ ଗା, ଲାଟ, ମାଲ୍ ଲା |
+| too hot | Adjective | ଗାଟି କାଶ୍ ସୀସ |
+| tooth | Noun | ପାଲୁ-ପାଲ୍ କ୍ |
+| toothbrush | Noun | ପାଲ୍ କାର୍ ପୁଲାମ୍, ତୁମିରି ପାଲ୍ କାର୍ |
+| toothless mouth | Adjective | ଗାର୍ |

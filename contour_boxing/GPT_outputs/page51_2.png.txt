@@ -1,0 +1,27 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| onion | Noun | ଉଲ୍ ପାୟା |
+| only | Adverb | ମାଟୁଗେ |
+| only | Adjective | ମାଟୁଗେ, ମାତ୍ର, ଉଦିତ୍ |
+| only one | Adjective | ରୋଟ୍, ଥଣ୍ଡୋଯ୍ |
+| only | Number | ୦୮୯.୦1୯ |
+| a | Adjective & Article | ଅରୋଟ୍ |
+| a | Noun | ଥଣ୍ଡୋୟ୍ |
+| Adjective | Adjective | ଞେରୋନ୍, ଥଅରୋଣ୍ଡେ |
+| only | Noun | ଅରୋଣ୍ଡେ |
+| 07170838 | Verb | ଥପାନାଦ୍, ଏତାନାଦ୍ |
+| oozing, percolation | Verb | ଏର୍ ଉରୋ ମିନ୍ଦେ |
+| open | Verb | କୁଲା, ତୀସା |
+| open out | Verb | ବାୟ୍ ଦେ ତୋପିସାନାଦ୍ |
+| opening | Noun | କାଣ୍ଡ କୁ ଉଡ଼ାନାଦ୍ |
+| operation | Noun | ରୋଗାମ୍ ଥାଦାନାକ୍ ମେନ୍ଦୁଲ୍ କୟ୍ ତାନାଦ୍ କୁଟାନାଦ୍ |
+| opinion | Noun | ଓରେ ଞଓେରେ ମାଟା |
+| oppose | Verb | ଞ୍ବରୋଦାମ୍ ତୁଙ୍ଗାନାଦ୍ |
+| 07888964 | Verb | ଗାଟି ଉପ । ପାଲ୍ ଇଦାନାଦ୍ |
+| optimist | Noun | ଆଶା ମାଡ଼ାନୋଣ୍ଡତ |
+| optional | Adjective | ନିଜେ ଇଷ୍ଟାମ୍ ତେ ଏନ୍ ସାନାଦ୍ |
+| 0 | Coordinating Connective | ଭଲୁକ୍ |
+| orally | Adverb | ଗଟିତେ |
+| 083119 | Noun | ଦେବା କାୟା |
+| 08319 tree | Noun | ଦେବାମାରା |
+| orator | Noun | ଗଟି କେତାନୋର୍, ଞେତାନୋଣୁ |

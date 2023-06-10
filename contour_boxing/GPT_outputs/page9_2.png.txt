@@ -1,0 +1,29 @@
+| English Word | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| M9uSi | Noun | ଗଡ଼େଲ୍ |
+| Ayurveda | Noun | ମାଡ଼ା ଆକି ପଦାଲା |
+| Koñcā | Noun | ଓାଦାନ୍ ମାତ୍ |
+| Bank 08 River | Noun | ଓଡିନାଗା |
+| Banner | Noun | ଚେର ଡା ମାଟା ରାସି |
+| Māndān Jēṇḍhā | N/A | N/A |
+| Banticoot large Tat mouse | Noun | ପାନ୍ଦ କକୁ |
+| Banyan tree | Noun | ମାରି ମାଡ଼ାମ୍ |
+| Baptise | Noun | ଏ୍ର୍ ମୁଣ୍୍ଙ୍ଗିସି |
+| Īl Kṛiśara Khrīṣṭa dārmām | N/A | N/A |
+| Nāmmānād | N/A | N/A |
+| Barber | Noun | ମାଙ୍ଗେଲ୍ |
+| Bard | Noun | ପାଟା ରାସାନାଦ୍ |
+| Bark | Noun | ମୋଚରୁମ୍ |
+| Bark 08 Tree | Verb | କୋମ୍ମା |
+| Waurānād | N/A | N/A |
+| Barking | Verb | ନେୟ୍ ନାକ୍ BD |
+| Barns, Barnyard | Noun | ୱଜାତ୍ ଲୋନ୍ |
+| Barren | Noun | ଆଞ୍ଚ ନାଟା |
+| Barren land | Adjective | ଆରା ବୂମ୍ |
+| Barrier | Noun | ଥାଡାମ୍ |
+| Basement | Noun | ପାଣ୍ଡ ୱସାମ୍ |
+| Bashfulness | Adverb | ସିକ୍ ବାର୍ଶୋରେ |
+| Duk Kām thādānād | N/A | N/A |
+| Basil leaves | Noun | ତୁଲ୍ ସି |
+| Basin | Noun | ସାଲେ ତାସାନ୍ |
+| Bediyā gini | N/A | N/A |

@@ -1,0 +1,24 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| lapak sit | Adjective | ପାଡା ପାଡା |
+| quickness | Adjective | ପାଡା ପାଡା |
+| quiet | Noun | ସାମ୍ କ୍, କୋ |
+| rabbi | Noun | ଜିହୁଦା ନାରିନ୍ ଦାର୍ମାମ୍ |
+| ତ୍ ଗୁରୁ | Noun |  |
+| rabbit, hare | Noun | ମଲଲ୍ |
+| radish | Noun | ପୀଙ୍କା ମାଟି, ଠାଣ୍ଡେରା ମଲାଓ |
+| rafter | Noun | ତୁଲାମ୍, ପାଟ୍ ଟି |
+| tag | Verb | ଲାପ୍ ପା ll ଲାପ୍ ପା ll ଆସାରା |
+| rag | Noun | ଗରାଁ |
+| rag porridge | Noun | ଗରଜାଓୀା |
+| rain | Noun | ଓନା |
+| rain sound | Noun | ଓନା ଆଦିରି ଓାସମିନ୍ଦେ |
+| rain cloud | Noun | ମୁସୁର୍ ପୟ୍ ତା ମେଗାମ୍, ମୟେଲ୍ |
+| rain drops | Verb | ଓନା ବଟକ୍ |
+| rain stopped | Verb | ଓନା ଷ୍ଚର୍ଗତ୍ |
+| rainbow | Noun | ବୀମିନ୍ ୱଲ୍ |
+| rainbow | Verb | ବୀମିନ୍ ୱଲ୍ ତେଡ଼ତା |
+| raining | Verb | ମୁଶୂଡ଼୍ ଓନା |
+| rainy, winter | Season | ଓନା କାଲାମ୍ |
+| raise (with hands) | Verb | ପର ଏତାନାଦ୍ Tam |
+| gale, whirlwind | Noun | ମେଣ୍ଢା ପିଲ୍ଲା ରାନି ପାଟା ପାର ମିନ୍ଦେ |

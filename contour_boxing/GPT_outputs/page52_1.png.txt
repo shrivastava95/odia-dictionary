@@ -1,0 +1,25 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| Our          | Pronoun        | ଥାଦାନାଦ୍      |
+| Our          | Noun           | ମାନ୍            |
+| Our companies| Noun           | ମାନ୍            |
+| Our self     | Pronoun        | ଜାରାନର୍        |
+| Our selves   | Pronoun        | ମାମେ ଥାସ୍      |
+| Our          | Pronoun        | ନିଜେ,ମାନାଢ଼୍ ନିଜେ ଥାସ୍ |
+| Our village  | Noun           | ମାନ୍ ନାଟେ       |
+| Our          | Pronoun        | ମାନ୍ନାଦ୍       |
+| 018(09%.91) | Pronoun        | ମାଞାଦ୍         |
+| out          | Verb           | ବାୟ୍ ଦେ        |
+| outcome      | Noun           | ପାଣ୍ଠି, ପାଡ଼ିୟ୍ ଦିନ୍ |
+| output       | Verb           | ତେୟାର୍ ଥାଦାନାଦ୍ |
+| outrage      | Noun           | Calm            |
+| outrun       | Verb           | ଜୀଡ଼ାନାଦ୍      |
+| outset       | Verb           | ତଲ୍ଲିନ୍ ଆରମ୍ବ   |
+| outside      | Adposition     | ବାଇଦେ          |
+| Ovary        | Noun           | ମୁନ୍ନେଟ୍ କ୍, ଆୟାମ୍ |
+| pail         | Noun           | ଗିନି ବିନ୍ଦେକୁଣ୍ଡା |
+| pain         | Noun           | ତୀପ୍, ନପ୍     |
+| pain comes down | Verb        | ନପୁ            |
+| pain in 08 legs and hands | Noun | ଆୟ୍ କ୍ ଟେକ୍ କା ଥଞ୍ଜା୍ ଡା |
+| painted (th kind 08) snake | Noun | ଜେରୁଗୋଡ଼ୁ, ଗଡ଼୍ |
+| pair         | Noun           | Sale, ଜୋଡ଼୍, ନାରା |

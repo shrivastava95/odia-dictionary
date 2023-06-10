@@ -1,0 +1,54 @@
+| Word in English | Part of Speech | Odiya Translation |
+|-----------------|----------------|------------------|
+| verb            |                | ବିଶେଷଣ             |
+| ଏରପଇସାନାଦ୍    | Intransitive verb | ଝଗଡ଼ା             |
+| ପତାନାଦ୍        |                | ପତନ               |
+| to quarrel      | Intransitive verb | ଝଗଡ଼ା             |
+| lIntransitive   |                | ଅସ୍ଥିର            |
+| verb            |                | ବିଶେଷଣ             |
+| sale            | Transitive verb | ବେଚନା             |
+| କିୟାନାଦ୍       |                | ଉଠାନା             |
+| to raise        | Transitive verb | ଉଠାନା             |
+| ତେତାନାଦ୍       |                | ଫାଡ଼ନା            |
+| to tear the fowl | Verb           | କୁସୁଆ ମାରି ଫାଡ଼ନା |
+| କୋର୍କ୍         |                | ବାକ               |
+| ପର୍ଷାନାଦ୍      |                | ଫାଡ଼ନା            |
+| to 1୦୦୯177୦      | Transitive verb | ଭିତରେ ନେଇବା       |
+| ୦୫୮୯]           |                | ବେଚନା             |
+| ଏନ୍ତାନାଦ୍      |                | ନେଇବା             |
+| ପୟ୍             |                | ନେଇବା             |
+| ।ୟ୍             |                | ନେଇବା             |
+| ତାନାଦ୍         |                | ନେଇବା             |
+| to †ଓ୯୩୦.୪୦୯୦    |                | ଜୁତା ବୋଟା ପୋଶା ଇତ୍ୟାଦି ବେଚନା |
+| shoes           |                | ଜୁତା              |
+| clothes etc.    | Transitive verb | ବୋଟା ପୋଶା ଇତ୍ୟାଦି ବେଚନା |
+| କୁସ୍ ପା        |                | ଲୌଟିବା            |
+| to return       | Intransitive verb | ଲୌଟିବା            |
+| ମାଲ୍ ସ୍        |                | ଘଣ୍ଟା ବଜାଇବା       |
+| ଓାଦାନାଦ୍      |                | ଘଣ୍ଟା ବଜାଇବା       |
+| to ring bell    | Transitive verb | ଉଠିବା             |
+| ଞେନ୍           |                | ଉଠିବା             |
+| ସାନାଦ୍         |                | ଉଠିବା             |
+| to rise from sleep | Verb | ଉଠିବା |
+| ଉଞ୍ା୍           |                | ଉଠିବା             |
+| କାଡ଼ତ୍ କଞ୍ଚିନନୁଞ୍ଜା ଞ୍ଜ 6 ତଦାନାଦ୍ |                | ଉପରେ ଉଠିବା        |
+| to rise high up | Verb | ଉପରେ ଉଠିବା |
+| ନାଗେଁ ପରାଁ     |                | ଉପରେ ଉଠିବା        |
+| ତାର୍ରାନାଦ୍      |                | ଭାଜ୍ୟା କରିବା      |
+| to roast        | Transitive verb | ଭାଜ୍ୟା କରିବା      |
+| ପଡ଼ସାନାଦ୍     |                | ଭାଜ୍ୟା ହେଉଥିବା     |
+| to rot          | Intransitive verb | ପଚିବା             |
+| କାଡ଼ିଇତା       |                | ପଚିବା             |
+| to Tun          | Intransitive verb | ପୃଥକ ହୋଇଯାଇଥିବା   |
+| ମିରାନାଦ୍       |                | ଝିଅକାର ଦେଇବା      |
+| to scold        | Transitive verb | ଝିଅକାର ଦେଇବା      |
+| ମାୟ୍           |                | ଝିଅକାର ଦେଇବା      |
+| ଉାନାଦ୍         |                | ଖୋଜିବା            |
+| `ˆ ତନ ଶ୍ MIME   |                | ଖୋଜିବା            |
+| to search       | Transitive verb | ଖୋଜିବା            |
+| to See          | Transitive verb | ଦେଖିବା            |
+| ମେକାନାଦ୍      |                | ଦେଖିବା            |
+| to See SO beautiful sky | Adjective   | ଏହି ସୂର୍ଯ୍ୟାଷ୍ଟ ସୁନ୍ଦର |
+| ଉଡ଼ାନାଦ୍       |                | ଉଡ଼ାଇବା           |
+| ଉଡ଼ାନୁକ୍ ଗାଟ   | Adjective     | ଉଡ଼ାଇବା           |
+| ସ

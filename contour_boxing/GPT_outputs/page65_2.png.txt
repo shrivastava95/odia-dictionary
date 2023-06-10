@@ -1,0 +1,28 @@
+| Word in English | Part of Speech | Odiya Translation |
+|----------------|----------------|------------------|
+| slipper | Noun | ଏର୍ପୁମ୍, ଏର୍ପୂକ୍ |
+| slope | Noun | ବୀଡ଼ା SAG, ଗୁର୍ |
+| sloth,idleness | Noun | ମଣ୍ଡ, ପାନ୍ଦି |
+| slowly(steps) | Adverb | ଜେୟ୍ ଜେୟ୍କଵୟ, ମେଲେସ୍ |
+| slowness | Adjective | ପାୟ୍ ପାୟା ଥାନ୍ଲୁଟ୍ |
+| slugger | Noun | କୂର୍କେଲ୍-କୂର୍କାନୋଣ୍ଡ |
+| slumber | Verb | କୂର୍ କ୍ ତୋନ୍-ଜାପ୍ ଡେ |
+| small amount | Adjective | ସୁ୍ଡ଼ୂତ୍ |
+| small brother | Noun | ତାମାଲ୍ |
+| small Com field | Noun | କୁମ୍ପା |
+| small father, big father | Noun | ବାବାଲ୍, ପେପୁ |
+| small fish | Noun | ଜିମା, ଜିମେ |
+| small frog | Noun | ଚିଟ୍ କାପା |
+| small hill | Noun | ଗୁବାଲ୍ |
+| small in amount | Adjective | କୋଦଗେ |
+| small in size | Noun | ସୁଡ଼ୂଲା, ସୁଦୁଲା, ଚିନା |
+| small intestine | Noun | ସୁଡ଼ଲା ପକ୍ |
+| small mat | Noun | ସାଆ |
+| small mother-step mother | Noun | ସ୍୍ଡ଼ ୟାୟୋ, ଚନ୍ ଯୟାଓା |
+| small mud bench | Noun | ବୀଡା |
+| small plant | Noun | ଟେଣ୍ଟେ ପଦଲା |
+| small quantity | Adjective | ଝୁଡ଼ଟ୍ |
+| small red ant's | Noun | ପେତେ |
+| small river | Noun | କେନେଲ୍ ଏ୍ର୍ |
+| small size | Adjective | ସିନା, ସୁଡଟ୍ |
+| small sized paprika | Noun | ପଶ୍ ମିଡ଼ିୟା |

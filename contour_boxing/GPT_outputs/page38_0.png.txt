@@ -1,0 +1,20 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| in the mean time | Adverb | ସୁଟ୍‌ |
+| in this | Adposition | ମଲ୍‌ |
+| various ways | Adjective | ସାରେ ପ୍ରାକାରାମ୍‌ |
+| in which | Adposition | ବେନ୍ ଦାନା‌ |
+| inattentive | Adverb | ପାର୍ ବୋତ୍, ଅଣ୍ଡୋୟ୍ ଥାଲ୍ ପ୍ ଭଲ୍ ଓା‌ |
+| inauspicious | Adjective | ଆଡ଼ଗୋଲ୍, କାରାପ୍‌ |
+| incantations | Noun | ଓାଡ଼୍ ଡ଼େ ଉଲୁଗୋମିନ୍ଦେର୍‌ |
+| incense | Verb | କପାମ୍ ତୁଙ୍ଗାନାଦ୍‌ |
+| incense stick | Noun | ଦୁପାକାଟ, ଉଡ଼ୁ ଞାତ୍‌ ତି‌ |
+| incline, start | Verb | ରହିତାନ୍, ରୟ୍ ଦାନାଦ୍‌ |
+| income | Noun | କାୟ୍ କିନା ଓାଦାନ୍ ଡାବ୍, ଗୁଡ଼ସ୍ ପାନାଦ୍‌ |
+| incorrect | Adjective | ତାପ୍ ପୁ‌ |
+| increase growth | Noun | ଏ ଏ ପେସାନାଦ୍, ନାଗେ ପେରୁଗାନାଦ୍‌ |
+| indeed | Adverb | ଲେ, ୯ ଡାଟ୍, ନଜା ମେ‌ |
+| indeed, really | Adverb | ଥାଚାଲ୍, ନଜାମେ‌ |
+| Indian beech tree | Noun | ଓାଲ୍ ଙ୍କା ପଣ୍ଡା ମାଡ଼ା‌ |
+| indifference | Noun | ମଣ୍ଡ ମଣ୍ଡ ମାନ୍ଦାନାଦ୍‌ |
+| indigestion | Adverb | ଡକା ଉବ୍ରାଙ୍ଗ‌ |

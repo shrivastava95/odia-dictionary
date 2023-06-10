@@ -1,0 +1,31 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| Interjection. | Noun | ନିମେ ବେଏଲା |
+| ଦାତ୍ | Noun | ତିନ୍ |
+| however | Coordinating Connective | ବେଲା ବା |
+| 107,୦୪୯1୮,10 | N/A | N/A |
+| whatever | Noun | କିଙ୍କୁଚି |
+| way | Noun | ମାର୍ଗ |
+| Adverb. | Adverb | ବେଲେ ଥାତ୍ କେ ବା |
+| howsoever | Adverb | ବେନ୍ ଲେକ୍ କାମ୍ ବା |
+| huge | Adjective | ଦେଖାଦେଖି |
+| profit | Noun | ଲାଭ |
+| human | Adjective | ମାନୁଷିକ |
+| human | Noun | ମାନବ |
+| humane | Noun | ଦୟାଶୀଳ |
+| humble, meek | Adjective | ବିନୀତ |
+| ନେମ୍ ଲା, ନିଜେ ନିଜେ ଚିନା, ଚୁଡ଼ଲା, ମାଡ଼ାନାଦ୍, ଥଲ୍ ଲ୍ ସାନାଦ୍ | N/A | N/A |
+| humbly | Adverb | ବିନୀତିପୂର୍ବକ |
+| humidity | Noun | ଆବାସ୍ଯ |
+| humiliation | Noun | ହନ୍ନ୍ଯାମାନ |
+| ସିଗ୍, ତେନ୍ ସ୍ କାନାଦ୍ | Noun | ହନ୍ନ୍ୟାମାନ |
+| humour | Noun | ହସ୍ୟ |
+| humpback | Noun | ଗୁଂଣାଳ |
+| hunchback | Noun | ଗୁଂଣାଳ ଓ ମିନ୍ଦେ ବଳିଆ ହୋଇଥିବା |
+| ନିଲୁଗ ତେଦ୍ ଭଲ୍ ଠା | N/A | N/A |
+| hundred | Numeral | ସାତଶତ |
+| hunger | Noun | ଭୁକା |
+| i became great | Verb | ମୋତେ ଭୁଲି ପଡ଼ିବା |
+| i could not | Verb | ମୋ ସାଧ୍ୟ ନାହିଁ |
+| Ido | Noun | ପ୍ରଯୋଗ କରିବା |
+| ନାନ୍ ନା | Noun | ଆଇଁ |

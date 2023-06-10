@@ -6,4 +6,31 @@
  he  Sees  Verb.  ଉଣ୍ଡ  ଉଡ଼ିଭୋଣ୍ଡ 
  he  told  Verb.  କେତଣ୍ତ 
  he  took(it)  Verb.  ଓଉତ୍ତର୍ 
- he  ହୃହରୟ  saved  Verb.  ଗେଲ୍  ସ 
+ he  ହୃହରୟ  saved  Verb.  ଗେଲ୍  ସ  ତଣ୍ଡ 
+ he  went  Verb.  ଥାରଣ୍ଡ 
+ he  will  take  it  Verb.  ଓଭତ୍ତର୍ 
+ he(far)  Pronoun.  ଉଣ୍ଡ 
+ he(near)  Pronoun.  ଇଣ୍ଡୁ 
+ head  Noun.  ତାଲ୍ଲା 
+ head  111051  ୦୮  village 
+ Noun.  ବେଡ଼ୟା  ରାହତ 
+ head  pad  Noun.  ଉମାର୍ 
+ headache  Noun.  ତାଲା  ଏତାନାଦ୍ 
+ headlong  fall  down  Adverb.  କାପ୍ 
+ ମୁବଣ୍  ଙ୍ଗିଂ  ରାଲିଭଣ୍ଡ 
+ head-skull  brain-  pan 
+ Noun.  ତାଲାକାୟ୍୍,ମେଦ୍  ଦର୍ 
+ heap  ୦୮  sweepings 
+ Adjective.  ତଗ୍    ତଶ୍ 
+ ଶାନ୍  ପଦୁୱାର୍ 
+ heap,heap  ୦୮  stones 
+ Noun.  ଦବା,କାଲ୍  କନ୍  ଦବା 
+ hear  Verb.  କେଞ୍ଜାନାଦ୍ 
+ hearing  Noun.  କେଞ୍ଜାନ୍  ସାକ୍ତି,  ମାତ୍ 
+ ଓାମ୍ 
+ heart    Noun.  ମାରି  କାୟା  ଗୁଣ୍ଡେ 
+ heart  beat  Noun.  ଗୁଣ୍ଡ  ଡାକ୍  ଡାକ୍ 
+ ଆସମିନ୍ଦେ 
+ heart  disease  Noun.  ଗୁଣ୍ଡ 
+ ନପ୍,ଜୀୱାମ୍  ତା  ନେଶ୍  କାଡ଼୍ 
+ ତାଗେ  ନପ୍ 

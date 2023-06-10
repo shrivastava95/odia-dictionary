@@ -1,0 +1,29 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| cash | Noun | କାଶ |
+| Sunflower | Noun | ପଡ଼ଦ୍ ପୁଙ୍ଗାର୍ |
+| Sunlight | Noun | ସୂର୍ଯ୍ୟକିରଣ |
+| Desonad | Noun | ଦେସ୍ସୋନାଦ୍, ପଡ଼ୁଦ୍ ଏକ |
+| Thunjel | Noun | ତ୍ଥୁଞ୍ଜେନ୍େଲ୍ କାସ୍ତା, ଞେସ୍  |
+| Sun's scorch | Verb | ସୂର୍ଯ୍ୟର ଦାହ |
+| Tersamindhe | Noun | ତେର୍ସମିନ୍ଦେ |
+| Gattitetam | Noun | ଗାଟ୍ଟିତେତ୍ାଁ, କାଙ୍କାପୟ୍ ରା |
+| Sunday | Noun | ଆଦିୱାରାମ୍, ଆୟାତା ଓରାମ୍, ରୋମାନାକ୍ ରୋଜ୍ |
+| Sunlight | Noun | ସୂର୍ଯ୍ୟକିରଣ |
+| Daga | Noun | ଟିଣ୍ଡରା ପଡ଼ଦ୍ |
+| Sunny day | Adjective | ସୂର୍ଯ୍ୟକିରଣମୟ ଦିନ |
+| Sunrise | Noun | ସୂର୍ଯ୍ୟଉଦୟ |
+| Sunset | Noun | ସୂର୍ଯ୍ୟାସ୍ତ |
+| Sunshine | Noun | ସୂର୍ଯ୍ୟକିରଣ |
+| Super | Adjective | ଗାଟି ସାୟା ଗାଟି ମେଲ୍ ଡା |
+| Supercumerary tooth | Noun | ପେଟୋ ପାଲ୍ |
+| Supervision | Noun | ସଂଚାଳନ |
+| Nadarsa mindhe | Noun | ନାଡ଼ସମିନ୍ଦେ ଇଭଞ୍ଜୋ ଉଡ଼ାନାଦ୍ |
+| Supply | Verb | ସରବର୍ତନ |
+| Support | Noun | ଆଧାର, ସାୟାମ୍ବାର |
+| Surely | Adverb | ନିଃଶ୍ଚୟତାରେ |
+| Surgeon | Noun | ଶସ୍ତ୍ରଚିକିତ୍ସା |
+| Dok dok tar tar | Verb | ଡାକ ଡାକ୍ ଟାର୍ ଟାର୍ |
+| Surplus | Adjective | ଅଧିକ |
+| Surprise | Noun | ଅସାଧାରଣତା |
+| Surrender | Verb | ସମର୍ପଣ |

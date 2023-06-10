@@ -1,0 +1,27 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| these,they-feminine | Demonstrative | ଭଞୱଁୂ |
+| they | Pronoun | ୍ର୍, ୍୍ର୍ |
+| they are playing | Verb | ଉର କାର୍ସ୍ |
+| ମିନ୍ଦର୍ | N/A | ମିନ୍ଦର୍ |
+| they did | Verb | ଉର୍ ତୁଙ୍ଗ ତର,ମାଡ଼୍ |
+| ତୋର୍ | N/A | ତୋର୍ |
+| they got broken | Verb | ଉର୍ ଉଚ୍ଚିଭର୍ |
+| they play | Verb | ଉର୍ କାର୍ସିତର୍ |
+| they say | Verb | ଉର୍ କେଚ୍ଚିଭୋର୍ |
+| they will say | Verb | ଉର୍ କେଚ୍ଚୀ ଭୋର୍ |
+| they(far) | Pronoun | ଓରୁ,ଉରୁ |
+| they(female)see | Verb | ଥାୱ୍ ଉଡ଼ିରା |
+| they(m)will ଓ | Verb | ଉର୍ ତୁଙ୍ଗ ଭର୍ ମାଡ଼ିଭୋର୍ |
+| they(male) will See | Verb | ଉର୍ ଉଡ଼ିଭୋର୍ |
+| they(near) | Pronoun | ଇରୁ |
+| they(non-masculine) | Pronoun | ଥଆଞ୍ଜଲଇଓ୍ |
+| thick | Adjective | FIST ମିନ୍ଦେ GIRO ମିନ୍ଦେ |
+| thickest forest, tallest trees | Noun | ଟୁଟ୍ କ୍ ପୟ୍ ଶ ମନ୍ଦେ |
+| thicket plant | Noun | ରୋଟା |
+| thickness | Noun | ଲାଞ୍୍ ମୋଟା |
+| thief, thieves | Noun | ଡଙ୍ଗାଲ୍ ଡଙ୍ଗାଲୋର୍ |
+| thigh | Noun | ତଡା କୁର୍କ୍ ଆଏ |
+| thin | Adjective | ସାନାଙ୍ଗ୍ ପାଲ୍ ସାଙ୍ଗ୍ |
+| things | Noun | ସାମାନ୍ |
+| think | Verb | ଥାଲ୍ ସାନାଦ୍ |

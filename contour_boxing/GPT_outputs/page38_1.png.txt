@@ -1,0 +1,23 @@
+| English Word     | Part of Speech | Odia Translation      |
+|-----------------|----------------|----------------------|
+| sell            | Noun           | ମିନ୍ଦେ, ପଟ୍ ଉପ୍ ଶ୍ ତା |
+| mandarin        | Noun           | ଗୁ କଟେ ମାନ୍ଦାନାଦ୍ |
+| indirectly      | Adverb         | କେରା ମାଟା ମାଲ୍ |
+| industrial      | Noun           | ଅର୍ତୁଣ୍ଡ କିଙ୍କ୍ BASIE |
+| industrious     | Noun           | ମିଲ୍ ପାଡ଼ିୟ୍ ମାଡ଼ାନୋଣ୍ତ |
+| interest        | Noun           | ଇଷ୍ଟାମ୍ |
+| infamy, blemish | Noun           | ମ୍ର୍କ, ଏଳାକ ପୟ୍ |
+| infancy         | Noun           | ଚିନ୍ନା, ଚୁଡ଼ୂଲା ପିଲ୍ ଲା |
+| infatuated      | Noun           | ones †©୯୦ି୭ ୦1 ଜୋକୋ ମନ୍ଦୋର୍ |
+| infertile       | Adjective      | ପୀନ୍ଦୋ ବୁମ୍-ସାଞ୍ଜ ପାଣ୍ଠି ଭଲ୍ ଓା ବୁମ୍, ଆୟ୍ ଦଲ୍ ଲେ |
+| inflammation    | Noun           | ଡକ୍ କା ଉବ୍ ତା |
+| inflammation    | Noun           | ୦୮ the pharynx ଲେଙ୍ଗ ଉରତ୍ |
+| inform          | Verb           | କାବୁର୍ କେଚ୍ଚିମ୍ |
+| information     | Noun           | କେତାନାକ୍ ମାଟା |
+| inhabitants     | Noun           | ଦେସେମ୍ ତବ ନାରୁଣ୍ଡ |
+| inherit         | Verb           | ଭଲ୍ ଟାମ ମାଣୁସୁଣ୍ଡ |
+| iniquity        | Noun           | ନେରାମ୍ ମାଡାନାଦ୍, ପାପ୍ କୀଦାନାଦ୍ କୀଦାନାଦ୍, ତୁଙ୍ଗାନାଦ୍ ତୁଙ୍ଗାନାଦ୍ |
+| initially      | Adjective      | ତଚ୍ଲିନ୍ ତବ |
+| injection       | Noun           | ସୁଦ୍ କଟାନାଦ୍ |
+| injurious       | Adjective      | ?| ରାପ୍, ନାଷ୍ଟାମ୍ ତାଦ୍ |
+| injury          | Noun           | ପୁଣ୍ଡ, ଂଦେବା |

@@ -1,0 +1,29 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| license,permission | Noun | ଞିଡ଼ସିଦାନାଦ୍ |
+| lick | Verb | ତାଲ୍ ତାଲ୍ ପାନାଦ୍ |
+| lid | Noun | ମୁଚାନାଦ୍, କାପ୍ ପଡ଼୍ |
+| lie | Verb | ବଲ୍ ଲାନାଦ୍, ସେଡ୍ |
+| ମାଟା, ଗାରି | N/A | N/A |
+| ଗଟି, ଆବାଦାମ୍ | Noun | ଗଟି, ଆବାଦାମ୍, ବଲିସାନାଦ୍ ବଲ୍ଲି ସାନାଦ୍ |
+| lie down | Verb | ପାଟି ମାନ୍ଦାନାଦ୍ |
+| lie in | Verb | ପୁଟିସାନାଦ୍ |
+| lie in wait | Verb | ଓାଡ଼୍ ସାନାଙକ୍ ଥାଣ୍ |
+| life | Noun | ପ୍ରାଣାମ୍, ॥ ନାମ୍, ବାଦ୍ କାଡ଼୍ |
+| life span | Noun | ଗାର୍କ |
+| lift | Verb | ଏର୍ ତୋଶା, ଏଚା, ଏରା |
+| lift 112(908) | Verb | କାଟୁଲ୍ ଉତାନାଦ୍ |
+| light | Noun | ଞେସ୍, ୱେନେଲ୍ |
+| light weight | Adjective | ଏଲ୍ |
+| alee | N/A | ପାୟିସ ମିନ୍ଦେ |
+| lightening | Noun | ଞେନ୍ ନେଲ୍ ଇଦାନାଦ୍, ଞେସ୍ ଥାଦାନାଦ୍ |
+| lightning | Verb | କାଣ୍ଡ କିନା, କଣ୍ଡାନାଗା |
+| Noun | ଜିକ୍ ଜିକ୍ ମାବ୍ |
+| like | Verb | ନେଚାନାଦ୍, ଇଷ୍ଟାମ୍ |
+| like | Noun | CITCcUsS ସାର୍କେଟ୍, ଥାକ୍ରାମ୍ |
+| like that | Adverb | ଆଲେକେ |
+| like this | Connective | ଇଲେକେନ |
+| like, love, longing | Noun | କୋରାନାଦ୍ |
+| likewise | Adverb | ଲେକେ |
+| lilly | Noun | ଦୁର୍ପା ପୂଙ୍ଗା |
+| limbs | Noun | ମେନ୍ଦୁଲ୍ ମାନ୍ଦାକ୍ |

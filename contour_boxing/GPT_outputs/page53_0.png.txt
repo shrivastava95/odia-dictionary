@@ -1,0 +1,25 @@
+| Word in English | Part of speech | Odiya Translation |
+| --- | --- | --- |
+| palm root | Noun | ଏଡ଼ଙ୍ଗା ମାଟି |
+| palm tree | Noun | ତାଡ଼ା ମାଡ଼ା |
+| palm-branch | Noun | ତାଡ଼ ବାଲ୍ ଗା |
+| palmyra leaf,date palm | Noun | ଭନ୍ତା ପଦାଲା, ରୋଟା |
+| pan | Noun | ଏତ୍ |
+| pandal | Noun | କୁପି-ପାନ୍ଦିଲ୍ |
+| panic | Verb | ପେଦିରି ସାନାଦ୍, ଞେର୍, ପିସାନାଦ୍ |
+| pant | Noun | ଛେଡ୍ ଡ଼ି |
+| panties | Noun | ଡାୟାର୍ |
+| pantry | Noun | ସାମାନ୍ ଓାଟ୍ଟାକ୍ ଗାଚ୍ |
+| papaya | Noun | ବପଡ଼, ପାଣ୍ଡ |
+| papaya tree | Noun | କପେ ମାଡ଼ା, ବପଡ଼ ମାଡ଼ା |
+| paper | Noun | କାଗୋଜ୍ ସିଟାକ୍ |
+| parable | Noun | ମେଲ୍ ଡା ମାଟ୍ ଟା ତ୍, କାରା |
+| paradise | Noun | ଶ୍ବାର୍ଗାମ୍, ଦର୍କାନ୍ ପଡ଼ିୟ୍ |
+| paralysis,palsy | Noun | ପାଚ୍ଚା ଞାୟ୍ ରୋଗାମ୍ |
+| paralytic | Noun | କାୟ-କାଲ୍ କ୍ ଓାଦିଲ୍, ଠା ରୋଗାମ୍ |
+| paralyzed | Verb | କାୟ୍ କ୍ କାଲ୍ କ୍, GIGS |
+| paralyzed | Noun | କାୟ୍ କାଲ୍ ମେଦୁଲୋ ଦୁକ୍କାତୋନ୍ |
+| parbal vegetables | Noun | ପଟ୍ରା |
+| pardon | Noun | ତାପ୍ । ଓଡୁସିଦାନାଦ୍ |
+| pare,trim | Verb | ଗିନ୍ ସ୍ କାନାଦ୍, ଣନୀଶ୍ |
+| parents | Noun | ତାଲ୍ଲ୍ଡ୍ଲ୍ଡ୍ IE., ପେ |

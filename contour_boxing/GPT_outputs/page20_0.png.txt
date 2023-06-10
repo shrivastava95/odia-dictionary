@@ -1,0 +1,22 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| daily        | Adverb         | ଦିନାମ୍, ରାଜ୍ ରୋଜ୍ ନାଲ୍    |
+| daily wages  | Noun           | କ୍ବଲିନ୍ ଡାପ୍ କୁ ପାୟ୍ ସା  |
+| 1981         | Noun           | ପାପ କୁଚିର୍ ଥୀ । ପାଣ୍ଟ୍ୟ    |
+| dampness     | Verb           | ଇପିଡି ଇପିଡିମାନ୍ ତା, ଭପ୍ ପୀର୍   |
+| dance        | Verb           | ଏନ୍ଦାନାଦ, ଥାରିୟାନାଦ୍         |
+| dancer       | Noun           | ଆରିୟାନୋଣ୍ତ                    |
+| dandruff     | Noun           | ତାଲା ମାଶ୍ ତ୍ k Gag         |
+| dangerous    | Noun           | ବାୟାମ୍ ମାଲା 7 ରୁଣ୍ଡ       |
+| dare         | Verb           | ଦାୟିରାଙ୍ଗ ତେ କାରୁଙ୍ଗାନାଦ୍, ଗାଡ଼ସ୍ |
+| daringly     | Adverb         | ଦାୟାଙଗ୍ ତେ                |
+| dark         | Adjective      | ଓନା ମୁସୁର୍ ପୟ୍ ଡା         |
+| dash against | Verb           | ଡ଼କ୍ କା ଡ଼କ୍ କା କିତ୍ତା, ତାଗାଲାନାଦ୍ |
+| dash         | Verb           | ଜୂଜୋ, ମଗୋ ମନ୍ଦେ           |
+| date         | Noun           | ତାରିକ୍                     |
+| date fruit   | Noun           | ଭନ୍ତା CINE ତେଲ୍ ପାଣ୍ଡ       |
+| date palm leaves | Noun      | ଇନ୍ତା ରେଟା                  |
+| date-palm tree | Noun        | ଏଭେଲ୍ ମାଡ଼ା, ଭନ୍ ତା ମାରା |
+| daughter     | Noun           | ମାୟାଡ଼                     |
+| daughter in law | Noun        | କଡ଼ିୟାଡ଼                   |
+| dawn         | Adverb         | ଞ୍ରିୟାନ୍, କକ କୂସାନ୍       |

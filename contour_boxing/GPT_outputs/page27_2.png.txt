@@ -1,0 +1,24 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| fell | Verb | ଗୁଦାଡ଼କାଲ ଦିନ୍ |
+| fell down | Adjective | ମେଣ୍ଡାସି ରାଲ୍ |
+| fell | Verb | ଜାର୍ଗ୍ ଥାସ୍ ରାଲ୍ ତୋଣ୍ଡ |
+| fellowship | Noun | କାଲିୟି ମିଲିୟି |
+| female | Noun | ନାଟା ନାଟ୍ଵା |
+| female breast | Noun | ବମା |
+| female calf | Noun | ପାଡା |
+| female young goat | Noun | ମେକା |
+| females | Noun | ଡାଡା |
+| fence | Noun | ଞେଲୁମ୍ |
+| ferocious animal | Adjective | ବାୟାମାଲାମ୍ ଜନ୍ତୁ |
+| ferry | Noun | ଅଡା ଡାଣସିତଣ୍ଡ |
+| fertile | Adjective | ସାୟା ପାଣ୍ଡାନ୍ ବୁମ୍ |
+| festival | Noun | ମଟ୍ ନାଲ SAUNAS |
+| festival time | ଯିଃ | କୁମୀ ପାଣ୍ଡୁମ୍ |
+| festival hunters | Noun | ଞେଣ୍ଟାପାଣ୍ଡୁମ୍ |
+| festival pea | Noun | ଶିକୁଡ଼୍ ପାଣ୍ଡୁମ୍ |
+| festive day | Adjective | ପାଣ୍ଡୁମ୍ ରୋଜ୍ |
+| festoon | Noun | ପାନ୍ଦିର୍ ଆର୍ଦିନ୍ ମୁନ୍ନେ ସାଦାନାଦ୍ ସୋକ୍ ମାଡ଼ାନାଦ୍ |
+| fever | Noun | ଏଡ଼କ୍ |
+| fever gets down | Verb | ଏଡ଼କୁ ଞେଲ୍ ସାନାଦ୍ |
+| feverish | Adjective | ରେଙ୍ଗାନାଦ୍ କଗ କଦିଗ୍ ଚୁଡୁଟ୍ ଚିନ୍ନା ଦ୍ ଇଚୁଟ୍ |

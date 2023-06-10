@@ -1,0 +1,66 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| ମାରୁଙ୍ଗି | Noun. | ମାରୁଙ୍ଗି |
+| ଦାତିନ୍ | Adjective. | ଦାତିନ୍ |
+| ଆଦିନ୍ | Adverb. | ଆଦିନ୍ |
+| ମାୟ୍ | Noun. | ମାୟ୍ |
+| ଦିଙ୍କ | Noun. | ଦିଙ୍କ |
+| ରାଶି | Noun. | ରାଶି |
+| ମାନ୍ | Noun. | ମାନ୍ |
+| let | Verb. | ସାରି, ଟିକେ ଭଞ୍ଜେୋ |
+| କେଉାନାଦ୍ | Noun. | କେଉାନାଦ୍ |
+| ଞଥଡ଼ସି | Noun. | ଞଥଡ଼ସି |
+| ଦାନାଦ୍ | Noun. | ଦାନାଦ୍ |
+| let | Pro-form. | ଆମେ |
+| us | Pro-form. | ଆମେ |
+| eat | Verb. | ଖାଇବା |
+| 5 | Adjective. | ୫ |
+| ନ୍ଦିକାଡ଼ | Noun. | ନ୍ଦିକାଡ଼ |
+| ଡି ନ୍ଦିକାଲ୍ | Noun. | ଡି ନ୍ଦିକାଲ୍ |
+| let | Verb. | ଭଡ଼୍ ପା ରାଲ୍ |
+| ପିସାନାଦ୍ | Noun. | ପିସାନାଦ୍ |
+| ଲାର୍ | Noun. | ଲାର୍ |
+| ପିସାନାଦ୍ | Noun. | ପିସାନାଦ୍ |
+| ଜାରିସାନାଦ୍ | Noun. | ଜାରିସାନାଦ୍ |
+| let | Verb. | ଲୋପାଲ୍ ନିଗାନାଙ୍ଗ୍ |
+| ୱଡ଼୍ | Noun. | ୱଡ଼୍ |
+| ସୀଦାନାଦ୍ | Noun. | ସୀଦାନାଦ୍ |
+| let | Verb. | ୱିଡ଼ୃସି ଦାନାଦ୍ |
+| let | Pro-form. | ଆମେ |
+| out | Adverb. | ବଡ଼ା, ଥଆଦ୍ |
+| IQ | Noun. | IQ |
+| MAGI | Noun. | MAGI |
+| us | Pro-form. | ଆମେ |
+| bring | Verb. | ଆନ୍ତୁ |
+| ତାତକାର୍ | Noun. | ତାତକାର୍ |
+| dance | Verb. | ନୃତ୍ୟ |
+| eat | Verb. | ଖାଇବା |
+| ତିନ୍ଦିକାର | Noun. | ତିନ୍ଦିକାର |
+| 20 | Adjective. | ୨୦ |
+| ଓାରାଟ୍ | Noun. | ଓାରାଟ୍ |
+| ଦାକାଡ଼୍ | Noun. | ଦାକାଡ଼୍ |
+| play | Verb. | ଖେଳନ୍ତୁ |
+| Serve | Verb. | ସେୱା କରନ୍ତୁ |
+| ମାଡ଼ିକାଲ୍ | Noun. | ମାଡ଼ିକାଲ୍ |
+| sing | Verb. | ଗୀତ ଗାନ୍ତୁ |
+| ପାରିକାର | Noun. | ପାରିକାର |
+| sit | Verb. | ବସନ୍ତୁ |
+| near | Adverb. | ନଜରେ |
+| fire | Noun. | ଅଗ୍ନି |
+| କୁଦିକାଡ଼୍? | Noun. | କୁଦିକାଡ଼୍? |
+| let's | Pro-form. | ଆମେ |
+| sing | Verb. | ଗୀତ ଗାନ୍ତୁ |
+| 4 | Adjective. | ୪ |
+| dance | Noun. | ନୃତ୍ୟ |
+| let's | Pro-form. | ଆମେ |
+| walk | Verb. | ହାଟନ୍ତୁ |
+| ଦାକାଡ଼ | Noun. | ଦାକାଡ଼ |
+| ଜାଟି | Noun. | ଜାଟି |
+| letter box | Noun. | କାବୁର୍ ରତାନ୍ |
+| ସିଟିନ୍ ପେଟ୍ଟି | Noun. | ସିଟିନ୍ ପେଟ୍ଟି |
+| leucosis, albinism | Noun. | ସବେମ୍ |
+| level | Noun. | ସାମାଙ୍ଗ୍ |
+| ତୁଙ୍ଗାନାଦ୍, ରା | Adjective. | ତୁଙ୍ଗାନାଦ୍, ରା |
+| level earth | Adjective. | ତେର୍ ଲିତେଲି |
+| ମାନ୍ଦାକ୍ ବୁମ୍ | Noun. | ମାନ୍ଦାକ୍ ବୁମ୍ |
+| liberality | Noun. | ନ

@@ -1,0 +1,39 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| ତୁଙ୍ଗାନୋଣ୍ଡ | Adjective | ନଜାମ୍ |
+| honest | Adjective | ନିଷ୍ଠାବାନ |
+| faithful | Adjective | ସ୍ଥିର |
+| ତୋଣ୍ଡୁ,ମେଲ୍ ତା ନାରୂନ୍ | Noun | ନୈତିକତା |
+| honey | Noun | ମଧୁ |
+| ଏ | Noun | ମଧୁ |
+| ଉଞ୍ଜେ,ମେସ୍,ତେନେ, ପେରେ ନିଇ  | Noun | ମଧୁ |
+| honey bee | Noun | ପୋକୋଟା |
+| ପେରି,ଉୱ୍ ୱଁସି | Noun | ପୋକୋଟା |
+| honey comb | Noun | ମଧୁ କୋଶ |
+| honour | Noun | ମାନ |
+| hood | Noun | ହମ୍ସ |
+| ୦୮ | Noun | ସାପ |
+| snake | Noun | ସାପ |
+| hook | Noun | କଙ୍କଣ |
+| hope | Adjective | ଆଶା |
+| horde | Noun | ସେନା |
+| horizontal | Noun | ଅଡ଼ିଆଳ |
+| ପୁନ୍ ମାନ୍ଦାନାଦ୍ | Noun | ଶିଙ୍ଗ |
+| horn | Noun | କୋଂକ |
+| ମ ଭରା-କମ୍ | Noun | କୋଂକ |
+| horn bill | Noun | କାଠ ବେଙ୍ଗା |
+| horn music | Noun | କୋଂକ ଆବାଜ |
+| horn siren, branch | Noun | କୋଂକ |
+| hornet | Noun | ଝିଣ୍ଡା |
+| hornet(big) | Noun | ମଣିପୁର ଝିଣ୍ଡା |
+| horse | Noun | ଘୋଡ଼ା |
+| ପୋତ୍ ଗୁରାମ୍ | Noun | ଘୋଡ଼ା |
+| horse fly | Noun | ଘୋଡ଼ା ଝିଣ୍ଡା |
+| horse gram | Noun | କୁଳୁ |
+| ଉଲ୍  ଓା | Noun | କୁଳୁ |
+| horseradish tree | Noun | ମୂଳଙ୍ଗି |
+| ମାଡ଼ା,ମୁଗୁଲା | Noun | ହସ୍ପିଟଲ |
+| hospitality | Noun | ସ୍ୱାଗତତା |
+| host | Noun | ଆଯାତି |
+| ୱରୋଦାମ୍ | Noun | ବୈରୋଦ୍ଧତା |
+| hostility | Adjective | ବିରୋଧୀ |

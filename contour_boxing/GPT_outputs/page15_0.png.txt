@@ -1,0 +1,26 @@
+| English Word | Part of Speech | Odia Translation   |
+|--------------|----------------|--------------------|
+| catch        | Verb.          | ପୟ୍୍ ମ୍           |
+| caterpillar  | Noun.          | ବୁଇନ୍ଦେ ପୁଡ଼ି     |
+| caterpillar  | VOTMS Noun.    | ଚୁଡ଼ଲାପୁଡ         |
+| cattle       | Noun.          | ଗଡ଼କୁ, କ୍ କା    |
+| cauldron     | Noun.          | କଡ଼େଇ             |
+| cauliflower  | Noun.          | କୋବି              |
+| cause to get out | Verb.      | ପେସ୍              |
+| cause to move | Verb.         | ଜାର୍ଗିସାନାଦ୍     |
+| cause to move by hand | Noun. | କାୟ୍ ଦେ ନାଡ଼ପ୍    |
+| caution, reason, cause | Noun. | ବାରାକ୍ ME କେ     |
+| cautiously   | Adverb.       | ଗୋରେ ତେ            |
+| cautiously   |              | ଜାଚାତେ            |
+| cave         | Noun.          | କାଲ୍ ଗୁମ୍ପା, ପାଣ୍ କି |
+| (0770       | Noun.          | ପାଣ୍ଡୁକୁ           |
+| cement wall, boundary | Noun. | ପାର ଗୋଡ଼ା        |
+| centipede    | Noun.          | ଜେରୁ              |
+| ceremony     | Noun.          | କାର୍ୟାମ୍, ପାଣ୍ଡୁପ୍ |
+| certain day  | Noun.          | କାମସ୍, ପାଲାମ୍ ରୋଜ୍ |
+| certainly, positively | Adverb. | ଗିଷ୍ଟ             |
+| chaff        | Noun.          | ଞାନ୍ ଜିନ୍ ପଲି    |
+| 9811, 10010, 009 | Noun.     | ନେଡେମ୍, ଗଲୁସ୍  |
+| chair        | Noun.          | ଚୈକି              |
+| chalk        | Noun.          | କୋଡି              |
+| chalk paddy (ten 9) | Noun.  | ପୁଝେନ୍ ଓର୍ଥିା     |

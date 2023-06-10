@@ -1,0 +1,13 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| you | Pronoun | ମୀର୍ |
+| play(sl) | Verb | ନିମ୍ମା କାର୍ ସିତିନ୍ |
+| you | Pronoun | ନିମ୍ ମା ମା |
+| saw(pl) | Verb | ମୀର୍ AGAIN |
+| you | Pronoun | ମୀର୍ |
+| went(sl) | Verb | ନିମ୍ମା ଆଭିନ୍ |
+| you | Pronoun | ମୀର୍ |
+| will play(sl) | Verb | ନିମ୍ମା କାର୍ସିତିନ୍ |
+| you | Pronoun | ମୀର୍ |
+| will see(pl) | Verb | ମୀର୍ ଉଡ଼ି ତୀର୍ |
+| Zeal | Noun | ନାଗେଁ ଇଭଷ୍ଟାମ୍ । ମା ମାଡ଼ାନାଦ୍ |

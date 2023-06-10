@@ -1,0 +1,26 @@
+| Word in English  | Part of speech | Odiya Translation |
+|------------------|---------|-------------------|
+| mischief         | Noun    | ପ୍  ପାନାଦ୍           |
+| mischief         | Noun    | ରାଖଂ  ତୁଙ୍ଗାନାଦ୍           |
+| miserable        | Adjective | କାଷ୍ଟାମ୍ ତ୍  ତ୍ ଜୀଞାମ୍ |
+| miserly          | Adjective | ଗାଙ୍କି ନୀଶ୍,  ଗାଚ୍ଟି  ପୀନ୍  ଶ୍ |
+| misery           | Noun    | Calm              |
+| misfortune       | Noun    | Mole  ଥାଡ଼ଷ୍ଟାମ୍        |
+| mishap           | Noun    | ସାଟ୍  କ  ଦେବା, କାଷ୍ଟାମ୍  GAIN  ତାଗାଲ୍ ନାଦ୍ |
+| mislead          | Verb    | ମାପଷଦାନାଦ୍         |
+| miss             | Adjective | ମାୟ୍  ଭା,ମାୟି ଥାତ୍  ,ଗାତୁଲ୍  ଥାତ୍ |
+| miss             | Noun    | ଲେୟ୍  ଦାଡ଼୍          |
+| muist/haze       | Noun    | ମୁଡ଼େମ୍           |
+| mistake          | Noun    | ନେରାମ୍, ତାପ୍  ପୁ   |
+| mistress         | Noun    | ଲୋତା  ମେଲ୍  ଡା    |
+| Mole             |        |                   |
+| mix              | Verb    | କେଲ୍  MIME        |
+| mix              | Noun    | କିନ୍ଦି  ମନ୍ଦି କାଲ୍  ପାନାଦ୍ |
+| mixing           | Verb    | RIND              |
+| mock             | Verb    | ମିତୁକ୍  କାନାଦ୍,ନାଟ୍  କା ଥାଦାନାଦ୍ |
+| mockery          | Noun    | ପେଳ  ମିନ୍ଦଣ୍ଡ୍        |
+| mockingly        | Adverb  | ମିଡ଼କୋରେ         |
+| modern           | Adjective | ଭଂଜେଟ୍ କାଲାମ୍     |
+| days             |        |                   |
+| modesty          | Noun    | ନେମ୍  ଲାଦ୍         |
+| molar            | tooth   | Noun. ଗାୱ୍  ଗା PISA ପାଲ୍ |

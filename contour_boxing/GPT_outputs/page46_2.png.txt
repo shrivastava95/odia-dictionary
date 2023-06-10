@@ -1,0 +1,24 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| meddler | Noun | ଶ୍ଞା ମେ ଥାଡ଼ାମ୍ ଓାଟାନୋଣ୍ଡ |
+| mediator | Noun | ସାମାଦାନାମ୍ ତୁଙ୍ଗାନୋଣ୍ଡ, ବେରୁମାଲ୍ |
+| medical store | Noun | ମାତ୍ ଦୁକାନ୍ |
+| medicine | Noun | ମାତ |
+| medicine bottle | Noun | ସିସା |
+| meditate | Verb | ଅଣ୍ଡୋୟ୍ ଥାଲ୍ ପ୍ ତେ ମାନ୍ଦାନାଦ୍ |
+| meditate | Verb | ମକାରିସିଂ ମୋର ଓାଟି ପ୍ରାର୍ତାନା ତୁଙ୍ଗା |
+| meditative | Adjective | ଥରଟ୍ ଥାଲ୍ ପିନ୍ ଟଣ୍ଟୋ ମାନ୍ଦାନାଦ୍ |
+| meek/meekness | Adjective | ମାଟା ପ୍ରାକାରାମ୍ ନେମ୍ ଲାଦ୍ |
+| QUAI | Ileal | - |
+| meet | Verb | କାଇଲି ତାନ୍ |
+| meeting | Noun | ଗଟି ଗୃଡ଼ାନାଦ୍, ପାଞ୍ଚି ମିଳନା |
+| meeting place, pandal | Noun | କୁପ୍ ପ, ପାନ୍ଦର୍ |
+| melodious | Noun | ମେଲ୍ ତା ଲେଙ୍ଗ |
+| melt | Verb | ମାଟସ |
+| member | Noun | ମେମ୍ବାର୍ |
+| memorize | Verb | ଏ୍ଦ୍ ମାଡ଼ାନାଦ୍, ଗୁଣ୍ଡି ଣଣ୍ଡି ଦେ ତାସାନାଦ୍ |
+| Memory | Noun | ଗୁର୍ତି, ଏର୍ କି |
+| Memory fails | Verb | ଏ୍ଦ୍ ଇ ଓାଦାଟାମିଲ୍ ଲେ |
+| menstrual pain | Noun | ନାଟାନ୍ ଡକା ନପ୍ |
+| menstruation | Noun | ନାଟ୍ ଓା କିଙ୍କ ନେଲ୍ଲା, ଲେଞ୍୍ ଲେଞ୍ଜା୍ ଶେଷ ଥାନ୍ଦାନାଦ୍ |
+| mental disposition,mood | Noun | ଗାଟ ଟେମ୍ପାର୍, ଟକ୍ |

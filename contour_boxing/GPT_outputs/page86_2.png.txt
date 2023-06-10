@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| would have | Verb | ଥାସ୍ ମାନ୍ତା |
+| wound | Noun | ପୁଣ୍ତୁ |
+| wound burning | Noun | ପୁଣ୍ଡ ମାଣ୍ଡାନାଦ୍ |
+| wound ୦୮ the nose | Noun | ମସର୍ ତ୍ ପୁଣ୍ତ |
+| Wrap | Verb | ପିଲ୍ ଲାକିଙ୍କ୍ ସୀଲେ ତେ ଉଡୁପିସାନାଦ୍ |
+| wrath | Noun | କୋପାମ୍, ରୋସେମ୍ |
+| wrath ୦୮ god | Noun | ପାରାମେଶ୍ବାରନ୍ କପାମ୍ |
+| wreath | Noun | ଗୁଦ୍ |
+| wreathe | Verb | ଗୁଦ୍ ତୁଙ୍ଗାନାଦ୍ |
+| wring | Verb | ମାଡ଼୍ ପାନାଦ୍ |
+| wrist | Noun | ଡିକ୍ କାୟ୍ |
+| write | Verb | ରାସାନାଦ୍ |
+| write the letters | Verb | ଆସ୍ରାମ ରାସା |
+| writer | Noun | ରାସାନୋଣ୍ତ |
+| written | Verb | ରାସ୍ତାଦ୍ |
+| wrongly | Adverb | ତାପ୍ 3} ତେ, 4 8) |
+| necked | Noun | ଗରାଲ୍, ଗରଲ୍ |
+| yoke with slings | Verb | କାୱଡି |
+| yolk | Noun | ଗାର୍ବାମ୍ ଡା ପାସ୍ ପ୍ |
+| Clot | Noun | ତେ ମାନ୍ଦାନାଦ୍ଵ।ସାନ୍ଦା |
+| you are going(sl) | Verb | ନିମ୍ମା ଥାନ୍ ମିନ୍ଦିନ୍ |
+| you are playing(pl) | Verb | ମୀରୁ କାସ କାର୍ସ ମିନ୍ଦୀର୍ ମିନ୍ଦୀର୍ |
+| you play(pl) | Verb | ମୀରୁ କାର୍ସି ତୀର୍ |

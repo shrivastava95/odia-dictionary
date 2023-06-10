@@ -1,0 +1,26 @@
+| Word in English | Part of Speech | Odiya Translation |
+|-----------------|----------------|-------------------|
+| emit            | Verb           | ଜୋଡ଼ଗୋମନ୍ଦେ       |
+| blood           | Noun           | ସୁରକ୍ତା             |
+| Share           | Noun           | ଭାଗ କରନ୍ତୁ          |
+| Emperor        | Noun           | ଚକ୍ରବର୍ତ୍ତୀ        |
+| Empire          | Noun           | ସାମ୍ରାଜ୍ୟ          |
+| empty           | Adjective      | ଖାଳି               |
+| empty           | Noun           | ଖାଳି               |
+| empty           | Noun           | ଖାଳି               |
+| encompassing    | Adverb         | ସମାହର୍ଣ୍ଣ          |
+| End             | Noun           | ଅନ୍ତ୍ୟ                |
+| Endearment      | Noun           | ଆଭିମାନ             |
+| Endurance       | Noun           | ଧୈର୍ଯ                |
+| endure          | Verb           | ଧୈର୍ଯ ରଖନ୍ତୁ       |
+| Anger           | Noun           | କ୍ରୋଧାଙ୍ଗଳି       |
+| Enemy           | Noun           | ଶତ୍ରୁ              |
+| enlarge         | Verb           | ଉନ୍ନୟନ କରନ୍ତୁ      |
+| enough          | Adjective      | ସମର୍ଥ              |
+| entangled       | Verb           | ଉଲ୍ଲମ୍ବିତ କରନ୍ତୁ |
+| enter           | Verb           | ପ୍ରବେଶ କରନ୍ତୁ     |
+| enter by force  | Verb           | ଜୋରାରେ ପ୍ରବେଶ କରନ୍ତୁ |
+| enter the tread | Verb           | ପାଦ ଚାଳ ପ୍ରବେଶ କରନ୍ତୁ |
+| entering the hole| Verb           | ଲାଗି ଗୁହାରେ ପ୍ରବେଶ କରନ୍ତୁ|
+| Enterprise      | Noun           | ଉଦ୍ୟୋଗ              |
+| Enthusiasm      | Noun           | ଉତ୍ସାହ              |

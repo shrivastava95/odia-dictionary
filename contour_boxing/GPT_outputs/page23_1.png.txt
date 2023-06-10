@@ -1,0 +1,23 @@
+| Part of Speech | Odia Translation
+--- | --- | ---
+drain | Noun | ଏ୍ର୍, ଗେଞ୍୍ ଆାଞ୍ଚାନାଦ୍ 
+cause | Verb | ସଂଚାଳନା କରିବା 
+drake | Noun | ଗଲେ ବାଙ୍କ 
+draper | Noun | ଗୁଡ଼ା ସୀଲେ ଥାମ୍, ମାନୋର୍ 
+draw | Verb | ମିଲ୍ ଡୁଞ୍ଜିଙ୍କାନାଦ୍ 
+draw back | Verb | କାମ୍ବ୍ଦାକ୍ ଠାଦାନାଦ୍ 
+draw milk from | Verb | ପାଲ୍ ପୀରାନାଦ୍ 
+draw | Verb | ମାଲ୍ ସି ଥାନ୍ଦାନାଦ୍ 
+draw out | Verb | ଟେଣ୍ଢାନାଦ୍ବ, ଲାଗାନାଦ୍ 
+draw up | Verb | ଲଡ଼ାୟ୍(ଗଡ଼୍ ଓ) ମାଡ଼ାନ୍ ବୁମ୍ ତା ତାୟାର୍ ଆଦାନାଦ୍ (କାଦ୍ ଲାନାଦ୍) 
+draw(write) | Verb | ରାସାଟ୍ 
+drawing darkness | Verb | ମାଚ ମାଚ ସିକାଡ଼ ଆଚମିନ୍ଦେ 
+dream | Noun | କାଲ୍ ଓରାମ୍, ନାଲାଦ୍ 
+dressed in rope reaching down to his feet | Noun | କାଲ୍ କିନା (ଏଓ୍ ତାଙ୍କ) ମ ମାନ୍ଦାନ୍ କୁସା ମ୍, ଗିସିଡ଼୍ 
+dried-up | Noun | ବାଦ୍, ତୁଙ୍ଗାନାଦ୍ 
+drink | Verb | ଉଣ୍ଡାନାଦ୍ 
+drinking | Verb | ଉଣ୍ଠଜ ମିନ୍ଦଣ୍ଡ 
+drip, trickle | Verb | ପେରେନି ଚଟ୍ ଚଟ୍ 
+drive | Verb | ଓସାନାଦ୍, ନାତ୍ୟ ଯିସାନାଦ୍ 
+drive away | Transitive verb | ତୋଲୋମନ୍ଦେର୍, ଗେଦମିତର୍, ତୋଲ୍ ଗେର୍ ମା 
+drive away with forcefully | N/A | ବଳାତକେ ଦୂର କରନ୍ତୁ

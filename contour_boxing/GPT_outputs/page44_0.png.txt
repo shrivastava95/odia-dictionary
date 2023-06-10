@@ -1,0 +1,20 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|-----------------|------------------|
+| lime stone   | Noun            | ଚୁନାମ୍ କାଲ୍ କ୍,ରାୟ୍ |
+| line         | Noun            | ଣ୍ନଲେ, କାଲେ ଜାଲେ |
+| line         | Verb            | ସାଲେ ସାଲେ-ଜାଲା ଜାଲା ଆଟା |
+| line         | Noun            | MIME ଗନ୍ ତା ଉଡ଼ିଜୀୱାମ୍ ତବ ମାଟା କେତାନୋଣ୍ତ |
+| lion         | Noun            | ସିମ୍ ଡ଼ୱ୍ |
+| lion         | Noun            | ଡ଼ୱ୍ ବୁରକ୍ ବୁରକ୍ କେ ଭତା |
+| lips         | Noun            | ପେଦୃୂଷ୍ଷେ |
+| listen       | Verb            | କେନ୍ ଜା |
+| little       | Adjective       | କେନେ୍ କେନ୍ନେ, କଦି, ଚୁଡୁଟ୍, ଛୁଟ୍ଉଛ୍ୁ ଟ୍ |
+| little finger | Noun            | ପିଲା GIGS |
+| little cormorant bird | Noun  | ଏକାକାର୍,ଏର୍ କାକାଡ଼୍ |
+| little finger | Noun            | ପିଲ୍ଲା ସାଡ଼ଞଜ୍ |
+| little food  | Noun            | ପ୍ରକ୍ କେଣ୍ଡ Sale |
+| little while | Noun            | ଚୁଡ଼ଟ୍ |
+| live         | Adjective       | ବାତ୍ କାନାଦ୍ |
+| live coal    | Adjective       | କିସ୍ ତାଡ଼୍ ମେ |
+| live         | Verb            | ତିଞ୍ଜି ବାତ୍ କାନାଦ୍ କ1ଓାମ ମାନ୍ଦାନାଦ୍ |
+| livelihood   | Noun            | ବାକୁ |

@@ -1,0 +1,23 @@
+| Word in English | Part of speech | Odiya Translation |
+|-----------------|----------------|------------------|
+| mother          | Noun.          | ଯୟାୱା ଯୟାୟୋ       |
+| mother in law, aunty | Noun. | ପୟେ                        |
+| mother land | Noun. | ବୁମ୍ ଯୟାୟୋ                   |
+| mother's father | Noun. | GIST                   |
+| mother's mother (grandmother) | Noun. | କାକ                  |
+| mother's younger sister, stepmother | Noun. | ସିନି ୟାୱା            |
+| mother-in-law | Noun. | ପୋଯେ                       |
+| mountain | Noun. | ମେଟା                       |
+| mountain goat | Noun. | GIGS                    |
+| mountain hawk eagle | Noun. | ଗରୁଡ଼୍                 |
+| mountain ranges | Noun. | କାଲିୟି ମାନ୍ଦା ମେଟ୍ଟା       |
+| moum | Noun. | ଦୁକ୍ କାମ୍ ତେ ମାନ୍ଦାନଦ୍            |
+| mourning | Verb. | ନେସ୍ କି ନେସ୍ କି, ଗୁଣ୍ଡ ଓାଡ଼୍ । 6 BASIE |
+| mouse | Noun. | ସିଟିକାଲ୍ ଉପେ                 |
+| moustache | Noun. | ମିସମ୍, । ଶୋକ୍            |
+| mouth | Noun. | ପାୱର୍ ID                   |
+| movable | Adjective. | ଉଙ୍ଗାନାଦ୍,ଅ ଙ୍କାନା ଦ୍,ମେଦୁଲାନାଦ୍ |
+| move | Verb. | କୁଚା ନାଦ୍, କୁଶ୍ଶା ଶା, ଜାର୍ ଗା |
+| movement, agitation | Noun. | ଓରୋଦାମ୍ ତେ ସାର୍ରେତୋର୍ ଗୂଡ଼ାନାଦ୍ |
+| moving, shaking | Verb. | ଓାଦ୍ ଓାଦ୍ ମିନ୍ଦେ          |
+| MOW the grass | Verb. | ଗାଡ଼୍ କୟ ତାନାଦ୍            |

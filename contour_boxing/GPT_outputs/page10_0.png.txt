@@ -1,0 +1,31 @@
+| Word in English | Part of Speech | Odiya Translation |
+|-----------------|----------------|------------------|
+| basket          | Noun.          | କୁଲ୍  ଲା           |
+| basket          | made           | with  bark       |
+|                  | Noun.          | ବୁଟୁଲ୍             |
+| basket          | small  size    | Noun.          | ଟାଟ୍             |
+| basket          | used           | for  storing    | COW              |
+| dung            | Noun.          | ପେଣ୍ଢା  ଟାଟ୍   |
+| bat             | bird           | Noun.          | ଗାବିଲି  ପିଟେ |
+| bath            | Toom           | Noun.          | ଏ୍ର୍  ପୁନ୍ଦାକ୍  ଗାତ୍ |
+| bathe           | Verb.          | ଏ୍ର୍  ପୁନ୍ଦା       |
+| bay             | Weaver  bird  | Noun.          | ଜାକ୍  କା ତପା  |
+| be              | Verb.          | ଥାଦାନାଦ୍,ମାନ୍ |
+| be              | angry          | Verb.          | କୋପାମ୍         |
+| be              | careful        | Adverb.        | ଚ଼େଡୁର୍  ମାନ୍  |
+| be              | ୦1୯ଥ୪୧୯୯(57୩110) | Verb.          | ତାଲା ପାୟ୍ ତାନାଦ୍ |
+| be              | cooled         | Adjective.     | କ୍ରିକ୍  ତା     |
+| be              | employed       | Adjective.     | ପାଡ଼ିୟ୍ ମାଡ଼ାନାଦ୍ |
+| be              | extinct        | Verb.          | ପିତ୍ତାନାଦ୍    |
+| be              | struck         | Verb.          | କୋୟେ  ଇର୍କିରା,ଗିରା |
+| be              | there          | Verb.          | ମାନ୍ଦାନାଦ୍     |
+| be              | times          | Adverb.        | ଟୀକ୍  ସାମାୟାମ୍ ତେ |
+| beak            | Noun.          | ମ୍ବସ୍  କିଡ଼୍     |
+| beans           | Noun.          | ସିକୁଡି  କାୟା   |
+| bear            | Noun.          | ଏଡ଼୍  ଜ୍        |
+| bear            | back           | Verb.          | ପେର୍କେ  ଜାର୍ଗାନାଙ୍କ୍ ଭଦାନାଦ୍ |
+| bear            | down           | Verb.          | ଅଡ଼ି  ଥାନ୍ଦାନାଦ୍ |
+| bear            | ୦୮             | Verb.          | ସାମ୍ବାନ୍ଦାମ୍  ତାସାନାଦ୍ |
+| bear            | through        | Verb.          | ତାରି  ୪  ଥାନ୍ଦାନାଦ୍ |
+| bear            | up             | Verb.          | ମେଦୁଲ୍  କଟେ ମାନ୍ଦାନାଦ୍ |
+| bear,sustain    | Transitive     |                  |

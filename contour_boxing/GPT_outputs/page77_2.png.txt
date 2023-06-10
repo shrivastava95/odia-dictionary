@@ -1,0 +1,19 @@
+| Word in English | Part of speech | Odia Translation |
+| --- | --- | --- |
+| shave | Transitive verb | ତୂସି, ସାର୍  ଦି |
+| shift | Transitive verb | କରୟାନାଦ୍ |
+| show | Transitive verb | ଇଦାନାଦ୍ |
+| shower | Transitive verb | ତୋପଷାନାଦ୍ |
+| sift | Transitive verb | ଓନା  ଓାଦାନାଦ୍ |
+| sing | Transitive verb | କାତାନାଦ୍ |
+| sit | Intransitive verb | ପାରାନାଦ୍ |
+| sleep | Intransitive verb | କୁଦାନାଦ୍ |
+| smear with COW dung solution | Transitive verb | ଉନ୍ |
+| smile | Intransitive verb | ଜାନାଦ୍ |
+| smoke | Transitive verb | ମ୍ବସ୍ ମ୍ବସ୍ କାୱ  କାୱ୍ ତାନାଦ୍ |
+| sneeze | Noun | ତୁମ୍ ମାନାଦ୍ |
+| soak | Transitive verb | ନା ଥାତାନାଦ୍ |
+| speak | Transitive verb | ଭନ ଓୀତାନାଦ୍ |
+| spill water | Transitive verb | ତ୍ରିୟାନାଦ୍ |
+| spit | Intransitive verb | ତଚ୍ଚାନାଦ୍ ଏରପ MANGE |
+| sprain | Intransitive verb | ଉଛାନାଦ୍ |

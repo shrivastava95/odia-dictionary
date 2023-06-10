@@ -1,0 +1,68 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| ୟୋ | Unknown | ୟୋ |
+| not | Unknown | ନାହିଁ |
+| good | Adjective | ଭଲ |
+| road | Noun | ସଡ଼କ |
+| not | Unknown | ନାହିଁ |
+| known | Verb | ଜାଣିବା |
+| not | Unknown | ନାହିଁ |
+| listen | Verb | ସୁନିବା |
+| not | Unknown | ନାହିଁ |
+| make | Verb | କରିବା |
+| known | Adjective | ଜାଣାନ୍ତୁ |
+| other's | Adjective | ଅନ୍ୟର |
+| ବେନୁନ୍ | Unknown | ବେନୁନ୍ |
+| ଉଡଲସ୍ | Unknown | ଉଡଲସ୍ |
+| କେ | Interjection | ହୋ |
+| ତୁଙ୍ଗି୍ୱ୍ | Unknown | ତୁଙ୍ଗିବା |
+| not | Unknown | ନାହିଁ |
+| only...but also | Subordinating connective | ମାତ୍ର ... ନୁହେଁ ... ବଳି |
+| ଭଦ୍ | Unknown | ଭଦ୍ |
+| ମାଟୁ | Unknown | ମାଟୁ |
+| ଗେ | Unknown | ଗେ |
+| (ମାତ୍ର) | Unknown | (ମାତ୍ର) |
+| ଆୟ୍ୟେୋ | Unknown | ଆୟ୍ୟେୋ |
+| ମାରି | Unknown | ମାରି |
+| ଥାଦ୍ | Unknown | ଥାଦ୍ |
+| ବା | Conjunction | କିନ୍ତୁ |
+| not | Unknown | ନାହିଁ |
+| wash | Verb | ଧୋଇବା |
+| ନରୱ | Unknown | ନରୱ |
+| note | Noun | ନୋଟ |
+| paper | Noun | କାଗଜ |
+| nothing | Adjective | କିଛି ନାହିଁ |
+| known-innocent | Noun | ଅଜ୍ଞାତ |
+| ପୂସା | Unknown | ପୂସା |
+| ପୁନଣ୍ଡ | Unknown | ପୁନଣ୍ଡ |
+| notice | Noun | ନିର୍ଦ୍ରଷ୍ଟା |
+| ମାଟା | Unknown | ମାଟା |
+| କାବୁର୍ | Unknown | କାବୁର୍ |
+| notorious | Adjective | ଖରାପ |
+| ସାରେତୋର୍ | Unknown | ସାରେତୋର୍ |
+| କାରାପ୍ | Unknown | କାରାପ୍ |
+| ଭଞ୍ଜୋ | Unknown | ଭଞ୍ଜୋ |
+| ପୁନ୍ଦାନାଦ୍ | Unknown | ପୁନ୍ଦାନାଦ୍ |
+| nourish | Verb | ଶୁଷ୍କତା |
+| ପଡ଼ପାନାଦ୍ | Unknown | ପଡ଼ପାନାଦ୍ |
+| novelty | Noun | ନବୀନତା |
+| 7 ତାଦ୍, ଠନା @< ଲେକେ | Unknown | 7 ତାଦ୍, ଠନା @< ଲେକେ |
+| ମାନ୍ଦାନାଦ୍ | Unknown | ମାନ୍ଦାନାଦ୍ |
+| NOW | Adverb | ଏହିମାନେ |
+| ଭନ୍ | Unknown | ଭନ୍ |
+| ଜେ | Unknown | ଜେ |
+| NOW | Adverb | ଏହିମାନେ |
+| it self | Pronoun | ଆପଣଙ୍କର |
+| ଭନ୍ | Unknown | ଭନ୍ |
+| ଞ୍ବା | Unknown | ଞ୍ବା |
+| nowhere | Adverb | କୌଣସି ଠାରୁ |
+| numbers,to count | Verb | ଗଣନା |
+| nursery | Noun | ନର୍ସେରୀ |
+| ପେଟୁମ୍ | Unknown | ପେଟୁମ୍ |
+| ମାଲାମ୍ | Unknown | ମାଲାମ୍ |
+| observation | Noun | ମତାମତ |
+| କୁଏ | Unknown | କୁଏ |
+| ଉଡାନାଦ୍ | Unknown | ଉଡ଼ାନାଦ୍ |
+| observe | Verb | ଦେଖନ୍ତୁ |
+| ସାୟା | Unknown | ସାୟା |
+| ଉଡ଼ାନାଦ୍ | Unknown | ଉଡ଼ାନାଦ୍ |

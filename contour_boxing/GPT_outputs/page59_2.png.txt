@@ -1,0 +1,18 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| sidanad | Noun | ମାଗି |
+| repeat | Verb | ମାଲ୍‌ ତୁଙ୍ଗାନାଦ୍ |
+| again | Noun | ମେଣ୍ଡେ ମେଣ୍ଡେ ମାଲ୍ଲା |
+| repel | Verb | ଥାଦକାରାମ୍ ତୁଙ୍ଗାନାଦ୍ |
+| repent/repentance | Verb | ତୁଙ୍ଗ ତା ତାପ୍ ସେଙ୍ଗେ ଗାଟ୍ଟି ଦୁକ୍ କାମ୍ ଥାଦାନାଦ୍ |
+| repentance | Verb | ମାଡ଼୍ ତା ତାପ୍ ସେଙ୍ଗେ ଦୁକ୍ କାମ ତେ ମାନ୍ଦାନାଦ୍ |
+| replica | Noun | ମାଲ୍‌ ତୋପାନ୍ ନୀଡ଼ କା |
+| reply | Verb | ମାଲ୍‌ ପି କେତାନାଦ୍ |
+| reproach | Noun | ତେନ୍ ଶ୍ରେଣୀ କାନାଦ୍‌, ମାୟ୍‌ ତାନାଦ୍ |
+| repulsive,ugly | Adjective | କାସମାଲାମ୍‌ |
+| resembling | Noun | ଅରୋଟ୍‌ ଲେକେ |
+| responsibility | Noun | ମାଲ୍ ପାଡ଼ିୟ୍ ଦିନ୍ ସାୟ୍ ଉଡ଼ାନାଦ୍ |
+| rest | Verb | ରୋମାନାଦ୍ |
+| restaurant | Noun | ଦଡ଼ା, ସାକୂର୍ ତିନ୍ଦାନ୍‌ BEDE |
+| restraint | Noun | ଥାଡାମ୍ |
+| resurrection | Noun | ଡଲ୍ ଲି ମେଣ୍ଡୋନ୍ ତାମ୍ ଜୀଞାମ୍ ଦର୍କାନାଦ୍ |

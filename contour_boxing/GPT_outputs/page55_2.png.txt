@@ -1,0 +1,30 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| post | Noun | କାବୁର୍ ତ୍ ସିଟି |
+| ଇଦାନୋଣ୍ତୁ |  |  |
+| post | Noun | ଚିଟିନ୍ ଲୋନ୍  |
+| office | Noun |  |
+| pot-belly | Noun | ବଡ଼ଳି, ଭର୍ |
+| ଡ଼କାତଣ୍ଟ, ଡ଼କାତଣ୍ଠ, ଡକାମିନ୍ଦଣ୍ତ, ଡଙ୍କାଲ୍ ଡ଼କାମିନ୍ଦଣ୍ଡ, ଡଙ୍କାଲ୍ |  |
+| pot vessels | Noun | ମୁନ୍ତା, ଛୋଟ ମାଟି, ପାତ୍ର |
+| potato | Noun | ବାଙ୍ଗାଲ ଦୁମ୍ପା ! ଆଆଲୁ ମାଟି |
+| potency | Noun | ସାତ୍ ଓାମ୍ |
+| potter | Noun | କୁମାଲ୍ |
+| pound | Verb | ପିଣ୍ଡ ତୁଙ୍ଗା |
+| pounding rice | Noun | ନୁକ୍ କା, ଓୱାଞ୍ଜି ଉଚ୍ଚାନାଦ୍ |
+| pour the water | Verb | ଏ୍ର୍ ଓାଟା |
+| poverty | Noun | ଭଲ୍ ଞୋର୍ |
+| powder | Noun | ଗୁଣ୍ଡାଲ୍ |
+| power | Noun | ସାତ୍ ଓାମ୍, ଆଦିକାରାମ୍ପାକ୍ ତି |
+| practically | Adverb | ପାଡ଼ିୟ୍ ମାଡି, ଉଡ୍ କେ |
+| practice | Noun | ଥାଲ୍ ଓାଟ୍ |
+| practise | Verb | ଥାଲ୍ ଓଟ୍ ଥାଭଇମୁଟ୍ |
+| praise | Noun | ମେଲ୍ ତା ମାଡ଼ାନାଦ୍ |
+| prawn shrimp | Noun | ରେୟା, ରେୟଯେ |
+| pray | Verb | ତାଲ୍ ପା, ତାଲ୍ କା |
+| prayer | Noun | ପ୍ରାର୍ତାନା ମାଡ଼ା ତୁଙ୍ଗା |
+| preach | Verb | ଦାର୍ମାମ୍ ଞ୍ରିଷାୟାମ ଚତ ମାଙ୍ଟଗା କେଶାନାଦ୍ |
+| precede | Noun | ମୁବନ୍ନେ ମାନ୍ଦାନାଦ୍ |
+| precedent | Noun | ମୁନ୍ନେଟ୍ କାଲାମ୍ ପାଡ଼ିୟ୍ |
+| precise, exact | Adjective | ଲଟ୍ କେ |
+| predestine | Verb | ମୁନ୍ ନେ କୁଞ୍ଚ୍ |

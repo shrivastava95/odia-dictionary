@@ -1,0 +1,27 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| lay | Verb | ଆଲ୍ଲା ଞ୍ର ତୁସ୍ତାନ୍ |
+| lay | Verb | ଗୁଡ଼ଶ୍ ପାନାଦ୍ |
+| lay | Verb | ଓଡ଼ସାନାଦ୍ |
+| lay | Noun | ପାଟା |
+| lay | Verb | ତୀସି ବାୟ୍ ଦେ ତୋପିସାନାଦ୍ |
+| lay | Verb | କାର୍ଟ୍ ମାଡ଼ାନାଦ୍ |
+| lay | Verb | ଓାଦାନ୍ କାଲାମ୍ ସେଙ୍ଗେ ଗୁଡ଼ସ୍ ପାନାଦ୍ |
+| layer | Adjective | ବିଡ଼ା ବିଡ଼ା |
+| laziness | Noun | ମଣ୍ଡ |
+| lazy | Noun | ପାନ୍ଦି ସାଣ୍ଡୁ ମଣ୍ଡା ଧଣ୍ଡ ଗାଡିୱାଣ୍ତ |
+| lead | Verb | ଥାର୍ ତୋପିସାନାଦ୍ |
+| leader | Noun | ପେଦାଲ୍ |
+| leading | Verb | ପେଦାନ୍ ଆଦାନାଦ୍ ଆଦାନାଦ୍ ନାତୁପିସାନାଦ୍ ନାଡୁପିସାନାଦ୍ |
+| leaf | Noun | ଥାକ୍ |
+| leaf basket | Noun | ପାଉଡ଼ ଡଣ୍ଡା |
+| leaf plates tree | Noun | ପାଉଡ଼ ଡଣ୍ଡା |
+| leaf-plate | Noun | ସ୍ରସ୍ ତ୍ରି ତ୍ରି ପ୍ପା ଠା |
+| leafstalk | Noun | ତଡ଼୍ ମେ |
+| leakage | Noun | ଲାନ୍ ଓଡି ରା କାର ମିନ୍ଦେ |
+| leaking | Verb | ଓାଙ୍ଗୋମିନ୍ଦେ |
+| lean | Verb | ରୋଇମିନ୍ଦାନ୍ |
+| learn by heart | Verb | ଆୟ୍ କ୍ ଆୟ୍ ସାଦୁୱା ନେ୍ସା କାର୍ଶ୍ ପା |
+| least stroke pen | Noun | ରାଶ୍ ତା ମୁକ୍ କା |
+| leave | Verb | ତ୍୍ଡ଼୍ ସା |
+| leave the door open | - | - |

@@ -1,0 +1,35 @@
+| Word in English | Part of speech | Odia Translation |
+| --- | --- | --- |
+| ବେଲା | Noun | ରାତ |
+| Some | Pronoun | ବେନୋ ଅର୍ଥାତିକ |
+| Some | Adverb | ବେଶ୍ରାଣ୍ଟ |
+| ଉଡ଼ | Noun | କିଙ୍କ |
+| someday | Adverb | କେନ୍ଦ୍ରିକ |
+| ବେସ୍ କ୍ | Noun | କିନ୍ତୁ |
+| somersault | Noun | ଏରିଷ୍ଟିନ୍ଡ |
+| sometime | Adverb | ବେଶ୍ରାଣ୍ଟ ଅଥବା କେନ୍ଦ୍ରିକ |
+| ଅଣ୍ଡୋୟ୍ | Noun | ସାମାନ୍ୟତଃ |
+| sometimes | Adverb | ବେଶ୍ରାଣ୍ଟ |
+| କେ | Noun | ପଦାର୍ଥ |
+| somewhere | Adverb | ବେଳେ ବା ଠିକାଣ |
+| ବେଗ୍ ଗା | Noun | କିନ୍ତୁ ନାମବଳ୍ଲା |
+| Son | Noun | ପୁତ୍ର |
+| Son-in-law | Noun | ସାସୁ |
+| Son | Noun | ଜୀବ |
+| ରା | Noun | ମଶ୍ବାରି |
+| son's | Noun | ପୁତ୍ରଙ୍କ |
+| song | Noun | ଗୀତ |
+| soon, quickly | Adverb | ଝଣ୍ଡାବାଜୁଟ |
+| ୦] (୮୦୯୦1୦୯୦୮ | Noun | ପୂଜାରୀ |
+| ୦“୦୮୯୯୮ | Noun | ପଞ୍ଚାଙ୍ଗ |
+| ନୋର୍, ରେଡିର୍ | Noun | ହ୍ୟାନ୍ଡବୁକ୍ |
+| ୦] mouth | Noun | ପେଢିବା ବାକ୍ୟ |
+| “୦1୮୮ | Adjective | କଠିନତମ |
+| soul | Noun | ଜୀବାତ୍ମା |
+| sound | Noun | ଶବ୍ଦ |
+| sound | Noun | ବଜ୍ର |
+| ୦1୩]1 | Noun | ପଶୁପାଳକ |
+| south | Noun | ଦକ୍ଷିଣ |
+| SOW | Noun | ସୁଅ |
+| sowing festival | Noun | ଞେଉଳିମା |
+| ପାଣ୍ଡୁମ୍ | Noun | ପୋଶାକ |

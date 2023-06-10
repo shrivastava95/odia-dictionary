@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| Noun | ପାଣାମ୍, ଜୀୱାମ୍, ସାୟ୍ | ନାମ |
+| ମାନ୍ଦାନାଦ୍ଵ, ସୁକ୍ କ୍ କାମ୍ | ବିଶେଷଣ, ପ୍ରବନ୍ଧ | ଚମଡ଼ା, ସୁଖ |
+| physician | Noun | ଡାକ୍ ଟାର୍ |
+| pick out | Verb | ଛାନିବା |
+| pick up | Verb | ଉଠାଇବା, ଗୁଡ଼ାଶ୍ଲେଇବା |
+| ପାନାଦ୍ | | |
+| pickaxe | Noun | ପିକ୍ କାସ୍ |
+| pickpocket | Noun | ଡଙ୍ଗାନୋର୍, କାନି ଡଙ୍ଗାଲ୍ |
+| picture | Noun | ଚିତ୍ରାମ୍, ପଟ୍ |
+| piece by piece | Adverb | ଦୁଇଟି ଦୁଇଟି |
+| ଦୁକୁଡି ମୁକ୍ କା ମୁକ୍ କା | | |
+| piece into piece | Adverb | ସିଦିଲି |
+| piece ୦୮ bamboo | Noun | ଗୋଲାଉଡାମ୍ |
+| piece ୦୮ flesh | Noun | କାଣ୍ଡା କାଣ୍ଡା ତିତା, ଡଙ୍କା ତୁଙ୍କା ତୀର୍ା |
+| piece ୦୮ paper | Noun | ସୀଟାକ୍ ମୁକ୍ କା |
+| pieces ୦୮ wood | Noun | ପେଢ଼ କ୍ ଗରାପଣା ଡା ପେଢ଼୍ |
+| pierce, pierce in metal | Verb | ବାଉଚାନାଦ୍, ତାଲା ଗିଟ୍, ତୁଙ୍ଗ ଶୋମିନ୍ଦୋର୍ |
+| piety | Noun | ଭକ୍ତି |
+| pig grunts | Verb | ଗରଜିବା, କେଇନାଦ୍ |
+| pig, hog | Noun | ପାଡି, ପାଡ୍ |
+| pigeon | Noun | ବଡ଼େପିଟେ, ପାଞୀର୍ ପିଟେ |
+| pigs lying in the water | Verb | ପାଦି ତଲରେ ପଡ଼ି ପଦାର୍ପଣା ମିନ୍ଦେ |
+| pigsty | Noun | ପାଡିନ୍ଗୁଡା |

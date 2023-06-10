@@ -1,0 +1,19 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| cause        | verb           | ଏ୍ର୍ ମିଦାନାଦ୍,ଏର୍ ପୃନ୍ଦସାନାଦ୍  |
+| bite         | verb           | କାପିସାନାଦ୍             |
+| bow          | verb           | ମୋଡ଼କିସାନାଦ୍            |
+| bring        | verb           | ତେପିସାନାଦ୍             |
+| burn         | verb           | ପୃନ୍ଦସାନାଦ୍             |
+| climb        | verb           | ପଡ଼ସୀଦାନାଦ୍ ତାର୍ପିସାନାଦ୍ ତାର୍ଶ୍ ପାନାଦ୍  |
+| crush        | verb           | ଡାଣ୍ଢିସାନାଦ୍            |
+| dance        | verb           | କେୟିସାନାଦ୍,କେୟ୍ ଶ୍ ପ୍ରା |
+| drink        | verb           | ଏନ୍ଦିସାନାଦ୍             |
+| eat          | verb           | ଉପିସାନାଦ୍             |
+| extinguish   | verb           | ତିପିସାନାଦ୍             |
+| fall         | verb           | ପିସିଇଦାନାଦ୍            |
+| get down     | verb           | ରାଲପିସାନାଦ୍            |
+| give         | verb           | ଡିପିସାନାଦ୍, ଡିପିମ୍  |
+| graze        | verb           | ଇପିସିନାଦ୍,ଏନ୍ତିସାନାଦ୍   |
+| row          | verb           | ମେଇସାନାଦ୍              |
+| return       | verb           | ପେରିପିସାନାଦ୍             |

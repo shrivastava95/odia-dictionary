@@ -1,0 +1,35 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| ମେଣ୍ଡା,ପକ୍  ଡା  ମେଣ୍ଢା | Noun. | ମାନେ।ମାଣୁଷ୍ୟଣ୍ଡ |
+| male,man | Noun. | ମାନୁଷ |
+| males | Noun. | ଗଲେ |
+| malnutrition | Noun. | କାମ୍ରା,  ସାତ୍  ଓାମ୍ |
+| ଭଲ୍  .  ପିଲ୍  ଲାର୍  | N/A | ଭଳିଆ ପିଲ୍ଲା |
+| Man  who  has  ଓଠ  broken  teeth | Adjective. | ଗାଡ଼୍  ଓାଲ୍-ଇରୁଗ୍ |
+| ଡା  ପାଲ୍  କିନୋଣ୍ଡ | Noun. | ପୋଶାକ ପାଲ୍ଟନ୍ତୁ |
+| management | Noun. | ସଂଚାଳନ |
+| ଅଣ୍ଡୋୟ୍  ମାଡ଼ି    ଅରୋଟ୍ | N/A | ଅଣ୍ଡୋୟ୍ ମାଛ |
+| ଥାସ୍  ନାଡ଼ପିସାନାଦ୍  | Noun. | ବନ୍ଦାର |
+| Manger | Noun. | ପଶୁ ଖାଣ |
+| Mango  bird | Noun. | ଅମ୍ବା ପକ୍ଷୀ |
+| Mango festival | Noun. | ଆମ ପର୍ବ |
+| ପାଣ୍ଡୁମ୍ | N/A | ପାଣ୍ଡୁମ୍ |
+| Mango tree | Noun. | ଆମ ଗଛ |
+| Mango, Mango | Noun. | ଆମ |
+| Mangoes | Noun. | ଆମ |
+| manliness | Noun. | ମର୍ଦାନ୍ଗତା |
+| Manna | Noun. | ମଣ୍ଣ |
+| ଥାସ୍  ES  ଦର୍କାନ୍ | Noun. | ଛୋଟ ହାଟ |
+| ପାରାମେଶ୍ରାର୍  ଇରା  ମେଲ୍  ତା | Noun. | ପରମେଶ୍ୱରୀ ଇରା ମେଳ୍ଲା ତା |
+| ଟିଣ୍ଡ | Noun. | ଟିଣ୍ଡ |
+| many Ways | Pronoun. | ଅନେକ ପ୍ରକାର |
+| ବସର୍ | Noun. | ବସର |
+| ରାକାମ୍ | Noun. | ରକାମ |
+| many,much | Adjective. | ଅନେକ |
+| marble | Noun. | ମାର୍ବେଲ |
+| mare | Noun. | ଘୋଡ଼ା |
+| marigold | Noun. | ଗେଣ୍ଧୁଲୀ |
+| mark | Noun. | ଚିହ୍ନ |
+| market | Noun. | ମାର୍କେଟ |
+| marriage | Noun. | ବିବାହ |
+| marriage feast  ୦୮  boy  and  girl | Noun. | ବାରିଷ୍ଟରାତ୍ରି ମଧ୍ୟରେ ବାଳ୍ଯାନଙ୍କ ବିବାହ |

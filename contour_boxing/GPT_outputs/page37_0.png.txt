@@ -1,0 +1,27 @@
+| Word in English  | Part of Speech | Odia Translation |
+|------------------|----------------|-----------------|
+| i                | Number         | ୨୦            |
+| by bus           | Adposition     | ବାସ୍ତେ          |
+| I play           | Verb           | ନାନା କାର୍ସିତାନ୍        |
+| I played         | Verb           | ନାନା କାର୍ସ୍ ତାନ୍     |
+| †୦              | Verb           | ନାନ୍କା ଉଡ଼ିଭ୍ତାନ୍    |
+| I was playing    | Verb           | ନାନା କାର୍ସ୍ ମାତାନ୍   |
+| i will be playing | Verb           | ନାନା କାର୍ସ୍ ମାନ୍ ତାନ୍ |
+| i will be playing | Verb           | ନାନା କାର ମାନ୍ତାନ୍   |
+| ice              | Noun           | ଥାଜୁର୍ ଗାଡା       |
+| identify, recognise | Verb | ଥାନାଞାଲ୍ |
+| idle, sluggish (female) | Adjective | ଉଞ୍୍ ଲେଲ୍ |
+| idol, image      | Noun           | ବଡ଼୍ ପେମ୍, ବମ୍   |
+| idol/idolatry    | Noun           | ବୋକ୍ମି ପୂଜା       |
+| it               | Connective    | ଅକଞ୍ଚେଲାନ, ଯଦି   |
+| it drink         | Connective     | ଉଟ୍ କେ          |
+| if (condition), in | Connective   | Subordinating (୦୭୦ ଯଦ, ଥକାଞେଲେ କଂ |
+| ignite           | Verb           | କିଚିମାସ          |
+| ignorance        | Adjective     | ପ୍ରନୁକଟ୍ ମାନ୍ଦାନାଦ୍ |
+| ignorant         | Noun           | ପୁନୁକଟ୍ ମାନ୍ଦାନୋଣ୍ଡ    |
+| ignore, hate     | Verb           | ତୁର୍ସାନାଦ୍, ପାସ୍ |
+| MIME             | Noun           | ତ୍ସ ପାନାଦ୍        |
+| Iguana           | Noun           | ଉର୍ପାଲ୍            |
+| ill will         | Noun           | ଇଷ୍ଟାମ୍ ଭଲ୍ ଠା   |
+| illegible        | Noun           | କାସମାଲାମ୍, ଆଡୁଗୋ ଗାଲ୍, ନାଲ୍ଲା ଇଲ୍ଲେ |
+| illegitimate     | Adverb        | ପୀନ୍ଦା ।ପିଗ୍ ଗା ଗା |

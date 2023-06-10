@@ -1,0 +1,29 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| crucify | Verb | କୁରୁଶ୍ ଡା ଗଟ୍ଟି ଥାୱ୍ |
+| କାନାଦ୍ |  |  |
+| cruel | Adjective | ଗାଟି କାଷ୍ଟାମ୍ |
+| cruelty | Noun | ଞେର୍ ଅର୍ତୁଣ୍ଟ କିଙ୍କ୍ ଗାଟି |
+| Calm | MAGI |  |
+| crush,rub | Verb | ରାକାନାଦ୍ |
+| crutches | Noun | ଗୁଞ୍ଜେ ପାଙ୍ଗାଲ୍ |
+| crutches | Noun | କମ୍ ମା ପାଙ୍ଗାଲ୍ |
+| ୯୮ | Verb | କେୟାନାଦ୍ |
+| ୯୮ up | Verb | ମେଲ୍ ଡା ମାଡ଼ାନାଦ୍ , ତୁଙ୍ଗାନାଦ୍ |
+| ୯୮ down | Verb | ପେଲାନାଦ୍ |
+| ୯୮ for | Verb | କାଷ୍ଟାମ୍ ବାର୍ତାନାଦ୍, ୍ାଦାନାଦ୍ |
+| ୯୮ out | Verb | ବେଡ଼ିୟା ଲେଙ୍ଗ୍ ତେ କେୟାନାଦ୍, କେରାନାଦ୍ |
+| cubit | Noun | କୂଟ୍ଟା |
+| ୯୩୩୭11.2 span measure | Noun | ମୂରେଡ଼୍ |
+| cuckoo bird | Noun | କୋଇଲି ପିଟେ |
+| cucumber | Noun | ଦସା କାୟ୍ |
+| cucumber melon | Noun | ଡେକୁୂମ୍ |
+| cudgel | Noun | ନୁଙ୍କି ଓାଦାନ ବାଣ୍ଡ |
+| cultivable land | Noun | ଲାଙ୍କା |
+| cumin | Noun | ଜୀରାକ୍ |
+| cunning | Noun | କାନ୍ରି କାଣ୍ଡ କିନୋଣ୍ଡ |
+| cunning ness, | Adverb | ନାଟ୍ କାମ୍, ତାନ୍ଦ୍ରାମ୍ , ଟିକ୍ରାମ୍ |
+| cup,glass | Noun | ଗାଲାସ |
+| cupboard | Noun | ପୀଡା |
+| Cure | Noun | ସାୟ୍ ଥାଦାନାଦ୍ |
+| curious | Noun | ଇଷ୍ଟାମ୍ ଥାଦାନାଦ୍ |

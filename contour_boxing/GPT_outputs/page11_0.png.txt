@@ -1,0 +1,26 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| benediction | Noun | ଆଶିର୍ଞାଦାମ୍ |
+| beneficial | Adjective | ଲାବାମ୍ |
+| benefit | Noun | ସାୟାମ୍ |
+| benevolence | Noun | ଞଓେରେ ଅର୍ତୁଣ୍ଢ |
+| କିଙ୍କ୍ ସାୟାମ୍ ମାଡ଼ାନାଦ୍ | Noun | କିଙ୍କ୍ ସାୟାମ୍ ମାଡ଼ାନାଦ୍ |
+| berry | Noun | ଜିନିପାଣ୍ଡ |
+| berth | Noun | Cole ଡା ପାଟ୍ ଟାନ୍ ପଡ଼ିୟ୍ |
+| beside | Coordinating connective | ତୋଣ୍ଡୈ |
+| besides | Adverb | ଇଙ୍କା ମାଲ୍ ଲା |
+| betel leaf | Noun | ପାନ୍ ଥାକ୍ କି |
+| betray | Verb | ବଲ୍ ଲିଶି ନାମ୍ମା ମାନ୍ଦୋନ୍ କିଙ୍କ୍ ତୋପିଶି ପୟ୍ଶି MATE |
+| between | Adposition | ନାଡ଼ମେ |
+| beware | Verb | ନେୟ୍ ତିଙ୍କ୍, କିସ୍ କିସ ତିଙ୍କ୍ ମେ୍୍ମା |
+| bewilderment | Verb | କାଣ୍ଡ କିଙ୍କ୍ ପୟ୍୍ତ୍ ତୋଷ୍ ତୋଣ୍ଡ |
+| bid | Verb | ନୀଲମ୍ |
+| bid | in 86, 94 chit 0 ଓଠ lottery | Noun | ଗୁଞ୍ଜ, କାଲୟ ଓାଟାନାଦ୍ |
+| bier | Noun | ରେଙ୍ଗ କାୟା |
+| big | Adjective | ବେଡ଼ିୟା |
+| big drops | Noun | ବାରାଁ ବଟ୍ କ୍ |
+| big rope | Noun | ଜୋରା |
+| bigotry | Noun | ଦାର୍ମାମ୍ ତ୍ ମାଟା ପୁନୁକଟ୍ ସିକାଡ଼୍ ତେ ମାନ୍ଦାନାଦ୍ |
+| bill hook, chopper | Noun | ବାଣ୍ଡା କାଚେର୍ |
+| billhook | Noun | କାର୍ |
+| bind with rope | Verb | ତାଡ଼ମ୍ ତକ୍ |

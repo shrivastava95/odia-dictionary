@@ -1,0 +1,38 @@
+| Word in English | Part of Speech | Odia Translation |
+| --- | --- | --- |
+| by | Adposition | ଗଟ୍ |
+| talk | Noun | ଦେ |
+| by | Verb | ନାଡ଼୍‌ ସ୍ ନାଡ଼୍‌ ସ୍ |
+| work | Noun | କାର୍ଯ୍ୟ |
+| Adposition | Noun | ଗଟି |
+| ଦେ | Noun | ଦେ |
+| by | Verb | ନାଡ଼ପିସା, ନାତୁସ୍ |
+| walk | Verb | ପାଡ଼ିୟ୍ |
+| ପାନାଦ୍ | Noun | ପାନା |
+| by | Noun | କାର୍ଯ୍ୟ |
+| Way | Preposition | ଗଟି |
+| ଞଷେଚ୍ଚୋରେ | Noun | ଗଲେ |
+| Gale | Noun | ଞୋଦାନାଦ୍ |
+| Carry | Verb | ନାଡ଼ପିସା, ନାତୁସ୍ |
+| ମାଡ଼ାନାଦ୍ | Noun | କାଞ୍ଜାନାଦ୍ |
+| Carry out | Verb | ମାଟା ପୟ୍ 4 ପାଡ଼ିୟ୍ |
+| ମାଡ଼ାନାଦ୍ | Noun | କାଞ୍ଜାନାଦ୍ |
+| Carry the things | Verb | ଞୋଦାନାଦ୍ |
+| head | Noun | କଲସ |
+| carrying | Verb | ମୋସାନାଦ୍, ତୋସାନାଦ୍ |
+| load | Noun | ବାରା, ବାରୀ |
+| କାଞ୍ଜାନାଦ୍ | Noun | କାଜୁ |
+| cashew | nut | Noun | ଜିଟି ମାମିଟି |
+| (୦୭୭୦ | plant, tapioca | Noun | ସୋମା ମାଡ଼ା |
+| cast away | Verb | ଏର୍ ଲସ୍ |
+| water | Noun | ପାଣି, ଜଳ |
+| କାନାଦ୍ | Noun | କୁଣ୍ଡଳୀ |
+| ପଚାନାଦ୍ | Noun | ପଚା |
+| cast one's net | Verb | ଏସ୍, ତାନ୍ |
+| ଦାଡ଼ିୟ୍ | Noun | ଦାଡ଼ିୟ୍, ନେଟ୍ଟା |
+| castor oil | Noun | ନେରୋଣ୍ଡ ତୈଲ |
+| ନୀୟ୍ | Noun | ବିଡ଼ା |
+| cat | Noun | ବିରେନ୍ଦ୍ର ପୁଷ୍ପ |
+| Mews | Noun | କିଉଂଚ |
+| କେଇରା ଞେର୍ କାଡ଼ | Noun | କିଉଂଚ କାଡ଼ |
+| cataract the ୯୯ | Noun | ପାରାସିଙ୍ଗଳ |

@@ -1,0 +1,25 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| austerity | Noun | ବାୟାମ୍ ମାଲାମ୍ |
+| author | Noun | ବଇ ରାସାନୋଣ୍ତ |
+| authority | Noun | ଅଧିକାର |
+| autumn | Noun | ପେଦାମାସ୍ତକାଲ |
+| avoid | Verb | ପରିହରିବା |
+| babbler | Noun | ପୋଲାଉରୁଆ |
+| baby | Noun | ଶିଶୁ |
+| bachelor | Noun | ବାଚେଲର |
+| bachelor's buttons | Noun | ମାଲି ପୁଙ୍ଗାର |
+| backbiting | Noun | ସୁକ୍କାଲି |
+| backbitter | Noun | ପୋଷ୍ଟିଆ |
+| backbone | Noun | କମର |
+| backbite | Verb | ସୁକ୍କାଳେ କହିବା |
+| backward | Adjective | ପଛରେ |
+| backyard | Noun | ପଶ୍ଚିମବାଟି |
+| bacteria | Noun | ପ୍ରବଳ ଜୀବ |
+| bad idea | Adjective | ଖରାପ ଧ୍ୟାନ |
+| bad luck | Adjective | ବଦ୍ଧ ଭାଗ୍ୟ |
+| bad name | Noun | ଖରାପ ସ୍ତର |
+| bad smell | Noun | ଖରାପ ଗନ୍ଧ |
+| bad tempered | Adjective | ଖରାପ ସ୍ବଭାବ |
+| bad word | Noun | ଖରାପ ଶବ୍ଦ |
+| bad/vice | Noun | ପୀନ୍ଦ/ଦୋଷ |

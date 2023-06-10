@@ -1,0 +1,26 @@
+| Word in English | Part of speech | Odia Translation |
+| --- | --- | --- |
+| cell, man | Noun | ସେଲଲ୍,ମାନ୍  |
+| chair | Noun | ମାରାଲ୍  |
+| granddaughters | Noun | ମାଲ୍,ମାନ୍  |
+| daughter | Noun | ମାନ୍  |
+| grandfather, father's father | Noun | ମାୟାଡ଼  |
+| father | Noun | ପିତା  |
+| grandfather, mother's father | Noun | ଦାଦା  |
+| grandmother, mother's mother | Noun | ଗ୍ରାଣ୍ଡମା  |
+| grandmother, father's mother | Noun | କାକ୍  କୋ  |
+| grandson, daughter's son | Noun | ଆମ୍ନମା  |
+| grandson, son's son | Noun | ମାନ୍  ମାଲ୍  |
+| grandeur | Noun | ତାମ୍ଣ୍ଡ  |
+| grant | Verb | ଜିଗ୍  ଜାଗ୍  |
+| grantee | Noun | ସାରି  ଭଞ୍ଜୋ  ଥପ୍ ପାନାଦ୍  |
+| grapes, fruits | Noun | ଡାପ୍  କ୍  SIRES ଉତିଦେ,ଏଟି  ଦେ  ଭଦାନାଦ୍  |
+| grapes, juice | Noun | ଥଙ୍ଘୁର୍  ରାସାମ୍  |
+| grass | Noun | SII, ଟା, ଗାଡ୍, ସୋପ୍ ପା  |
+| the field | Noun | ଗାଡ୍ ମାନ୍ଦାନ୍  ବୁମ୍  |
+| grass with prickly seeds | Noun | କର  ଉଛି  |
+| gratitude | Noun | ଞାନ୍ଦାନାଲ୍, ଦାନ୍ୟୱାଦ୍, ୱାଦ୍, MIPS କାରାମ୍, ମଡ଼ୃକାନାଦ୍  |
+| grave | Noun | ୱ୍ତଶ୍, ଗୋଲ୍  |
+| gravel | Noun | ମରୁମ୍  Clam  |
+| graze | Verb | ମେୟ୍  ସାନାଦ୍  |
+| grazing field | Noun | ଏଲ୍  କା,,ବାୟ୍ ୟୁଲ୍  କୁମ୍ପାନଏାୟା, କୁଟା |

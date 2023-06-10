@@ -1,0 +1,30 @@
+| Word in English | Part of Speech | Odiya Translation |
+| --- | --- | --- |
+| beds | Noun | ପେଟୁମ୍ |
+| bee | Noun | ପେରେୱସି |
+| beef | Noun | ଗଡାଙ୍ଗ୍ |
+| bees | Noun | ଉର୍ତେ ୱଁସି |
+| before | Adverb | ମବନେ |
+| beg | Verb | ତାଲ୍ ପା |
+| beggar | Noun | ତାଲ୍ ପି ତିନ୍ଦାନୋଣ୍ଡ |
+| beggars | Noun | ଡ଼ମାରୀର୍ |
+| beginning | Noun | ମଟ୍ ମଦାଲ୍ |
+| begot | Verb | ପୁଟ୍ କିଶ୍ ତୋନ୍ |
+| behaviour | Noun | ବୁଦ୍ଦି |
+| behind | Preposition | ପଷେର୍ କେ |
+| being awake | Verb | ଭଶ କାଡ଼ ଞ୍ପର୍ ଗିତା |
+| being obscene | Adjective | ଆପମନ୍ଦେ ଏ |
+| belching | Noun | ଏକାନାଦ୍ |
+| bell | Noun | ଗାଣ୍ଠା |
+| bell to sound | Intransitive verb | ନେଙ୍କାନାଦ୍ |
+| bell tree | Noun | ମାଡ଼ ମାରା |
+| bellows | Noun | ଗିର୍କା, ଗାଲ୍ ଥାତ୍ ମୀରୋଣ୍ତ |
+| belly | Noun | ବରା ଡକା |
+| beloved | Adverb | ପ୍ରେମା ତେ ମାନ୍ଦାନ୍ |
+| below | Adposition | ଆଡ଼ିଗି |
+| below standard | Adverb | ଗାଟି କାରାପ୍ ତୋଣ୍ଡ |
+| belt 083 for head | Noun | ଟିକିଡ ପାପ୍ ପିଡ଼ ପିଲ୍ଲା |
+| bench | Noun | ବାଲା |
+| bend (rope) | Verb | ପିନୁର୍ ଉରାନାଦ୍ |
+| bend (stick) | Verb | ଉରାନାଦ୍ |
+| bending (rod) | Verb | ଓଙ୍ଗି ସାନାଦ୍ |

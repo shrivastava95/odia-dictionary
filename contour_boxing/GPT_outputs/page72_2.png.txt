@@ -1,0 +1,31 @@
+| English Word | Part of Speech | Odia Translation |
+|--------------|----------------|-----------------|
+| thirdly      | Adjective      | ମୂଣ୍ଟନ୍        |
+| thirst       | Noun           | ଗୁଣ୍ଡ ଦାୱା ଦାୱା  |
+| ଆଶାମିନ୍ଦେ,ଏର୍  | N/A            | ଏର୍ ଉ୍ଣ୍ଡା     |
+| ଞେତାନାଦ୍        | N/A            | N/A             |
+| thirteen     | Adjective      | ପାଦିମୁଣ୍ଡ      |
+| thirty       | Adjective      | ମୁପେୟ୍         |
+| this         | Adjective      | ଭଦୁ           |
+| this day     | Adverb         | ରୋଜ୍          |
+| this is      | OUTS Adjective | ଭଦ୍ ମାନ୍       |
+| ନାଦ୍(ମାୱୀଦ୍)     | N/A            | N/A             |
+| this month   | Adverb         | ନେଲ୍ଲା, ଲେଞ୍ |
+| this much    | Adjective      | ଇଚୋଟ         |
+| this time    | Pronoun        | ଦାମ୍, ଇ ସ୍ଟ୍, ଇନ୍ ଜେ  |
+| thorn        | Noun           | କୟ୍ ୟେ         |
+| thorn plant  | Noun           | କୟେନ୍ ମାରା    |
+| thorn to pierce | Intransitive verb | ଗଟଡ଼    |
+| those        | Demonstrative | ଆଞେ           |
+| though, although | Subordinating connective | ଆଲେ ଥାତ୍ କେ ବା |
+| thought      | Noun           | ଥାଲ୍ ପ୍ ମାଟା   |
+| thoughtfulness | Noun         | ଥାଲ୍ ପିନେ     |
+| ମାନ୍ଦାନାଦ୍    | N/A            | N/A             |
+| thousand rupees | Noun        | ଞ୍ଚେୟ୍ଵ ରୂପା  |
+| thrash       | Transitive verb | ବାନ୍ଦା     |
+| thread       | Noun           | ନୂଲ୍           |
+| threatening  | Verb           | ବେଦିରିସାନାଦ୍ |
+| three        | Numeral        | ମୃଣ୍ତୁ        |
+| three males  | Numeral        | ମୃଞ୍ଚିର୍      |
+| thresh ଠି (break)tamarind grains | Verb | ତାଲ୍ ସାନାଦ୍ |
+| threshing    | Verb           | ଏର୍ସକାନାଦ୍   |
