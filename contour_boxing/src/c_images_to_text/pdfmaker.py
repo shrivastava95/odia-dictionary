@@ -73,8 +73,8 @@ def compare_proposals(text1, text2):
 
 
 for i, image_path in enumerate(tqdm(os.listdir(source_pdf_folder))):
-    if 'page8_1' not in image_path:
-        continue
+    # if 'page8_1' not in image_path:
+    #     continue
     if int(image_path.split('.')[0].split('_')[0][4:]) in range(6, 88):      # only parsing pages 6 - 87, inclusive
         source_image_path = os.path.join(source_pdf_folder, image_path)       # for example: source_pdf_folder/page6_0.png
         target_image_path = os.path.join(target_folder, f'{image_path}.txt')  # for example: target_folder/page6_0.png.txt
@@ -116,7 +116,7 @@ for i, image_path in enumerate(tqdm(os.listdir(source_pdf_folder))):
                                     in enumerate(box_proposals)
                                     if np.sum(contains[idx]) <= 1 # if a bounding box contains other bounding boxes than itself then we dont consider it
                                 ]
-        print(reduced_box_proposals)
+        # print(reduced_box_proposals)
         # for x, y, w, h in reduced_box_proposals:
         #     cv2.rectangle(page_image, (x - tolerance, y - tolerance), (x + w + tolerance, y + h + tolerance), (0, 255, 0), 2)
         # plt.imshow(page_image)
