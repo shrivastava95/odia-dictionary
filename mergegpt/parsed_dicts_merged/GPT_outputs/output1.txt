@@ -1,0 +1,106 @@
+Word Meaning in English | Agri Related
+--- | ---
+cicatrix, cicatric bruise | 0
+brush | 0
+bucket | 0
+buffalo | 1
+buffalo-cart | 1
+buffaloes | 1
+buffalo-female | 1
+building | 0
+bulbous root | 1
+bull | 1
+bullock | 1
+bullock cart | 1
+bunch | 1
+bundle | 1
+bundle of grain | 1
+bundle of grainswood | 1
+bundle of paddy | 1
+bundle of sticks, wood | 1
+bungalow | 0
+burning coal | 0
+bury | 0
+business | 0
+butcher | 0
+butt | 0
+butterfly | 1
+buttocks | 0
+button | 0
+cabbage | 1
+cabin ate ware | 0
+cactus | 1
+calabash vegetables | 1
+calamity | 0
+calf | 1
+caltrops tree | 1
+camel | 1
+camera men | 0
+canal | 1
+cancer | 0
+candle | 0
+cane stick | 1
+canine tooth | 0
+cap | 0
+card game | 0
+careless man | 0
+carious tooth | 0
+carp | 1
+carpenter | 0
+carpet | 0
+carrot | 1
+carry on shoulder | 0
+cashew nut | 1
+cassava plant, tapioca | 1
+castle, wall | 0
+castor oil | 1
+cat | 0
+cat MEWS | 0
+cataract of the eye | 0
+caterpillar | 1
+caterpillar, worms | 1
+cattle | 1
+cauldron | 0
+cauliflower | 1
+cause to move by hand | 0
+caution, reason, cause | 0
+cave | 0
+caves | 0
+cement wall, boundary | 0
+centipede | 1
+ceremony | 0
+certain day | 0
+chaff | 1
+chain, necklace | 0
+chair | 0
+chalk | 0
+chalk paddy (ten) | 1
+chameleon | 1
+chamomile | 1
+channel, canal | 1
+chapel | 0
+character | 0
+charcoal | 1
+chariot | 1
+charity | 0
+chatter box | 0
+cheat | 0
+check | 0
+cheetah | 1
+chest | 0
+chicken curry | 1
+chicken pox | 0
+chief spirit | 0
+child | 0
+chill | 0
+chilli-green | 1
+chilli powder | 1
+chin | 0
+choice | 0
+cholera | 0
+chord | 0
+Christian | 0
+chronic disease | 0
+church | 0
+churn | 1
+circumcision | 0

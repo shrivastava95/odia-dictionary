@@ -1,0 +1,110 @@
+Word Meaning in English | Agri Related
+--- | ---
+male dog | 0
+domestic animal | 1
+donkey | 1
+door | 0
+dose | 0
+dot | 0
+dot's | 0
+doubt | 0
+doubtful | 0
+dove | 1
+dove,pigeon | 1
+down,floor | 0
+dowry | 0
+dragon bird | 1
+dragon fly | 1
+drain | 0
+draper | 0
+dream | 0
+dried-up kera | 1
+drink | 1
+dung of sheep | 1
+dusk | 1
+dust | 0
+dust bin, carrier, basket | 0
+duster | 0
+earth | 1
+earthworm | 1
+earthenware | 1
+ear-wax | 0
+east | 1
+easy chair | 0
+eatable items | 1
+eater | 1
+ebony tree | 1
+Dwelling | 0
+Dwelling | 0
+Dwelling in a forest | 1
+Dysentery | 0
+Economy | 0
+Eczema | 0
+Edge | 0
+Effigy | 0
+elder | 0
+elder | 0
+elder father | 0
+elder mother | 0
+elder sister | 0
+elder sister's husband | 0
+elephant | 1
+elephantiasis diseases | 0
+eleven | 0
+elopement | 0
+elopement | 0
+emblicmyrobalan the fruit and its tree | 1
+ଜୋଡୁଗୋମନ୍ଦେ | 1
+emperor | 0
+employment | 0
+empty corn frame | 1
+empty place,gap | 0
+end ,ending | 0
+endearment | 0
+endurance | 0
+enterprise | 0
+entrance | 0
+envelope cover | 0
+paper sheet | 0
+companion | 0
+admission | 0
+eternity | 0
+euphony | 0
+evil | 0
+evil work | 0
+ewe | 1
+excess | 0
+excuse | 0
+exhaustion | 0
+face | 0
+facility | 0
+failure | 0
+fainting | 0
+exhibition | 0
+exhortation | 0
+expenditure | 0
+experience | 0
+experiment | 0
+expression | 0
+fair | 0
+faith | 0
+falcon | 1
+extent | 0
+extra tooth | 0
+eye | 0
+eye disease | 0
+eye lash | 0
+eye lid | 0
+eye of a needle | 0
+eye pupil | 0
+eyeball | 0
+eyebrow | 0
+falls | 1
+fall with a thud | 1
+false | 0
+father | 0
+father-in-law | 0
+father with more children | 0
+father's brother | 0
+father's elder brother | 0
+father's father | 0

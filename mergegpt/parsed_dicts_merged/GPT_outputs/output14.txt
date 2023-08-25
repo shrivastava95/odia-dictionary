@@ -1,0 +1,127 @@
+| Word Meaning in English | Agri Related |
+|-------------------------|--------------|
+| plan | 0 |
+| plane | 0 |
+| planet | 0 |
+| plantain | 1 |
+| plants | 1 |
+| plate | 0 |
+| playmate | 0 |
+| plough | 1 |
+| plunderer | 0 |
+| pneumonia | 0 |
+| poison | 0 |
+| police | 0 |
+| pollen | 1 |
+| pond heron | 1 |
+| pool | 0 |
+| popularity | 0 |
+| population | 0 |
+| porcupine | 1 |
+| porridge | 1 |
+| porter | 0 |
+| post man | 0 |
+| post office | 0 |
+| pot-belly | 0 |
+| pot vessels | 0 |
+| potato | 1 |
+| potency | 0 |
+| potter | 0 |
+| pounding rice | 1 |
+| poverty | 0 |
+| powder | 0 |
+| power | 0 |
+| practice | 0 |
+| praise | 0 |
+| prawn | 1 |
+| prayer | 0 |
+| precede | 0 |
+| precedent | 0 |
+| previous day | 0 |
+| price | 0 |
+| prickly heat | 0 |
+| pride | 0 |
+| prince | 0 |
+| princess | 0 |
+| principal | 0 |
+| prison | 0 |
+| prisoner | 0 |
+| prisoner of war | 0 |
+| prize | 0 |
+| problems | 0 |
+| procession | 0 |
+| proclamation | 0 |
+| profession | 0 |
+| professor | 0 |
+| profit | 0 |
+| promise | 0 |
+| pronunciation | 0 |
+| property | 0 |
+| prophecy | 0 |
+| prophet | 0 |
+| propriety | 0 |
+| prosperity | 0 |
+| prostitute lady | 0 |
+| protein | 1 |
+| teeth molars | 0 |
+| connective | 0 |
+| public | 0 |
+| public | 0 |
+| grain | 1 |
+| wrist sound | 0 |
+| pulse | 1 |
+| pulses | 1 |
+| pumpkin | 1 |
+| pumpkin | 1 |
+| pumpkin creeper | 1 |
+| quail | 1 |
+| quarrel | 0 |
+| pungent | 0 |
+| punishment | 0 |
+| pupil | 0 |
+| purdah | 0 |
+| purification | 0 |
+| purified water | 0 |
+| purpose | 0 |
+| pus | 0 |
+| queen | 0 |
+| query | 0 |
+| push | 0 |
+| push down | 0 |
+| pustule, blister | 0 |
+| python | 1 |
+| questioned | 0 |
+| sit | 0 |
+| quiet | 0 |
+| rabbi | 0 |
+| त्कुर। | 0 |
+| rabbit, hare | 1 |
+| radish | 1 |
+| rafter | 0 |
+| ragi | 1 |
+| ragi porridge | 1 |
+| rain | 1 |
+| rain sound | 1 |
+| rainbow | 0 |
+| rainy, winter season | 0 |
+| ram | 1 |
+| ransom | 0 |
+| rascal | 0 |
+| rashness | 0 |
+| rat | 0 |
+| raw fruit | 0 |
+| raw rice cooked without draining the alter | 1 |
+| ray, beam | 0 |
+| razor | 0 |
+| reader | 0 |
+| reception | 0 |
+| recompense | 0 |
+| mal | 0 |
+| red | 0 |
+| red ant | 1 |
+| red gram | 1 |
+| reduction | 0 |
+| reference | 0 |
+| refuge, asylum | 0 |
+| refugee | 0 |
+| refuse | 0 |

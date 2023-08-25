@@ -1,0 +1,124 @@
+Word Meaning in English | Agri Related
+--- | ---
+citizen | 0
+city | 0
+clan, cast | 0
+class | 0
+classmate | 0
+cleanliness | 0
+clear | 0
+cleverness | 0
+climb down | 0
+close | 0
+cloth | 0
+cloth washing | 0
+cloud | 0
+cluster beans | 1
+co-operation | 0
+coal | 1
+cock bird | 1
+cock's comb | 0
+coconut | 1
+coconut oil | 1
+coconut tree | 1
+coins | 0
+coir | 1
+cold | 0
+colic pain | 0
+colleague | 0
+colony | 0
+colour | 0
+comb | 0
+come | 0
+comedian | 0
+comfort | 0
+commandment | 0
+committee | 0
+common kite | 1
+common place | 0
+communicable disease | 0
+competition | 0
+comet | 0
+company | 0
+QB | 0
+complaint | 0
+complexion | 0
+conduct | 0
+conflict | 0
+comrade | 0
+concubine | 0
+condemnation | 0
+confession | 0
+Confusion | 0
+Congratulation | 0
+Conjunctivitis | 0
+Connection | 0
+Conscience | 0
+Constipation | 0
+Construction | 1
+Consumption | 0
+Contemplation | 0
+Content | 0
+Contentment | 0
+continued fever | 0
+payal | 0
+mandan | 1
+contractor | 1
+control | 0
+cook | 1
+cooking | 1
+Asia | 0
+cooking pot | 1
+cool water | 0
+coolie | 0
+coop | 1
+co-ordination | 0
+coppersmith | 1
+copy | 0
+cord | 0
+coriander leaf | 1
+coriander seed | 1
+com | 0
+corn | 1
+corner | 0
+cornerstone | 0
+corps | 0
+corpse | 0
+cot | 0
+cotton | 1
+cotton tree | 1
+counselor | 0
+couple | 0
+courage | 0
+course | 0
+court | 0
+courtesy | 0
+courtyard | 0
+covenant | 0
+cover of vessel,cover-pot | 1
+cow dung | 1
+cow dunk cake | 1
+cow herd | 1
+cow lows | 1
+cow milk | 1
+cows | 1
+coward | 0
+cowardice | 0
+cowherd | 1
+cowshed | 1
+crab | 1
+cracks | 0
+craftiness | 0
+crane | 1
+craving | 0
+creator | 0
+credit | 0
+creditor | 0
+creeper | 1
+cremation | 1
+crest | 0
+cries out | 0
+crop | 1
+Cross | 0
+cross beam | 1
+cross road | 0

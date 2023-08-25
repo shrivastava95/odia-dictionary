@@ -1,0 +1,123 @@
+Word Meaning in English | Agri Related
+--- | ---
+submit | 0
+success | 0
+infant | 0
+death | 0
+sugar | 1
+sugarcane | 1
+suggestion | 0
+suicide | 0
+summer | 1
+vacation | 0
+sun | 1
+sunflower | 1
+sunlight | 1
+Sunday | 0
+sunrise | 1
+sunset | 1
+sunshine | 1
+tooth | 0
+supervision | 0
+surgeon | 0
+surprise | 0
+support | 0
+article | 0
+supernumerary | 0
+abashment | 0
+abdomen | 0
+abdominal | 0
+aberration | 0
+abomination | 0
+abortion | 0
+abscess | 0
+acceptance | 0
+accident | 0
+accusing | 0
+ache | 0
+achievement | 0
+acting | 0
+actor | 0
+actress | 0
+admission | 0
+adopted son | 0
+adoption | 0
+pillage | 0
+adultery | 0
+advantage | 0
+advice | 0
+Aegle marmelous tree | 1
+aeroplane | 0
+affect | 0
+affliction | 0
+after birth | 0
+suspect | 0
+sweat | 0
+sweet cane plant | 1
+sweet potato | 1
+taboo | 0
+tabor | 0
+tad pole | 1
+tail | 0
+tailor | 0
+alg | 0
+chapatti | 1
+mel | 1
+sweetness | 1
+sweet-shop | 1
+sweet smell | 1
+sweet tone | 1
+swallow | 1
+swing | 0
+swing cradle | 0
+sword,saw | 0
+symbol | 0
+sympathy | 0
+ଉଡ଼ାନାଦ୍\u200c | 0
+symptoms | 0
+synagogue | 0
+take rest | 0
+talent | 0
+tall | 0
+tamarind | 1
+tamarind tree | 1
+knot | 0
+tank | 1
+pond | 1
+tar | 0
+pitch | 0
+taste | 0
+AT | 0
+tax | 0
+tax collector | 0
+tea plant | 1
+teacher | 0
+teachers are there | 0
+teak tree | 1
+temper | 0
+temperature | 0
+temple | 0
+temporary | 0
+tempt | 0
+teeth | 0
+tension | 0
+tent | 0
+terrace | 0
+cold | 0
+testicle | 0
+tether | 0
+text | 0
+cosmic space | 0
+the patient | 0
+the place between two houses | 0
+theft | 0
+their (far)(possessive) | 0
+theirs (near)(possessive) | 0
+themselves | 0
+thermometer | 0
+they (far) | 0
+thicket plant | 1
+thickness | 0
+thief, thieves | 0
+things | 0
+threshing by foot | 1
