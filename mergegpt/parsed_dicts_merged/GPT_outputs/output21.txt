@@ -1,0 +1,131 @@
+| Word Meaning in English | Agri Related |
+|------------------------|--------------|
+| wedlock                | 0            |
+| Wednesday              | 0            |
+| weeds                  | 1            |
+| weeds, tares           | 1            |
+| week                   | 0            |
+| weigh                  | 0            |
+| welfare                | 0            |
+| well                   | 0            |
+| well twined rope       | 0            |
+| well wisher            | 0            |
+| west                   | 0            |
+| wet                    | 1            |
+| wheat                  | 1            |
+| wheezing               | 0            |
+| whirlpool              | 0            |
+| whirlwind              | 0            |
+| whisperer              | 0            |
+| white ant              | 1            |
+| white gourd            | 1            |
+| white patches          | 0            |
+| whitlow                | 0            |
+| whoever                | 0            |
+| whom                   | 0            |
+| whooping cough         | 0            |
+| whorl                  | 0            |
+| whose                  | 0            |
+| wick                   | 0            |
+| wickedness             | 0            |
+| widower                | 0            |
+| wife                   | 0            |
+| wild cat               | 1            |
+| wild fruit             | 1            |
+| wild life              | 1            |
+| wild lime              | 1            |
+| wilderness             | 1            |
+| wile                   | 0            |
+| will                   | 0            |
+| wind                   | 0            |
+| wind dropsy            | 0            |
+| window                 | 0            |
+| windpipe               | 0            |
+| wing                   | 0            |
+| winner                 | 0            |
+| winter                 | 1            |
+| wisdom                 | 0            |
+| wish                   | 0            |
+| witchcraft             | 0            |
+| withdraw, retreat     | 0            |
+| withered flower        | 1            |
+| wither-shrink(fingers) | 0            |
+| work                   | 0            |
+| witness                | 0            |
+| woe                    | 0            |
+| wolf                   | 1            |
+| woman                  | 0            |
+| women                  | 0            |
+| playing                | 0            |
+| (shout)                | 0            |
+| wonder                 | 0            |
+| wood                   | 1            |
+| wood oil               | 1            |
+| woodpecker             | 1            |
+| yam                    | 1            |
+| yard                   | 0            |
+| year                   | 0            |
+| powder                 | 0            |
+| wooden ladle           | 0            |
+| word                   | 0            |
+| work                   | 0            |
+| world                  | 0            |
+| worms                  | 1            |
+| worship                | 0            |
+| worth                  | 0            |
+| yes                    | 0            |
+| yesterday's water      | 0            |
+| yesterday             | 0            |
+| yoke                   | 1            |
+| wound                  | 0            |
+| wound burning          | 0            |
+| ମାଣ୍ଡାନାଦ୍             | 0            |
+| wound on the nose      | 0            |
+| ତେ ଉଡୁପିସାନାଦ୍         | 0            |
+| wrath                  | 0            |
+| wrath of god           | 0            |
+| ପାରାମେଶ୍ବାରିନ୍         | 0            |
+| wreath                 | 0            |
+| wrist                  | 0            |
+| writer                 | 0            |
+| wry necked             | 0            |
+| yolk                   | 1            |
+| you                    | 0            |
+| zeal                   | 0            |
+| young                  | 0            |
+| young bull calf        | 1            |
+| young man              | 0            |
+| pen                    | 0            |
+| younger brother        | 0            |
+| younger brothers       | 0            |
+| younger sister         | 0            |
+| zero                   | 0            |
+| erund                  | 0            |
+| your (pl)              | 0            |
+| your (sl)              | 0            |
+| yours (sl)             | 0            |
+| youth                  | 0            |
+| apathy                 | 0            |
+| apple                  | 1            |
+| apple fruit            | 1            |
+| apple of eyes          | 0            |
+| approbation            | 0            |
+| approval               | 0            |
+| areca nut palm         | 1            |
+| ark                    | 0            |
+| arm                    | 0            |
+| armpit                 | 0            |
+| army                   | 0            |
+| arrow stick            | 0            |
+| arrow quiver           | 0            |
+| as a result of         | 0            |
+| ash                    | 1            |
+| ashes                  | 1            |
+| ass                    | 1            |
+| association            | 0            |
+| asthma                 | 0            |
+| astringent             | 0            |
+| astronomer             | 0            |
+| astronomy              | 0            |
+| at 1am                 | 0            |
+| at 10 am               | 0            |

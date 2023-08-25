@@ -1,0 +1,114 @@
+| Word Meaning in English | Agri Related |
+|------------------------|--------------|
+| Orange                 | 0            |
+| Orange tree            | 1            |
+| organs,senses          | 0            |
+| ornaments              | 0            |
+| orphans                | 0            |
+| other                  | 0            |
+| otorrhoea              | 0            |
+| pace                   | 0            |
+| paddy                  | 1            |
+| paddy field            | 1            |
+| paddy seedling         | 1            |
+| padlock                | 0            |
+| pageant                | 0            |
+| our                    | 0            |
+| our companies          | 0            |
+| our self               | 0            |
+| our selves             | 0            |
+| our                    | 0            |
+| our village            | 0            |
+| our                    | 0            |
+| outcome                | 0            |
+| ovary                  | 1            |
+| pail                   | 0            |
+| pain                   | 0            |
+| pain on legs and hands | 0            |
+| painted (a kind of) snake | 0         |
+| pair                   | 0            |
+| oven, hearth           | 0            |
+| headache               | 0            |
+| pairs of bulls ploughs | 1            |
+| over loud, noise       | 0            |
+| owl bird               | 0            |
+| owner                  | 0            |
+| ozena                  | 0            |
+| pair of bullock        | 1            |
+| palm                   | 1            |
+| palm leaf              | 1            |
+| palm root              | 1            |
+| palm tree              | 1            |
+| palm-branch            | 1            |
+| palmyra leaf           | 1            |
+| pan                    | 0            |
+| pandal                 | 0            |
+| pant                   | 0            |
+| panties                | 0            |
+| pantry                 | 0            |
+| papaya                 | 1            |
+| papaya tree            | 1            |
+| paper                  | 0            |
+| parable                | 0            |
+| paradise               | 0            |
+| paralysis              | 0            |
+| paralytic              | 0            |
+| paralyzed man          | 0            |
+| parbal vegetables      | 1            |
+| pardon                 | 0            |
+| parents                | 0            |
+| parrot                 | 0            |
+| parson                 | 0            |
+| part by part           | 0            |
+| partiality             | 0            |
+| partition              | 0            |
+| partridge              | 0            |
+| parts of leg           | 0            |
+| passer-by              | 0            |
+| passion                | 0            |
+| pastor                 | 0            |
+| Gaia                   | 0            |
+| path,way               | 0            |
+| patriot                | 0            |
+| love                   | 0            |
+| patronize              | 0            |
+| pea                    | 1            |
+| peace                  | 0            |
+| peacock                | 1            |
+| peacock's feather      | 1            |
+| peahen                 | 1            |
+| pearl                  | 0            |
+| peel                   | 0            |
+| peel,husk              | 1            |
+| pen                    | 0            |
+| pendant                | 0            |
+| ମାନ୍ଦାନାଦ୍\u200c,ସୁକ୍\u200c କାମ୍\u200c' | 0 |
+| physician              | 0            |
+| pickaxe                | 0            |
+| pickpocket             | 0            |
+| picture                | 0            |
+| piece of bamboo        | 0            |
+| piece of flesh         | 0            |
+| piece of paper         | 0            |
+| piety                  | 0            |
+| pig grunts             | 1            |
+| piles                  | 0            |
+| pilgrim                | 0            |
+| pill                   | 0            |
+| pillar                 | 0            |
+| pillow                 | 0            |
+| pillowcase,bag         | 0            |
+| pimples                | 0            |
+| pin                    | 0            |
+| pineapple              | 1            |
+| pirate                 | 0            |
+| pit, a cavity          | 0            |
+| pitch darkness         | 0            |
+| pitcher                | 0            |
+| pity, kindness         | 0            |
+| place between the hands | 0          |
+| place for feast        | 0            |
+| place for palm stone   | 0            |
+| placenta               | 0            |
+| plaintive              | 0            |
+| plaiting of hair       | 0            |

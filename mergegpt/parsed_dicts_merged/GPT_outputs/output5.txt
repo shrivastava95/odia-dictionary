@@ -1,0 +1,104 @@
+Word Meaning in English | Agri Related
+--- | ---
+father's mother | 0
+fatigue, exhaustion | 0
+fault | 0
+favour | 0
+fear | 0
+feast | 1
+feast line | 1
+feather | 0
+feeling | 0
+feet | 0
+female | 0
+female breast | 0
+female calf | 1
+female young of a goat | 1
+females | 1
+fence | 1
+ferry man | 0
+festival | 1
+festival at the time of harvest | 1
+festival of hunters | 1
+festival of pea | 1
+festoon | 0
+fever | 0
+fibre made from Palmyra stalk | 1
+fifteen | 0
+fifty | 0
+fig tree | 1
+fight | 0
+filly | 1
+filtration, distillation | 0
+fine | 0
+fine flour | 1
+fine linen cloths | 0
+fine money for defeated cock | 1
+finger | 0
+finger nail | 0
+fire fly, glow worm | 0
+fire wood | 1
+first | 0
+fish | 1
+fish curry | 1
+fishing rod | 1
+fits, convulsions | 0
+five | 0
+five hundred | 0
+flies | 0
+flood | 1
+flour, powder | 1
+flower in red color | 1
+flower tree | 1
+flowerbed | 1
+flowing | 1
+flute | 0
+flute players | 0
+fly on goat, a kind of worm | 1
+fly (insect) | 0
+foal foot | 1
+fits | 0
+sarees | 0
+hands | 0
+Rimala | 0
+Patibhonda | 0
+fomentation | 0
+fondness | 0
+food | 1
+foot | 0
+foot print | 0
+while | 0
+fathers | 0
+force | 0
+forcefully throwing | 0
+forearm | 0
+forefathers | 0
+forehead | 0
+foreigner | 0
+forest | 1
+forest honey | 1
+forgiveness | 0
+forehead | 0
+fork | 0
+fort | 0
+fortune | 0
+foul tooth | 0
+foundation | 0
+foundation pillar | 0
+fountain well | 1
+fowl | 1
+fragrance | 0
+freedom | 0
+fresh | 0
+Friday | 0
+fried grain | 1
+friends | 0
+friendship | 0
+frog | 1
+fruit-stone | 1
+frying pan | 1
+sauce fan | 0
+fulfillment | 0
+full hand shirt | 0
+full saree | 0
+fullness | 0

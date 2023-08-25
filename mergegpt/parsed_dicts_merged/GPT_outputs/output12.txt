@@ -1,0 +1,107 @@
+| Word Meaning in English | Agri Related |
+|-------------------------|--------------|
+| mud pot                 | 1            |
+| murmuring              | 0            |
+| muscles                 | 0            |
+| meat                    | 1            |
+| mushroom                | 1            |
+| musical instruments    | 0            |
+| musk rat                | 0            |
+| white rat               | 0            |
+| mustard                 | 1            |
+| mustard oil             | 1            |
+| my, mine-singular       | 0            |
+| myna                    | 0            |
+| myself                  | 0            |
+| mystery                 | 0            |
+| nail                    | 0            |
+| nail(of hand)           | 0            |
+| name                    | 0            |
+| naming ceremony         | 0            |
+| nape                    | 0            |
+| narrow place of stem of tree(houses) | 1 |
+| narrowness winding lane,alley,nook | 0 |
+| native spade            | 1            |
+| nature                  | 1            |
+| nausea, retching        | 0            |
+| navel                   | 0            |
+| navy                    | 0            |
+| naxals                  | 0            |
+| neat                    | 0            |
+| neck                    | 0            |
+| necklace                | 0            |
+| needle                  | 0            |
+| neem tree               | 1            |
+| neighbour               | 0            |
+| nephew                  | 0            |
+| nepotism                | 0            |
+| nerve                   | 0            |
+| nervous debility        | 0            |
+| nest                    | 1            |
+| net                     | 1            |
+| new-comer               | 0            |
+| new shirt               | 0            |
+| news                    | 0            |
+| day after tomorrow      | 0            |
+| niche                   | 0            |
+| niece                   | 0            |
+| niggard                 | 0            |
+| niggardliness           | 0            |
+| night                   | 0            |
+| night flowering jasmine | 1            |
+| night pollution         | 0            |
+| nightingale             | 1            |
+| nightmare               | 0            |
+| nipple                  | 0            |
+| leaf stalk              | 1            |
+| tattume(much 69)        | 0            |
+| no cover                | 0            |
+| no motion               | 0            |
+| constipation            | 0            |
+| no one in the house     | 0            |
+| no sense                | 0            |
+| NO sour                 | 0            |
+| oar, paddle             | 1            |
+| non vegetarian          | 1            |
+| non-co-operation        | 0            |
+| noon                    | 0            |
+| nose                    | 0            |
+| nosering                | 0            |
+| nostrils                | 0            |
+| not                     | 0            |
+| not clear(water)impure  | 1            |
+| object                  | 0            |
+| obscenity               | 0            |
+| road                    | 0            |
+| note paper              | 0            |
+| known-innocent          | 0            |
+| notice                  | 0            |
+| novelty                 | 0            |
+| nursery                 | 1            |
+| observation             | 0            |
+| obstacle                | 0            |
+| obstinacy               | 0            |
+| occurrence              | 0            |
+| offence                 | 0            |
+| offer                   | 0            |
+| offering                | 0            |
+| oil                     | 1            |
+| oil used for grey-hair  | 1            |
+| oil, ghee               | 1            |
+| ointment                | 0            |
+| old age                 | 0            |
+| old friend              | 0            |
+| old man                 | 0            |
+| old woman               | 0            |
+| one another             | 0            |
+| one day                 | 0            |
+| one fourths             | 0            |
+| one place               | 0            |
+| one rupee               | 0            |
+| one side head pain      | 0            |
+| one who possessed by a spirit | 0     |
+| Onion                   | 1            |
+| Son                     | 0            |
+| Operation               | 0            |
+| Opinion                 | 0            |
+| Optimist                | 0            |

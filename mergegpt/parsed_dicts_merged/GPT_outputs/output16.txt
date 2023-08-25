@@ -1,0 +1,112 @@
+Word Meaning in English | Agri Related
+--- | ---
+scripture | 0
+scythe | 1
+sea/ocean | 0
+seal | 0
+seamstress | 0
+season | 1
+seasonal | 1
+second | 0
+secretion from the eye | 0
+seed | 1
+seedling | 1
+self control | 0
+self conceit | 0
+self respect | 0
+selfishness | 0
+selflessness | 0
+sense | 0
+sensitive | 0
+servant | 0
+servant of God | 0
+ | 0
+shadow | 0
+sharp sword | 0
+sharpening stone | 0
+shawl | 0
+she goat | 1
+she near | 1
+she,it | 1
+she( far) | 1
+shed | 0
+sheep | 1
+sheep bleats | 1
+sheep pen | 1
+shepherd | 1
+ship | 0
+shirt | 0
+shock | 0
+shoes | 0
+shop | 0
+shopkeeper | 0
+short man | 0
+short sight | 0
+shots | 0
+shoulder | 0
+shout | 0
+shrew | 0
+shriek | 0
+shrivelled | 0
+shutter | 0
+Siberian crane | 1
+sickle | 1
+side | 0
+side by side | 0
+sieve | 0
+sight | 0
+sign | 0
+signal | 0
+silhouette | 0
+silk cotton tree | 1
+silliness | 0
+silver | 0
+sin | 0
+AIGA | 0
+sincerity | 0
+sinew | 0
+singer | 0
+single grain | 1
+sinner | 0
+sinus | 0
+sister | 0
+sister in law | 0
+sister's husband | 0
+site | 0
+sitting stool | 0
+skin disease | 0
+skin problems | 0
+skin of onion | 1
+skink | 0
+skirt | 0
+sky | 0
+slate | 0
+sleeper berth | 0
+sling | 0
+slipper | 0
+slope | 0
+sloth, idleness | 0
+slugger | 0
+small brother | 0
+small corn field | 1
+small father, big father | 0
+small fish | 1
+small frog | 1
+small hill | 1
+small in size | 0
+small intestine | 0
+small mat | 0
+small mother-step mother | 0
+small mud bench | 0
+small plant | 1
+small red ants | 1
+small-sized paprika | 1
+small tomato | 1
+small wooden stool | 0
+smallpox | 0
+smartness, briskness | 0
+smoke | 0
+smoke of incense | 0
+snail | 0
+snake | 0
+snake charmer | 0

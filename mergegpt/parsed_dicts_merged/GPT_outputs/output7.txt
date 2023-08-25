@@ -1,0 +1,113 @@
+Word Meaning in English | Agri Related
+--- | ---
+hardware | 0
+harm | 0
+harmonium | 0
+harmony | 0
+hatchet | 0
+hay | 1
+hay stack | 1
+he | 0
+haste,hurry | 0
+harvest festival | 1
+harvesting | 1
+head | 0
+head man of village | 1
+head pad | 0
+headache | 0
+head-skull brain-pan | 0
+heap, heap of stones | 1
+heart | 0
+heart beat | 0
+heart disease | 0
+heart, mind | 0
+hearty laugh | 0
+heat | 1
+heat boil | 0
+heat of the sun | 1
+heaven | 0
+heaven( opened) | 0
+heavenly bodies | 0
+hedge | 1
+heel | 0
+height | 0
+hell | 0
+hen | 1
+her | 0
+her self | 0
+hero | 0
+heroism | 0
+heron | 1
+hibiscus | 1
+highway robber | 0
+hill | 1
+himself | 0
+hind | 0
+hinder | 0
+hippopotamus | 0
+his | 0
+hissing | 0
+hoard | 0
+hole | 0
+hole of tree | 1
+holidays | 0
+hollow | 0
+holster | 0
+holy basil | 1
+holy spirit | 0
+man | 0
+honesty | 0
+honey | 1
+honey bee | 1
+honour | 0
+hook | 0
+horde | 0
+horizontal | 0
+horn | 1
+horn bill | 1
+horn music | 0
+horn siren, branch | 0
+hornet | 1
+horse | 1
+horseradish tree | 1
+hospital | 0
+hospitality | 1
+host | 0
+hostile | 0
+hot water | 0
+hotness | 0
+hour | 0
+hour hand of a clock | 0
+house | 0
+house lizard | 1
+house-servant | 0
+housewife | 0
+how many non masculine | 0
+I | 0
+profit | 0
+humane | 0
+humidity | 1
+humiliation | 0
+humour | 0
+humpback | 0
+hunchback | 0
+hunger | 1
+Idiot | 0
+hunter | 1
+hurt | 0
+husband | 0
+husband's brother's wife | 0
+husband's elder brother,elder sister's husband | 0
+husband's younger brother | 0
+hut in the field | 1
+hybrid cobra, rat snake, mucosus | 1
+hymn/song | 0
+hypocrisy | 0
+hypocrite | 0
+bus | 0
+ice | 0
+idol / image | 0
+idolatry | 0
+ignorant | 0
+iguana | 1
+ill will | 0

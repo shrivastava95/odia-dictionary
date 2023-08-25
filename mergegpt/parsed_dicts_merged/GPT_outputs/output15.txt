@@ -1,0 +1,123 @@
+Word Meaning in English | Agri Related
+--- | ---
+regeneration | 0
+regret | 0
+regularity | 0
+reindeer | 1
+relationship | 0
+relative | 0
+remarriage | 0
+CAA | 0
+remedy | 0
+remission | 0
+remittance | 0
+remorse | 0
+shoes | 0
+thorns | 1
+rice | 1
+renown | 0
+nets | 1
+clitic | 0
+authority | 0
+esteem | 0
+hotel | 0
+life | 0
+mall | 0
+responsibility | 0
+restaurant | 0
+retinue | 0
+revelation, expression | 0
+revenge | 0
+reverence | 0
+revolt, mutiny | 0
+reward | 0
+rheumatism | 0
+rhinoceros | 1
+rib | 1
+rice beer | 1
+rice food | 1
+rice porridge | 1
+rich | 0
+riddle | 0
+ridge gourd | 1
+ridicule, mimicry | 0
+right | 0
+right | 0
+right hand | 0
+right leg | 0
+righteousness | 0
+rim | 0
+rind | 1
+ring | 0
+ring finger | 0
+ring guard | 0
+ring worm | 0
+rise and fall | 0
+risk | 0
+rite, ritual | 0
+river | 1
+road | 0
+robber | 0
+roll | 0
+rolling pin | 0
+romantic love | 0
+roofing with bamboo | 1
+room | 0
+room-mate | 0
+root | 1
+root vegetable,yam | 1
+rope | 1
+rope for tying plough | 1
+rope shelf | 1
+rope weave | 1
+rose | 0
+sack | 0
+sacrifice | 1
+Sadducee | 0
+rough | 0
+up and down | 0
+round | 0
+round | 0
+route | 0
+ruffian | 0
+safety | 0
+safety pin | 0
+sailing | 0
+saint | 0
+salary | 0
+saliva | 0
+salt | 1
+salted and dried fish | 1
+rumour | 0
+salty | 1
+salvation | 0
+sambar deer | 1
+sanctify | 1
+AGIA | 0
+ମାନ୍ଦାନାଦ୍\u200c | 0
+sand | 1
+saree | 0
+Satan, spirit | 0
+ତୁଙ୍ଗାନୋଣ୍ଟ | 0
+ଆଦାନାଦ୍\u200c | 0
+Saturday | 0
+sauce pan | 0
+saving | 0
+saviour | 0
+ପିସାନୋଣ୍ଟ, ଜୀଶୁ ଖ୍ରୀଷ୍ଟ | 0
+sawdust, husk | 1
+scales | 0
+scales of fish | 1
+scaly ant eater | 1
+scandalize | 0
+scar | 0
+scarf | 0
+scent | 0
+scholar | 0
+scholarship | 0
+school | 0
+scissors | 0
+scolding | 0
+scorpion | 1
+screech | 0
+scribe | 0

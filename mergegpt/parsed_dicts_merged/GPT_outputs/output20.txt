@@ -1,0 +1,117 @@
+Word Meaning in English | Agri Related
+--- | ---
+anus | 0
+anus bowel | 0
+anxiety | 0
+anyone | 0
+twelve | 0
+ulcer | 0
+ulcer, sore | 0
+cigar | 0
+umbrella | 0
+umbrella made with bamboo | 1
+twig | 1
+twins | 0
+uncle | 0
+underwear | 0
+twisted | 0
+thread | 1
+twisting | 0
+two rupee note | 0
+two-females-males | 0
+typhoid | 0
+typhoon | 0
+unemployed | 0
+uniformity | 0
+unity | 0
+universal dissolution | 0
+unlock | 0
+unmarried boy | 0
+unmarried girl | 0
+up and downs | 0
+up stairs, bungalow | 0
+vagina | 0
+valley | 1
+upstairs | 0
+urban | 0
+urinal | 0
+urine | 0
+usefulness | 0
+uvula | 0
+variety | 1
+vegetables | 1
+vehicle,cart | 1
+veil | 0
+veracity | 0
+veranda | 0
+vertebra,back | 0
+waist | 0
+very small species of plantain, tree | 1
+vessel | 1
+vessel with a narrow neck | 1
+vice | 0
+vice president of village | 0
+victory | 0
+village | 1
+village street name | 1
+village chief | 1
+violence | 0
+viper | 1
+virgin | 0
+ନାଟାଡ଼୍ | 0
+ଜୀଶୁନ୍ | 0
+ମାରିୟାମ୍ | 0
+virtue | 0
+vitality | 0
+vixen | 0
+vocal card | 0
+voice | 0
+volunteer | 0
+ମାଲ୍ | 0
+ମାଡ଼ାନୋର୍ | 0
+ପର୍ଟୋମିନ୍ଦୋଣ୍ଡ | 0
+vulture | 1
+ଆସ୍ ଦାୟାନାଦ୍ | 0
+walk with stick | 0
+Connective | 0
+ଉଶ୍ ଶୋଆଞ୍ଜୋମିନ୍ଦୋଣ୍ତ | 0
+walks | 0
+wall | 0
+Preposition | 0
+wall lamp | 0
+walnut | 0
+clothing | 0
+warrior | 0
+wart | 0
+hands | 0
+clothes | 0
+vessels | 1
+wasp | 1
+hornet | 1
+waste | 0
+clock | 0
+water | 1
+animal | 0
+falls | 1
+level | 0
+lily | 1
+flower | 1
+pot | 1
+snake | 1
+tank | 1
+teems | 0
+dry clay | 0
+water-land | 1
+waterland-bodies | 1
+watermelon | 1
+watery stools | 0
+waves | 1
+way | 0
+we (excl,near) | 0
+weakling | 0
+wealth | 0
+weapons | 0
+weaver | 1
+weaver bird | 1
+wedding gift | 0
+wedding hook | 0
